@@ -1,0 +1,109 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sertésszelet zöldségágyon",
+        "recipeIngredient": [
+            "2 nagyobb padlizsán (400 g)",
+            "só, bors",
+            "1 dl olívaolaj",
+            "4 gerezd fokhagyma",
+            "diónyi friss gyömbérgumó",
+            "1-1 szál friss oregánó/ majoránna, kakukkfű, rozmaring, menta, citromfű",
+            "2-2 nagy, piros és sárga húsú paprika",
+            "100 g erdei (apró sampinyon) gomba",
+            "20 db miniparadicsom",
+            "600 g kicsontozott sertéskaraj",
+            "4-5 szál petrezselyem"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A padlizsánt megmossuk, szárcsonkját leválasztjuk, hámozatlanul felkarikázzuk, szűrőtálba tesszük, 15-20 percre erősen besózzuk, hogy kesernyés levét kidobja."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A páchoz az olívaolajat tálba öntjük, hozzáadjuk a meghámozott, vékony szeletkékre vágott fokhagymát és gyömbért."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zöldfűszereket leöblítjük, levélkéiket lecsipkedjük, kissé felaprózzuk, majd ízlés szerinti sóval és borssal az olívaolajba forgatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségeket megtisztítjuk, a paprikákat 3-4 cm széles csíkokra, a gombaszemeket és a paradicsomokat félbe-negyedbe vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A padlizsánt leöblítjük, kinyomkodjuk belőle a vizet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hússzeleteket folpack alatt kissé kiverjük, majd a zöldségekkel együtt a pácba forgatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lefedjük, 4-6 órára (vagy többre) betesszük a hűtőbe, olykor megforgatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kiemeljük a pácból a húst és a zöldségeket, lecsepegtetjük, majd grillserpenyőben felhevített 1-2 ek. átszűrt pácolajban valamennyit pirosra sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tálra csinosítjuk, körbeöntözzük a pecsenyelével, meghintjük finomra vágott petrezselyemmel, és zöldfűszerlevelekkel díszítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Friss kenyér, héjában sült krumpli illik hozzá."
+            }
+        ],
+        "prepTime": "PT30M",
+        "cookTime": "PT30M",
+        "recipeYield": "4 személyre",
+        "image": "images/cd9c240e-8983-40b4-b958-7ac3333128ad_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "cd9c240e-8983-40b4-b958-7ac3333128ad",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sertésszelet zöldségágyon",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT30M",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "2 nagyobb padlizsán (400 g)",
+                "só, bors",
+                "1 dl olívaolaj",
+                "4 gerezd fokhagyma",
+                "diónyi friss gyömbérgumó",
+                "1-1 szál friss oregánó/ majoránna, kakukkfű, rozmaring, menta, citromfű",
+                "2-2 nagy, piros és sárga húsú paprika",
+                "100 g erdei (apró sampinyon) gomba",
+                "20 db miniparadicsom",
+                "600 g kicsontozott sertéskaraj",
+                "4-5 szál petrezselyem"
+            ],
+            "recipeDirections": [
+                "A padlizsánt megmossuk, szárcsonkját leválasztjuk, hámozatlanul felkarikázzuk, szűrőtálba tesszük, 15-20 percre erősen besózzuk, hogy kesernyés levét kidobja.",
+                "A páchoz az olívaolajat tálba öntjük, hozzáadjuk a meghámozott, vékony szeletkékre vágott fokhagymát és gyömbért.",
+                "A zöldfűszereket leöblítjük, levélkéiket lecsipkedjük, kissé felaprózzuk, majd ízlés szerinti sóval és borssal az olívaolajba forgatjuk.",
+                "A zöldségeket megtisztítjuk, a paprikákat 3-4 cm széles csíkokra, a gombaszemeket és a paradicsomokat félbe-negyedbe vágjuk.",
+                "A padlizsánt leöblítjük, kinyomkodjuk belőle a vizet.",
+                "A hússzeleteket folpack alatt kissé kiverjük, majd a zöldségekkel együtt a pácba forgatjuk.",
+                "Lefedjük, 4-6 órára (vagy többre) betesszük a hűtőbe, olykor megforgatjuk.",
+                "Kiemeljük a pácból a húst és a zöldségeket, lecsepegtetjük, majd grillserpenyőben felhevített 1-2 ek. átszűrt pácolajban valamennyit pirosra sütjük.",
+                "Tálra csinosítjuk, körbeöntözzük a pecsenyelével, meghintjük finomra vágott petrezselyemmel, és zöldfűszerlevelekkel díszítjük.",
+                "Friss kenyér, héjában sült krumpli illik hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/cd9c240e-8983-40b4-b958-7ac3333128ad_0.jpg"
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 248,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

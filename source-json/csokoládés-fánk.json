@@ -1,0 +1,125 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Csokoládés fánk",
+        "recipeIngredient": [
+            "80 g cukrozott citromhéj",
+            "80 g aszalt barack",
+            "1 dl rum",
+            "80 g étcsokoládé vagy csokoládélencse",
+            "80 g hámozott mandula",
+            "1,25 dl tej",
+            "1 ek. cukor",
+            "20 g élesztő",
+            "250 g finomliszt",
+            "3 tojássárgája",
+            "75 g lágy vaj/margarin",
+            "1 csipet só",
+            "olaj a sütéshez",
+            "vaníliás porcukor a szóráshoz"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A cukrozott citromhéjat és az aszalt barackot apróra vágjuk, tálkába szórjuk, megöntözzük a rummal, lefedjük, fél óráig áztatjuk-érleljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A csokoládét borsónyi darabokra, a mandulát durvára vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tejet meglangyosítjuk, elkeverjük a cukorral és az élesztővel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet tálba szitáljuk, közepébe mélyedést készítünk, beleöntjük az élesztős tejet, felfuttatjuk (10 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fakanállal, erőteljes mozdulatokkal hozzákeverjük a tojássárgákat, a vajat/margarin és a sót."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Konyharuhával letakarjuk, fél órát kelesztjük (egészen lágy tésztát kapunk)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beledolgozzuk a masszába (a rummal együtt) a cukrozott citromhéjat, az aszalt barackot, a csokoládét és a mandulát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kiskanálnyi adagokra szaggatva golyókat formálunk belőle, és tálcára sorakoztatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fritözben vagy nem túl nagy lábasban felforrósítunk 2-3 ujjnyi olajat, majd mérsékeljük a tüzet (160 °C az ideális), és 12-15 darabonként kisütjük benne a golyóbisokat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Papírkendőre szedve felitatjuk róluk az olajat, és azonnal megszórjuk vaníliás/fahéjas porcukorral."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Frissen, langy melegen az igazi!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az olaj hőmérséklete akkor megfelelő, ha egy csipet sót vagy nyers tésztát beledobva, illetve fakanálnyelet belemerítve apró légbuborékokat vet."
+            }
+        ],
+        "prepTime": "PT1H30M",
+        "cookTime": "PT0S",
+        "recipeYield": "kb. 50 darab",
+        "image": "images/30ddde00-82eb-425a-aa9f-f1c4a5b88434_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "30ddde00-82eb-425a-aa9f-f1c4a5b88434",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Csokoládés fánk",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "kb. 50 darab",
+            "prepTime": "PT1H30M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "80 g cukrozott citromhéj",
+                "80 g aszalt barack",
+                "1 dl rum",
+                "80 g étcsokoládé vagy csokoládélencse",
+                "80 g hámozott mandula",
+                "1,25 dl tej",
+                "1 ek. cukor",
+                "20 g élesztő",
+                "250 g finomliszt",
+                "3 tojássárgája",
+                "75 g lágy vaj/margarin",
+                "1 csipet só",
+                "olaj a sütéshez",
+                "vaníliás porcukor a szóráshoz"
+            ],
+            "recipeDirections": [
+                "A cukrozott citromhéjat és az aszalt barackot apróra vágjuk, tálkába szórjuk, megöntözzük a rummal, lefedjük, fél óráig áztatjuk-érleljük.",
+                "A csokoládét borsónyi darabokra, a mandulát durvára vágjuk.",
+                "A tejet meglangyosítjuk, elkeverjük a cukorral és az élesztővel.",
+                "A lisztet tálba szitáljuk, közepébe mélyedést készítünk, beleöntjük az élesztős tejet, felfuttatjuk (10 perc).",
+                "Fakanállal, erőteljes mozdulatokkal hozzákeverjük a tojássárgákat, a vajat/margarin és a sót.",
+                "Konyharuhával letakarjuk, fél órát kelesztjük (egészen lágy tésztát kapunk).",
+                "Beledolgozzuk a masszába (a rummal együtt) a cukrozott citromhéjat, az aszalt barackot, a csokoládét és a mandulát.",
+                "Kiskanálnyi adagokra szaggatva golyókat formálunk belőle, és tálcára sorakoztatjuk.",
+                "Fritözben vagy nem túl nagy lábasban felforrósítunk 2-3 ujjnyi olajat, majd mérsékeljük a tüzet (160 °C az ideális), és 12-15 darabonként kisütjük benne a golyóbisokat.",
+                "Papírkendőre szedve felitatjuk róluk az olajat, és azonnal megszórjuk vaníliás/fahéjas porcukorral.",
+                "Frissen, langy melegen az igazi!",
+                "Az olaj hőmérséklete akkor megfelelő, ha egy csipet sót vagy nyers tésztát beledobva, illetve fakanálnyelet belemerítve apró légbuborékokat vet."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/30ddde00-82eb-425a-aa9f-f1c4a5b88434_0.jpg"
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 235,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

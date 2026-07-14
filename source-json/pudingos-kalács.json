@@ -1,0 +1,114 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Pudingos kalács",
+        "recipeIngredient": [
+            "Tésztához",
+            "1kg liszt",
+            "6dl tej",
+            "10dkg cukor",
+            "só",
+            "4 ek étolaj",
+            "5dkg élesztő",
+            "3 tojás",
+            "margarin a tepsi kikenéséhez",
+            "Töltelékhez",
+            "25dkg cukor",
+            "3csg csokis pudingpor",
+            "3evk kakaó",
+            "9dl tej",
+            "25dkg rama"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "In 2dl lukewarm milk, with 3 teaspoons of sugar and a little flour, let the yeast rise."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Knead the rest of the flour with the oil, the remaining sugar dissolved in lukewarm milk, a pinch of salt, and the whipped egg whites."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add the risen yeast mixture, knead the dough, and knead until it is smooth and elastic."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Let it rise in a warm place until doubled in size."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Meanwhile, for the filling, mix the sugar with the pudding powder and cocoa, add the milk, and cook the pudding as usual."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Once ready, remove from heat and stir in the margarine cut into pieces."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Divide the risen dough into 6 equal balls, roll them out individually on a floured board, spread with pudding, and roll them up."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Twist the rolls together in pairs. This will make 3 loaves."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Place them in a greased baking pan (I baked them separately because they are large), far apart from each other, as they grow a lot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Brush the tops with egg yolk, bake in a preheated oven for about 40 minutes until done."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT40M",
+        "x-recipe-keeper": {
+            "recipeId": "38180937-c3bd-48a4-a975-4716db77dbd9",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Pudingos kalács",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT40M",
+            "recipeIngredients": [
+                "Tésztához",
+                "1kg liszt",
+                "6dl tej",
+                "10dkg cukor",
+                "só",
+                "4 ek étolaj",
+                "5dkg élesztő",
+                "3 tojás",
+                "margarin a tepsi kikenéséhez",
+                "Töltelékhez",
+                "25dkg cukor",
+                "3csg csokis pudingpor",
+                "3evk kakaó",
+                "9dl tej",
+                "25dkg rama"
+            ],
+            "recipeDirections": [
+                "In 2dl lukewarm milk, with 3 teaspoons of sugar and a little flour, let the yeast rise.",
+                "Knead the rest of the flour with the oil, the remaining sugar dissolved in lukewarm milk, a pinch of salt, and the whipped egg whites.",
+                "Add the risen yeast mixture, knead the dough, and knead until it is smooth and elastic.",
+                "Let it rise in a warm place until doubled in size.",
+                "Meanwhile, for the filling, mix the sugar with the pudding powder and cocoa, add the milk, and cook the pudding as usual.",
+                "Once ready, remove from heat and stir in the margarine cut into pieces.",
+                "Divide the risen dough into 6 equal balls, roll them out individually on a floured board, spread with pudding, and roll them up.",
+                "Twist the rolls together in pairs. This will make 3 loaves.",
+                "Place them in a greased baking pan (I baked them separately because they are large), far apart from each other, as they grow a lot.",
+                "Brush the tops with egg yolk, bake in a preheated oven for about 40 minutes until done."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 112,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

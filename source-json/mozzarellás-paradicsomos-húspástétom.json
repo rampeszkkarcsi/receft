@@ -1,0 +1,80 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Mozzarellás-paradicsomos húspástétom",
+        "recipeIngredient": [
+            "60 dkg marhafartő",
+            "10 dkg vöröshagyma (aprítva)",
+            "2 gerezd fokhagyma",
+            "1 marék bazsalikomlevél",
+            "2 szál kakukkfű",
+            "só, bors",
+            "1 ek. olívaolaj",
+            "20 dkg mozzarella",
+            "20 dkg paradicsom"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A húst ledaráljuk, majd hozzáadjuk az apróra vágott vöröshagymát, fokhagymát, a bazsalikom felét, a kakukkfüvet. Sózzuk, borsozzuk, jót összedolgozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy olívaolajjal kikent tűzálló tálba simítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tetejére helyezzük a karikára vágott mozzarellát, a vastag szeletekre vágott paradicsomot, megszórjuk a maradék bazsalikomlevéllel, sózzuk, borsozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "180 °C-os sütőben 20-25 percig sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pirítóssal tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT25M",
+        "recipeYield": "4 SZEMÉLYRE",
+        "image": "images/cce21748-a83d-44ff-b3d7-7a90cf1062af_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "cce21748-a83d-44ff-b3d7-7a90cf1062af",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Mozzarellás-paradicsomos húspástétom",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 SZEMÉLYRE",
+            "prepTime": "PT0S",
+            "cookTime": "PT25M",
+            "recipeIngredients": [
+                "60 dkg marhafartő",
+                "10 dkg vöröshagyma (aprítva)",
+                "2 gerezd fokhagyma",
+                "1 marék bazsalikomlevél",
+                "2 szál kakukkfű",
+                "só, bors",
+                "1 ek. olívaolaj",
+                "20 dkg mozzarella",
+                "20 dkg paradicsom"
+            ],
+            "recipeDirections": [
+                "A húst ledaráljuk, majd hozzáadjuk az apróra vágott vöröshagymát, fokhagymát, a bazsalikom felét, a kakukkfüvet. Sózzuk, borsozzuk, jót összedolgozzuk.",
+                "Egy olívaolajjal kikent tűzálló tálba simítjuk.",
+                "A tetejére helyezzük a karikára vágott mozzarellát, a vastag szeletekre vágott paradicsomot, megszórjuk a maradék bazsalikomlevéllel, sózzuk, borsozzuk.",
+                "180 °C-os sütőben 20-25 percig sütjük.",
+                "Pirítóssal tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/cce21748-a83d-44ff-b3d7-7a90cf1062af_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 53,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

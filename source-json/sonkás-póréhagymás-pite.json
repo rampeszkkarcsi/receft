@@ -1,0 +1,90 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sonkás-póréhagymás pite",
+        "recipeIngredient": [
+            "A tésztához:",
+            "25 dkg liszt + a nyújtáshoz",
+            "15 dkg vaj /margarin",
+            "egész tojás + 3 tojás",
+            "75 ml főzőtejszín + 3 dl főzőtejszín",
+            "20 dkg sonka felszeletelve",
+            "fél szál póréhagyma",
+            "só",
+            "bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tésztához a lisztet egy keverőtálba helyezzük, sózzuk, majd elmorzsoljuk a vajjal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadunk egy tojást és a 75 ml tejszínt, majd gyors mozdulatokkal összedolgozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Frissen tartó fóliába tekerjük a tésztát, és fél órára a hűtőbe helyezzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lisztezett deszkán kinyújtjuk, és kibéleljük vele a piteformát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütőbe tesszük, és 160 °C-on 15 percig elősütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a 3 dl tejszínt és a 3 tojást összekeverjük, sózzuk, borsozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az elősütött tésztára szórjuk a sonkacsíkokat és a felkarikázott póréhagymát, majd felöntjük a tojásos tejszínnel, és 170 °C-os sütőben 20-25 percig sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "recipeYield": "24 cm átmérőjű pitéhez",
+        "image": "images/72468b74-49cf-4b0c-8c6e-cf7d2dfb389c_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "72468b74-49cf-4b0c-8c6e-cf7d2dfb389c",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sonkás-póréhagymás pite",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "24 cm átmérőjű pitéhez",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "A tésztához:",
+                "25 dkg liszt + a nyújtáshoz",
+                "15 dkg vaj /margarin",
+                "egész tojás + 3 tojás",
+                "75 ml főzőtejszín + 3 dl főzőtejszín",
+                "20 dkg sonka felszeletelve",
+                "fél szál póréhagyma",
+                "só",
+                "bors"
+            ],
+            "recipeDirections": [
+                "A tésztához a lisztet egy keverőtálba helyezzük, sózzuk, majd elmorzsoljuk a vajjal.",
+                "Hozzáadunk egy tojást és a 75 ml tejszínt, majd gyors mozdulatokkal összedolgozzuk.",
+                "Frissen tartó fóliába tekerjük a tésztát, és fél órára a hűtőbe helyezzük.",
+                "Lisztezett deszkán kinyújtjuk, és kibéleljük vele a piteformát.",
+                "Sütőbe tesszük, és 160 °C-on 15 percig elősütjük.",
+                "Közben a 3 dl tejszínt és a 3 tojást összekeverjük, sózzuk, borsozzuk.",
+                "Az elősütött tésztára szórjuk a sonkacsíkokat és a felkarikázott póréhagymát, majd felöntjük a tojásos tejszínnel, és 170 °C-os sütőben 20-25 percig sütjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/72468b74-49cf-4b0c-8c6e-cf7d2dfb389c_0.jpg"
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 95,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

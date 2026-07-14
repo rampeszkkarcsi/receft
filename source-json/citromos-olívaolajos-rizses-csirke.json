@@ -1,0 +1,136 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Citromos-olívaolajos-rizses csirke",
+        "recipeIngredient": [
+            "1 kg csontozott csirkefelsőcomb",
+            "só és őrölt bors",
+            "60 ml olívaolaj",
+            "1 citrom vékony karikákra vágva",
+            "2 fej vöröshagyma vékony szeletekre vágva",
+            "4 gerezd zúzott fokhagyma",
+            "1 evőkanál őrölt kurkuma",
+            "1 evőkanál őrölt római kömény",
+            "2 evőkanál őrölt koriander",
+            "1 szárított piros csilipaprika (vagy 1 teáskanál csilipor)",
+            "1 babérlevél",
+            "500 ml húslevesalaplé",
+            "1 citrom leve",
+            "1 konzerv (400 g) csicseriborsó",
+            "1 üveg (400 g) olívabogyó",
+            "200 g jázminrizs",
+            "2 csokor friss petrezselyemzöld"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A combok mindkét oldalát sózzuk, borsozzuk, majd az olaj egy részén oldalanként 4-4 perc alatt megpirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kisebb adagokkal dolgozzunk, hogy a serpenyőben a combok ne fedjék egymást."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezután a húsokat a serpenyőből kiemeljük, és félretesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lángot kicsire vesszük, és a citromszeleteket a visszamaradt zsiradékban pirítani kezdjük, 4-5 perc alatt szép aranybarnára sülnek."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy kevés tengeri sóval és borssal megszórjuk, majd a karamellizált citromszeleteket egy tányérra félretesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A vöröshagymát és a fokhagymát ugyanebben a serpenyőben kevés olajon megpirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kurkumát, a római köményt, a koriandert, az apróra vágott csilit vagy a csiliport és a babérlevelet is beleszórjuk, és illatosra pirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az alaplét és fél citrom levét bő 1 perc után adjuk hozzá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fedő alatt, alacsony lángon nagyjából fél óráig hagyjuk főni, az elősütött combokat félidőben beletesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A fél óra letelte után a megmaradt fél citrom levét, a félretett citromszeleteket, a csicseriborsót és az olívabogyót is a csirke mellé tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közepes lángon, fedő nélkül főzzük tovább, amíg pörkölthöz hasonló, de inkább szaftos csirkét kapunk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sóval, borssal ízesítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Petrezselymes jázmin rizzsel körítve, citromlével megcsepegtetve tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/65a2fb98-7980-4ecc-9398-960ebec22af6_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "65a2fb98-7980-4ecc-9398-960ebec22af6",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Citromos-olívaolajos-rizses csirke",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1 kg csontozott csirkefelsőcomb",
+                "só és őrölt bors",
+                "60 ml olívaolaj",
+                "1 citrom vékony karikákra vágva",
+                "2 fej vöröshagyma vékony szeletekre vágva",
+                "4 gerezd zúzott fokhagyma",
+                "1 evőkanál őrölt kurkuma",
+                "1 evőkanál őrölt római kömény",
+                "2 evőkanál őrölt koriander",
+                "1 szárított piros csilipaprika (vagy 1 teáskanál csilipor)",
+                "1 babérlevél",
+                "500 ml húslevesalaplé",
+                "1 citrom leve",
+                "1 konzerv (400 g) csicseriborsó",
+                "1 üveg (400 g) olívabogyó",
+                "200 g jázminrizs",
+                "2 csokor friss petrezselyemzöld"
+            ],
+            "recipeDirections": [
+                "A combok mindkét oldalát sózzuk, borsozzuk, majd az olaj egy részén oldalanként 4-4 perc alatt megpirítjuk.",
+                "Kisebb adagokkal dolgozzunk, hogy a serpenyőben a combok ne fedjék egymást.",
+                "Ezután a húsokat a serpenyőből kiemeljük, és félretesszük.",
+                "A lángot kicsire vesszük, és a citromszeleteket a visszamaradt zsiradékban pirítani kezdjük, 4-5 perc alatt szép aranybarnára sülnek.",
+                "Egy kevés tengeri sóval és borssal megszórjuk, majd a karamellizált citromszeleteket egy tányérra félretesszük.",
+                "A vöröshagymát és a fokhagymát ugyanebben a serpenyőben kevés olajon megpirítjuk.",
+                "A kurkumát, a római köményt, a koriandert, az apróra vágott csilit vagy a csiliport és a babérlevelet is beleszórjuk, és illatosra pirítjuk.",
+                "Az alaplét és fél citrom levét bő 1 perc után adjuk hozzá.",
+                "Fedő alatt, alacsony lángon nagyjából fél óráig hagyjuk főni, az elősütött combokat félidőben beletesszük.",
+                "A fél óra letelte után a megmaradt fél citrom levét, a félretett citromszeleteket, a csicseriborsót és az olívabogyót is a csirke mellé tesszük.",
+                "Közepes lángon, fedő nélkül főzzük tovább, amíg pörkölthöz hasonló, de inkább szaftos csirkét kapunk.",
+                "Sóval, borssal ízesítjük.",
+                "Petrezselymes jázmin rizzsel körítve, citromlével megcsepegtetve tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/65a2fb98-7980-4ecc-9398-960ebec22af6_0.jpg"
+        },
+        "x-source-file": "6e03e7be-5be6-419b-9334-749488909078.zip",
+        "x-db-id": 125,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

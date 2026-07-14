@@ -1,0 +1,98 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Cookie",
+        "recipeIngredient": [
+            "20 dkg vaj",
+            "30 dkg cukor (a fele lehet barna is)",
+            "45 dkg liszt",
+            "2 ek kakaópor (ez a recepten áthúzva, mellé : fele liszt teljes kiőrlésű)",
+            "1 tk szódabikarbóna",
+            "1/2 tk só",
+            "1 csomag vaníliás cukor",
+            "2 tojás",
+            "1/2 tk fahéj",
+            "kevés tej (ha szükséges)",
+            "étcsokoládé"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A vajat mikróban felolvasztjuk és összekeverjük a tojásokkal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Külön összekeverjük a lisztet, cukrot, sütőport, szódabikarbónát, sót, vaníliás cukrot és fahéjat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A két keveréket összeöntjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Belekeverjük az apróra tört étcsokoládét."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kézzel gyúrható tésztát készítünk. Ha túl sűrű, kevés tejjel lazítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "3–4 cm átmérőjű golyókat formázunk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "200 °C-ra előmelegített sütőben 7-8 perc alatt megsütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kihűlve finom, ropogós cookie lesz."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT8M",
+        "image": "images/e4d86fc7-b6fa-46d4-ac03-a2f424b8c5dc_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "e4d86fc7-b6fa-46d4-ac03-a2f424b8c5dc",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Cookie",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT8M",
+            "recipeIngredients": [
+                "20 dkg vaj",
+                "30 dkg cukor (a fele lehet barna is)",
+                "45 dkg liszt",
+                "2 ek kakaópor (ez a recepten áthúzva, mellé : fele liszt teljes kiőrlésű)",
+                "1 tk szódabikarbóna",
+                "1/2 tk só",
+                "1 csomag vaníliás cukor",
+                "2 tojás",
+                "1/2 tk fahéj",
+                "kevés tej (ha szükséges)",
+                "étcsokoládé"
+            ],
+            "recipeDirections": [
+                "A vajat mikróban felolvasztjuk és összekeverjük a tojásokkal.",
+                "Külön összekeverjük a lisztet, cukrot, sütőport, szódabikarbónát, sót, vaníliás cukrot és fahéjat.",
+                "A két keveréket összeöntjük.",
+                "Belekeverjük az apróra tört étcsokoládét.",
+                "Kézzel gyúrható tésztát készítünk. Ha túl sűrű, kevés tejjel lazítjuk.",
+                "3–4 cm átmérőjű golyókat formázunk.",
+                "200 °C-ra előmelegített sütőben 7-8 perc alatt megsütjük.",
+                "Kihűlve finom, ropogós cookie lesz."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/e4d86fc7-b6fa-46d4-ac03-a2f424b8c5dc_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 8,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

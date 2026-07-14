@@ -1,0 +1,86 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gombás húsgolyók bormártásban",
+        "recipeIngredient": [
+            "1 kis fej hagyma",
+            "100 g póréhagyma",
+            "100 g sárgarépa",
+            "400 g sampinyon gomba",
+            "1 csokor petrezselyem",
+            "2-3 gerezd fokhagyma",
+            "600 g darált hús (pulyka/marha)",
+            "1/2 kk. provence-i fűszerkeverék",
+            "1 tojás",
+            "só, bors",
+            "csilipor",
+            "1 ek. vaj/margarin",
+            "2 ek. olaj",
+            "1 púpozott ek. rizsliszt (20 g)",
+            "2,5 dl száraz fehérbor",
+            "1 zöldségleveskocka",
+            "1 dl tejszín"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségeket megtisztítjuk, a hagymát apró kockákra, a pórét és a sárgarépát karikákra, a gombát vékony szeletekre, a petrezselymet finomra vágjuk. A darált húshoz adjuk az áttört fokhagymát, a petrezselyem felét, a hagymát, a fűszerkeveréket, a tojást, ízlés szerint sót, borsot, csiliport, és jól összedolgozzuk: Púpozott kávéskanálnyi adagokra osztva kisebb golyókat formálunk belőle."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Nagyobb serpenyőben felforrósítjuk a vajat/margarint és az olajat, beletesszük a húsgolyókat, kanálháttal kissé el is lapítjuk. Előbb élénk, majd mérsékelt tűzön mindkét oldalukat aranybarnára sütjük, aztán lapostányérra emeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zsiradékba dobjuk a gombát, a póréhagymát és a sárgarépát, 4-5 percig pirítjuk. Egyenletesen meghintjük a rizsliszttel, felöntjük 3 dl vízzel és a borral, majd beletördeljük a leveskockát, és fedő alatt 5-6 percig főzzük. Ezután hozzáadjuk a tejszínt, beleágyazzuk a húsgolyókat, és fedő nélkül összeforraljuk (2-3 perc). Tálalás előtt mélyebb tálba szedjük, és sós vízben főtt, a maradék petrezselyemmel meghintett burgonyával kínáljuk."
+            }
+        ],
+        "prepTime": "PT45M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/9d428ac0-bc9d-4cd0-b434-a29842c04435_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "9d428ac0-bc9d-4cd0-b434-a29842c04435",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gombás húsgolyók bormártásban",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT45M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1 kis fej hagyma",
+                "100 g póréhagyma",
+                "100 g sárgarépa",
+                "400 g sampinyon gomba",
+                "1 csokor petrezselyem",
+                "2-3 gerezd fokhagyma",
+                "600 g darált hús (pulyka/marha)",
+                "1/2 kk. provence-i fűszerkeverék",
+                "1 tojás",
+                "só, bors",
+                "csilipor",
+                "1 ek. vaj/margarin",
+                "2 ek. olaj",
+                "1 púpozott ek. rizsliszt (20 g)",
+                "2,5 dl száraz fehérbor",
+                "1 zöldségleveskocka",
+                "1 dl tejszín"
+            ],
+            "recipeDirections": [
+                "A zöldségeket megtisztítjuk, a hagymát apró kockákra, a pórét és a sárgarépát karikákra, a gombát vékony szeletekre, a petrezselymet finomra vágjuk. A darált húshoz adjuk az áttört fokhagymát, a petrezselyem felét, a hagymát, a fűszerkeveréket, a tojást, ízlés szerint sót, borsot, csiliport, és jól összedolgozzuk: Púpozott kávéskanálnyi adagokra osztva kisebb golyókat formálunk belőle.",
+                "Nagyobb serpenyőben felforrósítjuk a vajat/margarint és az olajat, beletesszük a húsgolyókat, kanálháttal kissé el is lapítjuk. Előbb élénk, majd mérsékelt tűzön mindkét oldalukat aranybarnára sütjük, aztán lapostányérra emeljük.",
+                "A zsiradékba dobjuk a gombát, a póréhagymát és a sárgarépát, 4-5 percig pirítjuk. Egyenletesen meghintjük a rizsliszttel, felöntjük 3 dl vízzel és a borral, majd beletördeljük a leveskockát, és fedő alatt 5-6 percig főzzük. Ezután hozzáadjuk a tejszínt, beleágyazzuk a húsgolyókat, és fedő nélkül összeforraljuk (2-3 perc). Tálalás előtt mélyebb tálba szedjük, és sós vízben főtt, a maradék petrezselyemmel meghintett burgonyával kínáljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/9d428ac0-bc9d-4cd0-b434-a29842c04435_0.jpg"
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 241,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gyömbéres csirke citrommal leöntve",
+        "recipeIngredient": [
+            "4 csirkecomb",
+            "3 szál újhagyma",
+            "2 citrom",
+            "1 gerezd fokhagyma",
+            "1 kis darab friss gyömbér",
+            "olívaolaj",
+            "só"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Az újhagymát és a gyömbért aprítsd fel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kevés olívaolajat, a citromok levét és az egyik héját, valamint az áttört fokhagymát keverd össze."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ízlésed szerint sózd meg, majd tedd bele a csirkecombokat egy órára."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy tepsibe önts némi olívaolajat, és fektesd bele a csirkecombokat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Locsold rá a pácot, majd fedd le a tetejét fóliával."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Előmelegített sütőben párold addig, amíg a hús teljesen átsül, majd vedd le a fóliát, és néhány percig hagyd pirulni."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "2806dedb-a08a-4ae6-9e13-46f908d4e1e5",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gyömbéres csirke citrommal leöntve",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "4 csirkecomb",
+                "3 szál újhagyma",
+                "2 citrom",
+                "1 gerezd fokhagyma",
+                "1 kis darab friss gyömbér",
+                "olívaolaj",
+                "só"
+            ],
+            "recipeDirections": [
+                "Az újhagymát és a gyömbért aprítsd fel.",
+                "Kevés olívaolajat, a citromok levét és az egyik héját, valamint az áttört fokhagymát keverd össze.",
+                "Ízlésed szerint sózd meg, majd tedd bele a csirkecombokat egy órára.",
+                "Egy tepsibe önts némi olívaolajat, és fektesd bele a csirkecombokat.",
+                "Locsold rá a pácot, majd fedd le a tetejét fóliával.",
+                "Előmelegített sütőben párold addig, amíg a hús teljesen átsül, majd vedd le a fóliát, és néhány percig hagyd pirulni."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 87,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

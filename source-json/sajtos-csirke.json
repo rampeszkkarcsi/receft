@@ -1,0 +1,101 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sajtos csirke",
+        "recipeIngredient": [
+            "4 csirkecomb",
+            "1 nagy fej vöröshagyma",
+            "3 gerezd fokhagyma",
+            "2 dl tejföl",
+            "2 ek. olaj",
+            "1 púpozott ek. liszt",
+            "1 púpozott tk. pirospaprika",
+            "1 mokkáskanál őrölt bors",
+            "só",
+            "reszelt sajt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A csirkecombokat megsózom, a fokhagymát pépesre, a vöröshagymát karikákra vágom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tejfölbe belekeverem az olajat,"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "a combokat egy tálba teszem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet elkeverem a pirospaprikával, sóval, és borssal, majd rászórom a húsra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Rászórom a hagymát és sajtot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az olajos fokhagymás tejfölt öntöm a tetejébe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lefedve hideg sütőben kezdem sütni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A végén leveszem a fedőt és erősebb lángon megpirítom a tetejét."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "2 óráig sütöm (mikróban 20 perc, teljesítménytől függően)."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT2H",
+        "image": "images/eb98ac35-231b-4e8e-aab3-2c38aeae04c8_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "eb98ac35-231b-4e8e-aab3-2c38aeae04c8",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sajtos csirke",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT2H",
+            "recipeIngredients": [
+                "4 csirkecomb",
+                "1 nagy fej vöröshagyma",
+                "3 gerezd fokhagyma",
+                "2 dl tejföl",
+                "2 ek. olaj",
+                "1 púpozott ek. liszt",
+                "1 púpozott tk. pirospaprika",
+                "1 mokkáskanál őrölt bors",
+                "só",
+                "reszelt sajt"
+            ],
+            "recipeDirections": [
+                "A csirkecombokat megsózom, a fokhagymát pépesre, a vöröshagymát karikákra vágom.",
+                "A tejfölbe belekeverem az olajat,",
+                "a combokat egy tálba teszem.",
+                "A lisztet elkeverem a pirospaprikával, sóval, és borssal, majd rászórom a húsra.",
+                "Rászórom a hagymát és sajtot.",
+                "Az olajos fokhagymás tejfölt öntöm a tetejébe.",
+                "Lefedve hideg sütőben kezdem sütni.",
+                "A végén leveszem a fedőt és erősebb lángon megpirítom a tetejét.",
+                "2 óráig sütöm (mikróban 20 perc, teljesítménytől függően)."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/eb98ac35-231b-4e8e-aab3-2c38aeae04c8_0.jpg"
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 33,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

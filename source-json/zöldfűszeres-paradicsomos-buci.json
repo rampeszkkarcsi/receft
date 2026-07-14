@@ -1,0 +1,129 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Zöldfűszeres-paradicsomos buci",
+        "recipeIngredient": [
+            "60 dkg finomliszt",
+            "2 tk. só",
+            "3 ek. olaj",
+            "1 tk. cukor",
+            "dkg friss élesztő",
+            "1 dl tej",
+            "2 dl víz",
+            "A töltelékhez",
+            "2 dl sűrű tejföl",
+            "1 csokor zöldfűszer (snidling, bazsalikom vagy medvehagyma)",
+            "50 dkg paradicsom"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A langyos tejben elkeverjük a cukrot, bele morzsoljuk az élesztőt, és pár percig pihenni hagyjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy tálba szitáljuk a lisztet, elkeverjük a sóval, majd a közepébe mélyedést készítünk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ide öntjük az olajat, a vizet és a közben felfutott élesztőt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát kb. 10-15 perc alatt hólyagosra dagasztjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Letakarjuk, kb. 30 percig kelesztjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Enyhén lisztezett felületre borítjuk, és 10 egyforma darabba vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A darabokat egyesével meggömbölyítjük, és letakarva további 15 percig pihentetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megkelt cipókat hosszúkásra sodorjuk, a végüket elvékonyítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütőpapírral fedett tepsire fektetjük, és letakarva kb. 30 percig pihentetjük őket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A töltelékhez a tejfölt elkeverjük az aprított zöldfűszerekkel, a megmosott, kicsumázott paradicsomot felszeleteljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt előmelegítjük 200 °C-ra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A közben megkelt bucikat középen egy éles késsel vagy pengével behasítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A nyílásban eloszlatunk egy-egy evőkanál zöldfűszeres tejfölt, a tetejét pedig kirakjuk a paradicsomszeletekkel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A forró sütőbe toljuk, és kb. 20 perc alatt ropogósra sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "recipeYield": "10 darab",
+        "image": "images/cbc341cc-0ade-489f-bd8e-96ef8b07c34b_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "cbc341cc-0ade-489f-bd8e-96ef8b07c34b",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Zöldfűszeres-paradicsomos buci",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "10 darab",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "60 dkg finomliszt",
+                "2 tk. só",
+                "3 ek. olaj",
+                "1 tk. cukor",
+                "dkg friss élesztő",
+                "1 dl tej",
+                "2 dl víz",
+                "A töltelékhez",
+                "2 dl sűrű tejföl",
+                "1 csokor zöldfűszer (snidling, bazsalikom vagy medvehagyma)",
+                "50 dkg paradicsom"
+            ],
+            "recipeDirections": [
+                "A langyos tejben elkeverjük a cukrot, bele morzsoljuk az élesztőt, és pár percig pihenni hagyjuk.",
+                "Egy tálba szitáljuk a lisztet, elkeverjük a sóval, majd a közepébe mélyedést készítünk.",
+                "Ide öntjük az olajat, a vizet és a közben felfutott élesztőt.",
+                "A tésztát kb. 10-15 perc alatt hólyagosra dagasztjuk.",
+                "Letakarjuk, kb. 30 percig kelesztjük.",
+                "Enyhén lisztezett felületre borítjuk, és 10 egyforma darabba vágjuk.",
+                "A darabokat egyesével meggömbölyítjük, és letakarva további 15 percig pihentetjük.",
+                "A megkelt cipókat hosszúkásra sodorjuk, a végüket elvékonyítjuk.",
+                "Sütőpapírral fedett tepsire fektetjük, és letakarva kb. 30 percig pihentetjük őket.",
+                "A töltelékhez a tejfölt elkeverjük az aprított zöldfűszerekkel, a megmosott, kicsumázott paradicsomot felszeleteljük.",
+                "A sütőt előmelegítjük 200 °C-ra.",
+                "A közben megkelt bucikat középen egy éles késsel vagy pengével behasítjuk.",
+                "A nyílásban eloszlatunk egy-egy evőkanál zöldfűszeres tejfölt, a tetejét pedig kirakjuk a paradicsomszeletekkel.",
+                "A forró sütőbe toljuk, és kb. 20 perc alatt ropogósra sütjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/cbc341cc-0ade-489f-bd8e-96ef8b07c34b_0.jpg"
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 120,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

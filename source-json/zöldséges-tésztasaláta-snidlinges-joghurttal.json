@@ -1,0 +1,91 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Zöldséges tésztasaláta snidlinges joghurttal",
+        "recipeIngredient": [
+            "50 dkg tészta",
+            "3 dl folyósabb natúr joghurt",
+            "10 dkg sűrű natúr joghurt (török vagy görög)",
+            "10 dkg magozott olívabogyó",
+            "2 db paradicsom",
+            "10 dkg kígyóuborka",
+            "1 db zöld kaliforniai paprika",
+            "olívaolaj",
+            "só",
+            "bors",
+            "csokor petrezselyem",
+            "1 fej jégsaláta"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A kétféle joghurtot összekeverjük, hozzáadjuk a zúzott fokhagymát, a finomra vágott petrezselymet, sót, borsot és 3 evőkanál olívaolajat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az olívabogyókat felkarikázzuk és belekeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A paradicsomot vékony cikkekre, a paprikát és az uborkát vékony csíkokra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát sós vízben megfőzzük, majd leszűrjük és kihűtjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Összeforgatjuk a joghurtos öntettel, majd belekeverjük a zöldségeket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A jégsaláta leveleit leszedjük, és 2 levelet egymásba téve használjuk,,edényként\", majd így becsomagoljuk, és hűtőbe tesszük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 PERSON",
+        "image": "images/c0b6ac46-c877-4048-8e95-bfa367ead72e_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "c0b6ac46-c877-4048-8e95-bfa367ead72e",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Zöldséges tésztasaláta snidlinges joghurttal",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "50 dkg tészta",
+                "3 dl folyósabb natúr joghurt",
+                "10 dkg sűrű natúr joghurt (török vagy görög)",
+                "10 dkg magozott olívabogyó",
+                "2 db paradicsom",
+                "10 dkg kígyóuborka",
+                "1 db zöld kaliforniai paprika",
+                "olívaolaj",
+                "só",
+                "bors",
+                "csokor petrezselyem",
+                "1 fej jégsaláta"
+            ],
+            "recipeDirections": [
+                "A kétféle joghurtot összekeverjük, hozzáadjuk a zúzott fokhagymát, a finomra vágott petrezselymet, sót, borsot és 3 evőkanál olívaolajat.",
+                "Az olívabogyókat felkarikázzuk és belekeverjük.",
+                "A paradicsomot vékony cikkekre, a paprikát és az uborkát vékony csíkokra vágjuk.",
+                "A tésztát sós vízben megfőzzük, majd leszűrjük és kihűtjük.",
+                "Összeforgatjuk a joghurtos öntettel, majd belekeverjük a zöldségeket.",
+                "A jégsaláta leveleit leszedjük, és 2 levelet egymásba téve használjuk,,edényként\", majd így becsomagoljuk, és hűtőbe tesszük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/c0b6ac46-c877-4048-8e95-bfa367ead72e_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 60,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

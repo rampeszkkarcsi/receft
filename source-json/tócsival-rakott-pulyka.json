@@ -1,0 +1,86 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Tócsival rakott pulyka",
+        "recipeIngredient": [
+            "8 db közepes burgonya",
+            "egy pohár tejföl",
+            "2 tojás",
+            "liszt",
+            "vegeta",
+            "kevés só",
+            "bors",
+            "10 dkg sajt",
+            "pulykamell",
+            "vaj",
+            "morzsa"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Készítettem egy tócsi masszát 8 db közepes burgonyából, egy pohár tejföllel, 2 tojással, liszttel, vegetával, kevés sóval és borssal. Valamint reszeltem bele 10 dkg sajtot is."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A pulykamellet vékony szeletekre vágtam, klopfoltam, sóztam."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy jénait kivajaztam, morzsáztam."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az aljára tettem egy réteg krumpli masszát, egy sor húst és így tovább egészen addig amíg el nem fogyott."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tetejére is krumplimassza került."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "180 fokon 90 percig sütöttem lefóliázva, miután levettem a fóliát megszórtam a tetejét még sajttal és azt még rápirítottam."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT1H30M",
+        "x-recipe-keeper": {
+            "recipeId": "8c636fed-e5b8-45ba-b5b7-64babefd1fec",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Tócsival rakott pulyka",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT1H30M",
+            "recipeIngredients": [
+                "8 db közepes burgonya",
+                "egy pohár tejföl",
+                "2 tojás",
+                "liszt",
+                "vegeta",
+                "kevés só",
+                "bors",
+                "10 dkg sajt",
+                "pulykamell",
+                "vaj",
+                "morzsa"
+            ],
+            "recipeDirections": [
+                "Készítettem egy tócsi masszát 8 db közepes burgonyából, egy pohár tejföllel, 2 tojással, liszttel, vegetával, kevés sóval és borssal. Valamint reszeltem bele 10 dkg sajtot is.",
+                "A pulykamellet vékony szeletekre vágtam, klopfoltam, sóztam.",
+                "Egy jénait kivajaztam, morzsáztam.",
+                "Az aljára tettem egy réteg krumpli masszát, egy sor húst és így tovább egészen addig amíg el nem fogyott.",
+                "A tetejére is krumplimassza került.",
+                "180 fokon 90 percig sütöttem lefóliázva, miután levettem a fóliát megszórtam a tetejét még sajttal és azt még rápirítottam."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 97,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

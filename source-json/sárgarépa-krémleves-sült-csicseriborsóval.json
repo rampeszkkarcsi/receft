@@ -1,0 +1,96 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "SÁRGARÉPA-KRÉMLEVES SÜLT CSICSERIBORSÓVAL",
+        "recipeIngredient": [
+            "40+ 20 dkg főtt csicseriborsó (konzerv)",
+            "olaj",
+            "1 teáskanál Cayenne-bors",
+            "2 teáskanál őrölt római kömény",
+            "1-1,5 liter leszűrt hús- vagy zöldségleves",
+            "1 kg sárgarépa",
+            "só"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A csicseriborsót lecsepegtetjük, 40 dkg-ot megsózunk, meglocsoljuk olajjal, megszórjuk Cayenne-borssal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütőpapírral bélelt tepsire szórjuk, és 220 °C-ra előmelegített sütőben 10 perc alatt megsütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kiveszzük, és hagyjuk visszahűlni a sütőt 180 °C-ra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A répát meghámozzuk, sütőpapírral kibélelt tepsire tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Meglocsoljuk olajjal, megszórjuk sóval és a római köménnyel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Alufóliával lefedjük, 30-40 percig sütjük, amíg teljesen meg nem puhul."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ekkor felforraljuk a levest, majd összeturmixoljuk a megpuhult répával és a 20 dkg csicseriborsóval."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha túl sűrű lenne a lé, kevés levessel hígítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sült csicseriborsóval tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/240b97af-22b4-47d7-ab37-1e6163005266_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "240b97af-22b4-47d7-ab37-1e6163005266",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "SÁRGARÉPA-KRÉMLEVES SÜLT CSICSERIBORSÓVAL",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "40+ 20 dkg főtt csicseriborsó (konzerv)",
+                "olaj",
+                "1 teáskanál Cayenne-bors",
+                "2 teáskanál őrölt római kömény",
+                "1-1,5 liter leszűrt hús- vagy zöldségleves",
+                "1 kg sárgarépa",
+                "só"
+            ],
+            "recipeDirections": [
+                "A csicseriborsót lecsepegtetjük, 40 dkg-ot megsózunk, meglocsoljuk olajjal, megszórjuk Cayenne-borssal.",
+                "Sütőpapírral bélelt tepsire szórjuk, és 220 °C-ra előmelegített sütőben 10 perc alatt megsütjük.",
+                "Kiveszzük, és hagyjuk visszahűlni a sütőt 180 °C-ra.",
+                "A répát meghámozzuk, sütőpapírral kibélelt tepsire tesszük.",
+                "Meglocsoljuk olajjal, megszórjuk sóval és a római köménnyel.",
+                "Alufóliával lefedjük, 30-40 percig sütjük, amíg teljesen meg nem puhul.",
+                "Ekkor felforraljuk a levest, majd összeturmixoljuk a megpuhult répával és a 20 dkg csicseriborsóval.",
+                "Ha túl sűrű lenne a lé, kevés levessel hígítjuk.",
+                "A sült csicseriborsóval tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/240b97af-22b4-47d7-ab37-1e6163005266_0.jpg"
+        },
+        "x-source-file": "6e03e7be-5be6-419b-9334-749488909078.zip",
+        "x-db-id": 134,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

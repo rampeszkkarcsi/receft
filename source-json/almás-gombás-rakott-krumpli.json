@@ -1,0 +1,78 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Almás-gombás rakott krumpli",
+        "recipeIngredient": [
+            "1 kg burgonya",
+            "150 g paradicsom",
+            "2 nagy savanykás alma",
+            "2+1 közepes fej hagyma",
+            "150 g sampinyon gomba",
+            "2 ek. citromlé",
+            "2+1 ek.+diónyi vaj/margarin",
+            "50 g finomliszt",
+            "3 dl húsleves",
+            "2 dl tejföl",
+            "só, bors",
+            "50 g trappista/edami sajt",
+            "1 csokor petrezselyem"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A burgonyát héjában megfőzzük, leszűrjük, meghámozzuk, hagyjuk kihűlni, majd felkarikázzuk. A zöldségeket megtisztítjuk, a paradicsomot és az almát meghámozzuk. Két hagymát megreszelünk, a harmadikat felkockázzuk. A paradicsomot és a gombát felszeleteljük. Az almák magházát kiemeljük, gerezdekre szeljük, citromlébe forgatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megpirítjuk 2 ek. vajban/margarinban a lisztet és a reszelt hagymát, hozzáadjuk a húslevest és a tejfölt, összeforraljuk, hagyjuk langyosra hűlni. Ízlés szerint sózzuk, borsozzuk, beleresszeljük a sajtot. A felkockázott hagymát 1 ek. vajban/margarinban megfonnyasztjuk, rádobjuk a gombát, sózzuk, borsozzuk, 4-5 percig pirítjuk, végül hozzákeverjük a finomra vágott petrezselymet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Diónyi vajjal/margarinnal kikenünk egy tűzálló tálat. Aljára terítjük a burgonya felét és az almát, elrendezzük rajta a gombát és a paradicsomot, megsózzuk, majd kirakjuk a tetejét az egymásra csúsztatott, maradék burgonyakarikákkal. Bevonjuk a mártással, végül 200 °C-os sütőben aranysárgára sütjük (40-45 perc)."
+            }
+        ],
+        "prepTime": "PT1H30M",
+        "cookTime": "PT45M",
+        "recipeYield": "4 PERSON",
+        "image": "images/ea2ae929-abc7-44f7-b4f3-7728b7aea64d_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "ea2ae929-abc7-44f7-b4f3-7728b7aea64d",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Almás-gombás rakott krumpli",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT1H30M",
+            "cookTime": "PT45M",
+            "recipeIngredients": [
+                "1 kg burgonya",
+                "150 g paradicsom",
+                "2 nagy savanykás alma",
+                "2+1 közepes fej hagyma",
+                "150 g sampinyon gomba",
+                "2 ek. citromlé",
+                "2+1 ek.+diónyi vaj/margarin",
+                "50 g finomliszt",
+                "3 dl húsleves",
+                "2 dl tejföl",
+                "só, bors",
+                "50 g trappista/edami sajt",
+                "1 csokor petrezselyem"
+            ],
+            "recipeDirections": [
+                "A burgonyát héjában megfőzzük, leszűrjük, meghámozzuk, hagyjuk kihűlni, majd felkarikázzuk. A zöldségeket megtisztítjuk, a paradicsomot és az almát meghámozzuk. Két hagymát megreszelünk, a harmadikat felkockázzuk. A paradicsomot és a gombát felszeleteljük. Az almák magházát kiemeljük, gerezdekre szeljük, citromlébe forgatjuk.",
+                "Megpirítjuk 2 ek. vajban/margarinban a lisztet és a reszelt hagymát, hozzáadjuk a húslevest és a tejfölt, összeforraljuk, hagyjuk langyosra hűlni. Ízlés szerint sózzuk, borsozzuk, beleresszeljük a sajtot. A felkockázott hagymát 1 ek. vajban/margarinban megfonnyasztjuk, rádobjuk a gombát, sózzuk, borsozzuk, 4-5 percig pirítjuk, végül hozzákeverjük a finomra vágott petrezselymet.",
+                "Diónyi vajjal/margarinnal kikenünk egy tűzálló tálat. Aljára terítjük a burgonya felét és az almát, elrendezzük rajta a gombát és a paradicsomot, megsózzuk, majd kirakjuk a tetejét az egymásra csúsztatott, maradék burgonyakarikákkal. Bevonjuk a mártással, végül 200 °C-os sütőben aranysárgára sütjük (40-45 perc)."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/ea2ae929-abc7-44f7-b4f3-7728b7aea64d_0.jpg"
+        },
+        "x-source-file": "6e03e7be-5be6-419b-9334-749488909078.zip",
+        "x-db-id": 122,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

@@ -1,0 +1,127 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Currys-borsós galuska paradicsommártással",
+        "recipeIngredient": [
+            "1 közepes fej hagyma",
+            "1 gerezd fokhagyma",
+            "10-12 friss bazsalikomlevél",
+            "3+2 ek. (olíva)olaj",
+            "1 doboz felaprózott paradicsom (400 g)",
+            "1 babérlevél",
+            "1/4 kk. cukor",
+            "1/2 kk. csípős paprikakrém",
+            "150 g zöldborsó (mélyhűtött)",
+            "2,5 dl tej",
+            "2 tojás",
+            "1 ek. curry",
+            "só, bors",
+            "400 g finomliszt",
+            "citromfű/petrezselyem"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A mártáshoz a hagymát és a fokhagymát megtisztítjuk, a hagymát finomra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A bazsalikomot leöblítjük, 4 bóbita kivételével felaprózzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "3 ek. olajat felforrósítunk, beledobjuk a hagymát és az áttört fokhagymát, fedő alatt megfonnyasztjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a paradicsomot (levével együtt), a babérlevelet, a cukrot, a csípős paprikakrémet, ízlés szerint sózzuk, borsozzuk, és félrebillentett fedő alatt, mérsékelt tűzön besűrítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A bazsalikomot csak a főzés végén forgatjuk bele!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Miközben a mártás fő, felteszünk forrni 4-5 liter vizet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Külön laskában, 1/2 dl vízben puhára pároljuk a zöldborsót."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A galuskához eldolgozzuk a tejben a tojásokat, a curryt, ízlés szerint sót és borsot, majd a liszthez keverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beleszaggatjuk a forrásban lévő, enyhén sós vízbe, amint a víz színére jönnek, leszűrjük, mély tálba csúsztatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a maradék 2 ek. olajat és a leszűrt zöldborsót, lazán összekeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A galuskát mélytányérokba szedjük, az egyes adagok tetejére szedjük a paradicsommártást, és bazsalikom-/citromfűbóbitákkal vagy petrezselyemmel díszítve mihamarabb tálaljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Reszelt parmezán vagy juhsajtot kínálhatunk hozzá."
+            }
+        ],
+        "prepTime": "PT45M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/b48ae60f-1224-4e60-8c93-eaa54a898b29_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "b48ae60f-1224-4e60-8c93-eaa54a898b29",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Currys-borsós galuska paradicsommártással",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT45M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1 közepes fej hagyma",
+                "1 gerezd fokhagyma",
+                "10-12 friss bazsalikomlevél",
+                "3+2 ek. (olíva)olaj",
+                "1 doboz felaprózott paradicsom (400 g)",
+                "1 babérlevél",
+                "1/4 kk. cukor",
+                "1/2 kk. csípős paprikakrém",
+                "150 g zöldborsó (mélyhűtött)",
+                "2,5 dl tej",
+                "2 tojás",
+                "1 ek. curry",
+                "só, bors",
+                "400 g finomliszt",
+                "citromfű/petrezselyem"
+            ],
+            "recipeDirections": [
+                "A mártáshoz a hagymát és a fokhagymát megtisztítjuk, a hagymát finomra vágjuk.",
+                "A bazsalikomot leöblítjük, 4 bóbita kivételével felaprózzuk.",
+                "3 ek. olajat felforrósítunk, beledobjuk a hagymát és az áttört fokhagymát, fedő alatt megfonnyasztjuk.",
+                "Hozzáadjuk a paradicsomot (levével együtt), a babérlevelet, a cukrot, a csípős paprikakrémet, ízlés szerint sózzuk, borsozzuk, és félrebillentett fedő alatt, mérsékelt tűzön besűrítjük.",
+                "A bazsalikomot csak a főzés végén forgatjuk bele!",
+                "Miközben a mártás fő, felteszünk forrni 4-5 liter vizet.",
+                "Külön laskában, 1/2 dl vízben puhára pároljuk a zöldborsót.",
+                "A galuskához eldolgozzuk a tejben a tojásokat, a curryt, ízlés szerint sót és borsot, majd a liszthez keverjük.",
+                "Beleszaggatjuk a forrásban lévő, enyhén sós vízbe, amint a víz színére jönnek, leszűrjük, mély tálba csúsztatjuk.",
+                "Hozzáadjuk a maradék 2 ek. olajat és a leszűrt zöldborsót, lazán összekeverjük.",
+                "A galuskát mélytányérokba szedjük, az egyes adagok tetejére szedjük a paradicsommártást, és bazsalikom-/citromfűbóbitákkal vagy petrezselyemmel díszítve mihamarabb tálaljuk.",
+                "Reszelt parmezán vagy juhsajtot kínálhatunk hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/b48ae60f-1224-4e60-8c93-eaa54a898b29_0.jpg"
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 237,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

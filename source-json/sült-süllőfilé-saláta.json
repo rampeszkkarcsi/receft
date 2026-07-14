@@ -1,0 +1,85 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sült süllőfilé saláta",
+        "recipeIngredient": [
+            "2 süllőfilé (400 g)",
+            "só",
+            "fehér bors",
+            "1 kk. pirospaprika",
+            "50 g liszt",
+            "olaj a sütéshez",
+            "1 kis fej fodros saláta (lollo)",
+            "1 kis fej jéghegysaláta",
+            "4 kisebb paradicsom",
+            "1 csokor petrezselyem",
+            "3 szál friss kakukkfű",
+            "20 szem fekete olajbogyó",
+            "1+1 citrom",
+            "3 ek. olívaolaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A filéket leöblítjük, bedörzsöljük sóval és frissen őrölt fehér borssal, majd a pirospaprikával összekevert lisztbe forgatjuk, és bő, forró olajban mindkét oldalukat ropogósra-pirosra sütjük. Többszörösen összehajtogatott papírkendőre fektetjük, végül hagyjuk teljesen kihűlni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A salátaféléket leveleikre bontjuk, megmossuk, aztán kicentrifugázzuk vagy konyharuhával szárazra lapogatjuk, és falatnyi darabokra tépkedjük. A paradicsomot és a zöldfűszereket leöblítjük, a paradicsomot felkarikázzuk, a zöldfűszerek levélkéit lecsipkedjük és finomra vágjuk (néhány petrezselyembóbitát félreteszünk a díszítéshez)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A salátát nem túl mély tálra terítjük, tetejére halmozzuk a paradicsomot, a nagyobb darabokra tördelt sült halat, az olívabogyókat, majd lazán letakarjuk, és 1 órára a hűtőszekrénybe tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az öntethez 1 citrom át szűrt levét elkeverjük ízlés szerint sóval és frissen őrölt borssal, az apránként hozzáadott olívaolajjal, végül a vágott zöldfűszerekkel. Tálaláskor meglocsoljuk vele a salátát, tetejét a gerezdekre vágott másik citrommal és a félretett petrezselyemmel díszítjük."
+            }
+        ],
+        "prepTime": "PT35M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/612e9da0-5734-4123-b926-886b81d8387e_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "612e9da0-5734-4123-b926-886b81d8387e",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sült süllőfilé saláta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT35M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "2 süllőfilé (400 g)",
+                "só",
+                "fehér bors",
+                "1 kk. pirospaprika",
+                "50 g liszt",
+                "olaj a sütéshez",
+                "1 kis fej fodros saláta (lollo)",
+                "1 kis fej jéghegysaláta",
+                "4 kisebb paradicsom",
+                "1 csokor petrezselyem",
+                "3 szál friss kakukkfű",
+                "20 szem fekete olajbogyó",
+                "1+1 citrom",
+                "3 ek. olívaolaj"
+            ],
+            "recipeDirections": [
+                "A filéket leöblítjük, bedörzsöljük sóval és frissen őrölt fehér borssal, majd a pirospaprikával összekevert lisztbe forgatjuk, és bő, forró olajban mindkét oldalukat ropogósra-pirosra sütjük. Többszörösen összehajtogatott papírkendőre fektetjük, végül hagyjuk teljesen kihűlni.",
+                "A salátaféléket leveleikre bontjuk, megmossuk, aztán kicentrifugázzuk vagy konyharuhával szárazra lapogatjuk, és falatnyi darabokra tépkedjük. A paradicsomot és a zöldfűszereket leöblítjük, a paradicsomot felkarikázzuk, a zöldfűszerek levélkéit lecsipkedjük és finomra vágjuk (néhány petrezselyembóbitát félreteszünk a díszítéshez).",
+                "A salátát nem túl mély tálra terítjük, tetejére halmozzuk a paradicsomot, a nagyobb darabokra tördelt sült halat, az olívabogyókat, majd lazán letakarjuk, és 1 órára a hűtőszekrénybe tesszük.",
+                "Az öntethez 1 citrom át szűrt levét elkeverjük ízlés szerint sóval és frissen őrölt borssal, az apránként hozzáadott olívaolajjal, végül a vágott zöldfűszerekkel. Tálaláskor meglocsoljuk vele a salátát, tetejét a gerezdekre vágott másik citrommal és a félretett petrezselyemmel díszítjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/612e9da0-5734-4123-b926-886b81d8387e_0.jpg"
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 12,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Meggyes-diós rétes",
+        "recipeIngredient": [
+            "2 nagy üveg meggybefőtt (350-380 g/üveg)",
+            "100 g dió",
+            "80 g zsemlemorzsa",
+            "100 g porcukor+a szóráshoz",
+            "1 kk. őrölt fahéj",
+            "100 g vaj/margarin",
+            "2 csomag nagyobb méretű réteslap"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A meggyet leszűrjük, alaposan lecsepegtetjük. A diót megdaráljuk, összekeverjük a zsemlemorzsával, a porcukorral és a fahéjjal, majd beleforgatjuk a meggyet. A vajat/margarint felolvasztjuk. Sütőpapírral kibélelünk egy nagyobb tepsit/sütőlapot. A sütőt előmelegítjük 200 °C-ra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az egyik csomagban található réteslapokat patyolattiszta konyharuhára fektetjük, laponként ki- és áthajtogatva megkenjük-pöttyözzük olvasztott vajjal/margarinnal. A széleken 3-3 cm-t üresen hagyva a réteslap felénk eső harmadára terítjük a töltelék felét. A konyharuha segítségével két oldalt felhajtjuk rá a tésztaszéleket, majd hosszanti irányban szorosan feltekerjük. Óvatosan a tepsibe fektetjük, azonnal megkenjük olvasztott vajjal/margarinnal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ugyanezzel a módszerrel megtöltjük a másik csomag réteslapot is, a tepsibe fektetjük, megkenjük, és a forró sütőben aranysárgára sütjük (20-25 perc). A tepsiben hagyjuk langymelegre hűlni. Tálaláskor meghintjük porcukorral, és kissé rézsútosan 3-4 cm-es szeletekre vágjuk. Igazán csak frissen jó és mutatós, mert hamar megereszkedik a tésztája."
+            }
+        ],
+        "prepTime": "PT45M",
+        "cookTime": "PT25M",
+        "recipeYield": "12 szelet",
+        "image": "images/9d4696f9-59e5-4c9e-a86e-a32af6eabf72_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "9d4696f9-59e5-4c9e-a86e-a32af6eabf72",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Meggyes-diós rétes",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "12 szelet",
+            "prepTime": "PT45M",
+            "cookTime": "PT25M",
+            "recipeIngredients": [
+                "2 nagy üveg meggybefőtt (350-380 g/üveg)",
+                "100 g dió",
+                "80 g zsemlemorzsa",
+                "100 g porcukor+a szóráshoz",
+                "1 kk. őrölt fahéj",
+                "100 g vaj/margarin",
+                "2 csomag nagyobb méretű réteslap"
+            ],
+            "recipeDirections": [
+                "A meggyet leszűrjük, alaposan lecsepegtetjük. A diót megdaráljuk, összekeverjük a zsemlemorzsával, a porcukorral és a fahéjjal, majd beleforgatjuk a meggyet. A vajat/margarint felolvasztjuk. Sütőpapírral kibélelünk egy nagyobb tepsit/sütőlapot. A sütőt előmelegítjük 200 °C-ra.",
+                "Az egyik csomagban található réteslapokat patyolattiszta konyharuhára fektetjük, laponként ki- és áthajtogatva megkenjük-pöttyözzük olvasztott vajjal/margarinnal. A széleken 3-3 cm-t üresen hagyva a réteslap felénk eső harmadára terítjük a töltelék felét. A konyharuha segítségével két oldalt felhajtjuk rá a tésztaszéleket, majd hosszanti irányban szorosan feltekerjük. Óvatosan a tepsibe fektetjük, azonnal megkenjük olvasztott vajjal/margarinnal.",
+                "Ugyanezzel a módszerrel megtöltjük a másik csomag réteslapot is, a tepsibe fektetjük, megkenjük, és a forró sütőben aranysárgára sütjük (20-25 perc). A tepsiben hagyjuk langymelegre hűlni. Tálaláskor meghintjük porcukorral, és kissé rézsútosan 3-4 cm-es szeletekre vágjuk. Igazán csak frissen jó és mutatós, mert hamar megereszkedik a tésztája."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/9d4696f9-59e5-4c9e-a86e-a32af6eabf72_0.jpg"
+        },
+        "x-source-file": "8e973511-a906-412c-a871-c6205380a313.zip",
+        "x-db-id": 204,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

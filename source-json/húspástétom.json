@@ -1,0 +1,56 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Húspástétom",
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "75dkg disznohusbol pörkölt"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "10dkg vajon, 2ek liszttel világos rántás,"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kevés tejjel mártás."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "2 egész tojást sóval felverni, forró tejes Mártáshoz keverni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kihűlt pörköltet ledarálni, masszával, 2ek mustárral osszekeverni."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "bf86925a-42f8-40c9-913b-913b2632c6d5",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Húspástétom",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [],
+            "recipeDirections": [
+                "75dkg disznohusbol pörkölt",
+                "10dkg vajon, 2ek liszttel világos rántás,",
+                "Kevés tejjel mártás.",
+                "2 egész tojást sóval felverni, forró tejes Mártáshoz keverni.",
+                "Kihűlt pörköltet ledarálni, masszával, 2ek mustárral osszekeverni."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 26,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

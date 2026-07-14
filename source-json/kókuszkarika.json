@@ -1,0 +1,78 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kókuszkarika",
+        "recipeIngredient": [
+            "2 tojásfehérje",
+            "1 ek citromlé",
+            "csipet só",
+            "10 dkg cukor",
+            "1 tk fahéj",
+            "10 dkg kókuszreszelék"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tojásfehérjét a citromlével és a csipet sóval kemény habbá verjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a cukrot, fahéjat"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "kókuszreszeléket serpenyőben megpirítjuk, és bele a habba"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Vajazott, lisztezett tepsire halmokat rakunk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tetejüket még megszórjuk kókuszreszelékkel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "150 °C-on 20-30 percig sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "image": "images/e90fdae9-f5ed-40e1-ad60-f61e48c40e69_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "e90fdae9-f5ed-40e1-ad60-f61e48c40e69",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kókuszkarika",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "2 tojásfehérje",
+                "1 ek citromlé",
+                "csipet só",
+                "10 dkg cukor",
+                "1 tk fahéj",
+                "10 dkg kókuszreszelék"
+            ],
+            "recipeDirections": [
+                "A tojásfehérjét a citromlével és a csipet sóval kemény habbá verjük.",
+                "Hozzáadjuk a cukrot, fahéjat",
+                "kókuszreszeléket serpenyőben megpirítjuk, és bele a habba",
+                "Vajazott, lisztezett tepsire halmokat rakunk.",
+                "A tetejüket még megszórjuk kókuszreszelékkel.",
+                "150 °C-on 20-30 percig sütjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/e90fdae9-f5ed-40e1-ad60-f61e48c40e69_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 19,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

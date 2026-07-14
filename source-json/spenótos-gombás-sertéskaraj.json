@@ -1,0 +1,92 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "SPENÓTOS-GOMBÁS SERTÉSKARAJ",
+        "recipeIngredient": [
+            "80 dkg filézett sertéskaraj",
+            "só",
+            "bors",
+            "olaj",
+            "2 fej vöröshagyma",
+            "1 gerezd fokhagyma",
+            "2 evőkanál mustár",
+            "50 dkg apró szemű csiperkegomba",
+            "4 dl főzőtejszín",
+            "10 dkg bébispenót"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A húsból szeleteket vágunk, kicsit ki-klopfoljuk, megsózzuk, borssal meg-hintjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Serpenyőben, kevés olajon a szeletek mindkét oldalát 2-2 percig sütjük, majd kivesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megtisztított vöröshagymát félkarikára vágjuk, a visszamaradt olajon lepirítjuk, átfuttatjuk a zúzott fokhagymát is."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a mustárt, megpirítjuk, félbevágjuk a gombát, és azt is beletesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Felöntjük 1 dl vízzel, megsózzuk, beleöntjük a tejszínt, összeforraljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Visszatesszük bele a húst, beleszórjuk a megmosott, lecsepegtetett spenótot, és még egyszer felforraljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Köretként főtt rizs és tészta is illik hozzá."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/5a73a39a-525b-42b8-9857-c90afde9ae64_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "5a73a39a-525b-42b8-9857-c90afde9ae64",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "SPENÓTOS-GOMBÁS SERTÉSKARAJ",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "80 dkg filézett sertéskaraj",
+                "só",
+                "bors",
+                "olaj",
+                "2 fej vöröshagyma",
+                "1 gerezd fokhagyma",
+                "2 evőkanál mustár",
+                "50 dkg apró szemű csiperkegomba",
+                "4 dl főzőtejszín",
+                "10 dkg bébispenót"
+            ],
+            "recipeDirections": [
+                "A húsból szeleteket vágunk, kicsit ki-klopfoljuk, megsózzuk, borssal meg-hintjük.",
+                "Serpenyőben, kevés olajon a szeletek mindkét oldalát 2-2 percig sütjük, majd kivesszük.",
+                "A megtisztított vöröshagymát félkarikára vágjuk, a visszamaradt olajon lepirítjuk, átfuttatjuk a zúzott fokhagymát is.",
+                "Hozzáadjuk a mustárt, megpirítjuk, félbevágjuk a gombát, és azt is beletesszük.",
+                "Felöntjük 1 dl vízzel, megsózzuk, beleöntjük a tejszínt, összeforraljuk.",
+                "Visszatesszük bele a húst, beleszórjuk a megmosott, lecsepegtetett spenótot, és még egyszer felforraljuk.",
+                "Köretként főtt rizs és tészta is illik hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/5a73a39a-525b-42b8-9857-c90afde9ae64_0.jpg"
+        },
+        "x-source-file": "6e03e7be-5be6-419b-9334-749488909078.zip",
+        "x-db-id": 135,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

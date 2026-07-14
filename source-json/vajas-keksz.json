@@ -1,0 +1,76 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Vajas keksz",
+        "recipeIngredient": [
+            "20 dkg finomliszt + a nyújtáshoz",
+            "10 dkg kukoricaliszt",
+            "10 dkg porcukor",
+            "20 dkg vaj",
+            "2 ek. cukrozatlan kakaópor"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A liszteket keverjük el a porcukorral és az olvasztott vajjal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Gyúrjuk össze a tésztát, majd felezzük el, a feléhez gyúrjuk hozzá a kakaóport."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pihentessük 20 percet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt melegítsük elő 180 fokra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát lisztezett deszkán nyújtsuk ki 1 cm vastagra, kiszúró formával szaggassunk kekszeket, majd helyezzük őket sütőpapírral bélelt tepsire, és 9-10 perc alatt süssük készre."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az omlós kekszet hetekig tárolhatjuk jól záródó dobozban."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT10M",
+        "image": "images/38a97a55-57de-4bc4-915e-1ee841d1c21b_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "38a97a55-57de-4bc4-915e-1ee841d1c21b",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Vajas keksz",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT10M",
+            "recipeIngredients": [
+                "20 dkg finomliszt + a nyújtáshoz",
+                "10 dkg kukoricaliszt",
+                "10 dkg porcukor",
+                "20 dkg vaj",
+                "2 ek. cukrozatlan kakaópor"
+            ],
+            "recipeDirections": [
+                "A liszteket keverjük el a porcukorral és az olvasztott vajjal.",
+                "Gyúrjuk össze a tésztát, majd felezzük el, a feléhez gyúrjuk hozzá a kakaóport.",
+                "Pihentessük 20 percet.",
+                "A sütőt melegítsük elő 180 fokra.",
+                "A tésztát lisztezett deszkán nyújtsuk ki 1 cm vastagra, kiszúró formával szaggassunk kekszeket, majd helyezzük őket sütőpapírral bélelt tepsire, és 9-10 perc alatt süssük készre.",
+                "Az omlós kekszet hetekig tárolhatjuk jól záródó dobozban."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/38a97a55-57de-4bc4-915e-1ee841d1c21b_0.jpg"
+        },
+        "x-source-file": "78c7b1d4-56f5-40ee-9e76-a7d93ffbed93.zip",
+        "x-db-id": 160,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

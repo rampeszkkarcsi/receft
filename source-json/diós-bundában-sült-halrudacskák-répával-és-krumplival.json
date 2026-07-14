@@ -1,0 +1,101 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Diós bundában sült halrudacskák répával és krumplival",
+        "recipeIngredient": [
+            "50 dkg halfilé",
+            "só",
+            "frissen őrölt bors",
+            "5 dkg vaj olvasztva",
+            "5 dkg liszt",
+            "2 tojás",
+            "5 dkg darált dió",
+            "5 dkg zsemlemorzsa",
+            "A KÖRETHEZ",
+            "60 dkg burgonya",
+            "30 dkg sárgarépa",
+            "5-6 evőkanál olívaolaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A halfilét feldolgozás előtt alaposan nézzük át, hogy nincs-e benne szálka, majd úgy vágjuk fel, hogy 2-3 cm széles, 8 cm hosszú rudakat kapjunk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sózzuk, borsozzuk, beleforgatjuk az olvasztott vajba, majd a lisztbe, a felvert tojásba, végül a dióval elkevert zsemlemorzsába."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütőpapírral bélelt sütőlemezre tesszük őket, és 200 fokon pirosra sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A körethez a burgonyát és a répát megpucoljuk, megmossuk"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Először hosszanti irányban lapokat vágunk belőle, majd ezeket lefektetjük, és tovább vágjuk hasáb alakúra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy tálban átforgatjuk a zöldséghasábokat az olívaolajjal, majd sütőpapírral bélelt sütőlemezen elosztjuk őket, és 200 fokon, légkeveréses fokozaton pirosra sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A répa előbb pirul/ég, azt hamarabb vegyük ki a sütőből."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Figyelem: csak a végén sózzuk meg, különben nem maradnak ropogósak a zöldségek!"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "6 KOSÁRKÁHOZ",
+        "image": "images/6dce82c3-6f2c-4ae6-9b6e-f149e724e584_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "6dce82c3-6f2c-4ae6-9b6e-f149e724e584",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Diós bundában sült halrudacskák répával és krumplival",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "6 KOSÁRKÁHOZ",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "50 dkg halfilé",
+                "só",
+                "frissen őrölt bors",
+                "5 dkg vaj olvasztva",
+                "5 dkg liszt",
+                "2 tojás",
+                "5 dkg darált dió",
+                "5 dkg zsemlemorzsa",
+                "A KÖRETHEZ",
+                "60 dkg burgonya",
+                "30 dkg sárgarépa",
+                "5-6 evőkanál olívaolaj"
+            ],
+            "recipeDirections": [
+                "A halfilét feldolgozás előtt alaposan nézzük át, hogy nincs-e benne szálka, majd úgy vágjuk fel, hogy 2-3 cm széles, 8 cm hosszú rudakat kapjunk.",
+                "Sózzuk, borsozzuk, beleforgatjuk az olvasztott vajba, majd a lisztbe, a felvert tojásba, végül a dióval elkevert zsemlemorzsába.",
+                "Sütőpapírral bélelt sütőlemezre tesszük őket, és 200 fokon pirosra sütjük.",
+                "A körethez a burgonyát és a répát megpucoljuk, megmossuk",
+                "Először hosszanti irányban lapokat vágunk belőle, majd ezeket lefektetjük, és tovább vágjuk hasáb alakúra.",
+                "Egy tálban átforgatjuk a zöldséghasábokat az olívaolajjal, majd sütőpapírral bélelt sütőlemezen elosztjuk őket, és 200 fokon, légkeveréses fokozaton pirosra sütjük.",
+                "A répa előbb pirul/ég, azt hamarabb vegyük ki a sütőből.",
+                "Figyelem: csak a végén sózzuk meg, különben nem maradnak ropogósak a zöldségek!"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/6dce82c3-6f2c-4ae6-9b6e-f149e724e584_0.jpg"
+        },
+        "x-source-file": "8e973511-a906-412c-a871-c6205380a313.zip",
+        "x-db-id": 201,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

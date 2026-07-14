@@ -1,0 +1,78 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Töki pompos",
+        "recipeIngredient": [
+            "A tésztához",
+            "3 közepes krumpli megfőzni, összetörni vagy villával összenyomni",
+            "1 kis doboz kefir",
+            "3 evőkanál olaj",
+            "fél dl tejben fél kocka életsztőt felfuttatni egy kevés cukorral",
+            "fél kg liszt",
+            "1 teáskanál só"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Összegyúrni, keleszteni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kiolajozni a tepsit, elegyengetni rajta a tésztát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Villával megszurkálni, picikét elősütni (180 °-on) (tényleg kicsit, mert hamar megsül, csak annyira, hogy ne legyen nyers)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Utána megkenni fokhagymás tejföllel (én fél litert használtam és 3 gerezd fokhagymát, kicsi borsot és sót tettem még bele)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megszórni a hozzávalókkal: elősütött húsos szalonnával, vékonyra vágott lilahagymával, kevés füstölt kolbásszal meg reszelt sajttal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Amikor a sajt megpirul, akkor kész!"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "73df85f1-4a66-441b-84c1-9e280ac2de79",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Töki pompos",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "A tésztához",
+                "3 közepes krumpli megfőzni, összetörni vagy villával összenyomni",
+                "1 kis doboz kefir",
+                "3 evőkanál olaj",
+                "fél dl tejben fél kocka életsztőt felfuttatni egy kevés cukorral",
+                "fél kg liszt",
+                "1 teáskanál só"
+            ],
+            "recipeDirections": [
+                "Összegyúrni, keleszteni.",
+                "Kiolajozni a tepsit, elegyengetni rajta a tésztát.",
+                "Villával megszurkálni, picikét elősütni (180 °-on) (tényleg kicsit, mert hamar megsül, csak annyira, hogy ne legyen nyers).",
+                "Utána megkenni fokhagymás tejföllel (én fél litert használtam és 3 gerezd fokhagymát, kicsi borsot és sót tettem még bele).",
+                "Megszórni a hozzávalókkal: elősütött húsos szalonnával, vékonyra vágott lilahagymával, kevés füstölt kolbásszal meg reszelt sajttal.",
+                "Amikor a sajt megpirul, akkor kész!"
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 98,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

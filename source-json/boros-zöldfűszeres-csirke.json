@@ -1,0 +1,88 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Boros-zöldfűszeres csirke",
+        "recipeIngredient": [
+            "1 egész csirke",
+            "5 dkg szalonna",
+            "3 fej vöröshagyma",
+            "6 gerezd fokhagyma",
+            "1 kk. szárított rozmaring",
+            "1 kk. szárított zsálya",
+            "petrezselyemzöld",
+            "só",
+            "fekete bors",
+            "1,5 dl fehérbor",
+            "húsleves (leveskockából)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A csirkét nagyobb részeire vágjuk (ki is csontozhatjuk), megsózzuk, borsozzuk, és beszórjuk a szárított fűszernövényekkel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütőtálban megpirítjuk a szalonnát, majd beletesszük a húst, és az is megpirítjuk egy kicsit."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezután hozzáadjuk a negyedelt hagymákat és a szeletekre vágott fokhagymát, felöntjük a borral, majd előmelegített sütőben puhára sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütés vége előtt megszórjuk apróra vágott petrezselyemzölddel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütés közben igény szerint húslevest önthetünk alá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Köretként burgonyát vagy rizst tálalhatunk hozzá."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT1H30M",
+        "image": "images/ff06bea8-4f29-4f2c-95a7-24d291d863f7_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "ff06bea8-4f29-4f2c-95a7-24d291d863f7",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Boros-zöldfűszeres csirke",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT1H30M",
+            "recipeIngredients": [
+                "1 egész csirke",
+                "5 dkg szalonna",
+                "3 fej vöröshagyma",
+                "6 gerezd fokhagyma",
+                "1 kk. szárított rozmaring",
+                "1 kk. szárított zsálya",
+                "petrezselyemzöld",
+                "só",
+                "fekete bors",
+                "1,5 dl fehérbor",
+                "húsleves (leveskockából)"
+            ],
+            "recipeDirections": [
+                "A csirkét nagyobb részeire vágjuk (ki is csontozhatjuk), megsózzuk, borsozzuk, és beszórjuk a szárított fűszernövényekkel.",
+                "Sütőtálban megpirítjuk a szalonnát, majd beletesszük a húst, és az is megpirítjuk egy kicsit.",
+                "Ezután hozzáadjuk a negyedelt hagymákat és a szeletekre vágott fokhagymát, felöntjük a borral, majd előmelegített sütőben puhára sütjük.",
+                "A sütés vége előtt megszórjuk apróra vágott petrezselyemzölddel.",
+                "Sütés közben igény szerint húslevest önthetünk alá.",
+                "Köretként burgonyát vagy rizst tálalhatunk hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/ff06bea8-4f29-4f2c-95a7-24d291d863f7_0.jpg"
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 232,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

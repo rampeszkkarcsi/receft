@@ -1,0 +1,97 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sajtos csirkehúsgolyók kápiás majonézzel",
+        "recipeIngredient": [
+            "50 dkg darált csirke",
+            "1 kk. őrölt csípős pirospaprika vagy chili",
+            "só",
+            "bors",
+            "8 dkg kukoricadara",
+            "1 tojás",
+            "10 dkg alacsony zsírtartalmú sajt",
+            "olaj a hús sütéséhez",
+            "2 db kápia paprika",
+            "15 dkg majonéz"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A darált húst keverjük össze a fűszerpaprikával, kevés sóval és borssal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Adjuk hozzá a kukoricadarát és a tojást, majd reszeljük hozzá nagylyukú reszelőn a sajtot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Dolgozzuk jól össze, hagyjuk 15 percet állni, majd formáljunk belőle kis gombócokat, és kevés olajon kb. 6-8 perc alatt süssük készre."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megmosott kápia paprikákat kevés olajon süssük minden oldalukon 2-3 percig."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Szedjük ki egy tálra őket, és 2 percre takarjuk le fóliával, hogy felpuhuljon a párától a bőrük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezután könnyen tudjuk majd meghámozni őket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Szedjük ki a szárát és a magházát is, majd a majonézzel együtt turmixoljuk össze a paprikahúst."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kínáljuk a csirkegolyók mellé, adhatunk mellé főtt krumplit, rizst."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/c28d35d3-0e8b-44a5-9301-792fbe38c3dd_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "c28d35d3-0e8b-44a5-9301-792fbe38c3dd",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sajtos csirkehúsgolyók kápiás majonézzel",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "50 dkg darált csirke",
+                "1 kk. őrölt csípős pirospaprika vagy chili",
+                "só",
+                "bors",
+                "8 dkg kukoricadara",
+                "1 tojás",
+                "10 dkg alacsony zsírtartalmú sajt",
+                "olaj a hús sütéséhez",
+                "2 db kápia paprika",
+                "15 dkg majonéz"
+            ],
+            "recipeDirections": [
+                "A darált húst keverjük össze a fűszerpaprikával, kevés sóval és borssal.",
+                "Adjuk hozzá a kukoricadarát és a tojást, majd reszeljük hozzá nagylyukú reszelőn a sajtot.",
+                "Dolgozzuk jól össze, hagyjuk 15 percet állni, majd formáljunk belőle kis gombócokat, és kevés olajon kb. 6-8 perc alatt süssük készre.",
+                "A megmosott kápia paprikákat kevés olajon süssük minden oldalukon 2-3 percig.",
+                "Szedjük ki egy tálra őket, és 2 percre takarjuk le fóliával, hogy felpuhuljon a párától a bőrük.",
+                "Ezután könnyen tudjuk majd meghámozni őket.",
+                "Szedjük ki a szárát és a magházát is, majd a majonézzel együtt turmixoljuk össze a paprikahúst.",
+                "Kínáljuk a csirkegolyók mellé, adhatunk mellé főtt krumplit, rizst."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/c28d35d3-0e8b-44a5-9301-792fbe38c3dd_0.jpg"
+        },
+        "x-source-file": "6e03e7be-5be6-419b-9334-749488909078.zip",
+        "x-db-id": 133,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

@@ -1,0 +1,151 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Fodros sertésnyársak zöldbabbal",
+        "recipeIngredient": [
+            "Hozzávalók 4 személyre:",
+            "4 vékony szelet (600 g) sertés- vagy borjúcomb",
+            "1 ek. grill-/flekkenfűszersó ⚫ 2 dús szál bazsalikom",
+            "⚫ 2 közepes fej hagyma ⚫ 6-8 gerezd fokhagyma",
+            "• 8 szelet bacon/szalonna ⚫ só, bors • 2 ek. olaj",
+            ". .",
+            "• 1 dl fehérbor⚫8 kb. 20 cm-es bambuszpálcika",
+            ".",
+            "A körethez:",
+            "⚫600 g zöld hüvelyű bab . 1 közepes fej hagyma",
+            "2 gerezd fokhagyma 1 hegyes-csípős paprika",
+            "• 1 piros húsú paprika 80 g nyers füstölt tarja",
+            "2 ek. olaj ⚫ só, bors",
+            "."
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A hússzeleteket leöblítjük, szárazra töröljük, folpack-kal letakarva kissé kiverjük, majd 2 hosszanti, azaz összesen 8 csíkra vágjuk, és megszórjuk fűszersóval."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A bazsalikomot leöblítjük, lerázzuk róla a vizet, leveleit lecsipkedjük (néhány bóbitát félreteszünk a díszítéshez)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymákat és a fokhagymát meghámozzuk (a körethez valókat is), 2 hagymát gerezdekre szelünk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt előmelegítjük 180 °C-ra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Minden húscsíkra 4-5 bazsalikomlevelet és 1 szelet szalonnát fektetünk, harmonikaszerűen „összehajtogatjuk\", bambuszpálcikával megtűzzük, kissé össze is nyomkodjuk, végül meghintjük sóval és borssal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Nagyobb serpenyőben felforrósítjuk az olajat, két részletben, élénk tűzön átforgatjuk-megkapatjuk benne a húsnyársakat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütőtálba vagy tepsibe sorakoztatjuk, meglocsoljuk a zsiradékkal, amelyben elősütöttük, alájuk öntjük a bort, melléjük dobjuk a hagymagerezdeket és a fokhagymát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőben, alufóliával letakarva 30 percig pároljuk, végül alufólia nélkül további 15-20 percig sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a körethez a zöldbabot megmossuk, megtisztítjuk, és 2-3 cm-es darabokra aprózzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A maradék 1 hagymát finomra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kétféle paprikát megmossuk, kicsumázzuk, a hegyes paprika ereit-magjait a kívánt csípősség mértékében meghagyjuk, mindkettőt karcsú csíkokra szeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tarját apróra felkockázzuk, a forró olajban, mérsékelt tűzön megpirítjuk, rádobjuk a hagymát és az áttört fokhagymát, fedő alatt megfonnyasztjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a babot és a paprikaféléket, sózzuk, borsozzuk, és saját levében, fedő alatt puhára pároljuk, melegen tartjuk (kb. 20 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A húsfodrokat tálra rendezzük, köréjük szedjük a babot, a félretett bazsalikommal díszítjük, és a zsírtalanított pecsenyealj társaságában kínáljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "További köretként héjában sült/petrezselymes burgonyát adhatunk mellé."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "TIPP: A hirtelen sült/grillezett húsoknak jót tesz, ha sütés előtt néhány órát páchan pihennek (a legegyszerűbb pác olaj, mustár, só és bors, esetleg tetszés szerinti fűszerkeverékből készíthető)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha azonban a pác bármilyen formában (őrlemény, krém) paprikát is tartalmaz, sütés előtt gondosan el kell távolítani a húsról, mert a benne lévő cukor könnyen megég, és keserű lesz tőle az étel."
+            }
+        ],
+        "prepTime": "PT1H30M",
+        "cookTime": "PT0S",
+        "recipeYield": "1 adag",
+        "image": "images/76768daf-4a54-4678-80e7-7ac9bc37d26d_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "76768daf-4a54-4678-80e7-7ac9bc37d26d",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Fodros sertésnyársak zöldbabbal",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "1 adag",
+            "prepTime": "PT1H30M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "Hozzávalók 4 személyre:",
+                "4 vékony szelet (600 g) sertés- vagy borjúcomb",
+                "1 ek. grill-/flekkenfűszersó ⚫ 2 dús szál bazsalikom",
+                "⚫ 2 közepes fej hagyma ⚫ 6-8 gerezd fokhagyma",
+                "• 8 szelet bacon/szalonna ⚫ só, bors • 2 ek. olaj",
+                ". .",
+                "• 1 dl fehérbor⚫8 kb. 20 cm-es bambuszpálcika",
+                ".",
+                "A körethez:",
+                "⚫600 g zöld hüvelyű bab . 1 közepes fej hagyma",
+                "2 gerezd fokhagyma 1 hegyes-csípős paprika",
+                "• 1 piros húsú paprika 80 g nyers füstölt tarja",
+                "2 ek. olaj ⚫ só, bors",
+                "."
+            ],
+            "recipeDirections": [
+                "A hússzeleteket leöblítjük, szárazra töröljük, folpack-kal letakarva kissé kiverjük, majd 2 hosszanti, azaz összesen 8 csíkra vágjuk, és megszórjuk fűszersóval.",
+                "A bazsalikomot leöblítjük, lerázzuk róla a vizet, leveleit lecsipkedjük (néhány bóbitát félreteszünk a díszítéshez).",
+                "A hagymákat és a fokhagymát meghámozzuk (a körethez valókat is), 2 hagymát gerezdekre szelünk.",
+                "A sütőt előmelegítjük 180 °C-ra.",
+                "Minden húscsíkra 4-5 bazsalikomlevelet és 1 szelet szalonnát fektetünk, harmonikaszerűen „összehajtogatjuk\", bambuszpálcikával megtűzzük, kissé össze is nyomkodjuk, végül meghintjük sóval és borssal.",
+                "Nagyobb serpenyőben felforrósítjuk az olajat, két részletben, élénk tűzön átforgatjuk-megkapatjuk benne a húsnyársakat.",
+                "Sütőtálba vagy tepsibe sorakoztatjuk, meglocsoljuk a zsiradékkal, amelyben elősütöttük, alájuk öntjük a bort, melléjük dobjuk a hagymagerezdeket és a fokhagymát.",
+                "A sütőben, alufóliával letakarva 30 percig pároljuk, végül alufólia nélkül további 15-20 percig sütjük.",
+                "Közben a körethez a zöldbabot megmossuk, megtisztítjuk, és 2-3 cm-es darabokra aprózzuk.",
+                "A maradék 1 hagymát finomra vágjuk.",
+                "A kétféle paprikát megmossuk, kicsumázzuk, a hegyes paprika ereit-magjait a kívánt csípősség mértékében meghagyjuk, mindkettőt karcsú csíkokra szeljük.",
+                "A tarját apróra felkockázzuk, a forró olajban, mérsékelt tűzön megpirítjuk, rádobjuk a hagymát és az áttört fokhagymát, fedő alatt megfonnyasztjuk.",
+                "Hozzáadjuk a babot és a paprikaféléket, sózzuk, borsozzuk, és saját levében, fedő alatt puhára pároljuk, melegen tartjuk (kb. 20 perc).",
+                "A húsfodrokat tálra rendezzük, köréjük szedjük a babot, a félretett bazsalikommal díszítjük, és a zsírtalanított pecsenyealj társaságában kínáljuk.",
+                "További köretként héjában sült/petrezselymes burgonyát adhatunk mellé.",
+                "TIPP: A hirtelen sült/grillezett húsoknak jót tesz, ha sütés előtt néhány órát páchan pihennek (a legegyszerűbb pác olaj, mustár, só és bors, esetleg tetszés szerinti fűszerkeverékből készíthető).",
+                "Ha azonban a pác bármilyen formában (őrlemény, krém) paprikát is tartalmaz, sütés előtt gondosan el kell távolítani a húsról, mert a benne lévő cukor könnyen megég, és keserű lesz tőle az étel."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/76768daf-4a54-4678-80e7-7ac9bc37d26d_0.jpg",
+            "photo1": "images/76768daf-4a54-4678-80e7-7ac9bc37d26d_1.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 45,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

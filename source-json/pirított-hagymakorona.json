@@ -1,0 +1,76 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Pirított hagymakorona",
+        "recipeIngredient": [
+            "8 nagyobb krumpli",
+            "2 szelet füstölt sonka",
+            "4 fej vöröshagyma",
+            "5 dkg vaj",
+            "két evőkanál méz",
+            "0,5 dl fehérbor",
+            "só, bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A krumplikat sikáljuk meg, és alufóliába csavarva süssük meg."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a vajban feloldott mézben pirítsuk le a karikára vágott hagymát, majd öntsük fel a fehérborral, és lassú tűzön süssük, amíg elfő a leve."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sonkát vágjuk apróra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sült krumplikat vágjuk be hosszában, kanalazzuk rá a sonkakockákat, és koronázzuk a hagymakarikákkal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Friss zöldsaláta illik mellé."
+            }
+        ],
+        "prepTime": "PT35M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/1d294b26-c7c1-483d-9cc6-9a3f14781799_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "1d294b26-c7c1-483d-9cc6-9a3f14781799",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Pirított hagymakorona",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT35M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "8 nagyobb krumpli",
+                "2 szelet füstölt sonka",
+                "4 fej vöröshagyma",
+                "5 dkg vaj",
+                "két evőkanál méz",
+                "0,5 dl fehérbor",
+                "só, bors"
+            ],
+            "recipeDirections": [
+                "A krumplikat sikáljuk meg, és alufóliába csavarva süssük meg.",
+                "Közben a vajban feloldott mézben pirítsuk le a karikára vágott hagymát, majd öntsük fel a fehérborral, és lassú tűzön süssük, amíg elfő a leve.",
+                "A sonkát vágjuk apróra.",
+                "A sült krumplikat vágjuk be hosszában, kanalazzuk rá a sonkakockákat, és koronázzuk a hagymakarikákkal.",
+                "Friss zöldsaláta illik mellé."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/1d294b26-c7c1-483d-9cc6-9a3f14781799_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 56,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

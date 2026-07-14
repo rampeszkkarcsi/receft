@@ -1,0 +1,80 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Tonhalas-paprikás brokkolisaláta",
+        "recipeIngredient": [
+            "500 g brokkoli (mélyhűtött)",
+            "1 közepes fej hagyma vagy 5-6 szál újhagyma",
+            "1 kis fej jéghegysaláta",
+            "1 piros húsú paprika",
+            "1 gerezd fokhagyma",
+            "só, bors",
+            "1 citrom",
+            "2 doboz olívaolajos tonhal (kb. 300 g)",
+            "2-3 szál petrezselyem"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségeket megtisztítjuk, bontjuk, majd (ha mélyhűtött, fagyos állapotban) enyhén sós vízbe dobjuk, és az újraforrástól számított 5 percig főzzük. Hideg vízbe szedve-merítve lehűtjük, lecsepegtetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A citromot félbevágjuk, egyik felét vékonyan felkarikázzuk, a másik levét kinyomjuk és átszűrjük. A hagymát felkarikázzuk, meghintjük sóval, borssal és 2 ek. citromlével. A salátát kicentrifugázzuk/konyharuhával szárazra lapogatjuk, majd falatnyi darabokra tépkedjük, és tálba terítjük. A paprikát vékony csíkokra szeljük. A halat kiemeljük az olajból, lecsepegtetjük, nagyobb darabokra bontjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagyma alól leöntött és még 1-2 ek. citromlében simára keverünk ízlés szerint sót, frissen őrölt borsot, az áttört fokhagymát és a hal olaját."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A brokkolit, paprikát, hagymát a salátaágy tetejére szórjuk-rendezzük, a citromkarikákkal és petrezselyemlevélkékkel díszítjük, de a szépség kedvéért csak fogyasztáskor, az asztalnál locsoljuk meg az öntettel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pirított kenyér, friss, sokmagos zsemle illik hozzá."
+            }
+        ],
+        "prepTime": "PT40M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/3b8cef6e-b516-4ddf-aa27-91fb291b7996_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "3b8cef6e-b516-4ddf-aa27-91fb291b7996",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Tonhalas-paprikás brokkolisaláta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT40M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "500 g brokkoli (mélyhűtött)",
+                "1 közepes fej hagyma vagy 5-6 szál újhagyma",
+                "1 kis fej jéghegysaláta",
+                "1 piros húsú paprika",
+                "1 gerezd fokhagyma",
+                "só, bors",
+                "1 citrom",
+                "2 doboz olívaolajos tonhal (kb. 300 g)",
+                "2-3 szál petrezselyem"
+            ],
+            "recipeDirections": [
+                "A zöldségeket megtisztítjuk, bontjuk, majd (ha mélyhűtött, fagyos állapotban) enyhén sós vízbe dobjuk, és az újraforrástól számított 5 percig főzzük. Hideg vízbe szedve-merítve lehűtjük, lecsepegtetjük.",
+                "A citromot félbevágjuk, egyik felét vékonyan felkarikázzuk, a másik levét kinyomjuk és átszűrjük. A hagymát felkarikázzuk, meghintjük sóval, borssal és 2 ek. citromlével. A salátát kicentrifugázzuk/konyharuhával szárazra lapogatjuk, majd falatnyi darabokra tépkedjük, és tálba terítjük. A paprikát vékony csíkokra szeljük. A halat kiemeljük az olajból, lecsepegtetjük, nagyobb darabokra bontjuk.",
+                "A hagyma alól leöntött és még 1-2 ek. citromlében simára keverünk ízlés szerint sót, frissen őrölt borsot, az áttört fokhagymát és a hal olaját.",
+                "A brokkolit, paprikát, hagymát a salátaágy tetejére szórjuk-rendezzük, a citromkarikákkal és petrezselyemlevélkékkel díszítjük, de a szépség kedvéért csak fogyasztáskor, az asztalnál locsoljuk meg az öntettel.",
+                "Pirított kenyér, friss, sokmagos zsemle illik hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/3b8cef6e-b516-4ddf-aa27-91fb291b7996_0.jpg"
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 79,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

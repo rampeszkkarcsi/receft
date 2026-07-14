@@ -1,0 +1,111 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "TÚRÓOMLETT BAZSALIKOMOS PARADICSOMSALÁTÁVAL",
+        "recipeIngredient": [
+            "230 dkg újburgonya",
+            "só",
+            "egy tojás",
+            "5 evőkanál tej",
+            "2,5 dkg Graham-liszt (teljes kiőrlésű búzaliszt)",
+            "10 dkg tehéntúró",
+            "egy csokor bazsalikom",
+            "egy teáskanál étolaj",
+            "20 dkg érett paradicsom",
+            "frissen őrölt bors",
+            "két evőkanál tejfel",
+            "egy kávéskanál citromlé"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Mossuk meg alaposan a burgonyákat, majd kevés vízben főzzük puhára."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojássárgáját keverjük ki a tejjel, túróval, sóval és a liszttel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A bazsalikomot mossuk meg, tiszta konyharuhán csepegtessük le, majd vágjuk apróra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A mennyiség felét keverjük az omlett tésztájába."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Verjük kemény habbá a tojásfehérjét, azután adjuk óvatosan a tésztához."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Forrósítsuk fel az olajat egy teflonedényben, majd süssük a lepény mindkét oldalát aranybarnára."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Amíg sül, vágjuk kicsi kockákra a megmosott paradicsomot, locsoljuk meg citromlével, szórjuk meg a maradék apróra vágott bazsalikommal, és keverjünk bele tejfelt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tálalás előtt őröljünk a tetejére egy kis borsot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A héjában megfőtt burgonyával együtt tálaljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A burgonyát sütőben is megsüthetjük, finomabb, mint főzve, és héjastól fogyasztható!"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "1 személyre",
+        "image": "images/5d860f38-35fb-4dd8-93a1-e99efdfd2bc8_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "5d860f38-35fb-4dd8-93a1-e99efdfd2bc8",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "TÚRÓOMLETT BAZSALIKOMOS PARADICSOMSALÁTÁVAL",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "1 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "230 dkg újburgonya",
+                "só",
+                "egy tojás",
+                "5 evőkanál tej",
+                "2,5 dkg Graham-liszt (teljes kiőrlésű búzaliszt)",
+                "10 dkg tehéntúró",
+                "egy csokor bazsalikom",
+                "egy teáskanál étolaj",
+                "20 dkg érett paradicsom",
+                "frissen őrölt bors",
+                "két evőkanál tejfel",
+                "egy kávéskanál citromlé"
+            ],
+            "recipeDirections": [
+                "Mossuk meg alaposan a burgonyákat, majd kevés vízben főzzük puhára.",
+                "A tojássárgáját keverjük ki a tejjel, túróval, sóval és a liszttel.",
+                "A bazsalikomot mossuk meg, tiszta konyharuhán csepegtessük le, majd vágjuk apróra.",
+                "A mennyiség felét keverjük az omlett tésztájába.",
+                "Verjük kemény habbá a tojásfehérjét, azután adjuk óvatosan a tésztához.",
+                "Forrósítsuk fel az olajat egy teflonedényben, majd süssük a lepény mindkét oldalát aranybarnára.",
+                "Amíg sül, vágjuk kicsi kockákra a megmosott paradicsomot, locsoljuk meg citromlével, szórjuk meg a maradék apróra vágott bazsalikommal, és keverjünk bele tejfelt.",
+                "Tálalás előtt őröljünk a tetejére egy kis borsot.",
+                "A héjában megfőtt burgonyával együtt tálaljuk.",
+                "A burgonyát sütőben is megsüthetjük, finomabb, mint főzve, és héjastól fogyasztható!"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/5d860f38-35fb-4dd8-93a1-e99efdfd2bc8_0.jpg"
+        },
+        "x-source-file": "6927f13b-408a-4c16-9b05-60d162e1329b.zip",
+        "x-db-id": 200,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

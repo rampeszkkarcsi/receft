@@ -1,0 +1,77 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Francia sajtos rétes",
+        "recipeIngredient": [
+            "400 g mélyhűtött leveles tészta",
+            "50 g puha mazsola",
+            "100 g rokfortos krémsajt",
+            "100 g tehéntúró",
+            "2 tojássárgája",
+            "só, bors",
+            "100 g edami/trappista sajt",
+            "200 g szeletelt főtt tarja/gépsonka",
+            "20 g hámozott mandula",
+            "50 g vaj/margarin"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát szobahőmérsékleten hagyjuk felengedni. A mazsolát leforrázzuk, 5 perc múlva lecsepegtetjük, szárazra töröljük. A krémsajtot simára keverjük az áttört tehéntúróval és a tojássárgákkal, ízlés szerint sózzuk, borsozzuk. A sajtot hajszálvékony szeletekre gyaluljuk, a tarját/sonkát 1/2 cm széles csíkokra, a mandulát durvára vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Olvasztjuk a vajat/margarint. A sütőt előmelegítjük 200 °C-ra. A sütőbe való tepsit kibéleljük sütőpapírral."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy nagyobb konyharuhát megszórunk liszttel, a közepére helyezzük a tésztát, és egészen vékony, nagy téglalapra nyújtjuk. A széleken 3-3 cm-t szabadon hagyva, vékonyan megkenjük olvasztott vajjal/margarinnal, majd a túrós krémmel, aztán megszórjuk a mazsolával, a mandulával, a tarjacsíkokkal, és beterítjük a sajtszeletekkel. A rövidebb tésztaszéleket visszahajtjuk a töltelékre, és a hosszabbik oldalán, a konyharuha segítségével, szorosan feltekerjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tepsibe emeljük a rétest, majd patkó alakban meghajlítjuk, tetejét megkenjük a maradék olvasztott vajjal/margarinnal, villával megszurkáljuk, és 20-25 percig, aranysárgára sütjük. 5-10 percig a tepsiben hagyjuk hűlni, majd 5 cm széles, rézsútos szeletekre vágjuk. Langymelegen az igazi!"
+            }
+        ],
+        "prepTime": "PT50M",
+        "cookTime": "PT25M",
+        "recipeYield": "12 szelet",
+        "image": "images/dfa4da89-3bd8-4bbf-be72-92bca6a2b547_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "dfa4da89-3bd8-4bbf-be72-92bca6a2b547",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Francia sajtos rétes",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "12 szelet",
+            "prepTime": "PT50M",
+            "cookTime": "PT25M",
+            "recipeIngredients": [
+                "400 g mélyhűtött leveles tészta",
+                "50 g puha mazsola",
+                "100 g rokfortos krémsajt",
+                "100 g tehéntúró",
+                "2 tojássárgája",
+                "só, bors",
+                "100 g edami/trappista sajt",
+                "200 g szeletelt főtt tarja/gépsonka",
+                "20 g hámozott mandula",
+                "50 g vaj/margarin"
+            ],
+            "recipeDirections": [
+                "A tésztát szobahőmérsékleten hagyjuk felengedni. A mazsolát leforrázzuk, 5 perc múlva lecsepegtetjük, szárazra töröljük. A krémsajtot simára keverjük az áttört tehéntúróval és a tojássárgákkal, ízlés szerint sózzuk, borsozzuk. A sajtot hajszálvékony szeletekre gyaluljuk, a tarját/sonkát 1/2 cm széles csíkokra, a mandulát durvára vágjuk.",
+                "Olvasztjuk a vajat/margarint. A sütőt előmelegítjük 200 °C-ra. A sütőbe való tepsit kibéleljük sütőpapírral.",
+                "Egy nagyobb konyharuhát megszórunk liszttel, a közepére helyezzük a tésztát, és egészen vékony, nagy téglalapra nyújtjuk. A széleken 3-3 cm-t szabadon hagyva, vékonyan megkenjük olvasztott vajjal/margarinnal, majd a túrós krémmel, aztán megszórjuk a mazsolával, a mandulával, a tarjacsíkokkal, és beterítjük a sajtszeletekkel. A rövidebb tésztaszéleket visszahajtjuk a töltelékre, és a hosszabbik oldalán, a konyharuha segítségével, szorosan feltekerjük.",
+                "A tepsibe emeljük a rétest, majd patkó alakban meghajlítjuk, tetejét megkenjük a maradék olvasztott vajjal/margarinnal, villával megszurkáljuk, és 20-25 percig, aranysárgára sütjük. 5-10 percig a tepsiben hagyjuk hűlni, majd 5 cm széles, rézsútos szeletekre vágjuk. Langymelegen az igazi!"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/dfa4da89-3bd8-4bbf-be72-92bca6a2b547_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 221,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

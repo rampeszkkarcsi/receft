@@ -1,0 +1,61 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sült halfilé alufóliában",
+        "recipeIngredient": [
+            "50 dkg halfilé",
+            "2 dkg vaj",
+            "tárkony",
+            "Citromlé",
+            "Só"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A fagyasztott tengen halat kiengedjük, mindkét oldalát megsózzuk, citromlevet csöpögtetünk rá és megszórjuk tárkonnyal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A szeleteket alufóliára fektet, apró vajdarabkákat teszünk rá és becsomagoljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Forró sütőben, 15-20 perc alatt puhára pároljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "image": "images/c7a7182f-b6f6-4851-aab8-7ec4a1f74ff0_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "c7a7182f-b6f6-4851-aab8-7ec4a1f74ff0",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sült halfilé alufóliában",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "50 dkg halfilé",
+                "2 dkg vaj",
+                "tárkony",
+                "Citromlé",
+                "Só"
+            ],
+            "recipeDirections": [
+                "A fagyasztott tengen halat kiengedjük, mindkét oldalát megsózzuk, citromlevet csöpögtetünk rá és megszórjuk tárkonnyal.",
+                "A szeleteket alufóliára fektet, apró vajdarabkákat teszünk rá és becsomagoljuk.",
+                "Forró sütőben, 15-20 perc alatt puhára pároljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/c7a7182f-b6f6-4851-aab8-7ec4a1f74ff0_0.jpg"
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 37,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

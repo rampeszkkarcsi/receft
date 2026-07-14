@@ -1,0 +1,85 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sajtos makaróni",
+        "recipeIngredient": [
+            "30dkg makaróni tészta",
+            "10dkg vaj",
+            "5 ek rétesliszt",
+            "1/2 liter tej",
+            "só",
+            "fehérbors",
+            "10 dkg reszelt sajt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Tördeld a tésztát 2 cm-es darabokra és főzd meg."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Keverd össze 5dkg vajjal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Amíg a tészta fő, készítsd el a mártást: piríts meg 5dkg vajat, add hozzá a réteslisztet és fél liter hideg tejjel engedd fel, sűrű mártást főzz."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ízesítsd sóval, fehérborssal, reszelt sajttal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Öntsd a mártás felét a tésztához és tedd kivajazott tálba."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A maradék mártást kend a tetejére és szórd meg reszelt sajttal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Süsd pirulásig."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/6a400402-67c3-4151-b3d2-726a03a27d64_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "6a400402-67c3-4151-b3d2-726a03a27d64",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sajtos makaróni",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "30dkg makaróni tészta",
+                "10dkg vaj",
+                "5 ek rétesliszt",
+                "1/2 liter tej",
+                "só",
+                "fehérbors",
+                "10 dkg reszelt sajt"
+            ],
+            "recipeDirections": [
+                "Tördeld a tésztát 2 cm-es darabokra és főzd meg.",
+                "Keverd össze 5dkg vajjal.",
+                "Amíg a tészta fő, készítsd el a mártást: piríts meg 5dkg vajat, add hozzá a réteslisztet és fél liter hideg tejjel engedd fel, sűrű mártást főzz.",
+                "Ízesítsd sóval, fehérborssal, reszelt sajttal.",
+                "Öntsd a mártás felét a tésztához és tedd kivajazott tálba.",
+                "A maradék mártást kend a tetejére és szórd meg reszelt sajttal.",
+                "Süsd pirulásig."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/6a400402-67c3-4151-b3d2-726a03a27d64_0.jpg"
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 34,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

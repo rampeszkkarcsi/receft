@@ -1,0 +1,74 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gombás penne",
+        "recipeIngredient": [
+            "20 dkg széles metélt",
+            "1 fej vöröshagyma",
+            "30 dkg vegyes gomba",
+            "10 dkg vaj",
+            "2 dl alaplé",
+            "só",
+            "bors",
+            "friss petrezselyemzöld",
+            "10 dkg pizza mozzarella",
+            "olívaolaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Kevés olívaolajon megdinszteljük a felaprított vöröshagymát, s mikor már kapott egy kis színt hozzáadjuk az alaposan megtisztított, fás részeitől megszabadított és feldarabolt gombákat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Vegyük fel alatta a hőmérsékletet, hogy a kiengedett levét elfőzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha megpirult a gomba, felöntjük az alaplével és hozzáadjuk a vajat, ezzel sűrítjük a mártást."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tálaláskor mozzarellát reszelünk a tetejére és petrezselyemzölddel megszórjuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "x-recipe-keeper": {
+            "recipeId": "64cd30b5-5ac0-47c2-ac37-a1ea4e824927",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gombás penne",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "20 dkg széles metélt",
+                "1 fej vöröshagyma",
+                "30 dkg vegyes gomba",
+                "10 dkg vaj",
+                "2 dl alaplé",
+                "só",
+                "bors",
+                "friss petrezselyemzöld",
+                "10 dkg pizza mozzarella",
+                "olívaolaj"
+            ],
+            "recipeDirections": [
+                "Kevés olívaolajon megdinszteljük a felaprított vöröshagymát, s mikor már kapott egy kis színt hozzáadjuk az alaposan megtisztított, fás részeitől megszabadított és feldarabolt gombákat.",
+                "Vegyük fel alatta a hőmérsékletet, hogy a kiengedett levét elfőzzük.",
+                "Ha megpirult a gomba, felöntjük az alaplével és hozzáadjuk a vajat, ezzel sűrítjük a mártást.",
+                "Tálaláskor mozzarellát reszelünk a tetejére és petrezselyemzölddel megszórjuk."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 243,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

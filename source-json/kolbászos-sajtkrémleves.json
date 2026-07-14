@@ -1,0 +1,78 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kolbászos sajtkrémleves",
+        "recipeIngredient": [
+            "2 szál újhagyma",
+            "kevés olaj",
+            "35 dkg érlelt, félig lágy sajt",
+            "1-1 szál lestyán és rozmaring",
+            "5 dl zöldségleves",
+            "1 ek. étkezési keményítő",
+            "2 dl magas zsírtartalmú tejszín",
+            "10 dkg füstölt szárazkolbász"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A felkarikázott újhagymát kevés olajon megpirítjuk, rátesszük a kockára vágott sajtot, a finomra vágott lestyánt és rozmaringot, majd felengedjük a zöldséglevessel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Addig főzzük, amíg a sajt elolvad, aztán összeturmixoljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Visszatesszük a tűzre, és a kevés vízzel elkevert étkezési keményítővel besűrítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a tejszínt, sózzuk, borsozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A felkarikázott kolbászt egy serpenyőben a vajon megpirítjuk, és tálaláskor a leves tetejére tesszük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 PERSON",
+        "image": "images/2d66d823-62b8-40ed-80e2-a949b50d1589_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "2d66d823-62b8-40ed-80e2-a949b50d1589",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kolbászos sajtkrémleves",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "2 szál újhagyma",
+                "kevés olaj",
+                "35 dkg érlelt, félig lágy sajt",
+                "1-1 szál lestyán és rozmaring",
+                "5 dl zöldségleves",
+                "1 ek. étkezési keményítő",
+                "2 dl magas zsírtartalmú tejszín",
+                "10 dkg füstölt szárazkolbász"
+            ],
+            "recipeDirections": [
+                "A felkarikázott újhagymát kevés olajon megpirítjuk, rátesszük a kockára vágott sajtot, a finomra vágott lestyánt és rozmaringot, majd felengedjük a zöldséglevessel.",
+                "Addig főzzük, amíg a sajt elolvad, aztán összeturmixoljuk.",
+                "Visszatesszük a tűzre, és a kevés vízzel elkevert étkezési keményítővel besűrítjük.",
+                "Hozzáadjuk a tejszínt, sózzuk, borsozzuk.",
+                "A felkarikázott kolbászt egy serpenyőben a vajon megpirítjuk, és tálaláskor a leves tetejére tesszük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/2d66d823-62b8-40ed-80e2-a949b50d1589_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 50,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

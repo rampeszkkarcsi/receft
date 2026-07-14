@@ -1,0 +1,99 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Nyakas karaj puliszkával",
+        "recipeIngredient": [
+            "60 dkg rövidkaraj",
+            "5 dkg mustár",
+            "só, bors, olaj",
+            "1 kiskanál zsír (vaj)",
+            "20 dkg kukoricadara",
+            "20 dkg kecskesajt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Ehhez az ételhez zsíros rövidkaraj való, az sem baj, ha már szinte tarjának látszik."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A karajt szeleteljük fel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fűszerezzük őrölt borssal, kenjük be mustárral, öntsük le olajjal, és pár napra tegyük a hűtőbe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütés előtt sózzuk meg, és rostélyon mindkét oldalát süssük szép pirosra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Köretként adjunk hozzá puliszkát, amelyhez 1 liter sós, forró vízben oldjuk fel a zsírt, majd folyamatos kevergetés mellett főzzük bele a kukoricadarát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fűszerezzük őrölt borssal, apróra vágott petrezselyemmel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Öntsük kiöblített őzgerincformába."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mikor megdermedt, szeleteljük fel, majd fektessünk mindegyikre kecskesajtot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Így grillezük meg vagy tegyük a sütőbe, amíg megpirul a sajt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kínáljunk hozzá friss káposztasalátát."
+            }
+        ],
+        "prepTime": "PT30M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/3273a1b2-07c3-49b5-af17-b2a35588b759_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "3273a1b2-07c3-49b5-af17-b2a35588b759",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Nyakas karaj puliszkával",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT30M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "60 dkg rövidkaraj",
+                "5 dkg mustár",
+                "só, bors, olaj",
+                "1 kiskanál zsír (vaj)",
+                "20 dkg kukoricadara",
+                "20 dkg kecskesajt"
+            ],
+            "recipeDirections": [
+                "Ehhez az ételhez zsíros rövidkaraj való, az sem baj, ha már szinte tarjának látszik.",
+                "A karajt szeleteljük fel.",
+                "Fűszerezzük őrölt borssal, kenjük be mustárral, öntsük le olajjal, és pár napra tegyük a hűtőbe.",
+                "Sütés előtt sózzuk meg, és rostélyon mindkét oldalát süssük szép pirosra.",
+                "Köretként adjunk hozzá puliszkát, amelyhez 1 liter sós, forró vízben oldjuk fel a zsírt, majd folyamatos kevergetés mellett főzzük bele a kukoricadarát.",
+                "Fűszerezzük őrölt borssal, apróra vágott petrezselyemmel.",
+                "Öntsük kiöblített őzgerincformába.",
+                "Mikor megdermedt, szeleteljük fel, majd fektessünk mindegyikre kecskesajtot.",
+                "Így grillezük meg vagy tegyük a sütőbe, amíg megpirul a sajt.",
+                "Kínáljunk hozzá friss káposztasalátát."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/3273a1b2-07c3-49b5-af17-b2a35588b759_0.jpg"
+        },
+        "x-source-file": "a732a041-ba4a-4467-98ee-e33a82efcb46.zip",
+        "x-db-id": 266,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

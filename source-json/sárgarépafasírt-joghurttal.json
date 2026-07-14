@@ -1,0 +1,81 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sárgarépafasírt joghurttal",
+        "recipeIngredient": [
+            "60 dkg sárgarépa",
+            "1 csokor petrezselyem",
+            "3 db tojás",
+            "só",
+            "zsemlemorzsa",
+            "4 dl joghurt",
+            "1 ek. római kömény",
+            "2 ek. olívaolaj",
+            "fél citrom",
+            "1 dl napraforgóolaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A sárgarépát megtisztítjuk, lereszeljük, kissé kinyomkodjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Összekeverjük a tojással, a finomra vágott petrezselyemmel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ízesítjük sóval, és annyi morzsát adunk hozzá, hogy formázható legyen."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kis pogácsákat készítünk és kevés napraforgóolajon mindkét oldalán megsütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A joghurtot a citrom levével, római köménnyel és olívaolajjal elkeverjük, majd a kisült répapogácsák mellé kínáljuk, mártogatósnak."
+            }
+        ],
+        "prepTime": "PT35M",
+        "cookTime": "PT0S",
+        "image": "images/e952b762-ef4e-462f-abe7-e853600cf756_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "e952b762-ef4e-462f-abe7-e853600cf756",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sárgarépafasírt joghurttal",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT35M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "60 dkg sárgarépa",
+                "1 csokor petrezselyem",
+                "3 db tojás",
+                "só",
+                "zsemlemorzsa",
+                "4 dl joghurt",
+                "1 ek. római kömény",
+                "2 ek. olívaolaj",
+                "fél citrom",
+                "1 dl napraforgóolaj"
+            ],
+            "recipeDirections": [
+                "A sárgarépát megtisztítjuk, lereszeljük, kissé kinyomkodjuk.",
+                "Összekeverjük a tojással, a finomra vágott petrezselyemmel.",
+                "Ízesítjük sóval, és annyi morzsát adunk hozzá, hogy formázható legyen.",
+                "Kis pogácsákat készítünk és kevés napraforgóolajon mindkét oldalán megsütjük.",
+                "A joghurtot a citrom levével, római köménnyel és olívaolajjal elkeverjük, majd a kisült répapogácsák mellé kínáljuk, mártogatósnak."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/e952b762-ef4e-462f-abe7-e853600cf756_0.jpg"
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 76,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

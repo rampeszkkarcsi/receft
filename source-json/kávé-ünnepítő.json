@@ -1,0 +1,39 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kávé ünnepítő",
+        "recipeIngredient": [
+            "200 g kávékémpor",
+            "250 g kakaó (Nesquik)",
+            "2-3 dl rum"
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/05038366-0c63-4c0d-8253-9a0de8ebe538_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "05038366-0c63-4c0d-8253-9a0de8ebe538",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kávé ünnepítő",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "200 g kávékémpor",
+                "250 g kakaó (Nesquik)",
+                "2-3 dl rum"
+            ],
+            "recipeDirections": [],
+            "recipeNotes": [],
+            "photo0": "images/05038366-0c63-4c0d-8253-9a0de8ebe538_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 17,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

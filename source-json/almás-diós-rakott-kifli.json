@@ -1,0 +1,124 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Almás-diós rakott kifli",
+        "recipeIngredient": [
+            "6 szikkadt, nagyobb kifli",
+            "1 biocitrom héja",
+            "50+50+50 g porcukor+ a szóráshoz",
+            "4 dl tej",
+            "1/2 kk. őrölt fahéj",
+            "60 g dió",
+            "1 kg savanykás alma",
+            "diónyi+60 g lágy vaj/margarin",
+            "4 tojás",
+            "só",
+            "1 tasak bourbon vaníliás cukor (10 g)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A kifliket 2-2,5 cm vastag karikákra vágjuk, tálba szórjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "2-3 ujjnyi citromhéjjal és 50 g porcukorral felforraljuk a tejet, a kiflire szűrjük, 30 percig pihentetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Összekeverjük a fahéjat 50 g porcukorral."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A dió felét megdaráljuk, felét darabosra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az almákat meghámozzuk, elnegyedeljük, magházukat kiemeljük, vékony szeletekre gyaluljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kikenünk diónyi vajjal/margarinnal és beszórunk darált dióval egy csinos tűzálló tálat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojásokat kettéválasztjuk, a fehérjéket 1 csipet sóval kemény habbá verjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "60 g vajat/margarint habosra keverünk 50 g porcukorral és a vaníliás cukorral, egyenként beledolgozzuk a tojások sárgáját, majd a tojáshabot, és óvatosan összeforgatjuk a kiflivel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A massza felét a tálba simítjuk, megszórjuk az alma, a fahéjas porcukor és a darabos dió felével, valamint a maradék darált dióval."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tetejére simítjuk a maradék masszát, aztán a maradék alma, fahéjas porcukor és darabos dió következik."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "180 °C-os sütőben enyhe pirulásig sütjük (40-45 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tetejét meghintjük porcukorral, és mentalevélkékkel vidámítva kínáljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "TIPP: Gazdagíthatjuk 50-80 g puha mazsolával is, amelyet a 2 réteg kifli közé szórunk."
+            }
+        ],
+        "prepTime": "PT1H30M",
+        "cookTime": "PT45M",
+        "recipeYield": "4 személyre",
+        "image": "images/5806f932-c007-496a-b445-d350293f01c4_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "5806f932-c007-496a-b445-d350293f01c4",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Almás-diós rakott kifli",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H30M",
+            "cookTime": "PT45M",
+            "recipeIngredients": [
+                "6 szikkadt, nagyobb kifli",
+                "1 biocitrom héja",
+                "50+50+50 g porcukor+ a szóráshoz",
+                "4 dl tej",
+                "1/2 kk. őrölt fahéj",
+                "60 g dió",
+                "1 kg savanykás alma",
+                "diónyi+60 g lágy vaj/margarin",
+                "4 tojás",
+                "só",
+                "1 tasak bourbon vaníliás cukor (10 g)"
+            ],
+            "recipeDirections": [
+                "A kifliket 2-2,5 cm vastag karikákra vágjuk, tálba szórjuk.",
+                "2-3 ujjnyi citromhéjjal és 50 g porcukorral felforraljuk a tejet, a kiflire szűrjük, 30 percig pihentetjük.",
+                "Összekeverjük a fahéjat 50 g porcukorral.",
+                "A dió felét megdaráljuk, felét darabosra vágjuk.",
+                "Az almákat meghámozzuk, elnegyedeljük, magházukat kiemeljük, vékony szeletekre gyaluljuk.",
+                "Kikenünk diónyi vajjal/margarinnal és beszórunk darált dióval egy csinos tűzálló tálat.",
+                "A tojásokat kettéválasztjuk, a fehérjéket 1 csipet sóval kemény habbá verjük.",
+                "60 g vajat/margarint habosra keverünk 50 g porcukorral és a vaníliás cukorral, egyenként beledolgozzuk a tojások sárgáját, majd a tojáshabot, és óvatosan összeforgatjuk a kiflivel.",
+                "A massza felét a tálba simítjuk, megszórjuk az alma, a fahéjas porcukor és a darabos dió felével, valamint a maradék darált dióval.",
+                "Tetejére simítjuk a maradék masszát, aztán a maradék alma, fahéjas porcukor és darabos dió következik.",
+                "180 °C-os sütőben enyhe pirulásig sütjük (40-45 perc).",
+                "Tetejét meghintjük porcukorral, és mentalevélkékkel vidámítva kínáljuk.",
+                "TIPP: Gazdagíthatjuk 50-80 g puha mazsolával is, amelyet a 2 réteg kifli közé szórunk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/5806f932-c007-496a-b445-d350293f01c4_0.jpg"
+        },
+        "x-source-file": "78c7b1d4-56f5-40ee-9e76-a7d93ffbed93.zip",
+        "x-db-id": 142,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

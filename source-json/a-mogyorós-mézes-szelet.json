@@ -1,0 +1,102 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "A MOGYORÓS MÉZES SZELET",
+        "recipeIngredient": [
+            "Elkészítési idő: 50 perc",
+            "+1 óra pihentetés",
+            "1 szelet: 130 kcal/541 kJ",
+            "KB. 50 SZELETHEZ:",
+            "● 200 g méz 125 g vaj/margarin",
+            "250 g barna cukor 500 g finomliszt",
+            "1 kk. szódabikarbóna",
+            "O 1/2-1/2 kk. őrölt szegfűszeg, szerecsendió,",
+            "kardamom ⚫ 1 kk. őrölt fahéj",
+            "250 g hámozott mogyoró",
+            "60 g cukrozott narancshéj (oranzsát)",
+            "60 g cukrozott citromhéj (citronát)",
+            "1 tojás • 2 ek. tej",
+            "2 ek. rum/6-8 csepp rumaroma",
+            "1 tojás a kenéshez ⚫1 ek. morzsacukor"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A mézet a vajjal/margarinnal és a cukorral szelíd tűzön addig forrósítjuk, amíg a cukor el nem olvad. Az edényt hideg vízbe állítjuk, langyosra hűtjük a mézes keveréket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Összekeverjük a lisztet a szódabikarbónával és a fűszerekkel. A mogyorót durvára vágjuk, 2 púpozott evőkanálnyit félreteszünk a díszítéshez. A cukrozott citrushéjakat finomra aprózzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Elkeverjük a tojást a tejjel és a rummal, beledolgozzuk a mézbe, majd az egész keveréket a liszthez adjuk. Beleszórjuk a mogyorót és a citrushéjakat, fakanállal összekeverjük, tetejét elsimítjuk, fóliával letakarjuk, és a hűtőben 1 órát pihentetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt előmelegítjük 180 °C-ra. Egy kb. 40 cm széles sütőpapírtekercsből levágunk egy 70 cm-es darabot, kettéhajtjuk, az alsó lapot behintjük liszttel. Ráhelyezzük a tésztát, tetejét megszórjuk fátyolnyi liszttel, ráhajtjuk a felső papírlapot, és 1 cm vastag, kb. 30x40 cm-es lapra nyújtjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőpapírral együtt szabályosan körbevágjuk, majd „behúzzuk” a tepsibe. A felső papírlapot kihajtjuk, levágjuk, eltávolítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tetejét megkenjük a felvert tojással, sűrűn beszórjuk a félretett mogyoróval (vagy felét mogyoróval, felét morzsacukorral), és középső bordamagasságon addig sütjük, amíg a teteje aranybarnára pirul (12-15 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tepsiben hagyjuk kihűlni, aztán deszkára csúsztatjuk, és hosszú pengéjű (kenyérvágó) késsel szép szabályos, 3x8 cm-es nagyságú szeletekre vágjuk."
+            }
+        ],
+        "prepTime": "PT50M",
+        "cookTime": "PT15M",
+        "recipeYield": "KB. 50 SZELETHEZ",
+        "image": "images/daa2cf1f-8e70-4f8b-b25c-0eaa914fe201_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "daa2cf1f-8e70-4f8b-b25c-0eaa914fe201",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "A MOGYORÓS MÉZES SZELET",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "KB. 50 SZELETHEZ",
+            "prepTime": "PT50M",
+            "cookTime": "PT15M",
+            "recipeIngredients": [
+                "Elkészítési idő: 50 perc",
+                "+1 óra pihentetés",
+                "1 szelet: 130 kcal/541 kJ",
+                "KB. 50 SZELETHEZ:",
+                "● 200 g méz 125 g vaj/margarin",
+                "250 g barna cukor 500 g finomliszt",
+                "1 kk. szódabikarbóna",
+                "O 1/2-1/2 kk. őrölt szegfűszeg, szerecsendió,",
+                "kardamom ⚫ 1 kk. őrölt fahéj",
+                "250 g hámozott mogyoró",
+                "60 g cukrozott narancshéj (oranzsát)",
+                "60 g cukrozott citromhéj (citronát)",
+                "1 tojás • 2 ek. tej",
+                "2 ek. rum/6-8 csepp rumaroma",
+                "1 tojás a kenéshez ⚫1 ek. morzsacukor"
+            ],
+            "recipeDirections": [
+                "A mézet a vajjal/margarinnal és a cukorral szelíd tűzön addig forrósítjuk, amíg a cukor el nem olvad. Az edényt hideg vízbe állítjuk, langyosra hűtjük a mézes keveréket.",
+                "Összekeverjük a lisztet a szódabikarbónával és a fűszerekkel. A mogyorót durvára vágjuk, 2 púpozott evőkanálnyit félreteszünk a díszítéshez. A cukrozott citrushéjakat finomra aprózzuk.",
+                "Elkeverjük a tojást a tejjel és a rummal, beledolgozzuk a mézbe, majd az egész keveréket a liszthez adjuk. Beleszórjuk a mogyorót és a citrushéjakat, fakanállal összekeverjük, tetejét elsimítjuk, fóliával letakarjuk, és a hűtőben 1 órát pihentetjük.",
+                "A sütőt előmelegítjük 180 °C-ra. Egy kb. 40 cm széles sütőpapírtekercsből levágunk egy 70 cm-es darabot, kettéhajtjuk, az alsó lapot behintjük liszttel. Ráhelyezzük a tésztát, tetejét megszórjuk fátyolnyi liszttel, ráhajtjuk a felső papírlapot, és 1 cm vastag, kb. 30x40 cm-es lapra nyújtjuk.",
+                "A sütőpapírral együtt szabályosan körbevágjuk, majd „behúzzuk” a tepsibe. A felső papírlapot kihajtjuk, levágjuk, eltávolítjuk.",
+                "Tetejét megkenjük a felvert tojással, sűrűn beszórjuk a félretett mogyoróval (vagy felét mogyoróval, felét morzsacukorral), és középső bordamagasságon addig sütjük, amíg a teteje aranybarnára pirul (12-15 perc).",
+                "A tepsiben hagyjuk kihűlni, aztán deszkára csúsztatjuk, és hosszú pengéjű (kenyérvágó) késsel szép szabályos, 3x8 cm-es nagyságú szeletekre vágjuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/daa2cf1f-8e70-4f8b-b25c-0eaa914fe201_0.jpg"
+        },
+        "x-source-file": "78c7b1d4-56f5-40ee-9e76-a7d93ffbed93.zip",
+        "x-db-id": 141,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

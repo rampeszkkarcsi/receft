@@ -1,0 +1,84 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Karácsonyi pulyka comb (Mami féle)",
+        "recipeIngredient": [
+            "Bőrös pulyka comb",
+            "Só",
+            "Füstölt szalonna szeletek",
+            "Vörösbor"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Jól besózom, legalább 1 órát állni hagyom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A combot beborítom füstölt szalonna szeletekkel. (cérnával megkötöm)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Zsirral kikent edénybe teszem, fóliával lefedem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "225 °C-on 1 órát sütöm."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Majd a fóliát lerakom, megfordítom a húst, levágom a cérnát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ráöntök 1 db vörösbort."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "175 °C-on tovább sütöm, amíg szépen megpirul."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sült levével locsolgatom."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT1H",
+        "image": "images/e9755219-3ab7-4bbd-b756-6a79b37a03f9_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "e9755219-3ab7-4bbd-b756-6a79b37a03f9",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Karácsonyi pulyka comb (Mami féle)",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT1H",
+            "recipeIngredients": [
+                "Bőrös pulyka comb",
+                "Só",
+                "Füstölt szalonna szeletek",
+                "Vörösbor"
+            ],
+            "recipeDirections": [
+                "Jól besózom, legalább 1 órát állni hagyom.",
+                "A combot beborítom füstölt szalonna szeletekkel. (cérnával megkötöm)",
+                "Zsirral kikent edénybe teszem, fóliával lefedem.",
+                "225 °C-on 1 órát sütöm.",
+                "Majd a fóliát lerakom, megfordítom a húst, levágom a cérnát.",
+                "Ráöntök 1 db vörösbort.",
+                "175 °C-on tovább sütöm, amíg szépen megpirul.",
+                "Sült levével locsolgatom."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/e9755219-3ab7-4bbd-b756-6a79b37a03f9_0.jpg"
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 27,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

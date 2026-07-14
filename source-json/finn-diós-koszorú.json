@@ -1,0 +1,82 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Finn diós koszorú",
+        "recipeIngredient": [
+            "20 g élesztő",
+            "50 g cukor",
+            "1,5 dl langyos tej",
+            "1 tojás",
+            "1 csipet só",
+            "250 g liszt",
+            "50 g vaj/margarin",
+            "1 tojássárgája a kenéshez",
+            "1 ek. mandulaforgács",
+            "A töltelékhez",
+            "60 g vaj/margarin",
+            "70 g barnacukor",
+            "1 ek. liszt",
+            "1 kk. mézeskalácsfűszer",
+            "80 g durvára vágott dió"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Az élesztőt 1 kk. cukorral 1/2 dl tejben felfuttatjuk. A maradék tejben elkeverjük a maradék cukrot, a tojást és a sót, majd a felfuttatott élesztővel, valamint az olvasztott vajjal/margarinnal együtt a liszthez adjuk. Hólyagosra kidolgozzuk, azután konyharuhával letakarjuk, és meleg helyen a kétszeresére kelesztjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A töltelékhez simára keverjük a vajat/margarint barnacukorral, a liszttel, a mézeskalácsfűszerrel és a dióval. A megkelt tésztát átgyúrjuk, és téglalap alakúra nyújtjuk. Rákkenjük a tölteléket, feltekerjük, koszorú alakban meghajlítjuk, majd sütőpapírral bélelt tepsire emeljük, és 3-4 cm-enként mélyen bevágjuk a tetejét. A vágás mentén keletkező szeleteket felváltva kifelé-befelé eltoljuk, azután letakarjuk, és még egyszer megkelesztjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megkenjük a tésztát a tojássárgájával, megszórjuk a mandulaforgáccsal, majd 200 °C-ra előmelegített sütőben 20-25 percig sütjük - ha nagyon pirulna a teteje, alufóliával letakarjuk (egy kevés a töltelékből is kifolyhat, megpirul, az a legfinomabb!). A tepsiben hagyjuk langyosra hűlni, majd rácsra csúsztatjuk, és nem szeleteljük, inkább csak kézzel szétbontjuk."
+            }
+        ],
+        "prepTime": "PT2H30M",
+        "cookTime": "PT25M",
+        "recipeYield": "16 szelet",
+        "image": "images/e82c6d9e-d107-492c-82db-196f1a650f65_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "e82c6d9e-d107-492c-82db-196f1a650f65",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Finn diós koszorú",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "16 szelet",
+            "prepTime": "PT2H30M",
+            "cookTime": "PT25M",
+            "recipeIngredients": [
+                "20 g élesztő",
+                "50 g cukor",
+                "1,5 dl langyos tej",
+                "1 tojás",
+                "1 csipet só",
+                "250 g liszt",
+                "50 g vaj/margarin",
+                "1 tojássárgája a kenéshez",
+                "1 ek. mandulaforgács",
+                "A töltelékhez",
+                "60 g vaj/margarin",
+                "70 g barnacukor",
+                "1 ek. liszt",
+                "1 kk. mézeskalácsfűszer",
+                "80 g durvára vágott dió"
+            ],
+            "recipeDirections": [
+                "Az élesztőt 1 kk. cukorral 1/2 dl tejben felfuttatjuk. A maradék tejben elkeverjük a maradék cukrot, a tojást és a sót, majd a felfuttatott élesztővel, valamint az olvasztott vajjal/margarinnal együtt a liszthez adjuk. Hólyagosra kidolgozzuk, azután konyharuhával letakarjuk, és meleg helyen a kétszeresére kelesztjük.",
+                "A töltelékhez simára keverjük a vajat/margarint barnacukorral, a liszttel, a mézeskalácsfűszerrel és a dióval. A megkelt tésztát átgyúrjuk, és téglalap alakúra nyújtjuk. Rákkenjük a tölteléket, feltekerjük, koszorú alakban meghajlítjuk, majd sütőpapírral bélelt tepsire emeljük, és 3-4 cm-enként mélyen bevágjuk a tetejét. A vágás mentén keletkező szeleteket felváltva kifelé-befelé eltoljuk, azután letakarjuk, és még egyszer megkelesztjük.",
+                "Megkenjük a tésztát a tojássárgájával, megszórjuk a mandulaforgáccsal, majd 200 °C-ra előmelegített sütőben 20-25 percig sütjük - ha nagyon pirulna a teteje, alufóliával letakarjuk (egy kevés a töltelékből is kifolyhat, megpirul, az a legfinomabb!). A tepsiben hagyjuk langyosra hűlni, majd rácsra csúsztatjuk, és nem szeleteljük, inkább csak kézzel szétbontjuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/e82c6d9e-d107-492c-82db-196f1a650f65_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 219,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

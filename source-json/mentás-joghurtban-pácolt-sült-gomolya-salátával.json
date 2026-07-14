@@ -1,0 +1,84 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Mentás joghurtban pácolt sült gomolya salátával",
+        "recipeIngredient": [
+            "40 dkg natúr gomolya sajt",
+            "3 dl natúr joghurt",
+            "8-10 levél friss menta",
+            "30 dkg salátakeverék (rukola, bébispenót, endívia stb.)",
+            "4 szál újhagyma",
+            "só",
+            "bors",
+            "4 ek. olívaolaj",
+            "1 ek. balzsamecet",
+            "1 kis bagett",
+            "olívaolaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A sajtot felszeleteljük, a mentalevelekkel és egy csipet sóval együtt a joghurtba tesszük, majd egy éjszakán keresztül a hűtőben pihentetjük. (Ezalatt a sajt enyhén mentás-joghurtos ízt kap.)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Másnap kivesszük a joghurtból, letörölgetjük, és 2 evőkanál olívaolajon a felkarikázott bagettszeletekkel együtt megpirítjuk mindkét oldalát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a salátakeveréket összeforgatjuk 2 evőkanál olívaolajjal, a balzsamecettel és a mentás-sós joghurttal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megszórjuk a felkarikázott újhagymával, borsozzuk, majd tányérokba szedjük, és ráhelyezzük a sajtot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A pirított bagettel kínáljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/b9ec2d50-7b1c-47ee-b471-2812aff70f68_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "b9ec2d50-7b1c-47ee-b471-2812aff70f68",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Mentás joghurtban pácolt sült gomolya salátával",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "40 dkg natúr gomolya sajt",
+                "3 dl natúr joghurt",
+                "8-10 levél friss menta",
+                "30 dkg salátakeverék (rukola, bébispenót, endívia stb.)",
+                "4 szál újhagyma",
+                "só",
+                "bors",
+                "4 ek. olívaolaj",
+                "1 ek. balzsamecet",
+                "1 kis bagett",
+                "olívaolaj"
+            ],
+            "recipeDirections": [
+                "A sajtot felszeleteljük, a mentalevelekkel és egy csipet sóval együtt a joghurtba tesszük, majd egy éjszakán keresztül a hűtőben pihentetjük. (Ezalatt a sajt enyhén mentás-joghurtos ízt kap.)",
+                "Másnap kivesszük a joghurtból, letörölgetjük, és 2 evőkanál olívaolajon a felkarikázott bagettszeletekkel együtt megpirítjuk mindkét oldalát.",
+                "Közben a salátakeveréket összeforgatjuk 2 evőkanál olívaolajjal, a balzsamecettel és a mentás-sós joghurttal.",
+                "Megszórjuk a felkarikázott újhagymával, borsozzuk, majd tányérokba szedjük, és ráhelyezzük a sajtot.",
+                "A pirított bagettel kínáljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/b9ec2d50-7b1c-47ee-b471-2812aff70f68_0.jpg"
+        },
+        "x-source-file": "6e03e7be-5be6-419b-9334-749488909078.zip",
+        "x-db-id": 129,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Csirkemell őzgerincformában sütve",
+        "recipeIngredient": [
+            "80 dkg csirkemell",
+            "20 dkg bacon szalonna",
+            "15 dkg reszelt sajt",
+            "só",
+            "bors",
+            "petrezselyem ízlés szerint",
+            "4 evőkanál tejföl",
+            "3 evőkanál liszt",
+            "2 tojás"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A húst vágjuk apró kockára, sózzuk, borsozzuk, és hagyjuk állni egy kicsit."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "3 evőkanál tejfölt, a tojásokkal, liszttel, a sóval, a borssal, a petrezselyemmel, 10 dkg reszelt sajttal masszává keverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A felkockázott húst adjuk hozzá a sajtos-tejfölös masszához."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha a húst előre besóztuk, és hagytuk állni is akkor a masszába már ne tegyünk túl sok sót."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az őzgerincformát kivajazzuk, megszórjuk zsemlemorzsával és kibéleljük szalonnával úgy, hogy a szélei kilógjanak a formából."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A húsos masszát kanalazzuk a formába és hajtsuk rá a lelógó szalonnát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hosszában a tetejére is tegyünk szalonnacsíkokat, kenjük meg a maradék egy evőkanál tejföllel, majd szórjuk meg a maradék 5 dkg reszelt sajttal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Előmelegített sütőben, 170 fokon, kb. 40 perc alatt süssük készre."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy sütőpapíros tepsire helyezve süssük, hogy az esetlegesen kifolyó szaft ne folyjon a sütőbe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Amikor megsült kifordítottam a formából a sütőpapíros tepsire és addig pirítottam míg a szalonna nem kapott egy kis színt."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT40M",
+        "x-recipe-keeper": {
+            "recipeId": "dab13f79-7e31-4829-a65d-cc1d8aa048d0",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Csirkemell őzgerincformában sütve",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT40M",
+            "recipeIngredients": [
+                "80 dkg csirkemell",
+                "20 dkg bacon szalonna",
+                "15 dkg reszelt sajt",
+                "só",
+                "bors",
+                "petrezselyem ízlés szerint",
+                "4 evőkanál tejföl",
+                "3 evőkanál liszt",
+                "2 tojás"
+            ],
+            "recipeDirections": [
+                "A húst vágjuk apró kockára, sózzuk, borsozzuk, és hagyjuk állni egy kicsit.",
+                "3 evőkanál tejfölt, a tojásokkal, liszttel, a sóval, a borssal, a petrezselyemmel, 10 dkg reszelt sajttal masszává keverjük.",
+                "A felkockázott húst adjuk hozzá a sajtos-tejfölös masszához.",
+                "Ha a húst előre besóztuk, és hagytuk állni is akkor a masszába már ne tegyünk túl sok sót.",
+                "Az őzgerincformát kivajazzuk, megszórjuk zsemlemorzsával és kibéleljük szalonnával úgy, hogy a szélei kilógjanak a formából.",
+                "A húsos masszát kanalazzuk a formába és hajtsuk rá a lelógó szalonnát.",
+                "Hosszában a tetejére is tegyünk szalonnacsíkokat, kenjük meg a maradék egy evőkanál tejföllel, majd szórjuk meg a maradék 5 dkg reszelt sajttal.",
+                "Előmelegített sütőben, 170 fokon, kb. 40 perc alatt süssük készre.",
+                "Egy sütőpapíros tepsire helyezve süssük, hogy az esetlegesen kifolyó szaft ne folyjon a sütőbe.",
+                "Amikor megsült kifordítottam a formából a sütőpapíros tepsire és addig pirítottam míg a szalonna nem kapott egy kis színt."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 64,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

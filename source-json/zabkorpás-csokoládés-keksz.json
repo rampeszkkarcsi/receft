@@ -1,0 +1,74 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Zabkorpás-csokoládés keksz",
+        "recipeIngredient": [
+            "23 dkg kristálycukor",
+            "1 db tojás",
+            "1 kiskanál Dr. Oetker Sütőpor",
+            "16 dkg zabkorpa (4 dl)",
+            "1,5 dl főzőtejszín",
+            "1 csomag Dr. Oetker Vanillincukor",
+            "13 dkg finomliszt (2 dl)",
+            "6 dkg durvára vágott étcsokoládé",
+            "1 mokkáskanálnyi só",
+            "20 dkg Rama"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A Ramát először magában, majd a cukorral keverjük habosra, azután a tojást is beledolgozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet, a zabkorpát, a csokoládét, a sütőport, a sót összekeverjük, a Ramás masszához adjuk és a tejszínt is beleöntjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Vízbe mártott kiskanállal, sütőpapírral bélelt tepsibe mindössze 4x4 halmocskát rakunk belőle, nehogy elterülve összetapadjanak."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Előmelegített sütőben, a közepesnél nagyobb lánggal (200 °C, légkeveréses sütőben 180 °C) kb. 12 percig sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT12M",
+        "x-recipe-keeper": {
+            "recipeId": "3a693b3b-05cb-4156-9277-88844e1f6180",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Zabkorpás-csokoládés keksz",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT12M",
+            "recipeIngredients": [
+                "23 dkg kristálycukor",
+                "1 db tojás",
+                "1 kiskanál Dr. Oetker Sütőpor",
+                "16 dkg zabkorpa (4 dl)",
+                "1,5 dl főzőtejszín",
+                "1 csomag Dr. Oetker Vanillincukor",
+                "13 dkg finomliszt (2 dl)",
+                "6 dkg durvára vágott étcsokoládé",
+                "1 mokkáskanálnyi só",
+                "20 dkg Rama"
+            ],
+            "recipeDirections": [
+                "A Ramát először magában, majd a cukorral keverjük habosra, azután a tojást is beledolgozzuk.",
+                "A lisztet, a zabkorpát, a csokoládét, a sütőport, a sót összekeverjük, a Ramás masszához adjuk és a tejszínt is beleöntjük.",
+                "Vízbe mártott kiskanállal, sütőpapírral bélelt tepsibe mindössze 4x4 halmocskát rakunk belőle, nehogy elterülve összetapadjanak.",
+                "Előmelegített sütőben, a közepesnél nagyobb lánggal (200 °C, légkeveréses sütőben 180 °C) kb. 12 percig sütjük."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 99,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

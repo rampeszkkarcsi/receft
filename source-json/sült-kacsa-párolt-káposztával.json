@@ -1,0 +1,75 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sült kacsa párolt káposztával",
+        "recipeIngredient": [
+            "Vadpác fűszerkeverék",
+            "Fekete bors",
+            "zsálya",
+            "kakukkfű",
+            "szegfűbors",
+            "mustármag",
+            "koriander",
+            "borókabogyó",
+            "Vadpác literenként",
+            "1 ek vadpác fűszerkeverék",
+            "3 ek balzsamecet",
+            "5 babérlevél",
+            "1 vöröshagyma"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Forralunk annyi vizet, - de jól megnézzük, hogy hány liter - amennyi a kacsát ellepi, és amikor felforrt, beízesítjük pácfűszer keverékkel és kiegészítjük a többi fűszerrel. (Balzsamecet, apróra vágott hagyma, összetört babérlevél.)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Amikor kihűlt, belehelyezzük a kacsát és minimum egy napig hűtőben pácoljuk, de semmi baja nem lesz akkor sem, ha két-három napig csücsül a hűvösön."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kacsát 220 fokon sózva, borsozva megsütjük, az első másfél órában alufóliával letakarva, - páclével folyamatosan öntözgetve - a fólia eltávolítása után még egy óráig sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT2H30M",
+        "x-recipe-keeper": {
+            "recipeId": "16993850-b779-4ce1-b66b-e789a4acf550",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sült kacsa párolt káposztával",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT2H30M",
+            "recipeIngredients": [
+                "Vadpác fűszerkeverék",
+                "Fekete bors",
+                "zsálya",
+                "kakukkfű",
+                "szegfűbors",
+                "mustármag",
+                "koriander",
+                "borókabogyó",
+                "Vadpác literenként",
+                "1 ek vadpác fűszerkeverék",
+                "3 ek balzsamecet",
+                "5 babérlevél",
+                "1 vöröshagyma"
+            ],
+            "recipeDirections": [
+                "Forralunk annyi vizet, - de jól megnézzük, hogy hány liter - amennyi a kacsát ellepi, és amikor felforrt, beízesítjük pácfűszer keverékkel és kiegészítjük a többi fűszerrel. (Balzsamecet, apróra vágott hagyma, összetört babérlevél.)",
+                "Amikor kihűlt, belehelyezzük a kacsát és minimum egy napig hűtőben pácoljuk, de semmi baja nem lesz akkor sem, ha két-három napig csücsül a hűvösön.",
+                "A kacsát 220 fokon sózva, borsozva megsütjük, az első másfél órában alufóliával letakarva, - páclével folyamatosan öntözgetve - a fólia eltávolítása után még egy óráig sütjük."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 96,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

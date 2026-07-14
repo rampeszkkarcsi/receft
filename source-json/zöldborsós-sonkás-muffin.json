@@ -1,0 +1,161 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Zöldborsós-sonkás muffin",
+        "recipeIngredient": [
+            "500 g zöldborsó (250 g tisztított/mélyhűtött)",
+            "1 csokor újhagyma",
+            "2-3 gerezd fokhagyma",
+            "100 g főtt sonka (egyben)",
+            "1 csokor petrezselyem",
+            "a díszítéshez 1 ek. olaj",
+            "só, őrölt fehér bors",
+            "frissen őrölt bors",
+            "A tésztához",
+            "80 g vaj/margarin",
+            "300 g finomliszt",
+            "1 tasak sütőpor (10 g)",
+            "só",
+            "őrölt fehér bors",
+            "3 tojás",
+            "2,5 dl tej",
+            "50 g trappista/edami sajt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A zöldborsót kifejtjük, leöblítjük, lecsepegtetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az újhagymát és a fokhagymát meghámozzuk, megmossuk, a hagymákat 8-10 cm-es zöld szárukkal együtt felkarikázzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sonkát apróra felkockázzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A petrezselymet leöblítjük, lerázzuk róla a vizet, levélkéit lecsipkedjük, finomra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az olajat felforrósítjuk, megfonnyasztjuk benne a hagymát és az áttört fokhagymát, rádobjuk a zöldborsót, néhány percig erős tűzön pirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ízlés szerint sózzuk, frissen őrölt borssal illatosítjuk, fedő alatt 8-10 percig pároljuk, levét elfőzzük, végül belekeverjük a petrezselymet, és hagyjuk kihűlni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A vajat/margarint felolvasztjuk, hagyjuk langyosra hűlni, egy részével vékonyan kikenünk egy 12 csészés muffinformát vagy 12 alufóliatálkát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt előmelegítjük 200 °C-ra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet összekeverjük a sütőporral, ízlés szerint sóval és őrölt fehér borssal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a tojásokat, apránként a tejet, a maradék olvasztott vajat/margarint (A), aztán belereszeljük a sajtot (B), végül lazán, de egyenletesen beleforgatjuk-keverjük a párolt zöldséget (C)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Arányosan elosztva, a formába simítjuk a masszát úgy, hogy az legfeljebb a csészék pereméig érjen (D) (sütés közben jócskán megnőnek!), és középső bordamagasságon 40-45 percig sütjük (hústűpróba!)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A pirosra sült muffinokat 5 percig a formában pihentetjük, azután rácsra emelve további 5 percig hűlni hagyjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lapos tálra tornyozzuk őket, a tál szegélyét pedig petrezselyem-/zellerlevelekkel díszítjük, és langymelegen tálaljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sültek és/vagy mártással készült húsok köreteként (akár vadashoz, zsemlegombóc helyett) kínálhatjuk, de önmagában, sőt, italkorcsolyaként is finom!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "TIPPEK:"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Attól függően, milyen hozzávalókból áll a zöldségragu, készíthetünk egyéni változatokat, de a hagymát és a fokhagymát nem célszerű elhagyni, mert nem lesz eléggé ízletes az étel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Használjunk bátran zöldfűszereket!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mutatós, ha a masszát zsiradékkal kikent, kb. 1-1,2 literes koronaformában sütjük meg - a sülési idő így azonban hosszabb lesz (hústűpróba!)"
+            }
+        ],
+        "prepTime": "PT1H15M",
+        "cookTime": "PT45M",
+        "recipeYield": "12 darabhoz",
+        "image": "images/a0e97051-c22e-4f26-b734-dc89cb567f3e_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "a0e97051-c22e-4f26-b734-dc89cb567f3e",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Zöldborsós-sonkás muffin",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "12 darabhoz",
+            "prepTime": "PT1H15M",
+            "cookTime": "PT45M",
+            "recipeIngredients": [
+                "500 g zöldborsó (250 g tisztított/mélyhűtött)",
+                "1 csokor újhagyma",
+                "2-3 gerezd fokhagyma",
+                "100 g főtt sonka (egyben)",
+                "1 csokor petrezselyem",
+                "a díszítéshez 1 ek. olaj",
+                "só, őrölt fehér bors",
+                "frissen őrölt bors",
+                "A tésztához",
+                "80 g vaj/margarin",
+                "300 g finomliszt",
+                "1 tasak sütőpor (10 g)",
+                "só",
+                "őrölt fehér bors",
+                "3 tojás",
+                "2,5 dl tej",
+                "50 g trappista/edami sajt"
+            ],
+            "recipeDirections": [
+                "A zöldborsót kifejtjük, leöblítjük, lecsepegtetjük.",
+                "Az újhagymát és a fokhagymát meghámozzuk, megmossuk, a hagymákat 8-10 cm-es zöld szárukkal együtt felkarikázzuk.",
+                "A sonkát apróra felkockázzuk.",
+                "A petrezselymet leöblítjük, lerázzuk róla a vizet, levélkéit lecsipkedjük, finomra vágjuk.",
+                "Az olajat felforrósítjuk, megfonnyasztjuk benne a hagymát és az áttört fokhagymát, rádobjuk a zöldborsót, néhány percig erős tűzön pirítjuk.",
+                "Ízlés szerint sózzuk, frissen őrölt borssal illatosítjuk, fedő alatt 8-10 percig pároljuk, levét elfőzzük, végül belekeverjük a petrezselymet, és hagyjuk kihűlni.",
+                "A vajat/margarint felolvasztjuk, hagyjuk langyosra hűlni, egy részével vékonyan kikenünk egy 12 csészés muffinformát vagy 12 alufóliatálkát.",
+                "A sütőt előmelegítjük 200 °C-ra.",
+                "A lisztet összekeverjük a sütőporral, ízlés szerint sóval és őrölt fehér borssal.",
+                "Hozzáadjuk a tojásokat, apránként a tejet, a maradék olvasztott vajat/margarint (A), aztán belereszeljük a sajtot (B), végül lazán, de egyenletesen beleforgatjuk-keverjük a párolt zöldséget (C).",
+                "Arányosan elosztva, a formába simítjuk a masszát úgy, hogy az legfeljebb a csészék pereméig érjen (D) (sütés közben jócskán megnőnek!), és középső bordamagasságon 40-45 percig sütjük (hústűpróba!).",
+                "A pirosra sült muffinokat 5 percig a formában pihentetjük, azután rácsra emelve további 5 percig hűlni hagyjuk.",
+                "Lapos tálra tornyozzuk őket, a tál szegélyét pedig petrezselyem-/zellerlevelekkel díszítjük, és langymelegen tálaljuk.",
+                "Sültek és/vagy mártással készült húsok köreteként (akár vadashoz, zsemlegombóc helyett) kínálhatjuk, de önmagában, sőt, italkorcsolyaként is finom!",
+                "TIPPEK:",
+                "Attól függően, milyen hozzávalókból áll a zöldségragu, készíthetünk egyéni változatokat, de a hagymát és a fokhagymát nem célszerű elhagyni, mert nem lesz eléggé ízletes az étel.",
+                "Használjunk bátran zöldfűszereket!",
+                "Mutatós, ha a masszát zsiradékkal kikent, kb. 1-1,2 literes koronaformában sütjük meg - a sülési idő így azonban hosszabb lesz (hústűpróba!)"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/a0e97051-c22e-4f26-b734-dc89cb567f3e_0.jpg"
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 251,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

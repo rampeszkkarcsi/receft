@@ -1,0 +1,71 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Répás tócsni (könnyű változat)",
+        "recipeIngredient": [
+            "1 nagy vagy 2 kisebb sárgarépa",
+            "4 nagyobb burgonya",
+            "1 fej hagyma",
+            "1 gerezd fokhagyma",
+            "só",
+            "bors",
+            "esetleg zöldfűszerek (rozmaring, majoránna vagy provence-i fűszerkeverék)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A répát és a burgonyát a reszelő nagyobb fokozatán lereszeljük, a hagymát a finomabb fokozatán, a fokhagymát pedig fokhagymanyomón át préseljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hozzávalókat tálban jól összekeverjük, sózzuk, borsozzuk, esetleg a zöldfűszereket is hozzákeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Négy adagra osztjuk, és vékonyan kiolajozott serpenyőben aranybarnára sütjük az egyik oldalát, majd lapáttal óvatosan megfordítjuk, és a másik oldalát is megpirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Köretként is kínálhatjuk, de salátával nagyszerű vacsora is lehet."
+            }
+        ],
+        "prepTime": "PT20M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 adagra osztjuk",
+        "image": "images/af6b3dd2-947c-4ab6-b66f-6d82a2970ae6_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "af6b3dd2-947c-4ab6-b66f-6d82a2970ae6",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Répás tócsni (könnyű változat)",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 adagra osztjuk",
+            "prepTime": "PT20M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1 nagy vagy 2 kisebb sárgarépa",
+                "4 nagyobb burgonya",
+                "1 fej hagyma",
+                "1 gerezd fokhagyma",
+                "só",
+                "bors",
+                "esetleg zöldfűszerek (rozmaring, majoránna vagy provence-i fűszerkeverék)"
+            ],
+            "recipeDirections": [
+                "A répát és a burgonyát a reszelő nagyobb fokozatán lereszeljük, a hagymát a finomabb fokozatán, a fokhagymát pedig fokhagymanyomón át préseljük.",
+                "A hozzávalókat tálban jól összekeverjük, sózzuk, borsozzuk, esetleg a zöldfűszereket is hozzákeverjük.",
+                "Négy adagra osztjuk, és vékonyan kiolajozott serpenyőben aranybarnára sütjük az egyik oldalát, majd lapáttal óvatosan megfordítjuk, és a másik oldalát is megpirítjuk.",
+                "Köretként is kínálhatjuk, de salátával nagyszerű vacsora is lehet."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/af6b3dd2-947c-4ab6-b66f-6d82a2970ae6_0.jpg"
+        },
+        "x-source-file": "8e973511-a906-412c-a871-c6205380a313.zip",
+        "x-db-id": 207,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Töltött burgonya",
+        "recipeIngredient": [
+            "1kg burgonya",
+            "25 dkg túró",
+            "1 dl kefir",
+            "10 dkg köményes sajt",
+            "1 ek. olaj",
+            "1 fej vöröshagyma",
+            "petrezselyem, bazsalikom, só"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A burgonyát héjában megfőzzük, meghámozzuk, kettévágjuk, és közepét kivájjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A túrót és a kivágott darabkákat áttörjük, és kikeverjük a kefirrel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ízesítjük a finomra vágott hagymával, petrezselyemmel, bazsalikommal és sóval."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A masszát visszatöltjük a burgonyába."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tetejükre reszelt sajtot halmozunk"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Olajozott tepsibe egymás mellé tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "10-15 percig előmelegített sütőben sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT15M",
+        "image": "images/471d2c4b-4626-4590-b5f0-6ebfa7e7ed0f_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "471d2c4b-4626-4590-b5f0-6ebfa7e7ed0f",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Töltött burgonya",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT15M",
+            "recipeIngredients": [
+                "1kg burgonya",
+                "25 dkg túró",
+                "1 dl kefir",
+                "10 dkg köményes sajt",
+                "1 ek. olaj",
+                "1 fej vöröshagyma",
+                "petrezselyem, bazsalikom, só"
+            ],
+            "recipeDirections": [
+                "A burgonyát héjában megfőzzük, meghámozzuk, kettévágjuk, és közepét kivájjuk.",
+                "A túrót és a kivágott darabkákat áttörjük, és kikeverjük a kefirrel.",
+                "Ízesítjük a finomra vágott hagymával, petrezselyemmel, bazsalikommal és sóval.",
+                "A masszát visszatöltjük a burgonyába.",
+                "Tetejükre reszelt sajtot halmozunk",
+                "Olajozott tepsibe egymás mellé tesszük.",
+                "10-15 percig előmelegített sütőben sütjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/471d2c4b-4626-4590-b5f0-6ebfa7e7ed0f_0.jpg"
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 38,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

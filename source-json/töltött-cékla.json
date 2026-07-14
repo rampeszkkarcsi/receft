@@ -1,0 +1,89 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Töltött cékla",
+        "recipeIngredient": [
+            "4 cékla",
+            "5 dkg mazsola",
+            "1 evőkanál olívaolaj",
+            "4 kávéskanál koriander",
+            "fél kávéskanál római kömény",
+            "1 kis szál póréhagyma",
+            "Az öntethez",
+            "olívaolaj",
+            "garum (halszósz)",
+            "ecet"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Az alma nagyságú céklát meghámozzuk, a tetejét körben levágjuk és a belsejét kivájjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A mazsolát beáztatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kevés olívaolajon a koriandert kicsit átpirítjuk (ne pattogjanak ki), hozzáadjuk az őrölt római köményt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A mazsolát leszűrjük és hozzákarikázzuk a póréhagymát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Összekeverjük a fűszerekkel, a céklákba töltjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A levágott tetejüket visszarakva 160 fokon, másfél óra alatt, alufóliával letakarva megsütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az olívaolajból, halszószból és ecetből készült vinaigrette-el leöntve tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT1H30M",
+        "x-recipe-keeper": {
+            "recipeId": "b01f1a29-c3c2-4e2c-a927-502a09a2ef5c",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Töltött cékla",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT1H30M",
+            "recipeIngredients": [
+                "4 cékla",
+                "5 dkg mazsola",
+                "1 evőkanál olívaolaj",
+                "4 kávéskanál koriander",
+                "fél kávéskanál római kömény",
+                "1 kis szál póréhagyma",
+                "Az öntethez",
+                "olívaolaj",
+                "garum (halszósz)",
+                "ecet"
+            ],
+            "recipeDirections": [
+                "Az alma nagyságú céklát meghámozzuk, a tetejét körben levágjuk és a belsejét kivájjuk.",
+                "A mazsolát beáztatjuk.",
+                "Kevés olívaolajon a koriandert kicsit átpirítjuk (ne pattogjanak ki), hozzáadjuk az őrölt római köményt.",
+                "A mazsolát leszűrjük és hozzákarikázzuk a póréhagymát.",
+                "Összekeverjük a fűszerekkel, a céklákba töltjük.",
+                "A levágott tetejüket visszarakva 160 fokon, másfél óra alatt, alufóliával letakarva megsütjük.",
+                "Az olívaolajból, halszószból és ecetből készült vinaigrette-el leöntve tálaljuk."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 57,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Tormás-lazacos krumplisaláta",
+        "recipeIngredient": [
+            "60 dkg kiflikrumpli",
+            "1 dl fehérborecet",
+            "2 ek. frissen reszelt torma",
+            "só",
+            "frissen őrölt bors",
+            "1,5 dl tejföl",
+            "10 dkg zsenge zöldsaláta",
+            "5 dkg zöld olívabogyó (magozott)",
+            "15 dkg füstölt lazac",
+            "4 (remegősre) főtt tojás"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A megmosott krumplit héjastól főzzük puhára."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hagyjuk enyhén meghűlni, hámozzuk meg."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fél dl ecetet keverjünk el vízzel, sóval, borssal, 1 ek. tormával."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A krumplit vágjuk cikkekre, tegyük ez ecetes lébe, és hagyjuk ebben kihűlni (akár egy napot is hagyhatjuk benne állni)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tejfölt keverjük el a maradék ecettel és tormával, majd sóval, borssal ízesítsük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tálaláskor állítsuk össze a salátát: a tányérokra helyezzünk zöldsalátát, krumplicikkeket, csepegtessük meg a tormás tejföllel, szórjunk rá olívabogyót."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lazacszeletet tekerjük össze, rózsát formázva, így helyezzük a tányérra, a főtt tojásokat felezzük, majd frissen örölt borssal hintsük meg a salátát."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 PERSON",
+        "image": "images/4e565190-6687-4d11-853c-9dc0b3ddf55d_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "4e565190-6687-4d11-853c-9dc0b3ddf55d",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Tormás-lazacos krumplisaláta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "60 dkg kiflikrumpli",
+                "1 dl fehérborecet",
+                "2 ek. frissen reszelt torma",
+                "só",
+                "frissen őrölt bors",
+                "1,5 dl tejföl",
+                "10 dkg zsenge zöldsaláta",
+                "5 dkg zöld olívabogyó (magozott)",
+                "15 dkg füstölt lazac",
+                "4 (remegősre) főtt tojás"
+            ],
+            "recipeDirections": [
+                "A megmosott krumplit héjastól főzzük puhára.",
+                "Hagyjuk enyhén meghűlni, hámozzuk meg.",
+                "Fél dl ecetet keverjünk el vízzel, sóval, borssal, 1 ek. tormával.",
+                "A krumplit vágjuk cikkekre, tegyük ez ecetes lébe, és hagyjuk ebben kihűlni (akár egy napot is hagyhatjuk benne állni).",
+                "A tejfölt keverjük el a maradék ecettel és tormával, majd sóval, borssal ízesítsük.",
+                "Tálaláskor állítsuk össze a salátát: a tányérokra helyezzünk zöldsalátát, krumplicikkeket, csepegtessük meg a tormás tejföllel, szórjunk rá olívabogyót.",
+                "A lazacszeletet tekerjük össze, rózsát formázva, így helyezzük a tányérra, a főtt tojásokat felezzük, majd frissen örölt borssal hintsük meg a salátát."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/4e565190-6687-4d11-853c-9dc0b3ddf55d_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 58,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

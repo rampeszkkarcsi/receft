@@ -1,0 +1,81 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gombás pulykaragu makarónival",
+        "recipeIngredient": [
+            "100 g sampinyon gomba",
+            "1 csokor újhagyma",
+            "1 csokor kapor",
+            "200 g paradicsom",
+            "400 g pulykamell",
+            "2 ek. olaj",
+            "só, bors",
+            "2 dl tyúkhúsleves (kockából)",
+            "2 ek. étkezési keményítő",
+            "400 g makaróni (csőtészta)",
+            "2 ek. olívaolaj",
+            "4-12 olívabogyó"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségeket megtisztítjuk. A gombát vékony szeletekre, a hagymát karikákra, a kaprot (néhány szál kivételével) finomra vágjuk. A paradicsomokat almaszerűen, vékony csíkban meghámozzuk, héjukat (mintegy rózsát formálva) feltekerjük, és félretesszük a díszítéshez. Magjaikat-levüket eltávolítjuk, a paradicsomhúst karcsú gerezdekre szeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A pulykahúst leöblítjük, vékony szeletekre, majd kisujjnyi csíkokra vágjuk, és fehéredésig pirítjuk a felforrósított olajban. Meghintjük egy kevés sóval és frissen őrölt borssal, fedő alatt, mérsékelt tűzön, saját levében félpuhára pároljuk. Rádobjuk a gombát, felöntjük a húslevessel, és az egészet puhára pároljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a hagymát, a paradicsomot és a kaprot, élénk tűzön 5 percig forraljuk, aztán hozzáöntjük a 1/2 dl hideg vízben elkevert étkezési keményítőt, és éppen csak besűrítjük (1 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Enyhén sós vízben kifőzzük a tésztát, leszűrjük, összekeverjük az olívaolajjal, majd 4 tányérra elosztva fészkeket tekerünk belőle. Közepükbe szedjük a ragut, és paradicsomhéj-rózsákkal, olívabogyókkal, valamint a félretett kaporszálakkal díszítjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT1H",
+        "recipeYield": "4 személyre",
+        "image": "images/b23df1d8-279b-4c7a-9348-00c1a88d7034_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "b23df1d8-279b-4c7a-9348-00c1a88d7034",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gombás pulykaragu makarónival",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT1H",
+            "recipeIngredients": [
+                "100 g sampinyon gomba",
+                "1 csokor újhagyma",
+                "1 csokor kapor",
+                "200 g paradicsom",
+                "400 g pulykamell",
+                "2 ek. olaj",
+                "só, bors",
+                "2 dl tyúkhúsleves (kockából)",
+                "2 ek. étkezési keményítő",
+                "400 g makaróni (csőtészta)",
+                "2 ek. olívaolaj",
+                "4-12 olívabogyó"
+            ],
+            "recipeDirections": [
+                "A zöldségeket megtisztítjuk. A gombát vékony szeletekre, a hagymát karikákra, a kaprot (néhány szál kivételével) finomra vágjuk. A paradicsomokat almaszerűen, vékony csíkban meghámozzuk, héjukat (mintegy rózsát formálva) feltekerjük, és félretesszük a díszítéshez. Magjaikat-levüket eltávolítjuk, a paradicsomhúst karcsú gerezdekre szeljük.",
+                "A pulykahúst leöblítjük, vékony szeletekre, majd kisujjnyi csíkokra vágjuk, és fehéredésig pirítjuk a felforrósított olajban. Meghintjük egy kevés sóval és frissen őrölt borssal, fedő alatt, mérsékelt tűzön, saját levében félpuhára pároljuk. Rádobjuk a gombát, felöntjük a húslevessel, és az egészet puhára pároljuk.",
+                "Hozzáadjuk a hagymát, a paradicsomot és a kaprot, élénk tűzön 5 percig forraljuk, aztán hozzáöntjük a 1/2 dl hideg vízben elkevert étkezési keményítőt, és éppen csak besűrítjük (1 perc).",
+                "Enyhén sós vízben kifőzzük a tésztát, leszűrjük, összekeverjük az olívaolajjal, majd 4 tányérra elosztva fészkeket tekerünk belőle. Közepükbe szedjük a ragut, és paradicsomhéj-rózsákkal, olívabogyókkal, valamint a félretett kaporszálakkal díszítjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/b23df1d8-279b-4c7a-9348-00c1a88d7034_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 47,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

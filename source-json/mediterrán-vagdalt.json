@@ -1,0 +1,102 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "MEDITERRÁN VAGDALT",
+        "recipeIngredient": [
+            "három karéj száraz kenyér",
+            "30 dkg leveles spenót",
+            "só",
+            "50 dkg darált marhafelsál",
+            "egy tojás",
+            "3 gerezd fokhagyma",
+            "egy kávéskanyálnyi őrölt kakukkfű",
+            "10 dkg juhsajt",
+            "2 dkg szezámmag",
+            "egy evőkanál tejfel"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A kenyérszeleteket áztassuk be forró vízbe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megmosott, megtisztított, csíkokra vagdalt spenótot lefedett edényben 2-3 percig főzzük 800 wattos teljesítményfokozaton."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kenyeret kinyomkodjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A fokhagymát apróra vágjuk, és a sóval, tojással, kenyérrel, spenóttal, az apró kockákra vagdalt sajttal együtt a hús közé keverjük és hosszúkás cipót formálunk belőle."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Forgassuk meg a szezámmagban, majd helyezzük egy megfelelő méretű mikroedénybe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Csepegtessük rá a citromlevet, fedjük be az edényt, és 800 wattos teljesítményfokozaton 20 percig süssük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ötpercnyi állásidő után tálalható."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Paradicsomsaláta és pirított franciakenyér-szeletkék illenek hozzá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hidegen is kitűnő, kirándulásra ideális villásreggeli."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "recipeYield": "négy személyre",
+        "image": "images/54a7d95f-93ae-4067-a544-67c7e502a7bf_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "54a7d95f-93ae-4067-a544-67c7e502a7bf",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "MEDITERRÁN VAGDALT",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "négy személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "három karéj száraz kenyér",
+                "30 dkg leveles spenót",
+                "só",
+                "50 dkg darált marhafelsál",
+                "egy tojás",
+                "3 gerezd fokhagyma",
+                "egy kávéskanyálnyi őrölt kakukkfű",
+                "10 dkg juhsajt",
+                "2 dkg szezámmag",
+                "egy evőkanál tejfel"
+            ],
+            "recipeDirections": [
+                "A kenyérszeleteket áztassuk be forró vízbe.",
+                "A megmosott, megtisztított, csíkokra vagdalt spenótot lefedett edényben 2-3 percig főzzük 800 wattos teljesítményfokozaton.",
+                "A kenyeret kinyomkodjuk.",
+                "A fokhagymát apróra vágjuk, és a sóval, tojással, kenyérrel, spenóttal, az apró kockákra vagdalt sajttal együtt a hús közé keverjük és hosszúkás cipót formálunk belőle.",
+                "Forgassuk meg a szezámmagban, majd helyezzük egy megfelelő méretű mikroedénybe.",
+                "Csepegtessük rá a citromlevet, fedjük be az edényt, és 800 wattos teljesítményfokozaton 20 percig süssük.",
+                "Ötpercnyi állásidő után tálalható.",
+                "Paradicsomsaláta és pirított franciakenyér-szeletkék illenek hozzá.",
+                "Hidegen is kitűnő, kirándulásra ideális villásreggeli."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/54a7d95f-93ae-4067-a544-67c7e502a7bf_0.jpg"
+        },
+        "x-source-file": "6927f13b-408a-4c16-9b05-60d162e1329b.zip",
+        "x-db-id": 191,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

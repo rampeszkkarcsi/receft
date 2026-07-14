@@ -1,0 +1,111 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gombával gombolt csirkecomb zöldségpörkölttel",
+        "recipeIngredient": [
+            "6 csirkefelsőcomb",
+            "25 dkg nagy gomba",
+            "2 édesburgonya",
+            "2 cukkini",
+            "2 kaliforniai paprika (vagy pritamin)",
+            "2 zöldpaprika",
+            "1 fej vöröshagyma",
+            "2 lilahagyma",
+            "1 kk. pirospaprika",
+            "1-2 ek. sűrített paradicsom",
+            "1 csokor petrezselyem",
+            "olaj",
+            "1 ek. vaj",
+            "só",
+            "bors",
+            "kömény"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "1-2 nagy gombát (a gombamix esetében a vargányát) vékony szeletekre vágunk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A csirkecombok bőrét fellazítjuk, és a bőr alá csúsztatjuk a gombaszeleteket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sózzuk-borsozzuk a combokat, majd kevés olaj és a vaj forró keverékén pirosra elősütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezután a combok külön-külön alufóliába, majd együtt tepsibe kerülnek, s 180 °C-os sütőben tartózkodnak 45 percig."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A felaprított vöröshagymát megdinszteljük a hús (ki nem hűlt) helyén, megszórjuk pirospaprikával, elkeverjük és gyorsan felöntjük néhány evőkanálnyi vízzel, kiforraljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A pörköltalapba beledobáljuk az összes többi, kockákra vágott zöldséget és a sűrített paradicsomot, 5 perccel később meg a gombát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Só, bors, csipet őrölt vagy zúzott kömény is jön."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mindent zsírjára pirítunk, aztán újra öntünk alá egy kis vizet, mehet bele a felaprított petrezselyem, és fedő alatt mindent puhára párolunk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tálaláskor a gombával gombolt combokat a gombás zöldségpörköltre tesszük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT45M",
+        "x-recipe-keeper": {
+            "recipeId": "5dda77c5-94d3-499d-aa4b-a1f43d00e7d5",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gombával gombolt csirkecomb zöldségpörkölttel",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT45M",
+            "recipeIngredients": [
+                "6 csirkefelsőcomb",
+                "25 dkg nagy gomba",
+                "2 édesburgonya",
+                "2 cukkini",
+                "2 kaliforniai paprika (vagy pritamin)",
+                "2 zöldpaprika",
+                "1 fej vöröshagyma",
+                "2 lilahagyma",
+                "1 kk. pirospaprika",
+                "1-2 ek. sűrített paradicsom",
+                "1 csokor petrezselyem",
+                "olaj",
+                "1 ek. vaj",
+                "só",
+                "bors",
+                "kömény"
+            ],
+            "recipeDirections": [
+                "1-2 nagy gombát (a gombamix esetében a vargányát) vékony szeletekre vágunk.",
+                "A csirkecombok bőrét fellazítjuk, és a bőr alá csúsztatjuk a gombaszeleteket.",
+                "Sózzuk-borsozzuk a combokat, majd kevés olaj és a vaj forró keverékén pirosra elősütjük.",
+                "Ezután a combok külön-külön alufóliába, majd együtt tepsibe kerülnek, s 180 °C-os sütőben tartózkodnak 45 percig.",
+                "A felaprított vöröshagymát megdinszteljük a hús (ki nem hűlt) helyén, megszórjuk pirospaprikával, elkeverjük és gyorsan felöntjük néhány evőkanálnyi vízzel, kiforraljuk.",
+                "A pörköltalapba beledobáljuk az összes többi, kockákra vágott zöldséget és a sűrített paradicsomot, 5 perccel később meg a gombát.",
+                "Só, bors, csipet őrölt vagy zúzott kömény is jön.",
+                "Mindent zsírjára pirítunk, aztán újra öntünk alá egy kis vizet, mehet bele a felaprított petrezselyem, és fedő alatt mindent puhára párolunk.",
+                "Tálaláskor a gombával gombolt combokat a gombás zöldségpörköltre tesszük."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 85,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

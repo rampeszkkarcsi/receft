@@ -1,0 +1,90 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Ananászos sertéssült hidegen",
+        "recipeIngredient": [
+            "80 dkg sertésszűz (helyettesíthető tarjával, karajjal)",
+            "2 db ananász",
+            "2 dl ananászlé",
+            "citrombors",
+            "durva bors",
+            "1 fej vöröshagyma",
+            "2 ek. sertészsír",
+            "1 ek. mustár",
+            "olaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A húst lehártyázzuk. Bekenjük a mustárral, sózzuk, megszórjuk a durva borssal, majd hagyjuk 1-2 órát állni a hűtőben."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy serpenyőben kevés olajon közepes lángon elősütjük a hús minden oldalát, majd egy magas falú tepsibe tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A vöröshagymát megpucoljuk, 3x3 cm-es kockára vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az ananászt is megpucoljuk, torzsáját kivágjuk, húsát felkockázzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sertészsíron megfonnyasztjuk a hagymát, hozzáadjuk az ananászkockákat, megszórjuk citromborssal, rövid ideig együtt pirítjuk, majd felöntjük az ananászlével."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egyet forralunk rajta, majd a húsra öntjük, és 160 °C-os sütőben 20 percet sütjük (ha karajt vagy tarját használunk, akár 1,5 óra is lehet a sütési idő, ebben az esetben az ananászdarabokat csak a sütés felénél öntsük a húsra)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kihűtjük, felszeleteljük és tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "recipeYield": "4 PERSON",
+        "image": "images/a0a4038f-cb75-4cbc-b0aa-31df9b5abd05_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "a0a4038f-cb75-4cbc-b0aa-31df9b5abd05",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Ananászos sertéssült hidegen",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "80 dkg sertésszűz (helyettesíthető tarjával, karajjal)",
+                "2 db ananász",
+                "2 dl ananászlé",
+                "citrombors",
+                "durva bors",
+                "1 fej vöröshagyma",
+                "2 ek. sertészsír",
+                "1 ek. mustár",
+                "olaj"
+            ],
+            "recipeDirections": [
+                "A húst lehártyázzuk. Bekenjük a mustárral, sózzuk, megszórjuk a durva borssal, majd hagyjuk 1-2 órát állni a hűtőben.",
+                "Egy serpenyőben kevés olajon közepes lángon elősütjük a hús minden oldalát, majd egy magas falú tepsibe tesszük.",
+                "A vöröshagymát megpucoljuk, 3x3 cm-es kockára vágjuk.",
+                "Az ananászt is megpucoljuk, torzsáját kivágjuk, húsát felkockázzuk.",
+                "A sertészsíron megfonnyasztjuk a hagymát, hozzáadjuk az ananászkockákat, megszórjuk citromborssal, rövid ideig együtt pirítjuk, majd felöntjük az ananászlével.",
+                "Egyet forralunk rajta, majd a húsra öntjük, és 160 °C-os sütőben 20 percet sütjük (ha karajt vagy tarját használunk, akár 1,5 óra is lehet a sütési idő, ebben az esetben az ananászdarabokat csak a sütés felénél öntsük a húsra).",
+                "Kihűtjük, felszeleteljük és tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/a0a4038f-cb75-4cbc-b0aa-31df9b5abd05_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 41,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

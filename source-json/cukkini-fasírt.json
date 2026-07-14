@@ -1,0 +1,77 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Cukkini fasírt",
+        "recipeIngredient": [
+            "50 dkg cukkini",
+            "2 közepes burgonya",
+            "4-5 evőkanál liszt",
+            "2 tojás",
+            "2 gerezd fokhagyma",
+            "2 db újhagyma",
+            "só",
+            "bors",
+            "olaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A meghámozott cukkinit lereszeljük, megsózzuk és hagyjuk állni 10 percig, majd kinyomkodjuk a levét."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A burgonyát is meghámozzuk és hozzáreszeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojást, a felaprított újhagymát és a fűszereket hozzákeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet lassan keverjük hozzá, csak annyit, hogy formázható masszát kapjunk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Vizes kézzel fasírtokat formálunk a masszából és bő forró olajban mindkét oldalukat megsütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "e95ed0ee-688b-44a6-90f3-daecbb307621",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Cukkini fasírt",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "50 dkg cukkini",
+                "2 közepes burgonya",
+                "4-5 evőkanál liszt",
+                "2 tojás",
+                "2 gerezd fokhagyma",
+                "2 db újhagyma",
+                "só",
+                "bors",
+                "olaj"
+            ],
+            "recipeDirections": [
+                "A meghámozott cukkinit lereszeljük, megsózzuk és hagyjuk állni 10 percig, majd kinyomkodjuk a levét.",
+                "A burgonyát is meghámozzuk és hozzáreszeljük.",
+                "A tojást, a felaprított újhagymát és a fűszereket hozzákeverjük.",
+                "A lisztet lassan keverjük hozzá, csak annyit, hogy formázható masszát kapjunk.",
+                "Vizes kézzel fasírtokat formálunk a masszából és bő forró olajban mindkét oldalukat megsütjük."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 3,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:40+00:00"
+    }
+]

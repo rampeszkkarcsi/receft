@@ -1,0 +1,59 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Céklatorta",
+        "recipeIngredient": [
+            "3 db öklömnyi főtt cékla turmixolva",
+            "10-15dkg liszt",
+            "10dkg cukor",
+            "10dkg étcsoki olvasztva",
+            "fél csomag sütőpor",
+            "só",
+            "vaníliaaroma (1kkanál)",
+            "10dkg vaj",
+            "3 tojás"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "150-170 fokon fél óra"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT30M",
+        "image": "images/72f5885b-b8e1-4f91-88d8-5d3b255e8ddc_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "72f5885b-b8e1-4f91-88d8-5d3b255e8ddc",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Céklatorta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "3 db öklömnyi főtt cékla turmixolva",
+                "10-15dkg liszt",
+                "10dkg cukor",
+                "10dkg étcsoki olvasztva",
+                "fél csomag sütőpor",
+                "só",
+                "vaníliaaroma (1kkanál)",
+                "10dkg vaj",
+                "3 tojás"
+            ],
+            "recipeDirections": [
+                "150-170 fokon fél óra"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/72f5885b-b8e1-4f91-88d8-5d3b255e8ddc_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 5,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Mézes diótorta",
+        "recipeIngredient": [
+            "160+25 g+diónyi vaj/margarin",
+            "300 g finomliszt",
+            "130 g porcukor",
+            "1 tojás+1 tojássárgája",
+            "só",
+            "300 g dió",
+            "200+150 g kristálycukor",
+            "1,5 dl tejszín",
+            "50 g méz",
+            "1/2 dl narancsszörp",
+            "2 ek. citromlé"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tésztához 160 g vajat/margarint, a lisztet, porcukrot, 1 tojást, és 1 csipet sót gyors mozdulatokkal összegyúrunk. 1/3-2/3 részre osztva 2 cipót formálunk belőle, folpackba csomagoljuk, és 1 órára a hűtőszekrénybe tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A töltelékhez a diót durvára-darabosra vágjuk. 200 g kristálycukrot, a tejszínt, 25 g vajat/margarint és a mézet forraljuk. 150 g kristálycukrot világosbarnára pirítunk a narancsszörppel és a citromlével, hozzáöntjük a tejszínt, olvadásig forraljuk. Lehúzzuk a tűzről, belekeverjük a diót, és hagyjuk kihűlni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A nagyobb tésztacipót lisztezett munkalapon 34 cm átmérőjű korongra nyújtjuk, és diónyi vajjal/margarinnal kikent, 26 cm átmérőjű, lapos tortaformába terítjük-nyomkodjuk úgy, hogy szegélye túllógjon a forma peremén. Alját villával megszurkáljuk, belesimítjuk a tölteléket, visszahajtjuk rá a tésztaszegélyt, és megkenjük tojássárgájával."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kisebbik cipót 26 cm átmérőjű korongra nyújtjuk, a töltelék tetejére terítjük, szegélyét a visszahajtott tésztára nyomkodjuk. Ezután egyenletesen megkenjük tojássárgájával, villával átlósan megcsíkozzuk-cifrázzuk, végül 200 °C-ra előmelegített sütőben 35-40 percig sütjük. A formában hagyjuk teljesen kihűlni, tálaláskor tortaszerűen szeleteljük."
+            }
+        ],
+        "prepTime": "PT2H30M",
+        "cookTime": "PT40M",
+        "recipeYield": "16 szelet",
+        "image": "images/bdbb4ad9-0540-46a2-8b6c-871ebe45ae80_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "bdbb4ad9-0540-46a2-8b6c-871ebe45ae80",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Mézes diótorta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "16 szelet",
+            "prepTime": "PT2H30M",
+            "cookTime": "PT40M",
+            "recipeIngredients": [
+                "160+25 g+diónyi vaj/margarin",
+                "300 g finomliszt",
+                "130 g porcukor",
+                "1 tojás+1 tojássárgája",
+                "só",
+                "300 g dió",
+                "200+150 g kristálycukor",
+                "1,5 dl tejszín",
+                "50 g méz",
+                "1/2 dl narancsszörp",
+                "2 ek. citromlé"
+            ],
+            "recipeDirections": [
+                "A tésztához 160 g vajat/margarint, a lisztet, porcukrot, 1 tojást, és 1 csipet sót gyors mozdulatokkal összegyúrunk. 1/3-2/3 részre osztva 2 cipót formálunk belőle, folpackba csomagoljuk, és 1 órára a hűtőszekrénybe tesszük.",
+                "A töltelékhez a diót durvára-darabosra vágjuk. 200 g kristálycukrot, a tejszínt, 25 g vajat/margarint és a mézet forraljuk. 150 g kristálycukrot világosbarnára pirítunk a narancsszörppel és a citromlével, hozzáöntjük a tejszínt, olvadásig forraljuk. Lehúzzuk a tűzről, belekeverjük a diót, és hagyjuk kihűlni.",
+                "A nagyobb tésztacipót lisztezett munkalapon 34 cm átmérőjű korongra nyújtjuk, és diónyi vajjal/margarinnal kikent, 26 cm átmérőjű, lapos tortaformába terítjük-nyomkodjuk úgy, hogy szegélye túllógjon a forma peremén. Alját villával megszurkáljuk, belesimítjuk a tölteléket, visszahajtjuk rá a tésztaszegélyt, és megkenjük tojássárgájával.",
+                "A kisebbik cipót 26 cm átmérőjű korongra nyújtjuk, a töltelék tetejére terítjük, szegélyét a visszahajtott tésztára nyomkodjuk. Ezután egyenletesen megkenjük tojássárgájával, villával átlósan megcsíkozzuk-cifrázzuk, végül 200 °C-ra előmelegített sütőben 35-40 percig sütjük. A formában hagyjuk teljesen kihűlni, tálaláskor tortaszerűen szeleteljük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/bdbb4ad9-0540-46a2-8b6c-871ebe45ae80_0.jpg"
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 71,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

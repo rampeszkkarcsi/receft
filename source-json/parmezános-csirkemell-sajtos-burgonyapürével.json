@@ -1,0 +1,92 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Parmezános csirkemell sajtos burgonyapürével",
+        "recipeIngredient": [
+            "80 dkg csirkemellfilé",
+            "só",
+            "kb. 5 dkg liszt a panírozáshoz",
+            "1 nagyobb tojás",
+            "10 dkg reszelt parmezán",
+            "5 dkg zsemlemorzsa",
+            "olaj a sütéshez",
+            "80 dkg burgonya",
+            "5 dkg vaj",
+            "10 dkg friss kecskesajt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A csirkemelleket vékonyabb szeletekre vágjuk, majd besózzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bepanírozzuk: először lisztbe, majd felvert tojásba, végül a reszelt parmezánnal elkevert zsemlemorzsába forgatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Aki szeretné, csak parmezánban is sütheti, akkor kb. 15 dkg szükséges."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Felforrósított olajban (nem kell, hogy ellepje, inkább fordítsuk meg) kisütjük a szeleteket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A püréhez a burgonyát megtisztítjuk, meghámozzuk, felkockázzuk, és sós vízben puhára főzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Leszűrjük, majd alaposan összedolgozzuk a vajjal és a kecskesajttal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sózzuk, és a parmezános csirkemellel tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 PERSON",
+        "image": "images/0eaf1c9a-3a22-470c-b23e-e9ca5388c660_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "0eaf1c9a-3a22-470c-b23e-e9ca5388c660",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Parmezános csirkemell sajtos burgonyapürével",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "80 dkg csirkemellfilé",
+                "só",
+                "kb. 5 dkg liszt a panírozáshoz",
+                "1 nagyobb tojás",
+                "10 dkg reszelt parmezán",
+                "5 dkg zsemlemorzsa",
+                "olaj a sütéshez",
+                "80 dkg burgonya",
+                "5 dkg vaj",
+                "10 dkg friss kecskesajt"
+            ],
+            "recipeDirections": [
+                "A csirkemelleket vékonyabb szeletekre vágjuk, majd besózzuk.",
+                "Bepanírozzuk: először lisztbe, majd felvert tojásba, végül a reszelt parmezánnal elkevert zsemlemorzsába forgatjuk.",
+                "Aki szeretné, csak parmezánban is sütheti, akkor kb. 15 dkg szükséges.",
+                "Felforrósított olajban (nem kell, hogy ellepje, inkább fordítsuk meg) kisütjük a szeleteket.",
+                "A püréhez a burgonyát megtisztítjuk, meghámozzuk, felkockázzuk, és sós vízben puhára főzzük.",
+                "Leszűrjük, majd alaposan összedolgozzuk a vajjal és a kecskesajttal.",
+                "Sózzuk, és a parmezános csirkemellel tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/0eaf1c9a-3a22-470c-b23e-e9ca5388c660_0.jpg"
+        },
+        "x-source-file": "8e973511-a906-412c-a871-c6205380a313.zip",
+        "x-db-id": 205,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

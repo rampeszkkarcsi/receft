@@ -1,0 +1,89 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "DARAFELFÚJT SZEDERREL",
+        "recipeIngredient": [
+            "fél kg szeder",
+            "2,5 dl tej vagy víz",
+            "5 dkg búzadara",
+            "4 dkg cukor",
+            "25 dkg túró",
+            "két tojás",
+            "4 dkg étkezési lenmag (helyette szezámmag vagy darált dió is jó)",
+            "zsiradék a forma kikenéséhez",
+            "2 evőkanál porcukor"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Mossuk meg a szedret, és csepegtessük le róla a vizet konyhapapíron."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A búzadarát főzzük a tejben egy percig, majd vegyük le a tűzről, keverjük bele a cukrot, és fedő alatt hagyjuk állni tíz percig."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ekkor keverjük bele a tojást, a lenmagot és a túrót."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A formát gondosan kizsírozzuk, majd beleöntjük, és elsimítjuk a masszát, végül megszórjuk szederrel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Előmelegített, 200 °C-os sütőben (3-as gázfokozat) körülbelül 20 percig sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hidegen és melegen egyaránt fogyasztható"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Porcukorral csak közvetlenül tálalás előtt szórjuk meg."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "image": "images/b9996078-1154-4446-8bf8-92aecc3817c4_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "b9996078-1154-4446-8bf8-92aecc3817c4",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "DARAFELFÚJT SZEDERREL",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "fél kg szeder",
+                "2,5 dl tej vagy víz",
+                "5 dkg búzadara",
+                "4 dkg cukor",
+                "25 dkg túró",
+                "két tojás",
+                "4 dkg étkezési lenmag (helyette szezámmag vagy darált dió is jó)",
+                "zsiradék a forma kikenéséhez",
+                "2 evőkanál porcukor"
+            ],
+            "recipeDirections": [
+                "Mossuk meg a szedret, és csepegtessük le róla a vizet konyhapapíron.",
+                "A búzadarát főzzük a tejben egy percig, majd vegyük le a tűzről, keverjük bele a cukrot, és fedő alatt hagyjuk állni tíz percig.",
+                "Ekkor keverjük bele a tojást, a lenmagot és a túrót.",
+                "A formát gondosan kizsírozzuk, majd beleöntjük, és elsimítjuk a masszát, végül megszórjuk szederrel.",
+                "Előmelegített, 200 °C-os sütőben (3-as gázfokozat) körülbelül 20 percig sütjük.",
+                "Hidegen és melegen egyaránt fogyasztható",
+                "Porcukorral csak közvetlenül tálalás előtt szórjuk meg."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/b9996078-1154-4446-8bf8-92aecc3817c4_0.jpg"
+        },
+        "x-source-file": "6927f13b-408a-4c16-9b05-60d162e1329b.zip",
+        "x-db-id": 181,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

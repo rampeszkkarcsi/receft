@@ -1,0 +1,112 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Hamburger Zsömle",
+        "recipeIngredient": [
+            "1 kg liszt",
+            "2 dl kefir",
+            "5 dkg élesztő",
+            "1 ek. só",
+            "2 ek. cukor",
+            "2 ek. méz",
+            "1 tojás",
+            "12.5 dkg vaj",
+            "2,5 dl langyos tej",
+            "1 dl langyos víz",
+            "a tetejére 1 tojás és szezámmag"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Anyukam: ebbol tenyleg 18 lesz!! :)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tejjel elkeverjük a cukrot, és belemorzsoljuk az élesztőt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy másik tálba beleszitáljuk a lisztet, elkeverjük a sót, gödröt formázunk a közepébe, és beleöntjük a kefirt, mézet, tojást és az olvasztott vajat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a felfuttatott élesztőt és a vizet is, és a robotgép dagasztó fejevel vagy kézzel szépen kidolgozzuk a tésztát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Letakarjuk egy konyharuhával, és kb. fél óra alatt a duplájára kelesztjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát lisztezett deszkára borítjuk, és 18 darab, kb. 10 dkg-os cipókat formázunk belőle"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütőpapírral bélelt tepsibe rakjuk, és még fél órát kelesztjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "250°C-ra légkeveréssel előmelegítjük a sütőt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Felverjük a tojást, elkeverjük egy kis vízzel, kétszer megkenjük vele a zsömleket, és megszórjuk szezámmaggal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tepsiket tehát az előmelegített sütőbe tesszük, majd 6 perc után gyorsan bevizezzük őket kicsit, erre tökéletes valamilyen permetező."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "150°C ra mérsékeljük a sütőt, és még 20 percig sütjük a zsömleket."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT26M",
+        "recipeYield": "18 db",
+        "x-recipe-keeper": {
+            "recipeId": "7c28c49c-8ebf-4f82-af05-f7621ce02650",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Hamburger Zsömle",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "18 db",
+            "prepTime": "PT0S",
+            "cookTime": "PT26M",
+            "recipeIngredients": [
+                "1 kg liszt",
+                "2 dl kefir",
+                "5 dkg élesztő",
+                "1 ek. só",
+                "2 ek. cukor",
+                "2 ek. méz",
+                "1 tojás",
+                "12.5 dkg vaj",
+                "2,5 dl langyos tej",
+                "1 dl langyos víz",
+                "a tetejére 1 tojás és szezámmag"
+            ],
+            "recipeDirections": [
+                "Anyukam: ebbol tenyleg 18 lesz!! :)",
+                "A tejjel elkeverjük a cukrot, és belemorzsoljuk az élesztőt.",
+                "Egy másik tálba beleszitáljuk a lisztet, elkeverjük a sót, gödröt formázunk a közepébe, és beleöntjük a kefirt, mézet, tojást és az olvasztott vajat.",
+                "Hozzáadjuk a felfuttatott élesztőt és a vizet is, és a robotgép dagasztó fejevel vagy kézzel szépen kidolgozzuk a tésztát.",
+                "Letakarjuk egy konyharuhával, és kb. fél óra alatt a duplájára kelesztjük.",
+                "A tésztát lisztezett deszkára borítjuk, és 18 darab, kb. 10 dkg-os cipókat formázunk belőle",
+                "Sütőpapírral bélelt tepsibe rakjuk, és még fél órát kelesztjük.",
+                "250°C-ra légkeveréssel előmelegítjük a sütőt.",
+                "Felverjük a tojást, elkeverjük egy kis vízzel, kétszer megkenjük vele a zsömleket, és megszórjuk szezámmaggal.",
+                "A tepsiket tehát az előmelegített sütőbe tesszük, majd 6 perc után gyorsan bevizezzük őket kicsit, erre tökéletes valamilyen permetező.",
+                "150°C ra mérsékeljük a sütőt, és még 20 percig sütjük a zsömleket."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 108,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

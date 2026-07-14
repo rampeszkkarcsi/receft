@@ -1,0 +1,86 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gombás-paradicsomos rakott tészta",
+        "recipeIngredient": [
+            "200 g gomba",
+            "2 piros húsú paprika",
+            "1 közepes fej hagyma",
+            "3 gerezd fokhagyma",
+            "1 dús szál bazsalikom",
+            "1 doboz hámozott paradicsom (400 g)",
+            "3+1 ek. olaj",
+            "só, bors",
+            "8-10 fekete olívabogyó",
+            "2 nagyobb, kemény paradicsom",
+            "200 g mozzarella sajt",
+            "400 g orsótészta/egyéb tömzsi fazontészta"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségeket megtisztítjuk, megmossuk. A gombát felszeleteljük, a paprikákat apró kockákra, a hagymát finomra, a bazsalikomot (bóbitája kivételével) vékony csíkokra vágjuk. A paradicsomot levével együtt péppé turmixoljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mélyebb serpenyőben/wokban felforrósítunk 3 ek. olajat, megfony-nyasztjuk benne a hagymát és az áttört fokhagymát. Rádobjuk a gombát, élénk tűzön 2-3 percig pirítjuk, aztán hozzáadjuk a paradicsom-pépet, ízlés szerint sózzuk, borsozzuk és felforraljuk. 5 perc múlva beletesszük a paprikát, fedő alatt, mérsékelt tűzön az egészet puhára pároljuk, végül hozzáadjuk a bazsalikomot és az olívabogyókat (tetszés szerint egy kevés csípős paprikával/csiliporral ízesítjük)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A paradicsomokat és a mozzarellát felkarikázzuk. Enyhén sós, bő vízben kifőzzük a tésztát, leszűrjük, és beleforgatjuk a mártásba."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A maradék 1 ek. olajjal kikenünk egy mélyebb sütőedényt, belecsúsztatjuk a tésztát, tetejét befedjük a paradicsom- és mozzarellaszeletekkel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "200 °C-os sütőben addig sütjük-forrósítjuk, amíg a sajt a tetejére olvad-pirul (12-15 perc). A félretett bazsalikombóbitával díszítjük, és a sütőedényben tálaljuk. Csak frissen jó!"
+            }
+        ],
+        "prepTime": "PT50M",
+        "cookTime": "PT15M",
+        "recipeYield": "4 személyre",
+        "image": "images/afeeb484-89e0-484d-ae41-0c3cc08ab759_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "afeeb484-89e0-484d-ae41-0c3cc08ab759",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gombás-paradicsomos rakott tészta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT50M",
+            "cookTime": "PT15M",
+            "recipeIngredients": [
+                "200 g gomba",
+                "2 piros húsú paprika",
+                "1 közepes fej hagyma",
+                "3 gerezd fokhagyma",
+                "1 dús szál bazsalikom",
+                "1 doboz hámozott paradicsom (400 g)",
+                "3+1 ek. olaj",
+                "só, bors",
+                "8-10 fekete olívabogyó",
+                "2 nagyobb, kemény paradicsom",
+                "200 g mozzarella sajt",
+                "400 g orsótészta/egyéb tömzsi fazontészta"
+            ],
+            "recipeDirections": [
+                "A zöldségeket megtisztítjuk, megmossuk. A gombát felszeleteljük, a paprikákat apró kockákra, a hagymát finomra, a bazsalikomot (bóbitája kivételével) vékony csíkokra vágjuk. A paradicsomot levével együtt péppé turmixoljuk.",
+                "Mélyebb serpenyőben/wokban felforrósítunk 3 ek. olajat, megfony-nyasztjuk benne a hagymát és az áttört fokhagymát. Rádobjuk a gombát, élénk tűzön 2-3 percig pirítjuk, aztán hozzáadjuk a paradicsom-pépet, ízlés szerint sózzuk, borsozzuk és felforraljuk. 5 perc múlva beletesszük a paprikát, fedő alatt, mérsékelt tűzön az egészet puhára pároljuk, végül hozzáadjuk a bazsalikomot és az olívabogyókat (tetszés szerint egy kevés csípős paprikával/csiliporral ízesítjük).",
+                "A paradicsomokat és a mozzarellát felkarikázzuk. Enyhén sós, bő vízben kifőzzük a tésztát, leszűrjük, és beleforgatjuk a mártásba.",
+                "A maradék 1 ek. olajjal kikenünk egy mélyebb sütőedényt, belecsúsztatjuk a tésztát, tetejét befedjük a paradicsom- és mozzarellaszeletekkel.",
+                "200 °C-os sütőben addig sütjük-forrósítjuk, amíg a sajt a tetejére olvad-pirul (12-15 perc). A félretett bazsalikombóbitával díszítjük, és a sütőedényben tálaljuk. Csak frissen jó!"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/afeeb484-89e0-484d-ae41-0c3cc08ab759_0.jpg"
+        },
+        "x-source-file": "8e973511-a906-412c-a871-c6205380a313.zip",
+        "x-db-id": 202,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

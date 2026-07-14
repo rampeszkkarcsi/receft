@@ -1,0 +1,83 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gazdag rizssaláta",
+        "recipeIngredient": [
+            "2 tojás",
+            "só, bors",
+            "1 kis fej főzőhagyma",
+            "1 közepes fej lila hagyma",
+            "250 g zsenge zöldborsó (100 g tisztított/mélyhűtött)",
+            "1 piros húsú paprika",
+            "1+4 ek. citromlé",
+            "1 babérlevél",
+            "200 g hosszú szemű rizs",
+            "2+6 ek. olívaolaj",
+            "4-5 szál petrezselyem",
+            "1 szál bazsalikom",
+            "1 szál menta"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tojásokat megmossuk, sós vízben a forrástól számított 8 percig főzzük, hideg vízben lehűtjük. A hagymaféléket és a zöldségeket megtisztítjuk. A lila hagymát felkarikázzuk, meglocsoljuk 1 ek. citromlével."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Felforralunk 6 dl vizet, hozzáadunk 1 kk. sót, a babérlevelet és a félbevágott főzőhagymát. Beszórjuk a rizst, majd félig lefedve, olykor megkeverve 10 percig főzzük. Lehúzzuk a tűzről, fedő alatt 15 percig pihentetjük-puffasztjuk, aztán összekeverjük 2 ek. olívaolajjal, és nagyobb tálra terítve hagyjuk kihűlni (a hagymát és babérlevelet eltávolítjuk)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zöldborsót 1-2 ek. vízzel, fedő alatt 5-8 percig pároljuk, hűlni hagyjuk, leszűrjük. A paprikát felaprózzuk, a zöldfűszereket leöblítjük, leveleiket (néhány bóbita kivételével) finomra vágjuk. A tojásokat meghámozzuk, gerezdekre szeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A maradék 4 ek. citromlét simára keverjük ízlés szerinti sóval, frissen őrölt borssal, majd apránként 6 ek. olívaolajjal. Hozzáadjuk a kihűlt rizst és zöldborsót, a lila hagymát levével együtt, a paprikát és a vágott fűszereket, lazán összekeverjük, csinos tálra halmozzuk. Tetejét a tojásgerezdekkel és a fűszerbóbitákkal díszítjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/7092e17c-ca6b-4bb4-a955-334c6f8a0d16_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "7092e17c-ca6b-4bb4-a955-334c6f8a0d16",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gazdag rizssaláta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "2 tojás",
+                "só, bors",
+                "1 kis fej főzőhagyma",
+                "1 közepes fej lila hagyma",
+                "250 g zsenge zöldborsó (100 g tisztított/mélyhűtött)",
+                "1 piros húsú paprika",
+                "1+4 ek. citromlé",
+                "1 babérlevél",
+                "200 g hosszú szemű rizs",
+                "2+6 ek. olívaolaj",
+                "4-5 szál petrezselyem",
+                "1 szál bazsalikom",
+                "1 szál menta"
+            ],
+            "recipeDirections": [
+                "A tojásokat megmossuk, sós vízben a forrástól számított 8 percig főzzük, hideg vízben lehűtjük. A hagymaféléket és a zöldségeket megtisztítjuk. A lila hagymát felkarikázzuk, meglocsoljuk 1 ek. citromlével.",
+                "Felforralunk 6 dl vizet, hozzáadunk 1 kk. sót, a babérlevelet és a félbevágott főzőhagymát. Beszórjuk a rizst, majd félig lefedve, olykor megkeverve 10 percig főzzük. Lehúzzuk a tűzről, fedő alatt 15 percig pihentetjük-puffasztjuk, aztán összekeverjük 2 ek. olívaolajjal, és nagyobb tálra terítve hagyjuk kihűlni (a hagymát és babérlevelet eltávolítjuk).",
+                "A zöldborsót 1-2 ek. vízzel, fedő alatt 5-8 percig pároljuk, hűlni hagyjuk, leszűrjük. A paprikát felaprózzuk, a zöldfűszereket leöblítjük, leveleiket (néhány bóbita kivételével) finomra vágjuk. A tojásokat meghámozzuk, gerezdekre szeljük.",
+                "A maradék 4 ek. citromlét simára keverjük ízlés szerinti sóval, frissen őrölt borssal, majd apránként 6 ek. olívaolajjal. Hozzáadjuk a kihűlt rizst és zöldborsót, a lila hagymát levével együtt, a paprikát és a vágott fűszereket, lazán összekeverjük, csinos tálra halmozzuk. Tetejét a tojásgerezdekkel és a fűszerbóbitákkal díszítjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/7092e17c-ca6b-4bb4-a955-334c6f8a0d16_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 46,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

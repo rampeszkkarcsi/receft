@@ -1,0 +1,119 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Brokkolis csirkemell",
+        "recipeIngredient": [
+            "60 dkg csirkemell filé",
+            "500 g brokkoli",
+            "400 g szeletelt gomba",
+            "1 közepes fej hagyma",
+            "2 gerezd fokhagyma",
+            "4 púpozott evőkanál liszt",
+            "1 evőkanál étkezési keményítő (elhagyható)",
+            "4 dl csirke alaplé",
+            "6 ek. méz",
+            "6 ek. szójaszósz",
+            "40 g friss gyömbér (vagy 1 tk. szárított)",
+            "1 ek. szezámolaj",
+            "4 ek. olaj (napraforgó vagy olíva)",
+            "Só",
+            "Bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Leg első lépésben készíts elő minden hozzávalót. Vágd 2-3 cm-es kockákra a csirkemellet - sózd és borsozd ízlés szerint -, szedd rózsáira és mosd meg a brokkolit, szeleteld fel kb. fél cm-es szeletekre a gombát, aprítsd fel a hagymát. Az összes többi hozzávalót is tedd a kezed közelébe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy nagyobb tálba tedd bele a lisztet, és forgasd bele a csirkemell kockákat. Rázd le, és tedd egy tányérra a húst. A lisztre még szükséged lesz."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A maradék liszthez öntsd hozzá a szójaszószt, a csirke alaplevet, add hozzá a mézet, reszeld bele a gyömbért és reszeld vagy nyomd bele a fokhagymát. Keverd jól össze, hogy ne legyen csomós. Ebben segít, ha langyos vagy meleg alaplevet használsz."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hozzávalóknál megadott mennyiségű gyömbértől kellemes, de kicsit erős íze lesz a brokkolis csirkemellnek. Ez ízlés kérdése, és ha ez esetleg sok, akkor próbálkozz kicsit kevesebb gyömbérrel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Most jön a sütés, amihez nagy láng és forró serpenyő vagy wok szükséges. Amikor elég forró, akkor adj hozzá kb. 2 evőkanál olajat, és tedd bele a csirkét. Rázva, forgatva, keverve, nagy lángon süsd kb. 6-8 percig, amíg a külseje szép barna lesz, és a hús átsül. Ha kész, tedd ki egy tányérra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Amikor ismét forró a serpenyő vagy wok, akkor add hozzá a maradék 2 evőkanál olajat, a szezámolajat, és tedd bele a brokkolit, gombát, hagymát. Forgatva, keverve, rázva süsd szintén 6-8 percig, amíg a brokkoli roppanós de mégis puha lesz, a hagyma megpuhul, a gomba pedig elfövi a levét."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A klasszikus stir frying technika esetében a három hozzávalót külön-külön kellene sütni, de egyben is tökéletes lesz a végeredmény."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Öntsd rá a zöldségekre a szószt. Keverd el, és most már csak közepes lángon fözd 2 percig, amíg a liszt besűríti."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add hozzá a csirkét, keverd el, és főzd még egy percig együtt, hogy az ízek összeérjenek. Ízlés szerint sózd még meg, ha szükséges."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha sűrűbb szószt szeretnél, akkor egy kisebb edényben (vagy amiben a szószt készítetted) keverj el 1 evőkanál keményítőt egy kevés hideg vízzel. Öntsd az ételhez, és átkeverve főzd még fél percig."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A brokkolis csirkemell kész. Melegen, rizzsel tálald!"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "ee90898f-7ad0-4d53-95ca-3c362a37e2d6",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Brokkolis csirkemell",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "60 dkg csirkemell filé",
+                "500 g brokkoli",
+                "400 g szeletelt gomba",
+                "1 közepes fej hagyma",
+                "2 gerezd fokhagyma",
+                "4 púpozott evőkanál liszt",
+                "1 evőkanál étkezési keményítő (elhagyható)",
+                "4 dl csirke alaplé",
+                "6 ek. méz",
+                "6 ek. szójaszósz",
+                "40 g friss gyömbér (vagy 1 tk. szárított)",
+                "1 ek. szezámolaj",
+                "4 ek. olaj (napraforgó vagy olíva)",
+                "Só",
+                "Bors"
+            ],
+            "recipeDirections": [
+                "Leg első lépésben készíts elő minden hozzávalót. Vágd 2-3 cm-es kockákra a csirkemellet - sózd és borsozd ízlés szerint -, szedd rózsáira és mosd meg a brokkolit, szeleteld fel kb. fél cm-es szeletekre a gombát, aprítsd fel a hagymát. Az összes többi hozzávalót is tedd a kezed közelébe.",
+                "Egy nagyobb tálba tedd bele a lisztet, és forgasd bele a csirkemell kockákat. Rázd le, és tedd egy tányérra a húst. A lisztre még szükséged lesz.",
+                "A maradék liszthez öntsd hozzá a szójaszószt, a csirke alaplevet, add hozzá a mézet, reszeld bele a gyömbért és reszeld vagy nyomd bele a fokhagymát. Keverd jól össze, hogy ne legyen csomós. Ebben segít, ha langyos vagy meleg alaplevet használsz.",
+                "A hozzávalóknál megadott mennyiségű gyömbértől kellemes, de kicsit erős íze lesz a brokkolis csirkemellnek. Ez ízlés kérdése, és ha ez esetleg sok, akkor próbálkozz kicsit kevesebb gyömbérrel.",
+                "Most jön a sütés, amihez nagy láng és forró serpenyő vagy wok szükséges. Amikor elég forró, akkor adj hozzá kb. 2 evőkanál olajat, és tedd bele a csirkét. Rázva, forgatva, keverve, nagy lángon süsd kb. 6-8 percig, amíg a külseje szép barna lesz, és a hús átsül. Ha kész, tedd ki egy tányérra.",
+                "Amikor ismét forró a serpenyő vagy wok, akkor add hozzá a maradék 2 evőkanál olajat, a szezámolajat, és tedd bele a brokkolit, gombát, hagymát. Forgatva, keverve, rázva süsd szintén 6-8 percig, amíg a brokkoli roppanós de mégis puha lesz, a hagyma megpuhul, a gomba pedig elfövi a levét.",
+                "A klasszikus stir frying technika esetében a három hozzávalót külön-külön kellene sütni, de egyben is tökéletes lesz a végeredmény.",
+                "Öntsd rá a zöldségekre a szószt. Keverd el, és most már csak közepes lángon fözd 2 percig, amíg a liszt besűríti.",
+                "Add hozzá a csirkét, keverd el, és főzd még egy percig együtt, hogy az ízek összeérjenek. Ízlés szerint sózd még meg, ha szükséges.",
+                "Ha sűrűbb szószt szeretnél, akkor egy kisebb edényben (vagy amiben a szószt készítetted) keverj el 1 evőkanál keményítőt egy kevés hideg vízzel. Öntsd az ételhez, és átkeverve főzd még fél percig.",
+                "A brokkolis csirkemell kész. Melegen, rizzsel tálald!"
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "5d69ba0e-6fbf-4ffa-86b3-7aaa925b1eab.zip",
+        "x-db-id": 163,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

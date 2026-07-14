@@ -1,0 +1,152 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kukoricás-csirkés quiche zöldségekkel",
+        "recipeIngredient": [
+            "A TÉSZTÁHOZ",
+            "20 dkg liszt",
+            "2 csipet só",
+            "10 dkg hideg vaj",
+            "5 evőkanál hideg víz",
+            "A TÖLTELÉKHEZ",
+            "1 csokor újhagyma",
+            "1 kisebb padlizsán",
+            "1 paradicsompaprika",
+            "10 dkg csirkemellfilé",
+            "1 salátacukkini",
+            "5 evőkanál olívaolaj",
+            "1 gerezd fokhagyma",
+            "só",
+            "frissen őrölt bors",
+            "1 cső főtt kukorica",
+            "2,5 dl tejszín",
+            "2 tojás",
+            "5 dkg parmezán, reszelve"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tészta elkészítése: a liszthez adjuk a sót, majd elmorzsoljuk a hideg, felkockázott vajjal, végül apránként hozzáadjuk a hideg vizet, és gyors mozdulatokkal összeállítjuk a tésztát. Folpackba csomagoljuk, és fél óráig hűtjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben elkészítjük a tölteléket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségeket és a húst megmossuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát vékonyra karikázzuk, a padlizsánt, a paprikát, a csirkemellet kis kockákra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A cukkinit almareszelőn lereszeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kukoricát megfőzzük, majd a szemeket lemorzsoljuk a csőről."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy serpenyőt felhevítünk, és az olajon megpároljuk a hagymát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a csirkemellet, és megpirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezt követően mehetnek bele a zöldségek (a főtt kukoricával együtt), illetve a zúzott fokhagyma."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sózzuk, borsozzuk, és megpároljuk nagyjából 20 perc alatt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojásokat felhabosítjuk, összekeverjük a tejszínnel, sózzuk, borsozzuk, majd összeforgatjuk a langyosra hűlt zöldségekkel, csirkével."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt 200 fokra előmelegítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát kinyújtjuk, majd (pite)formába simítjuk, és villával megszurkáljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütőpapírt terítünk a tésztára, majd sütőbabot/lencsét szórunk rá, és 15 percig elősütjük (így nem púposodik fel)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőpapírt és a nehezéket leszedjük, ráöntjük a tölteléket, majd megszórjuk a reszelt parmezánnal, és további 20 percig sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Langyosan, hidegen, melegen fogyaszthatjuk, finom kevert zöldsalátával is!"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT35M",
+        "x-recipe-keeper": {
+            "recipeId": "7bc1f54b-e97b-43c5-8cac-419d3e372ef2",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kukoricás-csirkés quiche zöldségekkel",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT35M",
+            "recipeIngredients": [
+                "A TÉSZTÁHOZ",
+                "20 dkg liszt",
+                "2 csipet só",
+                "10 dkg hideg vaj",
+                "5 evőkanál hideg víz",
+                "A TÖLTELÉKHEZ",
+                "1 csokor újhagyma",
+                "1 kisebb padlizsán",
+                "1 paradicsompaprika",
+                "10 dkg csirkemellfilé",
+                "1 salátacukkini",
+                "5 evőkanál olívaolaj",
+                "1 gerezd fokhagyma",
+                "só",
+                "frissen őrölt bors",
+                "1 cső főtt kukorica",
+                "2,5 dl tejszín",
+                "2 tojás",
+                "5 dkg parmezán, reszelve"
+            ],
+            "recipeDirections": [
+                "A tészta elkészítése: a liszthez adjuk a sót, majd elmorzsoljuk a hideg, felkockázott vajjal, végül apránként hozzáadjuk a hideg vizet, és gyors mozdulatokkal összeállítjuk a tésztát. Folpackba csomagoljuk, és fél óráig hűtjük.",
+                "Közben elkészítjük a tölteléket.",
+                "A zöldségeket és a húst megmossuk.",
+                "A hagymát vékonyra karikázzuk, a padlizsánt, a paprikát, a csirkemellet kis kockákra vágjuk.",
+                "A cukkinit almareszelőn lereszeljük.",
+                "A kukoricát megfőzzük, majd a szemeket lemorzsoljuk a csőről.",
+                "Egy serpenyőt felhevítünk, és az olajon megpároljuk a hagymát.",
+                "Hozzáadjuk a csirkemellet, és megpirítjuk.",
+                "Ezt követően mehetnek bele a zöldségek (a főtt kukoricával együtt), illetve a zúzott fokhagyma.",
+                "Sózzuk, borsozzuk, és megpároljuk nagyjából 20 perc alatt.",
+                "A tojásokat felhabosítjuk, összekeverjük a tejszínnel, sózzuk, borsozzuk, majd összeforgatjuk a langyosra hűlt zöldségekkel, csirkével.",
+                "A sütőt 200 fokra előmelegítjük.",
+                "A tésztát kinyújtjuk, majd (pite)formába simítjuk, és villával megszurkáljuk.",
+                "Sütőpapírt terítünk a tésztára, majd sütőbabot/lencsét szórunk rá, és 15 percig elősütjük (így nem púposodik fel).",
+                "A sütőpapírt és a nehezéket leszedjük, ráöntjük a tölteléket, majd megszórjuk a reszelt parmezánnal, és további 20 percig sütjük.",
+                "Langyosan, hidegen, melegen fogyaszthatjuk, finom kevert zöldsalátával is!"
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 9,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

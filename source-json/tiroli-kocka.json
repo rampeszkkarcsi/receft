@@ -1,0 +1,76 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Tiroli kocka",
+        "recipeIngredient": [
+            "4 adag kifőzzott kockatészta",
+            "4 dkg margarin",
+            "5 dkg porcukor",
+            "1 cs. vaníliás cukor",
+            "2 tojássárgája",
+            "Ezeket kikavarni",
+            "2 dl tejföl",
+            "5 dkg mazsola",
+            "reszelt citromhéj",
+            "tojásfehérje felvert habja",
+            "Ezeket hozzá",
+            "20 dkg túró"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Összekeverjük a kifőzzott tésztával és belemorzsolunk 20dkg túrót, jól összekeverjük"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kivajazott, kristálycukorral megszórt tepsibe teritjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közepes meleg sütőben arany barnára sütjük"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 adag",
+        "image": "images/e669724b-63aa-4769-94a3-64abe8a562e5_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "e669724b-63aa-4769-94a3-64abe8a562e5",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Tiroli kocka",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 adag",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "4 adag kifőzzott kockatészta",
+                "4 dkg margarin",
+                "5 dkg porcukor",
+                "1 cs. vaníliás cukor",
+                "2 tojássárgája",
+                "Ezeket kikavarni",
+                "2 dl tejföl",
+                "5 dkg mazsola",
+                "reszelt citromhéj",
+                "tojásfehérje felvert habja",
+                "Ezeket hozzá",
+                "20 dkg túró"
+            ],
+            "recipeDirections": [
+                "Összekeverjük a kifőzzott tésztával és belemorzsolunk 20dkg túrót, jól összekeverjük",
+                "Kivajazott, kristálycukorral megszórt tepsibe teritjük.",
+                "Közepes meleg sütőben arany barnára sütjük"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/e669724b-63aa-4769-94a3-64abe8a562e5_0.jpg"
+        },
+        "x-source-file": "6927f13b-408a-4c16-9b05-60d162e1329b.zip",
+        "x-db-id": 199,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

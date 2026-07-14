@@ -1,0 +1,63 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Darálós keksz",
+        "recipeIngredient": [
+            "55 dkg liszt",
+            "1 margarin",
+            "vagy",
+            "50 dkg liszt",
+            "18 dkg zsír",
+            "továbbá",
+            "18 dkg porcukor",
+            "1 csomag vaníliás cukor",
+            "sütőpor (kb. 1-2 cs)",
+            "2 tojás",
+            "1 citrom leve és reszelt héja"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "175 fokon!"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/eb6633b9-04c4-4108-8c75-4f253c7d742c_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "eb6633b9-04c4-4108-8c75-4f253c7d742c",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Darálós keksz",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "55 dkg liszt",
+                "1 margarin",
+                "vagy",
+                "50 dkg liszt",
+                "18 dkg zsír",
+                "továbbá",
+                "18 dkg porcukor",
+                "1 csomag vaníliás cukor",
+                "sütőpor (kb. 1-2 cs)",
+                "2 tojás",
+                "1 citrom leve és reszelt héja"
+            ],
+            "recipeDirections": [
+                "175 fokon!"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/eb6633b9-04c4-4108-8c75-4f253c7d742c_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 9,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

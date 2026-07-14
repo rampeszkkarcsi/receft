@@ -1,0 +1,105 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "EPRES-RIBISZKÉS TÚRÓFÁNK",
+        "recipeIngredient": [
+            "7 dkg vaj",
+            "16 dkg teljes kiőrlésű búzaliszt (Graham-liszt)",
+            "egy csipetnyi só",
+            "két tojás",
+            "10 dkg ribiszke",
+            "20 dkg eper",
+            "20 dkg túró",
+            "5 dkg méz",
+            "2 dl tejszín"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Forraljunk fel 4 dl vizet, tegyük bele a vajat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Szórjuk bele a lisztet és a sót, majd főzzük mindaddig, amíg összeáll a tészta, az edény alján pedig vékony fehér réteg képződik."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ekkor húzzuk le a lábast a tűzről, ha kihűlt, keverjünk bele két egész tojást."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Töltsük a masszát habzsákba, és nyomkodjunk vele 12 egyforma halmocskát a sütőpapírral bélelt tepsibe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A fánkocskákat előmelegített sütőben 30-40 percig 180 °C-on, majd további öt percen át 225 °C-on sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőből kivéve vágjuk ketté a fánkokat, és hagyjuk így kihűlni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A ribizlit passzírozzuk át egy szűrőn, majd keverjük habosra mézzel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megmosott, megtisztított eperből néhány szemet félreteszünk a díszítéshez, a többit villával szétnyomkodjuk, és a ribizlipéppel együtt a túróba keverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tejszínt kemény habbá verjük, és óvatosan a túrókrém közé vegyítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kanállal vagy a kimosott habzsák segítségével megtöltjük a fán kocskákat, ráhelyezzük a kalapkákat, azután porcukorral meghintve tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT45M",
+        "recipeYield": "12 darab",
+        "image": "images/abbb8ba3-8ae3-426a-a970-677682238442_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "abbb8ba3-8ae3-426a-a970-677682238442",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "EPRES-RIBISZKÉS TÚRÓFÁNK",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "12 darab",
+            "prepTime": "PT0S",
+            "cookTime": "PT45M",
+            "recipeIngredients": [
+                "7 dkg vaj",
+                "16 dkg teljes kiőrlésű búzaliszt (Graham-liszt)",
+                "egy csipetnyi só",
+                "két tojás",
+                "10 dkg ribiszke",
+                "20 dkg eper",
+                "20 dkg túró",
+                "5 dkg méz",
+                "2 dl tejszín"
+            ],
+            "recipeDirections": [
+                "Forraljunk fel 4 dl vizet, tegyük bele a vajat.",
+                "Szórjuk bele a lisztet és a sót, majd főzzük mindaddig, amíg összeáll a tészta, az edény alján pedig vékony fehér réteg képződik.",
+                "Ekkor húzzuk le a lábast a tűzről, ha kihűlt, keverjünk bele két egész tojást.",
+                "Töltsük a masszát habzsákba, és nyomkodjunk vele 12 egyforma halmocskát a sütőpapírral bélelt tepsibe.",
+                "A fánkocskákat előmelegített sütőben 30-40 percig 180 °C-on, majd további öt percen át 225 °C-on sütjük.",
+                "A sütőből kivéve vágjuk ketté a fánkokat, és hagyjuk így kihűlni.",
+                "A ribizlit passzírozzuk át egy szűrőn, majd keverjük habosra mézzel.",
+                "A megmosott, megtisztított eperből néhány szemet félreteszünk a díszítéshez, a többit villával szétnyomkodjuk, és a ribizlipéppel együtt a túróba keverjük.",
+                "A tejszínt kemény habbá verjük, és óvatosan a túrókrém közé vegyítjük.",
+                "Kanállal vagy a kimosott habzsák segítségével megtöltjük a fán kocskákat, ráhelyezzük a kalapkákat, azután porcukorral meghintve tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/abbb8ba3-8ae3-426a-a970-677682238442_0.jpg"
+        },
+        "x-source-file": "6927f13b-408a-4c16-9b05-60d162e1329b.zip",
+        "x-db-id": 185,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

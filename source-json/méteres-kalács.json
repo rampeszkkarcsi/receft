@@ -1,0 +1,112 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Méteres kalács",
+        "recipeIngredient": [
+            "Tészta",
+            "6 tojás",
+            "5 ek olaj",
+            "5 ek víz",
+            "40 dkg porcukor",
+            "40 dkg liszt",
+            "1 cs sütőpor",
+            "Krém",
+            "20 dkg cukor",
+            "20 dkg vaj",
+            "rum",
+            "puncsos pudingpor + 4 dl tej (cukor nélkül megfőzni)",
+            "epres pudingpor + 4 dl tej (cukor nélkül megfőzni)",
+            "Csokibevonat",
+            "10 dkg vaj",
+            "10 dkg cukor",
+            "1 ek tej",
+            "2 ek kakaópor"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tojásokat, cukrot az olajjal és a vízzel habosra verjük (kb. 15 perc robotgéppel), majd hozzáadjuk a sütőport és a lisztet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A masszát kétfelé öntjük, az egyik felébe 2 ek kakaóport teszünk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kikent őzgerincformában kisütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A cukrot a vajjal jól kikeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha a pudingok kihűltek, a vajas krémmel összekeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az őzgerincből kiborított tésztát bordánként felszeleteljük, és a krémmel (felváltva a kétféle ízt) megtöltjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "(1 barna - 1 sárga tészta!)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az egészet csokibevonattal bekenjük, majd ferdén felszeleteljük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/4abc3e21-22b0-4ab7-9d73-7dafeff3913f_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "4abc3e21-22b0-4ab7-9d73-7dafeff3913f",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Méteres kalács",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "Tészta",
+                "6 tojás",
+                "5 ek olaj",
+                "5 ek víz",
+                "40 dkg porcukor",
+                "40 dkg liszt",
+                "1 cs sütőpor",
+                "Krém",
+                "20 dkg cukor",
+                "20 dkg vaj",
+                "rum",
+                "puncsos pudingpor + 4 dl tej (cukor nélkül megfőzni)",
+                "epres pudingpor + 4 dl tej (cukor nélkül megfőzni)",
+                "Csokibevonat",
+                "10 dkg vaj",
+                "10 dkg cukor",
+                "1 ek tej",
+                "2 ek kakaópor"
+            ],
+            "recipeDirections": [
+                "A tojásokat, cukrot az olajjal és a vízzel habosra verjük (kb. 15 perc robotgéppel), majd hozzáadjuk a sütőport és a lisztet.",
+                "A masszát kétfelé öntjük, az egyik felébe 2 ek kakaóport teszünk.",
+                "Kikent őzgerincformában kisütjük.",
+                "A cukrot a vajjal jól kikeverjük.",
+                "Ha a pudingok kihűltek, a vajas krémmel összekeverjük.",
+                "Az őzgerincből kiborított tésztát bordánként felszeleteljük, és a krémmel (felváltva a kétféle ízt) megtöltjük.",
+                "(1 barna - 1 sárga tészta!)",
+                "Az egészet csokibevonattal bekenjük, majd ferdén felszeleteljük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/4abc3e21-22b0-4ab7-9d73-7dafeff3913f_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 26,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:14+00:00"
+    }
+]

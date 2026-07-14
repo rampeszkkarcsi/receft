@@ -1,0 +1,90 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Csirkecomb zöldségtócsnival és fokhagymás tejföllel",
+        "recipeIngredient": [
+            "4 egész bőrös csirkecomb",
+            "25 dkg cukkini",
+            "25 dkg sárgarépa",
+            "4-5 ek. liszt",
+            "2 tojás",
+            "1 fej vöröshagyma",
+            "só",
+            "bors",
+            "olaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A megmosott-leszárított, sózott, borsozott csirkecombokat tepsibe helyezzük, kevés olajjal meglocsoljuk, majd 180 °C-os sütőben kb. fél óra alatt megsütjük (a comb méretétől függően)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a tócsnihoz a cukkinit és a sárgarépát mossuk, a cukkini végeit levágjuk, a répát meghámozzuk, majd mindkettőt a tisztított vöröshagymával együtt a sajtreszelő nagyobbik lyukán lereszeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a tojást és a lisztet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sóval, borssal ízesítjük, majd 15 percig a hűtőben pihentetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hűtőből kivett zöldségmasszából evőkanállal kis adagokat teszünk a forró olajba, és minden oldalukat 1-1 percig sütjük, míg ropogós lesz."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Papírtörlőn lecsepegtetjük, és még forrón a csirkecombok mellé tálaljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sóval, egy gerezd reszelt fokhagymával ízesített tejfölt is kínálhatunk mellé."
+            }
+        ],
+        "prepTime": "PT15M",
+        "cookTime": "PT30M",
+        "recipeYield": "4 PERSON",
+        "image": "images/0655e08e-8d02-49dc-9031-655842d54761_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "0655e08e-8d02-49dc-9031-655842d54761",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Csirkecomb zöldségtócsnival és fokhagymás tejföllel",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT15M",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "4 egész bőrös csirkecomb",
+                "25 dkg cukkini",
+                "25 dkg sárgarépa",
+                "4-5 ek. liszt",
+                "2 tojás",
+                "1 fej vöröshagyma",
+                "só",
+                "bors",
+                "olaj"
+            ],
+            "recipeDirections": [
+                "A megmosott-leszárított, sózott, borsozott csirkecombokat tepsibe helyezzük, kevés olajjal meglocsoljuk, majd 180 °C-os sütőben kb. fél óra alatt megsütjük (a comb méretétől függően).",
+                "Közben a tócsnihoz a cukkinit és a sárgarépát mossuk, a cukkini végeit levágjuk, a répát meghámozzuk, majd mindkettőt a tisztított vöröshagymával együtt a sajtreszelő nagyobbik lyukán lereszeljük.",
+                "Hozzáadjuk a tojást és a lisztet.",
+                "Sóval, borssal ízesítjük, majd 15 percig a hűtőben pihentetjük.",
+                "A hűtőből kivett zöldségmasszából evőkanállal kis adagokat teszünk a forró olajba, és minden oldalukat 1-1 percig sütjük, míg ropogós lesz.",
+                "Papírtörlőn lecsepegtetjük, és még forrón a csirkecombok mellé tálaljuk.",
+                "Sóval, egy gerezd reszelt fokhagymával ízesített tejfölt is kínálhatunk mellé."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/0655e08e-8d02-49dc-9031-655842d54761_0.jpg"
+        },
+        "x-source-file": "6e03e7be-5be6-419b-9334-749488909078.zip",
+        "x-db-id": 127,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

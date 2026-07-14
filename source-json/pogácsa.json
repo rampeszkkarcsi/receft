@@ -1,0 +1,65 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Pogácsa",
+        "recipeIngredient": [
+            "60 dkg liszt",
+            "25 dkg margarin",
+            "2 tojás",
+            "2 dkg élesztő",
+            "kis tej (az élesztőhöz)",
+            "só",
+            "1 tejföl"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Tojással kenjük a tetejét, reszelt sajtot szórunk rá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Összegyúrás után 1 órát kelesztjük, utána még egyszer összegyúrjuk, kinyújtjuk, kiszaggatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "220 °C-on sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/06e30fc3-f149-4ada-b073-43fc2920455c_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "06e30fc3-f149-4ada-b073-43fc2920455c",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Pogácsa",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "60 dkg liszt",
+                "25 dkg margarin",
+                "2 tojás",
+                "2 dkg élesztő",
+                "kis tej (az élesztőhöz)",
+                "só",
+                "1 tejföl"
+            ],
+            "recipeDirections": [
+                "Tojással kenjük a tetejét, reszelt sajtot szórunk rá.",
+                "Összegyúrás után 1 órát kelesztjük, utána még egyszer összegyúrjuk, kinyújtjuk, kiszaggatjuk.",
+                "220 °C-on sütjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/06e30fc3-f149-4ada-b073-43fc2920455c_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 30,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:14+00:00"
+    }
+]

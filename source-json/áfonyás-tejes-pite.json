@@ -1,0 +1,78 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "ÁFONYÁS TEJES PITE",
+        "recipeIngredient": [
+            "5 tojás",
+            "2,5 dl habtejszín",
+            "2,5 dl tej",
+            "15 dkg liszt",
+            "5 dkg vaj/margarin, olvasztva + a formához",
+            "8 dkg cukor",
+            "50 dkg áfonya (friss vagy fagyasztott)",
+            "méz és tejszínhab a tálaláshoz"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tészta hozzávalóit - a gyümölcs kivételével - tálba mérjük, és kézi habverővel vagy robotgéppel csomómentesre keverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A (szükség szerint felengedett) gyümölcsöt vékonyan kivajazott hőálló tálba terítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A gyümölcs tetejére öntjük a tésztát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "170-180 °C-ra előmelegített sütőben kb. 40 perc alatt készre sütjük, tűpróbával ellenőrizzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tálalás előtt mézet csurgatunk a pite tetejére, és tejszínhabrózsákat nyomunk rá."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT40M",
+        "recipeYield": "4-6 adaghoz",
+        "image": "images/748a64af-d493-41c8-8e56-472f11276038_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "748a64af-d493-41c8-8e56-472f11276038",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "ÁFONYÁS TEJES PITE",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4-6 adaghoz",
+            "prepTime": "PT0S",
+            "cookTime": "PT40M",
+            "recipeIngredients": [
+                "5 tojás",
+                "2,5 dl habtejszín",
+                "2,5 dl tej",
+                "15 dkg liszt",
+                "5 dkg vaj/margarin, olvasztva + a formához",
+                "8 dkg cukor",
+                "50 dkg áfonya (friss vagy fagyasztott)",
+                "méz és tejszínhab a tálaláshoz"
+            ],
+            "recipeDirections": [
+                "A tészta hozzávalóit - a gyümölcs kivételével - tálba mérjük, és kézi habverővel vagy robotgéppel csomómentesre keverjük.",
+                "A (szükség szerint felengedett) gyümölcsöt vékonyan kivajazott hőálló tálba terítjük.",
+                "A gyümölcs tetejére öntjük a tésztát.",
+                "170-180 °C-ra előmelegített sütőben kb. 40 perc alatt készre sütjük, tűpróbával ellenőrizzük.",
+                "Tálalás előtt mézet csurgatunk a pite tetejére, és tejszínhabrózsákat nyomunk rá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/748a64af-d493-41c8-8e56-472f11276038_0.jpg"
+        },
+        "x-source-file": "6e03e7be-5be6-419b-9334-749488909078.zip",
+        "x-db-id": 121,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Csokis kalácsfelfújt",
+        "recipeIngredient": [
+            "30dkg szikkadt kalács",
+            "3-4 ek nutella",
+            "4dl tej",
+            "3dl tejszín",
+            "3dkg vaj",
+            "10dkg cukor",
+            "2 tojás",
+            "2 sárgája",
+            "10dkg tejcsoki"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Kalácsot felszeletelni, minden 2. Szeletet nutellaval megkenni vastagon, szendvicseket készíteni, ezeket 2cmes kockákra vágni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tej meg tejszín lábosba melegít"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tojás, sárgája, cukor összekeverjük"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Meleg tejet apránként hozzá a cukros tojashoz, beleforgatni a kalacskockakat, 5-10p alatt magukba szívják."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "30x20cm tepsit kivajazni, bele a kalács, közé csokidarabkak, tetejére vajat morzsolni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "175° 45 percig sütni"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "bbdb4155-5c30-4825-834b-808e951ffc38",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Csokis kalácsfelfújt",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "30dkg szikkadt kalács",
+                "3-4 ek nutella",
+                "4dl tej",
+                "3dl tejszín",
+                "3dkg vaj",
+                "10dkg cukor",
+                "2 tojás",
+                "2 sárgája",
+                "10dkg tejcsoki"
+            ],
+            "recipeDirections": [
+                "Kalácsot felszeletelni, minden 2. Szeletet nutellaval megkenni vastagon, szendvicseket készíteni, ezeket 2cmes kockákra vágni.",
+                "Tej meg tejszín lábosba melegít",
+                "Tojás, sárgája, cukor összekeverjük",
+                "Meleg tejet apránként hozzá a cukros tojashoz, beleforgatni a kalacskockakat, 5-10p alatt magukba szívják.",
+                "30x20cm tepsit kivajazni, bele a kalács, közé csokidarabkak, tetejére vajat morzsolni.",
+                "175°  45 percig sütni"
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "6927f13b-408a-4c16-9b05-60d162e1329b.zip",
+        "x-db-id": 183,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

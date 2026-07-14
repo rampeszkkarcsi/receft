@@ -1,0 +1,81 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Nyári babos bableves",
+        "recipeIngredient": [
+            "400 g fejtős bab (200 g tisztított)",
+            "200 g zöld hüvelyű bab",
+            "150 g sárgarépa",
+            "1 kis fej hagyma",
+            "2 gerezd fokhagyma",
+            "1 kis babérlevél",
+            "4-5 szál friss vagy 1/4 kk. szárított borsikafű",
+            "só, bors",
+            "2 dl tejföl",
+            "1 ek. rizsliszt",
+            "citromlé",
+            "4-5 szál petrezselyem"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A babot hüvelyéből kifejtjük, szűrőtálba csúsztatjuk, leöblítjük. A zöldbabot megmossuk, megtisztítjuk, 2-3 cm-es darabokra vágjuk. A répát meghámozzuk, felkarikázzuk. A hagymát és a fokhagymát megtisztítjuk. A borsikafűszálakat leöblítjük (ha szárított változatát használjuk, néhány szem borssal és a fokhagymával együtt teatojásba zárjuk)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A babot feltesszük főni 1,5 liter hideg vízben. Miután felforrt, hozzáadjuk a többi zöldséget, a hagymafejet, a fokhagymát, a babérlevelet, a borsikafüvet (illetve a teatojást), egy kevés sót, és mérsékelt tűzön, félig lefedve puhára főzzük (30-35 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tejfölben simára keverjük a rizslisztet, a leveshez adjuk, össze forraljuk. Utánasózzuk, borsozzuk, ízlés szerint néhány csepp citromlével savanyítjuk, és hideg vízfürdőbe állítva teljesen kihűtjük. Lefedjük, 3-4 órára a hűtőbe tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tálalás előtt kidobjuk a levesből a hagymát, fokhagymát, babérlevelet és borsikafüvet/teatojást, végül megszórjuk a leöblített, frissen vágott petrezselyemmel. Külön tálkában sovány tejfölt vagy joghurtot kínálhatunk hozzá."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT35M",
+        "recipeYield": "4 személyre",
+        "image": "images/35356b60-ee52-4799-9420-bb4c909a929d_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "35356b60-ee52-4799-9420-bb4c909a929d",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Nyári babos bableves",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H",
+            "cookTime": "PT35M",
+            "recipeIngredients": [
+                "400 g fejtős bab (200 g tisztított)",
+                "200 g zöld hüvelyű bab",
+                "150 g sárgarépa",
+                "1 kis fej hagyma",
+                "2 gerezd fokhagyma",
+                "1 kis babérlevél",
+                "4-5 szál friss vagy 1/4 kk. szárított borsikafű",
+                "só, bors",
+                "2 dl tejföl",
+                "1 ek. rizsliszt",
+                "citromlé",
+                "4-5 szál petrezselyem"
+            ],
+            "recipeDirections": [
+                "A babot hüvelyéből kifejtjük, szűrőtálba csúsztatjuk, leöblítjük. A zöldbabot megmossuk, megtisztítjuk, 2-3 cm-es darabokra vágjuk. A répát meghámozzuk, felkarikázzuk. A hagymát és a fokhagymát megtisztítjuk. A borsikafűszálakat leöblítjük (ha szárított változatát használjuk, néhány szem borssal és a fokhagymával együtt teatojásba zárjuk).",
+                "A babot feltesszük főni 1,5 liter hideg vízben. Miután felforrt, hozzáadjuk a többi zöldséget, a hagymafejet, a fokhagymát, a babérlevelet, a borsikafüvet (illetve a teatojást), egy kevés sót, és mérsékelt tűzön, félig lefedve puhára főzzük (30-35 perc).",
+                "A tejfölben simára keverjük a rizslisztet, a leveshez adjuk, össze forraljuk. Utánasózzuk, borsozzuk, ízlés szerint néhány csepp citromlével savanyítjuk, és hideg vízfürdőbe állítva teljesen kihűtjük. Lefedjük, 3-4 órára a hűtőbe tesszük.",
+                "Tálalás előtt kidobjuk a levesből a hagymát, fokhagymát, babérlevelet és borsikafüvet/teatojást, végül megszórjuk a leöblített, frissen vágott petrezselyemmel. Külön tálkában sovány tejfölt vagy joghurtot kínálhatunk hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/35356b60-ee52-4799-9420-bb4c909a929d_0.jpg"
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 247,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

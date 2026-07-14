@@ -1,0 +1,75 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Tavaszi répatorta",
+        "recipeIngredient": [
+            "400 g mélyhűtött leveles tészta",
+            "500 g zsenge sárgarépa",
+            "só, bors",
+            "szerecsendió",
+            "1 kk. cukor",
+            "30 g + diónyi + 30 g vaj/margarin",
+            "80 g reszelt parmezán sajt",
+            "2 ek. zsemlemorzsa",
+            "1 tojássárgája a kenéshez"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát szobahőmérsékleten hagyjuk felengedni (kb. 1 óra). A sárgarépát megtisztítjuk, felkarikázzuk, 2-3 ek. sós vízzel puhára pároljuk, leszűrjük. 2 púpozott evőkanálnyit félreteszünk a díszítéshez, a többit összeturmixoljuk, sóval, őrölt borssal, 1 csipet frissen reszelt szerecsendióval és a cukorral ízesítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Teflon serpenyőben felforrosítunk 30 g vajat/margarint, hozzáadjuk a répapépet, majd élénk tűzön, folyamatosan keverve sűrűre főzzük. Lehúzzuk a tűzről, azon melegében hozzáadjuk a reszelt sajt felét, hagyjuk kihűlni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt előmelegítjük 200 °C-ra. Diónyi vajjal/margarinal kikenünk egy 24-26 cm átmérőjű gyümölcstortaformát. A tésztát lisztezett munkalapon 30-32 cm átmérőjű kerek lapra nyújtjuk, és a formába terítjük úgy, hogy 3-3 cm szélesen túllógjon a peremén."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Alját villával megszurkáljuk és meghintjük a zsemlemorzsával. Belesimítjuk a répamasszát, tetejét kirakjuk a félretett répakarikákkal, rámorzsoljuk-kenjük a maradék 30 g vajat/margarint, és meghintjük a maradék sajttal. Visszahajtjuk a töltelékre a tészta szegélyét, megkenjük a tojássárgájával, 25-30 percig sütjük. Kissé hűlni hagyjuk, majd tortaszerűen szeleteljük. Magában vagy húsételek köreteként kínálhatjuk, hidegen is finom!"
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT30M",
+        "recipeYield": "8 szelet",
+        "image": "images/3f71e5cd-85f9-4526-a753-388b4c9ca122_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "3f71e5cd-85f9-4526-a753-388b4c9ca122",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Tavaszi répatorta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "8 szelet",
+            "prepTime": "PT1H",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "400 g mélyhűtött leveles tészta",
+                "500 g zsenge sárgarépa",
+                "só, bors",
+                "szerecsendió",
+                "1 kk. cukor",
+                "30 g + diónyi + 30 g vaj/margarin",
+                "80 g reszelt parmezán sajt",
+                "2 ek. zsemlemorzsa",
+                "1 tojássárgája a kenéshez"
+            ],
+            "recipeDirections": [
+                "A tésztát szobahőmérsékleten hagyjuk felengedni (kb. 1 óra). A sárgarépát megtisztítjuk, felkarikázzuk, 2-3 ek. sós vízzel puhára pároljuk, leszűrjük. 2 púpozott evőkanálnyit félreteszünk a díszítéshez, a többit összeturmixoljuk, sóval, őrölt borssal, 1 csipet frissen reszelt szerecsendióval és a cukorral ízesítjük.",
+                "Teflon serpenyőben felforrosítunk 30 g vajat/margarint, hozzáadjuk a répapépet, majd élénk tűzön, folyamatosan keverve sűrűre főzzük. Lehúzzuk a tűzről, azon melegében hozzáadjuk a reszelt sajt felét, hagyjuk kihűlni.",
+                "A sütőt előmelegítjük 200 °C-ra. Diónyi vajjal/margarinal kikenünk egy 24-26 cm átmérőjű gyümölcstortaformát. A tésztát lisztezett munkalapon 30-32 cm átmérőjű kerek lapra nyújtjuk, és a formába terítjük úgy, hogy 3-3 cm szélesen túllógjon a peremén.",
+                "Alját villával megszurkáljuk és meghintjük a zsemlemorzsával. Belesimítjuk a répamasszát, tetejét kirakjuk a félretett répakarikákkal, rámorzsoljuk-kenjük a maradék 30 g vajat/margarint, és meghintjük a maradék sajttal. Visszahajtjuk a töltelékre a tészta szegélyét, megkenjük a tojássárgájával, 25-30 percig sütjük. Kissé hűlni hagyjuk, majd tortaszerűen szeleteljük. Magában vagy húsételek köreteként kínálhatjuk, hidegen is finom!"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/3f71e5cd-85f9-4526-a753-388b4c9ca122_0.jpg"
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 15,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

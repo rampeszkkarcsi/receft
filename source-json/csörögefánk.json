@@ -1,0 +1,139 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Csörögefánk",
+        "recipeIngredient": [
+            "Elkészítési idő: 1 és 1/2 óra",
+            "1 darab: 68 kcal/284 kJ",
+            "HOZZÁVALÓK KB. 60 DARABHOZ:",
+            "●80 g vaj/margarin",
+            "350 g finomliszt",
+            "80 g kristálycukor",
+            "1 tasak vaníliás cukor",
+            "1 csipet só ⚫ 5 tojássárgája",
+            "1-2 ek. tejföl⚫1 ek. runt",
+            "olaj a sütéshez (kb. 1,5 lite",
+            "100 g vaníliás porcukor"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A vajat/margarint felolvasztjuk, hagyjuk langyosra hűlni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet tálba szitáljuk, belekeverjük a cukrot, a vaníliás cukrot és a sót, közepébe mélyedést készítünk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a tojássárgákat, az olvasztott vajat/margarint, 1 ek. tejfölt, valamint a rumot, és összedolgozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Liszttezett munkalapon sima, inkább lágy, semmint kemény tésztává gyúrjuk (ha túl kemény volna, még 1 ek. tejfölt adunk hozzá), majd fóliába csomagoljuk, és fél órára hidegre tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát (nyújtógéppel, több lépésben a 4. fokozatig haladva) 3 mm vékonyra kinyújtjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Derelyevágóval 8-10 cm széles csíkokra vágjuk, majd változatos alakzatokra szabjuk (jó segítség a kizárólag konyhai célokra használt vonalzó!)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Forgó: 8x8 cm-es négyzeteket a csúcsaiknál 3 cm mélyen bevágunk, a szárnyvégeket középre behatjuk és lenyomjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Masni: 5x10 cm-es rombuszokat középen bevágunk, egyik végüket a nyíláson lazán áthúzzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Forgács: 8x10 cm-es téglalapokat hosszában kétszer bevágunk, a szélső csíkokat egymáson többször áthúzzuk,,,összegabalyítjuk\" stb."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Nagyobb lábasban felforrosítunk kétujjnyi olajat, 4-8 darabonként beletesszük a tészta alakzatokat, és mindkét oldalukon világosbarnára sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Papírkendőn felitatjuk róluk az olajat, még melegen megszórjuk vaníliás porcukorral, és tálra púpozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lekvárt, vanília- vagy csokoládéöntetet kínálhatunk mellé."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Miért kell a fánktésztába rum? Mert kevésbé szívja meg magát olajjal, ráadásul az alkoholtól üregesebb-levegősebb lesz."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mikor megfelelő az olaj hőmérséklete? Ha egy darabka nyers tésztát beledobva szelíden sisteregni kezd és apró buborékokat vet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Erősen habzik, majdnem kifut az olaj, miért? Mert egyszerre túl sok nyers fánkot tettünk bele, és ezek hirtelen lehűtötték."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megoldás: a fánkokat szűrőkanál segítségével kiszedegetjük, majd újraforrósítjuk az olajat."
+            }
+        ],
+        "prepTime": "PT1H30M",
+        "cookTime": "PT0S",
+        "recipeYield": "kb. 60 darab",
+        "image": "images/499f2459-14f7-4a04-bd19-c095bb6c1a88_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "499f2459-14f7-4a04-bd19-c095bb6c1a88",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Csörögefánk",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "kb. 60 darab",
+            "prepTime": "PT1H30M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "Elkészítési idő: 1 és 1/2 óra",
+                "1 darab: 68 kcal/284 kJ",
+                "HOZZÁVALÓK KB. 60 DARABHOZ:",
+                "●80 g vaj/margarin",
+                "350 g finomliszt",
+                "80 g kristálycukor",
+                "1 tasak vaníliás cukor",
+                "1 csipet só ⚫ 5 tojássárgája",
+                "1-2 ek. tejföl⚫1 ek. runt",
+                "olaj a sütéshez (kb. 1,5 lite",
+                "100 g vaníliás porcukor"
+            ],
+            "recipeDirections": [
+                "A vajat/margarint felolvasztjuk, hagyjuk langyosra hűlni.",
+                "A lisztet tálba szitáljuk, belekeverjük a cukrot, a vaníliás cukrot és a sót, közepébe mélyedést készítünk.",
+                "Hozzáadjuk a tojássárgákat, az olvasztott vajat/margarint, 1 ek. tejfölt, valamint a rumot, és összedolgozzuk.",
+                "Liszttezett munkalapon sima, inkább lágy, semmint kemény tésztává gyúrjuk (ha túl kemény volna, még 1 ek. tejfölt adunk hozzá), majd fóliába csomagoljuk, és fél órára hidegre tesszük.",
+                "A tésztát (nyújtógéppel, több lépésben a 4. fokozatig haladva) 3 mm vékonyra kinyújtjuk.",
+                "Derelyevágóval 8-10 cm széles csíkokra vágjuk, majd változatos alakzatokra szabjuk (jó segítség a kizárólag konyhai célokra használt vonalzó!).",
+                "Forgó: 8x8 cm-es négyzeteket a csúcsaiknál 3 cm mélyen bevágunk, a szárnyvégeket középre behatjuk és lenyomjuk.",
+                "Masni: 5x10 cm-es rombuszokat középen bevágunk, egyik végüket a nyíláson lazán áthúzzuk.",
+                "Forgács: 8x10 cm-es téglalapokat hosszában kétszer bevágunk, a szélső csíkokat egymáson többször áthúzzuk,,,összegabalyítjuk\" stb.",
+                "Nagyobb lábasban felforrosítunk kétujjnyi olajat, 4-8 darabonként beletesszük a tészta alakzatokat, és mindkét oldalukon világosbarnára sütjük.",
+                "Papírkendőn felitatjuk róluk az olajat, még melegen megszórjuk vaníliás porcukorral, és tálra púpozzuk.",
+                "Lekvárt, vanília- vagy csokoládéöntetet kínálhatunk mellé.",
+                "Miért kell a fánktésztába rum? Mert kevésbé szívja meg magát olajjal, ráadásul az alkoholtól üregesebb-levegősebb lesz.",
+                "Mikor megfelelő az olaj hőmérséklete? Ha egy darabka nyers tésztát beledobva szelíden sisteregni kezd és apró buborékokat vet.",
+                "Erősen habzik, majdnem kifut az olaj, miért? Mert egyszerre túl sok nyers fánkot tettünk bele, és ezek hirtelen lehűtötték.",
+                "Megoldás: a fánkokat szűrőkanál segítségével kiszedegetjük, majd újraforrósítjuk az olajat."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/499f2459-14f7-4a04-bd19-c095bb6c1a88_0.jpg"
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 236,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

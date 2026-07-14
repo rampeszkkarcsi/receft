@@ -1,0 +1,83 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sörben sült csülök",
+        "recipeIngredient": [
+            "Csülök",
+            "hagyma",
+            "fokhagyma",
+            "olaj",
+            "1 ek. liszt",
+            "1 ek. 10%-os ecet",
+            "1 üveg sör (2,5-3 dl elég)",
+            "szerecsendió",
+            "babérlevél",
+            "só",
+            "bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát és fokhagymát olajban megdinszteljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A csülköt kockákra vágva átsütjük az olajban, rászórjuk a lisztet, sót, borsot, szerecsendiót, babérlevelet, öntjük a sört és ecetet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fedő alatt, majd fedő nélkül sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet az utolsó fél, 1 órában elég rászórni, átkeverni (amikor kuktában előfőzzük)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "kb. 2-2½ óra."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT2H",
+        "image": "images/948a0ecc-4f32-413a-88b0-7370d7eb89fc_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "948a0ecc-4f32-413a-88b0-7370d7eb89fc",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sörben sült csülök",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT2H",
+            "recipeIngredients": [
+                "Csülök",
+                "hagyma",
+                "fokhagyma",
+                "olaj",
+                "1 ek. liszt",
+                "1 ek. 10%-os ecet",
+                "1 üveg sör (2,5-3 dl elég)",
+                "szerecsendió",
+                "babérlevél",
+                "só",
+                "bors"
+            ],
+            "recipeDirections": [
+                "A hagymát és fokhagymát olajban megdinszteljük.",
+                "A csülköt kockákra vágva átsütjük az olajban, rászórjuk a lisztet, sót, borsot, szerecsendiót, babérlevelet, öntjük a sört és ecetet.",
+                "Fedő alatt, majd fedő nélkül sütjük.",
+                "A lisztet az utolsó fél, 1 órában elég rászórni, átkeverni (amikor kuktában  előfőzzük).",
+                "kb. 2-2½ óra."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/948a0ecc-4f32-413a-88b0-7370d7eb89fc_0.jpg"
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 35,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

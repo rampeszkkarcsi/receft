@@ -1,0 +1,108 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Citromos párolt hal",
+        "recipeIngredient": [
+            "800 g sovány halfilé (pl. fogas)",
+            "2 dl zöldségerőleves (kockából)",
+            "2 dl száraz fehérbor",
+            "1+1 citrom",
+            "só, fehér bors",
+            "1 kis fej fodros/jéghegy saláta",
+            "12-15 rukola salátalevél",
+            "4-6 radikkió/vörös cikórialevél",
+            "1 kis doboz mangó- vagy őszibarackbefőtt",
+            "4 kisebb paradicsom",
+            "1 kis piros chili- vagy habos-opálos paprika",
+            "2 szál origano/petrezselyem",
+            "3 ek. olívaolaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A halfilét 5-6 cm-es szeletekre vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zöldséglevest, a bort, és az egyik citrom átszúrt levét felforraljuk egy kevés sóval."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beletesszük a haldarabokat, fedő alatt puhára pároljuk (5 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A salátaféléket váltott vízben megmossuk, kicentrifugázzuk/konyharuhával szárazra lapogatjuk, majd a rukola kivételével falatnyi darabokra tépkedjük (készíthetjük készen kapható, salátakeverékből is)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A mangót lecsepegtetjük és karcsú gerezdekre szeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A paradicsomokat félbe-negyedbe vágjuk, a chilipaprikát vékony szeletre karikázzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mély salátástálban a maradék 1 citrom átszűrt levét ízlés szerint sóval, őrölt fehér borssal, a finomra vágott origanóval/petrezselyemmel, végül az apránként hozzáadott olajjal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beleforgatjuk a leveles salátákat, a mangót és a paradicsomokat, majd nagyobb tálra terítjük, és a tetejére rendezzük a lecsepegtetett haldarabokat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megszórjuk a chilipaprikával, végül a rukolával díszítjük."
+            }
+        ],
+        "prepTime": "PT35M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/066fa1fd-df5c-48a9-bf57-d280853f27f1_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "066fa1fd-df5c-48a9-bf57-d280853f27f1",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Citromos párolt hal",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT35M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "800 g sovány halfilé (pl. fogas)",
+                "2 dl zöldségerőleves (kockából)",
+                "2 dl száraz fehérbor",
+                "1+1 citrom",
+                "só, fehér bors",
+                "1 kis fej fodros/jéghegy saláta",
+                "12-15 rukola salátalevél",
+                "4-6 radikkió/vörös cikórialevél",
+                "1 kis doboz mangó- vagy őszibarackbefőtt",
+                "4 kisebb paradicsom",
+                "1 kis piros chili- vagy habos-opálos paprika",
+                "2 szál origano/petrezselyem",
+                "3 ek. olívaolaj"
+            ],
+            "recipeDirections": [
+                "A halfilét 5-6 cm-es szeletekre vágjuk.",
+                "A zöldséglevest, a bort, és az egyik citrom átszúrt levét felforraljuk egy kevés sóval.",
+                "Beletesszük a haldarabokat, fedő alatt puhára pároljuk (5 perc).",
+                "A salátaféléket váltott vízben megmossuk, kicentrifugázzuk/konyharuhával szárazra lapogatjuk, majd a rukola kivételével falatnyi darabokra tépkedjük (készíthetjük készen kapható, salátakeverékből is).",
+                "A mangót lecsepegtetjük és karcsú gerezdekre szeljük.",
+                "A paradicsomokat félbe-negyedbe vágjuk, a chilipaprikát vékony szeletre karikázzuk.",
+                "Mély salátástálban a maradék 1 citrom átszűrt levét ízlés szerint sóval, őrölt fehér borssal, a finomra vágott origanóval/petrezselyemmel, végül az apránként hozzáadott olajjal.",
+                "Beleforgatjuk a leveles salátákat, a mangót és a paradicsomokat, majd nagyobb tálra terítjük, és a tetejére rendezzük a lecsepegtetett haldarabokat.",
+                "Megszórjuk a chilipaprikával, végül a rukolával díszítjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/066fa1fd-df5c-48a9-bf57-d280853f27f1_0.jpg"
+        },
+        "x-source-file": "78c7b1d4-56f5-40ee-9e76-a7d93ffbed93.zip",
+        "x-db-id": 144,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

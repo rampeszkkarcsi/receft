@@ -1,0 +1,75 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Mákos diós pite",
+        "recipeIngredient": [
+            "Tészta",
+            "30 dkg liszt",
+            "1 cs sütőpor",
+            "16 dkg margarin",
+            "10 dkg cukor",
+            "1 tojás",
+            "1 citrom reszelt héja + leve",
+            "Töltelék",
+            "20 dkg cukor",
+            "1 cs vaníliás cukor",
+            "3 tojás sárgája",
+            "15 dkg darált dió"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Összegyúrni, kinyújtani, barnalemezre (tepsibe) tenni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "180 °C-on kb. 35 percig sütni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojásfehérjéket felverjük, majd beleforgatjuk a diós keverékbe."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT35M",
+        "image": "images/47e5a9e1-f5a6-479a-8f17-b273aad1ccd8_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "47e5a9e1-f5a6-479a-8f17-b273aad1ccd8",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Mákos diós pite",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT35M",
+            "recipeIngredients": [
+                "Tészta",
+                "30 dkg liszt",
+                "1 cs sütőpor",
+                "16 dkg margarin",
+                "10 dkg cukor",
+                "1 tojás",
+                "1 citrom reszelt héja + leve",
+                "Töltelék",
+                "20 dkg cukor",
+                "1 cs vaníliás cukor",
+                "3 tojás sárgája",
+                "15 dkg darált dió"
+            ],
+            "recipeDirections": [
+                "Összegyúrni, kinyújtani, barnalemezre (tepsibe) tenni.",
+                "180 °C-on kb. 35 percig sütni.",
+                "A tojásfehérjéket felverjük, majd beleforgatjuk a diós keverékbe."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/47e5a9e1-f5a6-479a-8f17-b273aad1ccd8_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 23,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

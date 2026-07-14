@@ -1,0 +1,119 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Répás halpuffancs szezámos burgonyapürével",
+        "recipeIngredient": [
+            "10 dkg reszelt sárgarépa",
+            "20 dkg halfilé",
+            "20 dkg főtt, áttört burgonya",
+            "1 fej hagyma",
+            "2 teáskanál mustár",
+            "1 csokor snidling",
+            "só",
+            "frissen őrölt bors",
+            "2 evőkanál finomra zúzott zabpehely",
+            "A BURGONYAPÜRÉHEZ",
+            "60 dkg burgonya",
+            "15 dkg vaj",
+            "tej igény szerint",
+            "5 evőkanál szezámmag"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A répát megpucoljuk, megmossuk, majd vékonyra reszeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A halhúst áttapogatjuk, hogy nincs-e benne szálka, ha van, eltávolítjuk, majd apróra vágjuk. (Botmixert is bevethetünk.)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A halhúshoz keverjük a megfőtt, áttört burgonyát, hozzáadjuk a megpucolt, apróra vágott hagymát, a mustárt, a finom zabpelyhet, majd a sárgarépát és az apróra vágott snidlinget is."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Összekeverjük, sűrű, jól formázható masszát kapunk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Először golyókat készítünk belőle, majd ellapítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütőpapírral bélelt sütőlemezre ültetjük a korongokat, és 200 fokon 30 perc alatt pirosra sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "20 perc után megfordítjuk őket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben elkészítjük a burgonyapürét: a burgonyát megpucoljuk, megmossuk, majd felkockázzuk és kevés sós vízben puhára pároljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Leszűrjük, majd kétkaros robotgéppel összetörjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A vajjal habosítjuk, ha szükséges, kevés tejjel tovább lazíthatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A szezámmagot száraz serpenyőben megillatosítjuk, és a krumplipüréhez keverjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT30M",
+        "image": "images/308fd60f-cb3c-4060-b6aa-98604227ab80_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "308fd60f-cb3c-4060-b6aa-98604227ab80",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Répás halpuffancs szezámos burgonyapürével",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "10 dkg reszelt sárgarépa",
+                "20 dkg halfilé",
+                "20 dkg főtt, áttört burgonya",
+                "1 fej hagyma",
+                "2 teáskanál mustár",
+                "1 csokor snidling",
+                "só",
+                "frissen őrölt bors",
+                "2 evőkanál finomra zúzott zabpehely",
+                "A BURGONYAPÜRÉHEZ",
+                "60 dkg burgonya",
+                "15 dkg vaj",
+                "tej igény szerint",
+                "5 evőkanál szezámmag"
+            ],
+            "recipeDirections": [
+                "A répát megpucoljuk, megmossuk, majd vékonyra reszeljük.",
+                "A halhúst áttapogatjuk, hogy nincs-e benne szálka, ha van, eltávolítjuk, majd apróra vágjuk. (Botmixert is bevethetünk.)",
+                "A halhúshoz keverjük a megfőtt, áttört burgonyát, hozzáadjuk a megpucolt, apróra vágott hagymát, a mustárt, a finom zabpelyhet, majd a sárgarépát és az apróra vágott snidlinget is.",
+                "Összekeverjük, sűrű, jól formázható masszát kapunk.",
+                "Először golyókat készítünk belőle, majd ellapítjuk.",
+                "Sütőpapírral bélelt sütőlemezre ültetjük a korongokat, és 200 fokon 30 perc alatt pirosra sütjük.",
+                "20 perc után megfordítjuk őket.",
+                "Közben elkészítjük a burgonyapürét: a burgonyát megpucoljuk, megmossuk, majd felkockázzuk és kevés sós vízben puhára pároljuk.",
+                "Leszűrjük, majd kétkaros robotgéppel összetörjük.",
+                "A vajjal habosítjuk, ha szükséges, kevés tejjel tovább lazíthatjuk.",
+                "A szezámmagot száraz serpenyőben megillatosítjuk, és a krumplipüréhez keverjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/308fd60f-cb3c-4060-b6aa-98604227ab80_0.jpg"
+        },
+        "x-source-file": "8e973511-a906-412c-a871-c6205380a313.zip",
+        "x-db-id": 206,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

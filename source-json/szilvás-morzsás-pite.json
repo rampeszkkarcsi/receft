@@ -1,0 +1,170 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Szilvás-morzsás pite",
+        "recipeIngredient": [
+            "8 dkg margarin",
+            "8 dkg cukor",
+            "10 g vaníliás cukor",
+            "1 db tojás",
+            "10 dkg finomliszt",
+            "5 dkg étkezési keményítő",
+            "1 teáskanál sütőpor",
+            "1 csipet só",
+            "A töltelékhez:",
+            "60 dkg szilva",
+            "1 evőkanál vaníliás cukor",
+            "A morzsához:",
+            "10 dkg margarin",
+            "6 dkg cukor",
+            "10 g vaníliás cukor",
+            "1 teáskanál őrölt fahéj",
+            "15 dkg finomliszt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Készítsük elő és mérjük ki a tészta hozzávalóit."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet szitáljuk egy tálkába, keverjük össze a sütőporral, a sóval, a keményítővel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A puha margarint, a cukrokkal, a tojással egy tálba tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kézi mixerrel krémesre habosítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Rászórjuk az összekevert lisztes anyagot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy keverőlapáttal alaposan összedolgozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy 26 cm-es kapcsos tortaformát ellátunk sütőpapírral, és a masszát egyenletesen elkenjük benne."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A szilvát alaposan megmossuk, leszárítjuk, majd kimagozzuk, és felnegyedeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Körben kirakjuk a szilvanegyedekkel a massza tetejét."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tetejét megszórjuk egy evőkanál vaníliás cukorral."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kimérjük a morzsa hozzávalóit."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tálba szitáljuk a lisztet, beletesszük a cukrokat, a fahéjat, majd összekeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy villával a puha margarint beledolgozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Legyen szép morzsalékos."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Esetleg kézzel egy kicsit rásegíthetünk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kezünkkel rászórjuk a szilva tetejére."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egyenletesen oszlassuk el a tetején."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "180 C-ra melegítsük elő a sütőt, és 45 50 perc alatt süssük készre."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha kész, formával együtt tegyük rácsra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Így hűtsük 10 percig, majd csatoljuk le az oldalát, csúsztassuk a rácsra, és hűtsük ki teljesen."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT45M",
+        "image": "images/890d160e-6f71-466a-b151-b39f65d51892_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "890d160e-6f71-466a-b151-b39f65d51892",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Szilvás-morzsás pite",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT45M",
+            "recipeIngredients": [
+                "8 dkg margarin",
+                "8 dkg cukor",
+                "10 g vaníliás cukor",
+                "1 db tojás",
+                "10 dkg finomliszt",
+                "5 dkg étkezési keményítő",
+                "1 teáskanál sütőpor",
+                "1 csipet só",
+                "A töltelékhez:",
+                "60 dkg szilva",
+                "1 evőkanál vaníliás cukor",
+                "A morzsához:",
+                "10 dkg margarin",
+                "6 dkg cukor",
+                "10 g vaníliás cukor",
+                "1 teáskanál őrölt fahéj",
+                "15 dkg finomliszt"
+            ],
+            "recipeDirections": [
+                "Készítsük elő és mérjük ki a tészta hozzávalóit.",
+                "A lisztet szitáljuk egy tálkába, keverjük össze a sütőporral, a sóval, a keményítővel.",
+                "A puha margarint, a cukrokkal, a tojással egy tálba tesszük.",
+                "Kézi mixerrel krémesre habosítjuk.",
+                "Rászórjuk az összekevert lisztes anyagot.",
+                "Egy keverőlapáttal alaposan összedolgozzuk.",
+                "Egy 26 cm-es kapcsos tortaformát ellátunk sütőpapírral, és a masszát egyenletesen elkenjük benne.",
+                "A szilvát alaposan megmossuk, leszárítjuk, majd kimagozzuk, és felnegyedeljük.",
+                "Körben kirakjuk a szilvanegyedekkel a massza tetejét.",
+                "Tetejét megszórjuk egy evőkanál vaníliás cukorral.",
+                "Kimérjük a morzsa hozzávalóit.",
+                "Tálba szitáljuk a lisztet, beletesszük a cukrokat, a fahéjat, majd összekeverjük.",
+                "Egy villával a puha margarint beledolgozzuk.",
+                "Legyen szép morzsalékos.",
+                "Esetleg kézzel egy kicsit rásegíthetünk.",
+                "Kezünkkel rászórjuk a szilva tetejére.",
+                "Egyenletesen oszlassuk el a tetején.",
+                "180 C-ra melegítsük elő a sütőt, és 45 50 perc alatt süssük készre.",
+                "Ha kész, formával együtt tegyük rácsra.",
+                "Így hűtsük 10 percig, majd csatoljuk le az oldalát, csúsztassuk a rácsra, és hűtsük ki teljesen."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/890d160e-6f71-466a-b151-b39f65d51892_0.jpg"
+        },
+        "x-source-file": "6927f13b-408a-4c16-9b05-60d162e1329b.zip",
+        "x-db-id": 198,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

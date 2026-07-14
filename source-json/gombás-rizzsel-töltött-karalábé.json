@@ -1,0 +1,81 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gombás rizzsel töltött karalábé",
+        "recipeIngredient": [
+            "250 g sampinyon gomba",
+            "1 közepes fej hagyma",
+            "8 közepes, zsenge karalábé",
+            "1 ek. zöldséges ételízesítő",
+            "2 ek. +1 kk. olaj",
+            "1 kk. pirospaprika",
+            "250 g kerek szemű rizs",
+            "só, bors",
+            "80 g reszelt edami vagy trappista sajt",
+            "2 ek. rizsliszt",
+            "2 dl főzőtejszín",
+            "4-5 szál petrezselyem"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségeket megtisztítjuk, megmossuk. A gombát vékony szeletekre, a hagymát apróra vágjuk. A karalábékat ételízesítővel illatosított vízben, fedő alatt majdnem puhára főzzük (20-25 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát megfonnyasztjuk 2 ek. olajban, rádobjuk a gombát, 1 perc múlva Hozzá keverjük a pirospaprikát, a leöblített rizst, ízlés szerint sót és 6 dl vizet. Lefedjük, 200 °C-ra előmelegített sütőben puhára pároljuk, végül beledolgozzuk a reszelt sajt kétharmadát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A karalábékat kiemeljük a főzőléből, lecsepegtetjük, Kalapjukat levágjuk, belsejüket kivájjuk, és megtöltjük a rizzsel. 1 kk. olajjal kikent sütőedénybe ültetjük, befedjük a kalapokkal, meghintjük a maradék reszelt sajttal, és csak addig forrósítjuk a sütőben, amíg a sajt a tetejükre pirul."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kivájt karalábédarabokat apróra vágjuk, felöntjük 8 dl főzőlével, felforraljuk. Hozzáadjuk a rizsliszttel elkevert tejszínt, sűrűsödésig főzzük, végül belekeverjük a finomra vágott petrezselymet, sózzuk, borsozzuk, és a karalábé mártásaként tálaljuk. A kimaradt rizst külön tálban kínáljuk hozzá."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/437bf374-36f6-4381-acfa-ea935bed8c6c_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "437bf374-36f6-4381-acfa-ea935bed8c6c",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gombás rizzsel töltött karalábé",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "250 g sampinyon gomba",
+                "1 közepes fej hagyma",
+                "8 közepes, zsenge karalábé",
+                "1 ek. zöldséges ételízesítő",
+                "2 ek. +1 kk. olaj",
+                "1 kk. pirospaprika",
+                "250 g kerek szemű rizs",
+                "só, bors",
+                "80 g reszelt edami vagy trappista sajt",
+                "2 ek. rizsliszt",
+                "2 dl főzőtejszín",
+                "4-5 szál petrezselyem"
+            ],
+            "recipeDirections": [
+                "A zöldségeket megtisztítjuk, megmossuk. A gombát vékony szeletekre, a hagymát apróra vágjuk. A karalábékat ételízesítővel illatosított vízben, fedő alatt majdnem puhára főzzük (20-25 perc).",
+                "A hagymát megfonnyasztjuk 2 ek. olajban, rádobjuk a gombát, 1 perc múlva Hozzá keverjük a pirospaprikát, a leöblített rizst, ízlés szerint sót és 6 dl vizet. Lefedjük, 200 °C-ra előmelegített sütőben puhára pároljuk, végül beledolgozzuk a reszelt sajt kétharmadát.",
+                "A karalábékat kiemeljük a főzőléből, lecsepegtetjük, Kalapjukat levágjuk, belsejüket kivájjuk, és megtöltjük a rizzsel. 1 kk. olajjal kikent sütőedénybe ültetjük, befedjük a kalapokkal, meghintjük a maradék reszelt sajttal, és csak addig forrósítjuk a sütőben, amíg a sajt a tetejükre pirul.",
+                "A kivájt karalábédarabokat apróra vágjuk, felöntjük 8 dl főzőlével, felforraljuk. Hozzáadjuk a rizsliszttel elkevert tejszínt, sűrűsödésig főzzük, végül belekeverjük a finomra vágott petrezselymet, sózzuk, borsozzuk, és a karalábé mártásaként tálaljuk. A kimaradt rizst külön tálban kínáljuk hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/437bf374-36f6-4381-acfa-ea935bed8c6c_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 48,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

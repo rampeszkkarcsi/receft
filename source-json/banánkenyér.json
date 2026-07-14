@@ -1,0 +1,77 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Banánkenyér",
+        "recipeIngredient": [
+            "15 dkg liszt",
+            "8 dkg teljes kiőrlésű liszt",
+            "csipet só",
+            "1 csomag sütőpor",
+            "1 tk szódabikarbóna",
+            "18 dkg nádcukor",
+            "2 tojás",
+            "1 dl olívaolaj",
+            "3 ek. puha vaj",
+            "1tk vanília aroma",
+            "3 túlérett banán",
+            "15 dkg mandula/mogyoró (aprítva)",
+            "12 dkg étcsoki"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Sütés"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "180 °C"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "kb. 50 perc"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT50M",
+        "image": "images/9722cfe7-5e9d-491a-b17a-bbd5c02670f8_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "9722cfe7-5e9d-491a-b17a-bbd5c02670f8",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Banánkenyér",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT50M",
+            "recipeIngredients": [
+                "15 dkg liszt",
+                "8 dkg teljes kiőrlésű liszt",
+                "csipet só",
+                "1 csomag sütőpor",
+                "1 tk szódabikarbóna",
+                "18 dkg nádcukor",
+                "2 tojás",
+                "1 dl olívaolaj",
+                "3 ek. puha vaj",
+                "1tk vanília aroma",
+                "3 túlérett banán",
+                "15 dkg mandula/mogyoró (aprítva)",
+                "12 dkg étcsoki"
+            ],
+            "recipeDirections": [
+                "Sütés",
+                "180 °C",
+                "kb. 50 perc"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/9722cfe7-5e9d-491a-b17a-bbd5c02670f8_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 2,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:12+00:00"
+    }
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Babfasírt csípős szósszal",
+        "recipeIngredient": [
+            "2 konzerv (2x400 gr) fehér vagy tarkabab",
+            "1 nagy fej vöröshagyma",
+            "1 csokor friss petrezselyem",
+            "2 gerezd fokhagyma",
+            "1 tojás",
+            "só",
+            "bors",
+            "negyed citrom héja",
+            "6 ek. zsemle morzsa + a beforgatáshoz",
+            "olaj a sütéshez",
+            "A CSÍPŐS SZÓSZHOZ",
+            "4 ek. sűrített paradicsom",
+            "1 db paradicsom",
+            "1 gerezd fokhagyma",
+            "1 db chilipaprika",
+            "2 ek. olívaolaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Az átmosott, lecsöpögtetett babot tegyük egy tálba, villával törjük össze."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Adjuk hozzá az apróra vágott vöröshagymát, a felaprított petrezselymet, az aprított fokhagymát és a tojást."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sózzuk, borsozzuk, reszeljünk hozzá kevés citromhéjat, keverjük el benne a zsemlemorzsát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Formázzunk pogácsákat, forgassuk meg őket zsemlemorzsában, majd forró olajban süssük mindkét oldalukat ropogósra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A szószhoz botmixerrel pürésítsük a sűrített paradicsomot, az egész paradicsomot 2-3 evőkanál vízzel, az olajjal, a paprikával és a tisztított fokhagymával."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sóval, borssal ízesítsük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Szalmakrumplival tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 PERSON",
+        "x-recipe-keeper": {
+            "recipeId": "b7c069c7-11da-42d5-a8d1-e7642a07e49d",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Babfasírt csípős szósszal",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "2 konzerv (2x400 gr) fehér vagy tarkabab",
+                "1 nagy fej vöröshagyma",
+                "1 csokor friss petrezselyem",
+                "2 gerezd fokhagyma",
+                "1 tojás",
+                "só",
+                "bors",
+                "negyed citrom héja",
+                "6 ek. zsemle morzsa + a beforgatáshoz",
+                "olaj a sütéshez",
+                "A CSÍPŐS SZÓSZHOZ",
+                "4 ek. sűrített paradicsom",
+                "1 db paradicsom",
+                "1 gerezd fokhagyma",
+                "1 db chilipaprika",
+                "2 ek. olívaolaj"
+            ],
+            "recipeDirections": [
+                "Az átmosott, lecsöpögtetett babot tegyük egy tálba, villával törjük össze.",
+                "Adjuk hozzá az apróra vágott vöröshagymát, a felaprított petrezselymet, az aprított fokhagymát és a tojást.",
+                "Sózzuk, borsozzuk, reszeljünk hozzá kevés citromhéjat, keverjük el benne a zsemlemorzsát.",
+                "Formázzunk pogácsákat, forgassuk meg őket zsemlemorzsában, majd forró olajban süssük mindkét oldalukat ropogósra.",
+                "A szószhoz botmixerrel pürésítsük a sűrített paradicsomot, az egész paradicsomot 2-3 evőkanál vízzel, az olajjal, a paprikával és a tisztított fokhagymával.",
+                "Sóval, borssal ízesítsük.",
+                "Szalmakrumplival tálaljuk."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 82,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

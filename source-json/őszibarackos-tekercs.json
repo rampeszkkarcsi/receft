@@ -1,0 +1,103 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Őszibarackos tekercs",
+        "recipeIngredient": [
+            "Tészta",
+            "3 tojás",
+            "8 dkg cukor",
+            "2 dkg kakaópor",
+            "1 tk sütőpor",
+            "6 dkg liszt",
+            "Töltelék",
+            "4 dl tejszín",
+            "2 csomag vaníliás cukor",
+            "20 dkg őszibarack",
+            "10 dkg áfonya"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tojásfehérjét a cukorral kemény habbá verjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojássárgáját egyesével hozzákeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kakaóporral és sütőporral elkevert lisztet beleforgatjuk a habmasszába."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütőpapírral bélelt tepsibe simítjuk, és 200 °C-on 10 percig sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Konyharuhával letakarva hagyjuk kihűlni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tejszínt és a vaníliás cukrot kemény habbá verjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kihűlt piskótát megkenjük a tejszínhabbal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az őszibarackot felszeleteljük, az áfonyával együtt elrendezzük a süteményen."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Feltekerjük, hűtőbe tesszük, majd tálalás előtt porcukorral megszórjuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT10M",
+        "image": "images/94b2e2fc-c7cb-4f72-94f2-dfed2a6f86c9_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "94b2e2fc-c7cb-4f72-94f2-dfed2a6f86c9",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Őszibarackos tekercs",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT10M",
+            "recipeIngredients": [
+                "Tészta",
+                "3 tojás",
+                "8 dkg cukor",
+                "2 dkg kakaópor",
+                "1 tk sütőpor",
+                "6 dkg liszt",
+                "Töltelék",
+                "4 dl tejszín",
+                "2 csomag vaníliás cukor",
+                "20 dkg őszibarack",
+                "10 dkg áfonya"
+            ],
+            "recipeDirections": [
+                "A tojásfehérjét a cukorral kemény habbá verjük.",
+                "A tojássárgáját egyesével hozzákeverjük.",
+                "A kakaóporral és sütőporral elkevert lisztet beleforgatjuk a habmasszába.",
+                "Sütőpapírral bélelt tepsibe simítjuk, és 200 °C-on 10 percig sütjük.",
+                "Konyharuhával letakarva hagyjuk kihűlni.",
+                "A tejszínt és a vaníliás cukrot kemény habbá verjük.",
+                "A kihűlt piskótát megkenjük a tejszínhabbal.",
+                "Az őszibarackot felszeleteljük, az áfonyával együtt elrendezzük a süteményen.",
+                "Feltekerjük, hűtőbe tesszük, majd tálalás előtt porcukorral megszórjuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/94b2e2fc-c7cb-4f72-94f2-dfed2a6f86c9_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 29,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:14+00:00"
+    }
+]

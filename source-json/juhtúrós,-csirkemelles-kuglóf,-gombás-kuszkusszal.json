@@ -1,0 +1,177 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Juhtúrós, csirkemelles kuglóf, gombás kuszkusszal",
+        "recipeIngredient": [
+            "70 dkg csirkemell",
+            "25 dkg bacon",
+            "kb. 20 szelet kolbász",
+            "12,5 dkg juhtúró",
+            "10 dkg trappista sajt",
+            "4 db tojás",
+            "3-4 evőkanál tejföl",
+            "ízlés szerint kakukkfű",
+            "petrezselyem zöld",
+            "só",
+            "bors",
+            "Páchoz",
+            "2 dl tej",
+            "1 evőkanál dijoni mustár",
+            "1 db fokhagyma",
+            "só",
+            "bors",
+            "Gombás kuszkusz",
+            "2 bögre kuszkusz",
+            "3 bögre zöldség alaplé",
+            "0,5 kg csiperke gomba",
+            "1 dl olíva olaj",
+            "1 teáskanál kurkuma",
+            "só",
+            "bors",
+            "2 evőkanál vaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tejet elkeverjük a mustárral, a zúzott fokhagymával, a sóval és a borssal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A csirkemellet szeletekre vágjuk és beletesszük a tejes keverékbe (ez azért fontos, hogy a hosszabb sütési idő alatt ne száradjon ki a csirkemell)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fóliával lefedjük a húst és a hűtőben hagyjuk pácolódni egész éjszakára."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Másnap kivesszük a pácból a húst és leitatjuk róla a felesleges folyadékot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kuglófformát kivajazzuk, az alját kibéleljük sütőpapírral és elrendezzük a bacon szeleteket (kb a 2/3-t)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezután beletesszük a csirkemell felét."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A juhtúrót elkeverjük a tejföllel és egy tojással, majd ráöntjük a csirkemellre."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az egészet megszórjuk az apróra vágott petrezselyemmel, szárított kakukkfűvel és őrölt borssal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezután következik a vékonyra szeletelt kolbász, majd a maradék csirkemell."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Három tojást egyesével megtörünk és a csirkemellre tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Végül az egészet megszórjuk reszelt sajttal és a maradék baconnal betakarjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütőbe tesszük és 180 fokon 60-70 percig sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Amikor elkészült, leöntjük róla a felesleges folyadékot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A gombát előkészítjük és négybe vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beletesszük a pataki tálba, meglocsoljuk az olíva olajjal és sózzuk, borsozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "30 percig sütjük a tálban."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kuszkuszt átmossuk, majd felöntjük a forró alaplével (annyival, hogy ellepje)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Belekeverjük a kurkumát, fóliával befedjük és pár percig állni hagyjuk, végül összekeverjük a gombával, hozzáadjuk a vajat és további 15 percet sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT1H10M",
+        "recipeYield": "6 személyre",
+        "x-recipe-keeper": {
+            "recipeId": "cc06fb6c-3ffc-42f8-a7c4-4ad7c5f5fbe0",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Juhtúrós, csirkemelles kuglóf, gombás kuszkusszal",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "6 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT1H10M",
+            "recipeIngredients": [
+                "70 dkg csirkemell",
+                "25 dkg bacon",
+                "kb. 20 szelet kolbász",
+                "12,5 dkg juhtúró",
+                "10 dkg trappista sajt",
+                "4 db tojás",
+                "3-4 evőkanál tejföl",
+                "ízlés szerint kakukkfű",
+                "petrezselyem zöld",
+                "só",
+                "bors",
+                "Páchoz",
+                "2 dl tej",
+                "1 evőkanál dijoni mustár",
+                "1 db fokhagyma",
+                "só",
+                "bors",
+                "Gombás kuszkusz",
+                "2 bögre kuszkusz",
+                "3 bögre zöldség alaplé",
+                "0,5 kg csiperke gomba",
+                "1 dl olíva olaj",
+                "1 teáskanál kurkuma",
+                "só",
+                "bors",
+                "2 evőkanál vaj"
+            ],
+            "recipeDirections": [
+                "A tejet elkeverjük a mustárral, a zúzott fokhagymával, a sóval és a borssal.",
+                "A csirkemellet szeletekre vágjuk és beletesszük a tejes keverékbe (ez azért fontos, hogy a hosszabb sütési idő alatt ne száradjon ki a csirkemell).",
+                "Fóliával lefedjük a húst és a hűtőben hagyjuk pácolódni egész éjszakára.",
+                "Másnap kivesszük a pácból a húst és leitatjuk róla a felesleges folyadékot.",
+                "A kuglófformát kivajazzuk, az alját kibéleljük sütőpapírral és elrendezzük a bacon szeleteket (kb a 2/3-t).",
+                "Ezután beletesszük a csirkemell felét.",
+                "A juhtúrót elkeverjük a tejföllel és egy tojással, majd ráöntjük a csirkemellre.",
+                "Az egészet megszórjuk az apróra vágott petrezselyemmel, szárított kakukkfűvel és őrölt borssal.",
+                "Ezután következik a vékonyra szeletelt kolbász, majd a maradék csirkemell.",
+                "Három tojást egyesével megtörünk és a csirkemellre tesszük.",
+                "Végül az egészet megszórjuk reszelt sajttal és a maradék baconnal betakarjuk.",
+                "Sütőbe tesszük és 180 fokon 60-70 percig sütjük.",
+                "Amikor elkészült, leöntjük róla a felesleges folyadékot.",
+                "A gombát előkészítjük és négybe vágjuk.",
+                "Beletesszük a pataki tálba, meglocsoljuk az olíva olajjal és sózzuk, borsozzuk.",
+                "30 percig sütjük a tálban.",
+                "A kuszkuszt átmossuk, majd felöntjük a forró alaplével (annyival, hogy ellepje).",
+                "Belekeverjük a kurkumát, fóliával befedjük és pár percig állni hagyjuk, végül összekeverjük a gombával, hozzáadjuk a vajat és további 15 percet sütjük."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "5d69ba0e-6fbf-4ffa-86b3-7aaa925b1eab.zip",
+        "x-db-id": 170,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

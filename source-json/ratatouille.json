@@ -1,0 +1,65 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Ratatouille",
+        "recipeIngredient": [
+            "padlizsán",
+            "cukkini",
+            "hagyma",
+            "fokhagyma",
+            "paprika",
+            "paradicsom",
+            "babérlevél, petrezselyem, rozmaring, kakukkfű, bazsalikom"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A padlizsánt és a cukkinit apró kockákra vágjuk, besózzuk, kb. félórát pihentetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát és a fokhagymát megdinszteljük, hozzátesszük a padlizsánt, cukkinit, paprikát, paradicsomot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A főzés vége felé beletesszük a fűszereket is."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/72f57e52-8df5-410f-8256-8a1cfd5ee6ce_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "72f57e52-8df5-410f-8256-8a1cfd5ee6ce",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Ratatouille",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "padlizsán",
+                "cukkini",
+                "hagyma",
+                "fokhagyma",
+                "paprika",
+                "paradicsom",
+                "babérlevél, petrezselyem, rozmaring, kakukkfű, bazsalikom"
+            ],
+            "recipeDirections": [
+                "A padlizsánt és a cukkinit apró kockákra vágjuk, besózzuk, kb. félórát pihentetjük.",
+                "A hagymát és a fokhagymát megdinszteljük, hozzátesszük a padlizsánt, cukkinit, paprikát, paradicsomot.",
+                "A főzés vége felé beletesszük a fűszereket is."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/72f57e52-8df5-410f-8256-8a1cfd5ee6ce_0.jpg"
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 32,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

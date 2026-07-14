@@ -1,0 +1,97 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Padlizsános zakuszka",
+        "recipeIngredient": [
+            "5 kg sült padlizsán",
+            "3 kg sült pritaminpaprika",
+            "0.5 l paradicsomlé",
+            "1 kg vöröshagyma",
+            "0.5 l olaj",
+            "babérlevél",
+            "só",
+            "feketebors",
+            "cukor ízlés szerint"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A paprikát a sütőben megsütöm, utána finoman megsózom, majd óvatosan lehúzom a héját."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A padlizsánt nyílt lángon körbepitírom, majd sütőpapírral bélelt tepsiben puhára sütöm."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezt követően a húsát egy szűrőbe kaparom, és hagyom kicsöpögni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát megpucolom, nagyobb darabokra vágom, majd ledarálom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy nagy lábasban felhevítem az olajat, rádobom a hagymát, közepes lángon dinsztelni kezdem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megpucolt paprikát és a padlizsánt is ledarálom, majd a már megdinsztelődött hagymához adom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Paradicsomlével felöntöm, fűszertartóban babérlevelet és borsot adok hozzá, és ízlés szerint sózom, cukrozom, majd közepesnél valamivel kisebb lángon, gyakori kavargatás mellett addig főzöm, amíg az olaj fel nem jön a tetejére."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A paprikanak jo a kapia vagy a piros pritamin"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "En ugyanigy csinalam; ahogy a receptben van; de azert a peneszre való tekintettel rendesen atfoztem mielott uvegbe tettem; majd az uveg tetejére olajat kell önteni; kb 0.5-1 xm- nyit; ami teljesen elzárja a zakuszkat a levegőtől; ezt fogyasztás előtt majd le kell önteni róla..... Jó munkát!"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "f407ed2f-73e1-4872-b22e-923de6a69c49",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Padlizsános zakuszka",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "5 kg sült padlizsán",
+                "3 kg sült pritaminpaprika",
+                "0.5 l paradicsomlé",
+                "1 kg vöröshagyma",
+                "0.5 l olaj",
+                "babérlevél",
+                "só",
+                "feketebors",
+                "cukor ízlés szerint"
+            ],
+            "recipeDirections": [
+                "A paprikát a sütőben megsütöm, utána finoman megsózom, majd óvatosan lehúzom a héját.",
+                "A padlizsánt nyílt lángon körbepitírom, majd sütőpapírral bélelt tepsiben puhára sütöm.",
+                "Ezt követően a húsát egy szűrőbe kaparom, és hagyom kicsöpögni.",
+                "A hagymát megpucolom, nagyobb darabokra vágom, majd ledarálom.",
+                "Egy nagy lábasban felhevítem az olajat, rádobom a hagymát, közepes lángon dinsztelni kezdem.",
+                "A megpucolt paprikát és a padlizsánt is ledarálom, majd a már megdinsztelődött hagymához adom.",
+                "Paradicsomlével felöntöm, fűszertartóban babérlevelet és borsot adok hozzá, és ízlés szerint sózom, cukrozom, majd közepesnél valamivel kisebb lángon, gyakori kavargatás mellett addig főzöm, amíg az olaj fel nem jön a tetejére.",
+                "A paprikanak jo a kapia vagy a piros pritamin",
+                "En ugyanigy csinalam; ahogy a receptben van; de azert a peneszre való tekintettel rendesen atfoztem mielott uvegbe tettem; majd az uveg tetejére olajat kell önteni; kb 0.5-1 xm- nyit; ami teljesen elzárja a zakuszkat a levegőtől; ezt fogyasztás előtt majd le kell önteni róla..... Jó munkát!"
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 111,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

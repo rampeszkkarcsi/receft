@@ -1,0 +1,161 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Diós, mákos beigli",
+        "recipeIngredient": [
+            "70 dkg liszt",
+            "25 dkg zsír",
+            "3 tojás sárgája",
+            "3 dkg élesztő tejben futtatva",
+            "3 ek cukor",
+            "kevés só",
+            "tejföllel jó lágyra"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "tejföllel jó lágyra keverni"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "4 cipóba szedni, 1 óráig pihen"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Diós tölelék"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "20 dkg cukor"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "2 ek méz"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "2 dl víz vagy tej (fele-fele)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "1 citrom héja"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "1 cs van.cuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "30 dkg darált dió"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "mazsola"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "jól felforralni (másfél adag -> 3 rúd)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "mákos töltelék"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "30 dkg cukor"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "2 ek méz"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "1 citrom héja"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "1 cs van.cuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "2 dl víz v tej"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "30 dkg darált mák (cask a fele -> 1 rúd)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "mazsola"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "2 ek baracklekvár"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "sütés előtt egészben felvert tojással először hosszában, kis idő múlva keresztben is megkenjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "175 fokon megsüt. (fix kireped :D )"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT35M",
+        "recipeYield": "4 cipóba szedni",
+        "image": "images/d4acaf4e-fb1c-4b9a-bed1-ba701103f5f2_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "d4acaf4e-fb1c-4b9a-bed1-ba701103f5f2",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Diós, mákos beigli",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 cipóba szedni",
+            "prepTime": "PT0S",
+            "cookTime": "PT35M",
+            "recipeIngredients": [
+                "70 dkg liszt",
+                "25 dkg zsír",
+                "3 tojás sárgája",
+                "3 dkg élesztő tejben futtatva",
+                "3 ek cukor",
+                "kevés só",
+                "tejföllel jó lágyra"
+            ],
+            "recipeDirections": [
+                "tejföllel jó lágyra keverni",
+                "4 cipóba szedni, 1 óráig pihen",
+                "Diós tölelék",
+                "20 dkg cukor",
+                "2 ek méz",
+                "2 dl víz vagy tej (fele-fele)",
+                "1 citrom héja",
+                "1 cs van.cuk.",
+                "30 dkg darált dió",
+                "mazsola",
+                "jól felforralni (másfél adag -> 3 rúd)",
+                "mákos töltelék",
+                "30 dkg cukor",
+                "2 ek méz",
+                "1 citrom héja",
+                "1 cs van.cuk.",
+                "2 dl víz v tej",
+                "30 dkg darált mák (cask a fele -> 1 rúd)",
+                "mazsola",
+                "2 ek baracklekvár",
+                "sütés előtt egészben felvert tojással először hosszában, kis idő múlva keresztben is megkenjük.",
+                "175 fokon megsüt. (fix kireped :D )"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/d4acaf4e-fb1c-4b9a-bed1-ba701103f5f2_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 10,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

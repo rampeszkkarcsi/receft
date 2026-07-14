@@ -1,0 +1,87 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Diós-meggyes rakott kifli",
+        "recipeIngredient": [
+            "8 db vajas (sima) kifli",
+            "80 g darált dió",
+            "40 g porcukor",
+            "1 nagy üveg kimagozott meggybefőtt (töltötömeg 350-400 g)",
+            "2 ujjnyi citromhéj",
+            "1 vaníliarúd",
+            "8 dl tej",
+            "4 tojássárgája",
+            "40 g cukor",
+            "40 g vaj/margarin"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A kifliket ujjnyi vastagon felkarikázzuk, és mély tálba tesszük. A diót összekeverjük a porcukorral. A meggybefőttet leszűrjük, alaposan lecsepegtetjük, és 15-20 szép szemet félreteszünk a díszítéshez. A citromot forró folyó víz alatt alaposan megsikáljuk, és héjából kétujjnyit burgonyahámozóval lehántunk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A vaníliarudat felhasítjuk, késheggyel kikapargatjuk belőle a vaníliapépet, majd hüvelyével és a citromhéjjal együtt a tejhez adjuk, és felforraljuk. Lehúzzuk a tűzről, és fedő alatt 10 percig pihentetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a tojássárgákat habüstbe csúsztatjuk, és habosra-fehérre keverjük a kristálycukorral. Apránként hozzászűrünk-keverünk 2-3 merőkanál tejet, majd a maradékot, azután forró vízfürdőbe állítjuk, és folyamatosan keverve, mérsékelt tűzön addig hevítjük, amíg kissé besűrűsödik (vigyázat, nehogy felforrjon, mert összeugrik, kicsapódik a tojás!)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Leforrázzuk vele a kiflikarikákat, lazán összekeverjük, és hagyjuk langyosra hűlni (a tej szinte eltűnik, megisszák a kiflik). A sütőt előmelegítjük 200 °C-ra. Vastagon kikenünk vajjal/margarinnal egy mély tűzálló tálat vagy tepsit, a többit felolvasztjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Meghintjük a tál alját 2 ek. cukros dióval, belesimítjuk a krémesre lágyult kiflikarikák felét, megszórjuk a maradék cukros dió felével, aztán a kimagozott meggybefőttel, végül a maradék cukros dióval. Tetejére halmozzuk-kócosítjuk a maradék kiflimasszát, megöntözzük a vajjal/margarinnal, majd közepes bordamagasságra állított rácsra helyezve aranybarnára sütjük (35-40 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőből kivéve 10 percig hűlni hagyjuk, tetejét meghintjük egy fátyolnyi vaníliás vagy fahéjas porcukorral és a félretett meggy szemekkel. Melegen, de nem forrón tálaljuk, hidegen is kitűnő! Nem túl tartalmas levesek ideális kiegészítője. Mákkal is készíthetjük. Vanília- vagy borsodót, felforrósított gyümölcsöntetet kínálhatunk hozzá."
+            }
+        ],
+        "prepTime": "PT1H30M",
+        "cookTime": "PT40M",
+        "recipeYield": "4 személyre",
+        "image": "images/b8638b2e-053c-4665-8908-95e284be5c9b_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "b8638b2e-053c-4665-8908-95e284be5c9b",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Diós-meggyes rakott kifli",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H30M",
+            "cookTime": "PT40M",
+            "recipeIngredients": [
+                "8 db vajas (sima) kifli",
+                "80 g darált dió",
+                "40 g porcukor",
+                "1 nagy üveg kimagozott meggybefőtt (töltötömeg 350-400 g)",
+                "2 ujjnyi citromhéj",
+                "1 vaníliarúd",
+                "8 dl tej",
+                "4 tojássárgája",
+                "40 g cukor",
+                "40 g vaj/margarin"
+            ],
+            "recipeDirections": [
+                "A kifliket ujjnyi vastagon felkarikázzuk, és mély tálba tesszük. A diót összekeverjük a porcukorral. A meggybefőttet leszűrjük, alaposan lecsepegtetjük, és 15-20 szép szemet félreteszünk a díszítéshez. A citromot forró folyó víz alatt alaposan megsikáljuk, és héjából kétujjnyit burgonyahámozóval lehántunk.",
+                "A vaníliarudat felhasítjuk, késheggyel kikapargatjuk belőle a vaníliapépet, majd hüvelyével és a citromhéjjal együtt a tejhez adjuk, és felforraljuk. Lehúzzuk a tűzről, és fedő alatt 10 percig pihentetjük.",
+                "Közben a tojássárgákat habüstbe csúsztatjuk, és habosra-fehérre keverjük a kristálycukorral. Apránként hozzászűrünk-keverünk 2-3 merőkanál tejet, majd a maradékot, azután forró vízfürdőbe állítjuk, és folyamatosan keverve, mérsékelt tűzön addig hevítjük, amíg kissé besűrűsödik (vigyázat, nehogy felforrjon, mert összeugrik, kicsapódik a tojás!).",
+                "Leforrázzuk vele a kiflikarikákat, lazán összekeverjük, és hagyjuk langyosra hűlni (a tej szinte eltűnik, megisszák a kiflik). A sütőt előmelegítjük 200 °C-ra. Vastagon kikenünk vajjal/margarinnal egy mély tűzálló tálat vagy tepsit, a többit felolvasztjuk.",
+                "Meghintjük a tál alját 2 ek. cukros dióval, belesimítjuk a krémesre lágyult kiflikarikák felét, megszórjuk a maradék cukros dió felével, aztán a kimagozott meggybefőttel, végül a maradék cukros dióval. Tetejére halmozzuk-kócosítjuk a maradék kiflimasszát, megöntözzük a vajjal/margarinnal, majd közepes bordamagasságra állított rácsra helyezve aranybarnára sütjük (35-40 perc).",
+                "A sütőből kivéve 10 percig hűlni hagyjuk, tetejét meghintjük egy fátyolnyi vaníliás vagy fahéjas porcukorral és a félretett meggy szemekkel. Melegen, de nem forrón tálaljuk, hidegen is kitűnő! Nem túl tartalmas levesek ideális kiegészítője. Mákkal is készíthetjük. Vanília- vagy borsodót, felforrósított gyümölcsöntetet kínálhatunk hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/b8638b2e-053c-4665-8908-95e284be5c9b_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 216,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

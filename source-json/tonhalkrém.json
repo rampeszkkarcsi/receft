@@ -1,0 +1,51 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Tonhalkrém",
+        "recipeIngredient": [
+            "tonhalkonzerv",
+            "1 ek majonéz",
+            "1 tk tejfel",
+            "1 kis fej vereshagyma",
+            "1 kk citromlé",
+            "1 kk mustár",
+            "petrezselemzöld",
+            "só",
+            "bors"
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/9cc0975f-f264-4888-b84a-0777f37b9c4b_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "9cc0975f-f264-4888-b84a-0777f37b9c4b",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Tonhalkrém",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "tonhalkonzerv",
+                "1 ek majonéz",
+                "1 tk tejfel",
+                "1 kis fej vereshagyma",
+                "1 kk citromlé",
+                "1 kk mustár",
+                "petrezselemzöld",
+                "só",
+                "bors"
+            ],
+            "recipeDirections": [],
+            "recipeNotes": [],
+            "photo0": "images/9cc0975f-f264-4888-b84a-0777f37b9c4b_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 38,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:14+00:00"
+    }
+]

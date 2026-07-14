@@ -1,0 +1,68 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Nagyon csokis muffin",
+        "recipeIngredient": [
+            "2 tojás",
+            "15 dkg cukor",
+            "16 dkg liszt",
+            "6 ek cukrozatlan kakaópor",
+            "10 dkg csokoládé",
+            "1 csomag vaníliás cukor",
+            "16 dkg margarin",
+            "1 csomag sütőpor",
+            "Opcionális",
+            "ha túl sűrű: tej vagy joghurt",
+            "banán is tehető bele"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Sütés"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "180 °C"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/2f508739-60d6-44bf-b926-c8fed81eeb91_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "2f508739-60d6-44bf-b926-c8fed81eeb91",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Nagyon csokis muffin",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "2 tojás",
+                "15 dkg cukor",
+                "16 dkg liszt",
+                "6 ek cukrozatlan kakaópor",
+                "10 dkg csokoládé",
+                "1 csomag vaníliás cukor",
+                "16 dkg margarin",
+                "1 csomag sütőpor",
+                "Opcionális",
+                "ha túl sűrű: tej vagy joghurt",
+                "banán is tehető bele"
+            ],
+            "recipeDirections": [
+                "Sütés",
+                "180 °C"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/2f508739-60d6-44bf-b926-c8fed81eeb91_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 28,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:14+00:00"
+    }
+]

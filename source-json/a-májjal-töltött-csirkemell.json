@@ -1,0 +1,110 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "A MÁJJAL TÖLTÖTT CSIRKEMELL",
+        "recipeIngredient": [
+            "zsályalevelek",
+            "salátalevelek",
+            "1 kis csokor petrezselyem",
+            "1/2 piros húsú paprika",
+            "fokhagyma gerezdek",
+            "4 csirkemáj (szív nélkül)",
+            "csirkemellek",
+            "1 kk. szárnyas fűszersó",
+            "8 vékony szelet angolszalonna",
+            "só, bors",
+            "bors",
+            "1 dl félszáraz fehérbor",
+            "800 g burgonya",
+            "1,5 dl tej",
+            "20 g vaj/margarin",
+            "szerecsendió",
+            "chiliport",
+            "salátalevelek",
+            "néhány citromfűbóbita",
+            "8 zsályalevél",
+            "néhány salátalevél",
+            "4-6 gerezd fokhagyma",
+            "2 nagyobb csirkemell",
+            "2 ek. olaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A zsálya- és salátaleveleket, valamint a petrezselymet és a paprikát leöblítjük, a fokhagymagerezdeket meghámozzuk. A csirkemájat leöblítjük, hártyáikat eltávolítjuk. A csirkemelleket megmossuk, bőrüket lehúzzuk, kicsontozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A fél mellek vastagabb, azaz mellcsont felőli oldalát hosszanti irányban, mélyen zsebszerűen bevágjuk, kinyitjuk, bedörzsöljük 1-2 csipet fűszersóval. Mindegyikbe 1 zsályalevelet, 1 szelet angolszalonnát, 1 csirkemájat, majd ismét 1 szelet angolszalonnát fektetünk. A zsebeket összezárjuk, 2-3 fogvájóval szorosan megtűzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az olajat felforrósítjuk, beletesszük a csirkemelleket, és élénk tűzön körbepirítjuk. Meghintjük sóval, borssal, aztán melléjük dobjuk a fokhagymagerezdeket és a maradék 4 zsályalevelet, végül felöntjük a borral. Fedő alatt, mérsékelt tűzön 20-25 perc alatt puhára sütjük (elfőtt levüket kevés vízzel vagy további borral pótoljuk)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a körethez a burgonyát meghámozzuk, megmossuk, kockákra/hasábokra vágjuk, és bő, sós vízben puhára főzzük. A tejet felforrósítjuk a vajjal/margarinnal és 1/2 kk. sóval. A burgonyát leszűrjük, apránként hozzáöntjük a tejet, elektromos habverővel néhány pillanat alatt péppé törjük. Hozzáadunk 1 csipetnyi frissen reszelt szerecsendiót, ízlés szerint chiliport, és további néhány pörgetéssel habosra keverjük (vigyázat, a hosszas keveréstől nyúlós lesz!). Nagyobb galuskákat szaggatunk ki belőle, tálba halmozzuk, tetejüket megHintjük a felaprózott petrezselyemmel, és a csíkokra szelt paprikával díszítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A csirkemelleket vágódeszkára emeljük, kihúzzuk belőlük a fogvájókat, majd 2-3 rézsútos szeletre vágjuk, lapos tálra rendezzük. Köréjük locsoljuk a pecsenyelét, és salátalevelekkel, citromfűbóbitákkal díszítve, a burgonyapüré kíséretében tálaljuk. Hidegen is finom!"
+            }
+        ],
+        "prepTime": "PT50M",
+        "cookTime": "PT25M",
+        "recipeYield": "4 személyre",
+        "image": "images/d741de52-54a7-4261-8fa3-26a897352308_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "d741de52-54a7-4261-8fa3-26a897352308",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "A MÁJJAL TÖLTÖTT CSIRKEMELL",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT50M",
+            "cookTime": "PT25M",
+            "recipeIngredients": [
+                "zsályalevelek",
+                "salátalevelek",
+                "1 kis csokor petrezselyem",
+                "1/2 piros húsú paprika",
+                "fokhagyma gerezdek",
+                "4 csirkemáj (szív nélkül)",
+                "csirkemellek",
+                "1 kk. szárnyas fűszersó",
+                "8 vékony szelet angolszalonna",
+                "só, bors",
+                "bors",
+                "1 dl félszáraz fehérbor",
+                "800 g burgonya",
+                "1,5 dl tej",
+                "20 g vaj/margarin",
+                "szerecsendió",
+                "chiliport",
+                "salátalevelek",
+                "néhány citromfűbóbita",
+                "8 zsályalevél",
+                "néhány salátalevél",
+                "4-6 gerezd fokhagyma",
+                "2 nagyobb csirkemell",
+                "2 ek. olaj"
+            ],
+            "recipeDirections": [
+                "A zsálya- és salátaleveleket, valamint a petrezselymet és a paprikát leöblítjük, a fokhagymagerezdeket meghámozzuk. A csirkemájat leöblítjük, hártyáikat eltávolítjuk. A csirkemelleket megmossuk, bőrüket lehúzzuk, kicsontozzuk.",
+                "A fél mellek vastagabb, azaz mellcsont felőli oldalát hosszanti irányban, mélyen zsebszerűen bevágjuk, kinyitjuk, bedörzsöljük 1-2 csipet fűszersóval. Mindegyikbe 1 zsályalevelet, 1 szelet angolszalonnát, 1 csirkemájat, majd ismét 1 szelet angolszalonnát fektetünk. A zsebeket összezárjuk, 2-3 fogvájóval szorosan megtűzzük.",
+                "Az olajat felforrósítjuk, beletesszük a csirkemelleket, és élénk tűzön körbepirítjuk. Meghintjük sóval, borssal, aztán melléjük dobjuk a fokhagymagerezdeket és a maradék 4 zsályalevelet, végül felöntjük a borral. Fedő alatt, mérsékelt tűzön 20-25 perc alatt puhára sütjük (elfőtt levüket kevés vízzel vagy további borral pótoljuk).",
+                "Közben a körethez a burgonyát meghámozzuk, megmossuk, kockákra/hasábokra vágjuk, és bő, sós vízben puhára főzzük. A tejet felforrósítjuk a vajjal/margarinnal és 1/2 kk. sóval. A burgonyát leszűrjük, apránként hozzáöntjük a tejet, elektromos habverővel néhány pillanat alatt péppé törjük. Hozzáadunk 1 csipetnyi frissen reszelt szerecsendiót, ízlés szerint chiliport, és további néhány pörgetéssel habosra keverjük (vigyázat, a hosszas keveréstől nyúlós lesz!). Nagyobb galuskákat szaggatunk ki belőle, tálba halmozzuk, tetejüket megHintjük a felaprózott petrezselyemmel, és a csíkokra szelt paprikával díszítjük.",
+                "A csirkemelleket vágódeszkára emeljük, kihúzzuk belőlük a fogvájókat, majd 2-3 rézsútos szeletre vágjuk, lapos tálra rendezzük. Köréjük locsoljuk a pecsenyelét, és salátalevelekkel, citromfűbóbitákkal díszítve, a burgonyapüré kíséretében tálaljuk. Hidegen is finom!"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/d741de52-54a7-4261-8fa3-26a897352308_0.jpg"
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 61,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

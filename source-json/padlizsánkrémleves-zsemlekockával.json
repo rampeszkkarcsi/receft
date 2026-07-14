@@ -1,0 +1,85 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Padlizsánkrémleves zsemlekockával",
+        "recipeIngredient": [
+            "600 g padlizsán",
+            "só, bors",
+            "1-2 gerezd fokhagyma",
+            "1 kis+1 közepes fej hagyma",
+            "1/2 piros húsú paprika",
+            "1 szikkadt zsemle",
+            "2 ek. olaj",
+            "7,5 dl zöldségleves (kockából)",
+            "1 dl tejszín",
+            "1 ek. étkezési keményítő",
+            "60 g bacon/szalonna",
+            "1 diónyi vaj/margarin",
+            "4 kk. tejföl/joghurt",
+            "néhány bazsalikomlevél"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A padlizsánokat megmossuk, kettévágjuk, és fél órára erősen besózzuk. A fokhagymát és a hagymákat meghámozzuk, a kisebbik fejet felaprózzuk, a nagyobbikat felkarikázzuk. A paprikát kicsi, a zsemlét 1x1 cm-es kockákra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A padlizsánfeleket leöblítjük, kinyomkodjuk belőlük a vizet, vágott felükkel lefelé tepsibe tesszük, és 180 °C-ra előmelegített sütőben puhára sütjük (25-30 perc). Kissé hűlni hagyjuk, majd kivájjuk a belsejüket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megfonnyasztjuk a felforrósított olajon a felaprított hagymát, hozzáadjuk a kivájt padlizsánhúst és a fokhagymát, rádobjuk a padlizsánhúst, majd felöntjük a húslevessel és a tejszínnel, 2-3 percig forraljuk. Ezután botmixerrel krémmé zúzzuk, hozzáadjuk az 1 dl hideg vízben elkevert étkezési keményítőt, ízlés szerint sózzuk, borsozzuk, és további 2 percig forraljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A bacont/szalonnát vékony csíkokra szeljük, és a felkarikázott hagymával együtt megsütjük a vajban/margarinban. Kiemeljük a zsiradékból, amelyben ezután piros-barnára pirítjuk a zsemlekockákat. A levest mélytányérokba szedjük, mindegyikben cirmosra keverünk 1-1 kk. tejfölt, tetejüket a szalonnával, hagymával, zsemle- és paprikakockákkal, valamint bazsalikommal díszítjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "1 adag",
+        "image": "images/21f3f8f0-b37c-4b7f-b51f-934afc02c72e_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "21f3f8f0-b37c-4b7f-b51f-934afc02c72e",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Padlizsánkrémleves zsemlekockával",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "1 adag",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "600 g padlizsán",
+                "só, bors",
+                "1-2 gerezd fokhagyma",
+                "1 kis+1 közepes fej hagyma",
+                "1/2 piros húsú paprika",
+                "1 szikkadt zsemle",
+                "2 ek. olaj",
+                "7,5 dl zöldségleves (kockából)",
+                "1 dl tejszín",
+                "1 ek. étkezési keményítő",
+                "60 g bacon/szalonna",
+                "1 diónyi vaj/margarin",
+                "4 kk. tejföl/joghurt",
+                "néhány bazsalikomlevél"
+            ],
+            "recipeDirections": [
+                "A padlizsánokat megmossuk, kettévágjuk, és fél órára erősen besózzuk. A fokhagymát és a hagymákat meghámozzuk, a kisebbik fejet felaprózzuk, a nagyobbikat felkarikázzuk. A paprikát kicsi, a zsemlét 1x1 cm-es kockákra vágjuk.",
+                "A padlizsánfeleket leöblítjük, kinyomkodjuk belőlük a vizet, vágott felükkel lefelé tepsibe tesszük, és 180 °C-ra előmelegített sütőben puhára sütjük (25-30 perc). Kissé hűlni hagyjuk, majd kivájjuk a belsejüket.",
+                "Megfonnyasztjuk a felforrósított olajon a felaprított hagymát, hozzáadjuk a kivájt padlizsánhúst és a fokhagymát, rádobjuk a padlizsánhúst, majd felöntjük a húslevessel és a tejszínnel, 2-3 percig forraljuk. Ezután botmixerrel krémmé zúzzuk, hozzáadjuk az 1 dl hideg vízben elkevert étkezési keményítőt, ízlés szerint sózzuk, borsozzuk, és további 2 percig forraljuk.",
+                "A bacont/szalonnát vékony csíkokra szeljük, és a felkarikázott hagymával együtt megsütjük a vajban/margarinban. Kiemeljük a zsiradékból, amelyben ezután piros-barnára pirítjuk a zsemlekockákat. A levest mélytányérokba szedjük, mindegyikben cirmosra keverünk 1-1 kk. tejfölt, tetejüket a szalonnával, hagymával, zsemle- és paprikakockákkal, valamint bazsalikommal díszítjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/21f3f8f0-b37c-4b7f-b51f-934afc02c72e_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 55,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

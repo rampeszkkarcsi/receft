@@ -1,0 +1,77 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Zöldséges-csirkés piláf",
+        "recipeIngredient": [
+            "35 dkg csirkemellfilé",
+            "40 dkg zsenge zöldborsó",
+            "25 dkg brokkoli",
+            "20 dkg hosszú szemű rizs",
+            "1 fej vöröshagyma",
+            "1 gerezd fokhagyma",
+            "só",
+            "frissen őrölt bors",
+            "1 ek. curry fűszerkeverék",
+            "3 ek. olívaolaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Az apróra kockázott hagymát dinszteljük meg olívaolajon."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Adjuk hozzá a felkockázott csirkehúst, a curry fűszerkeveréket, pirítsuk körbe a húst."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Adjuk hozzá a (nyers) rizst, a zöldborsót, a rózsákra szedett brokkolit, a zúzott fokhagymát, és öntsük fel a rizs térfogatának megfelelő, 1 2,5-szeres mennyiségű vízzel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sózzuk, borsozzuk, lefedve, olykor megkeverve 20 perc alatt főzzük készre a fogást."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "recipeYield": "4 PERSON",
+        "image": "images/c6792989-a50c-469d-85d2-24d5717d305a_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "c6792989-a50c-469d-85d2-24d5717d305a",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Zöldséges-csirkés piláf",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "35 dkg csirkemellfilé",
+                "40 dkg zsenge zöldborsó",
+                "25 dkg brokkoli",
+                "20 dkg hosszú szemű rizs",
+                "1 fej vöröshagyma",
+                "1 gerezd fokhagyma",
+                "só",
+                "frissen őrölt bors",
+                "1 ek. curry fűszerkeverék",
+                "3 ek. olívaolaj"
+            ],
+            "recipeDirections": [
+                "Az apróra kockázott hagymát dinszteljük meg olívaolajon.",
+                "Adjuk hozzá a felkockázott csirkehúst, a curry fűszerkeveréket, pirítsuk körbe a húst.",
+                "Adjuk hozzá a (nyers) rizst, a zöldborsót, a rózsákra szedett brokkolit, a zúzott fokhagymát, és öntsük fel a rizs térfogatának megfelelő, 1 2,5-szeres mennyiségű vízzel.",
+                "Sózzuk, borsozzuk, lefedve, olykor megkeverve 20 perc alatt főzzük készre a fogást."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/c6792989-a50c-469d-85d2-24d5717d305a_0.jpg"
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 19,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Zsályás-kecskesajtos csirkemell",
+        "recipeIngredient": [
+            "HOZZÁVALÓK 4 SZEMÉLYRE:",
+            "200 g kecske- vagy feta sajt,",
+            "4 csirkemellfilé,",
+            "8 nagyobb zsályalevél+a díszítéshez,",
+            "só, bors, 8 szelet bacon,",
+            "2+2 ek. (olíva-)olaj, 1 dl száraz fehérbor,",
+            "400 g cukkini, 4 nagyobb paradicsom,",
+            "4-6 koktélparadicsom,",
+            "2 gerezd fokhagyma"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "1 A sajtot vékonyan felszeleteljük. A csir- kemellek vastagabb oldalába mély zse- bet vágunk, bedörzsöljük kevés frissen őrölt borssal (sózni nem kell, mert a sajt és a bacon sós!), belefektetünk 2-2 leöblített zsá- lyalevelet és az arányosan elosztott sajtot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A nyílásokat fogvájóval betűzzük, a melle- ket 2-2 szelet baconbe göngyöljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütőálló, azaz fémfülű serpenyőben 2 felforrósított 2 ek. olajban körbepirít- juk a húst (5 perc), aláöntjük a bort, és fedő alatt 15 percig pároljuk. Fedő nélkül betesz- szük a 180 °C-ra előmelegített sütőbe, és ropogósra pirítjuk a tetején a bacont."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A körethez a hámozatlan cukkinikat 3 hosszanti szeletekre gyaluljuk; a para- dicsomokat kettévágjuk, magjaikat-levüket eltávolítjuk, gerezdekre szeljük. 2 ek. forró olajban sárgára sütjük a szétlapított fokhagy- mát, beleforgatjuk a cukkinit, 4 perc múlva a paradicsomot, majd további 2-3 percig pi- rítjuk, és csak a végén sózzuk, borsozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A csirkemelleket tálra rendezzük, meglocsoljuk az átszűrt pecsenyelével, mel- léjük szedjük a köretet, és koktélparadicso- mokkal, zsályalevelekkel (egyéb zöldfűszer- rel) díszítve tálaljuk. Burgonyapüré, párolt rizs illik hozzá."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT30M",
+        "recipeYield": "4 személyre",
+        "image": "images/d2f342cc-bee3-46fe-a099-6a7ea17ae404_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "d2f342cc-bee3-46fe-a099-6a7ea17ae404",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Zsályás-kecskesajtos csirkemell",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "HOZZÁVALÓK 4 SZEMÉLYRE:",
+                "200 g kecske- vagy feta sajt,",
+                "4 csirkemellfilé,",
+                "8 nagyobb zsályalevél+a díszítéshez,",
+                "só, bors, 8 szelet bacon,",
+                "2+2 ek. (olíva-)olaj, 1 dl száraz fehérbor,",
+                "400 g cukkini, 4 nagyobb paradicsom,",
+                "4-6 koktélparadicsom,",
+                "2 gerezd fokhagyma"
+            ],
+            "recipeDirections": [
+                "1 A sajtot vékonyan felszeleteljük. A csir- kemellek vastagabb oldalába mély zse- bet vágunk, bedörzsöljük kevés frissen őrölt borssal (sózni nem kell, mert a sajt és a bacon sós!), belefektetünk 2-2 leöblített zsá- lyalevelet és az arányosan elosztott sajtot.",
+                "A nyílásokat fogvájóval betűzzük, a melle- ket 2-2 szelet baconbe göngyöljük.",
+                "Sütőálló, azaz fémfülű serpenyőben 2 felforrósított 2 ek. olajban körbepirít- juk a húst (5 perc), aláöntjük a bort, és fedő alatt 15 percig pároljuk. Fedő nélkül betesz- szük a 180 °C-ra előmelegített sütőbe, és ropogósra pirítjuk a tetején a bacont.",
+                "A körethez a hámozatlan cukkinikat 3 hosszanti szeletekre gyaluljuk; a para- dicsomokat kettévágjuk, magjaikat-levüket eltávolítjuk, gerezdekre szeljük. 2 ek. forró olajban sárgára sütjük a szétlapított fokhagy- mát, beleforgatjuk a cukkinit, 4 perc múlva a paradicsomot, majd további 2-3 percig pi- rítjuk, és csak a végén sózzuk, borsozzuk.",
+                "A csirkemelleket tálra rendezzük, meglocsoljuk az átszűrt pecsenyelével, mel- léjük szedjük a köretet, és koktélparadicso- mokkal, zsályalevelekkel (egyéb zöldfűszer- rel) díszítve tálaljuk. Burgonyapüré, párolt rizs illik hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/d2f342cc-bee3-46fe-a099-6a7ea17ae404_0.jpg"
+        },
+        "x-source-file": "a732a041-ba4a-4467-98ee-e33a82efcb46.zip",
+        "x-db-id": 276,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

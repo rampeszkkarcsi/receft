@@ -1,0 +1,114 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Hangyaboly",
+        "recipeIngredient": [
+            "Tészta",
+            "5 tojás",
+            "5 púpozott evőkanál kristálycukor",
+            "5 púpozott evőkanál liszt",
+            "1 késhegynyi Dr. Oetker Sütőpor",
+            "Töltelék",
+            "3 dl tej",
+            "3 evőkanál liszt",
+            "2 evőkanál kakaó",
+            "20 dkg kristálycukor",
+            "25 dkg margarin",
+            "1 teáskanál rumaroma (1/2 dl rum)",
+            "Díszítés",
+            "Dr. Oetker Torta Decor barna tortadara"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Tészta: a tojássárgáját a cukorral habosra keverjük. Ezután hozzáadjuk a sütőporral elkevert lisztet. Apránként lazán belekeverjük a keményre felvert tojásfehérjét és a kivajazott, lisztezett tepsibe töltjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütés: nagy lángon (7-8 fokozaton) 5-10 percig előmelegítjük a gázsütőt, majd takarékra tesszük és 30-35 percig sütjük. Az elektromos sütőt 150-175 °C-on 5-10 percig előmelegítjük. Utána 130-150 °C-on 30-35 percig sütjük a süteményt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fél óra múlva nagyobb tűt szúrunk a tészta közepébe, és ha már nem ragad, akkor megsült."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát hagyjuk kihűlni, majd akkora lapot vágunk le belőle, amivel egy tésztaszűrőt ki tudunk bélelni, a maradék piskótát kb. 1,5-2 cm-es lapokra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Töltelék: a hozzávalókat egy edényben összefőzzük, simára keverjük, kissé hagyjuk kihűlni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztaszűrőbe formázott piskótalapot kb. 2 cm vastagon megkenjük a töltelékkel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezután egy tésztalap következik, majd újra töltelék és ezt addig ismételjük, míg megtelik a tésztaszűrő."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fontos, hogy az utolsó réteg piskótalap legyen."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tányérra borítjuk, a tetejét bekenjük töltelékkel és alaposan megszórjuk Dr. Oetker Torta Decor barna tortadarával."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "1-2 órára hűtőbe tesszük és szeletelve tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT35M",
+        "image": "images/8ea33afb-bb09-46df-b310-8902b248e652_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "8ea33afb-bb09-46df-b310-8902b248e652",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Hangyaboly",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT35M",
+            "recipeIngredients": [
+                "Tészta",
+                "5 tojás",
+                "5 púpozott evőkanál kristálycukor",
+                "5 púpozott evőkanál liszt",
+                "1 késhegynyi Dr. Oetker Sütőpor",
+                "Töltelék",
+                "3 dl tej",
+                "3 evőkanál liszt",
+                "2 evőkanál kakaó",
+                "20 dkg kristálycukor",
+                "25 dkg margarin",
+                "1 teáskanál rumaroma (1/2 dl rum)",
+                "Díszítés",
+                "Dr. Oetker Torta Decor barna tortadara"
+            ],
+            "recipeDirections": [
+                "Tészta: a tojássárgáját a cukorral habosra keverjük. Ezután hozzáadjuk a sütőporral elkevert lisztet. Apránként lazán belekeverjük a keményre felvert tojásfehérjét és a kivajazott, lisztezett tepsibe töltjük.",
+                "Sütés: nagy lángon (7-8 fokozaton) 5-10 percig előmelegítjük a gázsütőt, majd takarékra tesszük és 30-35 percig sütjük. Az elektromos sütőt 150-175 °C-on 5-10 percig előmelegítjük. Utána 130-150 °C-on 30-35 percig sütjük a süteményt.",
+                "Fél óra múlva nagyobb tűt szúrunk a tészta közepébe, és ha már nem ragad, akkor megsült.",
+                "A tésztát hagyjuk kihűlni, majd akkora lapot vágunk le belőle, amivel egy tésztaszűrőt ki tudunk bélelni, a maradék piskótát kb. 1,5-2 cm-es lapokra vágjuk.",
+                "Töltelék: a hozzávalókat egy edényben összefőzzük, simára keverjük, kissé hagyjuk kihűlni.",
+                "A tésztaszűrőbe formázott piskótalapot kb. 2 cm vastagon megkenjük a töltelékkel.",
+                "Ezután egy tésztalap következik, majd újra töltelék és ezt addig ismételjük, míg megtelik a tésztaszűrő.",
+                "Fontos, hogy az utolsó réteg piskótalap legyen.",
+                "Tányérra borítjuk, a tetejét bekenjük töltelékkel és alaposan megszórjuk Dr. Oetker Torta Decor barna tortadarával.",
+                "1-2 órára hűtőbe tesszük és szeletelve tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/8ea33afb-bb09-46df-b310-8902b248e652_0.jpg"
+        },
+        "x-source-file": "6927f13b-408a-4c16-9b05-60d162e1329b.zip",
+        "x-db-id": 187,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

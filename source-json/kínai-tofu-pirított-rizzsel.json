@@ -1,0 +1,96 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kínai tofu pirított rizzsel",
+        "recipeIngredient": [
+            "300 g tofu (natúr vagy füstölt)",
+            "3 evőkanál szójaszósz",
+            "1 fej lila hagyma",
+            "1 db sárgarépa (nagyobb)",
+            "1 db petrezselyemgyökér",
+            "1/2 db uborka",
+            "3 gerezd fokhagyma",
+            "1 kávéskanál chilipehely",
+            "150 g rizs (hosszú szemű)",
+            "1 evőkanál kukorica (morzsolt)",
+            "1 evőkanál zöldborsó",
+            "1 evőkanál szezámolaj",
+            "1 kávéskanál gyömbérpor",
+            "1 kávéskanál kukoricakeményítő",
+            "só",
+            "bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A rizst feltesszük főni. A zöldségeket meghámozzuk és felcsíkozzuk, a tofut 2 cm vastag téglalapokra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát olívaolajon megdinszteljük, majd hozzáadjuk a vékonyra szeletelt fokhagymát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a sárgarépát és a petrezselyemgyökeret, majd 3-4 perc elteltével az uborkát. (Ne főzzük túl, akkor jó, ha kissé még ropognak a zöldségek.)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a gyömbérport, a tofut, a szójaszószt, majd a kukoricakeményítőt és a chilit, végül óvatosan összeforgatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pár percig hagyjuk összeérni, sózást a szójaszósz miatt nem igényel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kész rizst lecsepegtetjük, közben egy másik edényben szezámolajat hevítünk. Mikor már kellően forró (és csak akkor), hozzáadjuk a rizst, és hagyjuk megpirulni. Közben hozzápasszítjuk a kukoricát, a zöldborsót, végezetül megsózzuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "ddb90645-ac82-475e-9ab2-966e43a7b08e",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kínai tofu pirított rizzsel",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "300 g tofu (natúr vagy füstölt)",
+                "3 evőkanál szójaszósz",
+                "1 fej lila hagyma",
+                "1 db sárgarépa (nagyobb)",
+                "1 db petrezselyemgyökér",
+                "1/2 db uborka",
+                "3 gerezd fokhagyma",
+                "1 kávéskanál chilipehely",
+                "150 g rizs (hosszú szemű)",
+                "1 evőkanál kukorica (morzsolt)",
+                "1 evőkanál zöldborsó",
+                "1 evőkanál szezámolaj",
+                "1 kávéskanál gyömbérpor",
+                "1 kávéskanál kukoricakeményítő",
+                "só",
+                "bors"
+            ],
+            "recipeDirections": [
+                "A rizst feltesszük főni. A zöldségeket meghámozzuk és felcsíkozzuk, a tofut 2 cm vastag téglalapokra vágjuk.",
+                "A hagymát olívaolajon megdinszteljük, majd hozzáadjuk a vékonyra szeletelt fokhagymát.",
+                "Hozzáadjuk a sárgarépát és a petrezselyemgyökeret, majd 3-4 perc elteltével az uborkát. (Ne főzzük túl, akkor jó, ha kissé még ropognak a zöldségek.)",
+                "Hozzáadjuk a gyömbérport, a tofut, a szójaszószt, majd a kukoricakeményítőt és a chilit, végül óvatosan összeforgatjuk.",
+                "Pár percig hagyjuk összeérni, sózást a szójaszósz miatt nem igényel.",
+                "A kész rizst lecsepegtetjük, közben egy másik edényben szezámolajat hevítünk. Mikor már kellően forró (és csak akkor), hozzáadjuk a rizst, és hagyjuk megpirulni. Közben hozzápasszítjuk a kukoricát, a zöldborsót, végezetül megsózzuk."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "5d69ba0e-6fbf-4ffa-86b3-7aaa925b1eab.zip",
+        "x-db-id": 173,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

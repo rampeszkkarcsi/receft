@@ -1,0 +1,69 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Zabfasírt",
+        "recipeIngredient": [
+            "200gr zab",
+            "1 ek kókuszreszelék",
+            "1 db nagy cukkini reszelve",
+            "2 db közepes paradicsom apróra kockázva",
+            "1-2 ek. füstölt sós paprika fűszer",
+            "1 ek. kendermag (vagy bármilyen mag)",
+            "só ízlés szerint"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Előmelegítem a sütőt 150 fokra (légkeverés)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hozzávalókat összekeverem egy nagy tálban."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pogácsákat formázok belőle (kb 10 darab), majd sütőpapírral bélelt tepsire helyezem őket,"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "készresütöm."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "kb 10 darab",
+        "x-recipe-keeper": {
+            "recipeId": "dd79adc8-53ee-4ec5-bebd-a7dd356015ba",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Zabfasírt",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "kb 10 darab",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "200gr zab",
+                "1 ek kókuszreszelék",
+                "1 db nagy cukkini reszelve",
+                "2 db közepes paradicsom apróra kockázva",
+                "1-2 ek. füstölt sós paprika fűszer",
+                "1 ek. kendermag (vagy bármilyen mag)",
+                "só ízlés szerint"
+            ],
+            "recipeDirections": [
+                "Előmelegítem a sütőt 150 fokra (légkeverés).",
+                "A hozzávalókat összekeverem egy nagy tálban.",
+                "Pogácsákat formázok belőle (kb 10 darab), majd sütőpapírral bélelt tepsire helyezem őket,",
+                "készresütöm."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 250,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

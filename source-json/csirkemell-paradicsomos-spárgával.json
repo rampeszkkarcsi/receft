@@ -1,0 +1,104 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "CSIRKEMELL PARADICSOMOS SPÁRGÁVAL",
+        "recipeIngredient": [
+            "4 bőrös fél csirkemell",
+            "8 szál kakukkfű",
+            "só",
+            "50 dkg zöld és fehér spárga",
+            "20 dkg koktélparadicsom",
+            "1 dl olívaolaj",
+            "2 ek. balzsamecet",
+            "frissen őrölt feketebors",
+            "5 dkg hideg vaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A spárgát megpucoljuk és félbevágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A paradicsomot megmossuk és félbevágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A csirkemellet besózzuk és bedörzsöljük kakukkfűlevelekkel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A csirkemellet a bőrös felén, kevés olívaolajon elősütjük, majd 160 fokos sütőben 25 perc alatt készre sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezalatt elkészítjük a köretet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Serpenyőben olajat melegítünk, és beletesszük a spárgát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közepes lángon, rázogatva 10 percig sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzádobjuk a paradicsomot, sózzuk, borsozzuk és 5 perc után meglocsoljuk a balzsamecettel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tűzről lehúzva a hideg vajat hozzáadjuk, és ezzel sűrítjük a mártást."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A csirkemellet felszeletelve, a spárgás paradicsommal tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT25M",
+        "image": "images/f7f4dd4d-efba-438c-9ed6-fd35c5fe67a4_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "f7f4dd4d-efba-438c-9ed6-fd35c5fe67a4",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "CSIRKEMELL PARADICSOMOS SPÁRGÁVAL",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT25M",
+            "recipeIngredients": [
+                "4 bőrös fél csirkemell",
+                "8 szál kakukkfű",
+                "só",
+                "50 dkg zöld és fehér spárga",
+                "20 dkg koktélparadicsom",
+                "1 dl olívaolaj",
+                "2 ek. balzsamecet",
+                "frissen őrölt feketebors",
+                "5 dkg hideg vaj"
+            ],
+            "recipeDirections": [
+                "A spárgát megpucoljuk és félbevágjuk.",
+                "A paradicsomot megmossuk és félbevágjuk.",
+                "A csirkemellet besózzuk és bedörzsöljük kakukkfűlevelekkel.",
+                "A csirkemellet a bőrös felén, kevés olívaolajon elősütjük, majd 160 fokos sütőben 25 perc alatt készre sütjük.",
+                "Ezalatt elkészítjük a köretet.",
+                "Serpenyőben olajat melegítünk, és beletesszük a spárgát.",
+                "Közepes lángon, rázogatva 10 percig sütjük.",
+                "Hozzádobjuk a paradicsomot, sózzuk, borsozzuk és 5 perc után meglocsoljuk a balzsamecettel.",
+                "A tűzről lehúzva a hideg vajat hozzáadjuk, és ezzel sűrítjük a mártást.",
+                "A csirkemellet felszeletelve, a spárgás paradicsommal tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/f7f4dd4d-efba-438c-9ed6-fd35c5fe67a4_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 44,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

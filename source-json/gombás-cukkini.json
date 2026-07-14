@@ -1,0 +1,88 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gombás cukkini",
+        "recipeIngredient": [
+            "1 kg (két karcsú) cukkini",
+            "40 dkg gomba",
+            "2 evőkanál olaj vagy 5 dkg vaj",
+            "1 evőkanál liszt",
+            "1 dl tej",
+            "1 kicsi fej vöröshagyma",
+            "2-3 nagy gerezd fokhagyma",
+            "1 citrom leve",
+            "1 tojás",
+            "10 dkg reszelt sajt",
+            "só",
+            "örölt bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A cukkinit úgy készítjük elő, mint a töltött cukkinihez."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a vajon vagy olajon az apróra vágott hagymát megpirítjuk, és a megtisztított, felszeletelt gombát beletéve, sóval, borssal addig pároljuk, amíg a saját levét el nem fötte."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Zsírjára sütjük, a liszttel megszórjuk, és a tejjel felengedve sűrűre forraljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tűzről levesszük, és langyosra hűtve, a sajt felével meg a nyers tojással összekeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Végül a kivájt, apróra vágott cukkinibelsőt is hozzáadjuk, és púposan a kivájt fél cukkinikbe töltjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tűzálló tálra egymás mellé fektetjük, a maradék sajttal megszórjuk, és a sütőben megsütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "3233033e-6b24-4f2c-84d4-a7cc4eee2ada",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gombás cukkini",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1 kg (két karcsú) cukkini",
+                "40 dkg gomba",
+                "2 evőkanál olaj vagy 5 dkg vaj",
+                "1 evőkanál liszt",
+                "1 dl tej",
+                "1 kicsi fej vöröshagyma",
+                "2-3 nagy gerezd fokhagyma",
+                "1 citrom leve",
+                "1 tojás",
+                "10 dkg reszelt sajt",
+                "só",
+                "örölt bors"
+            ],
+            "recipeDirections": [
+                "A cukkinit úgy készítjük elő, mint a töltött cukkinihez.",
+                "Közben a vajon vagy olajon az apróra vágott hagymát megpirítjuk, és a megtisztított, felszeletelt gombát beletéve, sóval, borssal addig pároljuk, amíg a saját levét el nem fötte.",
+                "Zsírjára sütjük, a liszttel megszórjuk, és a tejjel felengedve sűrűre forraljuk.",
+                "A tűzről levesszük, és langyosra hűtve, a sajt felével meg a nyers tojással összekeverjük.",
+                "Végül a kivájt, apróra vágott cukkinibelsőt is hozzáadjuk, és púposan a kivájt fél cukkinikbe töltjük.",
+                "Tűzálló tálra egymás mellé fektetjük, a maradék sajttal megszórjuk, és a sütőben megsütjük."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 106,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

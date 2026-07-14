@@ -1,0 +1,87 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Rizses-zöldséges csirkemáj",
+        "recipeIngredient": [
+            "100 g sárgarépa",
+            "80 g petrezselyemgyökér",
+            "80 g zeller",
+            "80 g karalábé",
+            "50 g sampinyon gomba",
+            "2 kis fej hagyma",
+            "2 gerezd fokhagyma",
+            "1 csokor petrezselyem",
+            "400 g csirkemáj (szív nélkül)",
+            "3 ek. olaj",
+            "50 g zöldborsó",
+            "250 g hosszú szemű rizs",
+            "só, bors",
+            "1/2 kk. szárított majoránna",
+            "100 g reszelt, füstölt sajt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségeket megtisztítjuk, a gyökerét és a karalábét kisebb kockákra, a gombát kisebb kockákra, a hagymákat, a fokhagymát és a petrezselymet finomra vágjuk. Az inaktól-hártyáktól letisztított csirkemájakat négy-nyolc darabra aprózzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A forró olajban megfonyasztjuk a hagymát és a fokhagymát, a felét félretesszük, a maradékra rádobjuk a zöldségeket és (fagyos állapotban) a zöldborsót. Sóval, borssal, majoránnával ízesítjük, fedő alatt, 20 percig pároljuk, végül beletesszük a májat, és az egészet puhára pároljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A rizst a félretett párolt hagyma-fokhagyma keverékére dobjuk, élénk tűzön 1 percig pirítjuk, felöntjük 5 dl vízzel/húslevessel, felforraljuk, kissé megsózzuk, majd lefedjük, és mikróban/180 °C-os sütőben puhára pároljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A rizst és a sajt felét összekeverjük a májas zöldség-raguval, nem túl mély tálba szedjük, végül tetejére szórjuk a maradék sajtot. Néhány szál snidlinggel/petrezselyemmel és paradicsomgerezdekkel díszítve, mihamarabb tálaljuk."
+            }
+        ],
+        "prepTime": "PT50M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/8e87d91a-11f3-49a9-af9c-1e8c47087561_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "8e87d91a-11f3-49a9-af9c-1e8c47087561",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Rizses-zöldséges csirkemáj",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT50M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "100 g sárgarépa",
+                "80 g petrezselyemgyökér",
+                "80 g zeller",
+                "80 g karalábé",
+                "50 g sampinyon gomba",
+                "2 kis fej hagyma",
+                "2 gerezd fokhagyma",
+                "1 csokor petrezselyem",
+                "400 g csirkemáj (szív nélkül)",
+                "3 ek. olaj",
+                "50 g zöldborsó",
+                "250 g hosszú szemű rizs",
+                "só, bors",
+                "1/2 kk. szárított majoránna",
+                "100 g reszelt, füstölt sajt"
+            ],
+            "recipeDirections": [
+                "A zöldségeket megtisztítjuk, a gyökerét és a karalábét kisebb kockákra, a gombát kisebb kockákra, a hagymákat, a fokhagymát és a petrezselymet finomra vágjuk. Az inaktól-hártyáktól letisztított csirkemájakat négy-nyolc darabra aprózzuk.",
+                "A forró olajban megfonyasztjuk a hagymát és a fokhagymát, a felét félretesszük, a maradékra rádobjuk a zöldségeket és (fagyos állapotban) a zöldborsót. Sóval, borssal, majoránnával ízesítjük, fedő alatt, 20 percig pároljuk, végül beletesszük a májat, és az egészet puhára pároljuk.",
+                "A rizst a félretett párolt hagyma-fokhagyma keverékére dobjuk, élénk tűzön 1 percig pirítjuk, felöntjük 5 dl vízzel/húslevessel, felforraljuk, kissé megsózzuk, majd lefedjük, és mikróban/180 °C-os sütőben puhára pároljuk.",
+                "A rizst és a sajt felét összekeverjük a májas zöldség-raguval, nem túl mély tálba szedjük, végül tetejére szórjuk a maradék sajtot. Néhány szál snidlinggel/petrezselyemmel és paradicsomgerezdekkel díszítve, mihamarabb tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/8e87d91a-11f3-49a9-af9c-1e8c47087561_0.jpg"
+        },
+        "x-source-file": "6e03e7be-5be6-419b-9334-749488909078.zip",
+        "x-db-id": 132,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

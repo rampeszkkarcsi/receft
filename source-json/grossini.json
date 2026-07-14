@@ -1,0 +1,61 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Grossini",
+        "recipeIngredient": [
+            "40 dkg liszt",
+            "1 dl víz",
+            "1 dl olívaolaj",
+            "1 teáskanál só",
+            "2 dkg élesztő"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Langyos vízben oldjuk fel a sót és az élesztőt, keverjük hozzá az olajat, majd a lisztet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kb. 1,5 órát pihentetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fóliával lefedve pihentetni."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/5b8a1130-cac4-4150-98bc-9e6d4f9ffd1f_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "5b8a1130-cac4-4150-98bc-9e6d4f9ffd1f",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Grossini",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "40 dkg liszt",
+                "1 dl víz",
+                "1 dl olívaolaj",
+                "1 teáskanál só",
+                "2 dkg élesztő"
+            ],
+            "recipeDirections": [
+                "Langyos vízben oldjuk fel a sót és az élesztőt, keverjük hozzá az olajat, majd a lisztet.",
+                "Kb. 1,5 órát pihentetjük.",
+                "Fóliával lefedve pihentetni."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/5b8a1130-cac4-4150-98bc-9e6d4f9ffd1f_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 15,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

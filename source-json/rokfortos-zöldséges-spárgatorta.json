@@ -1,0 +1,162 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Rokfortos-zöldséges spárgatorta",
+        "recipeIngredient": [
+            "Hozzávalók 8 szelethez:",
+            "A tésztához:",
+            "250 g finomliszt 125 g vaj/margarin+diónyi a formához",
+            "1 kk. tejföl • 1/2 kk. só ⚫ 1 tojássárgája",
+            "A töltelékhez és az öntethez:",
+            "• 250 g zöldspárga ⚫ 2 szál zsenge sárgarépa",
+            ". .",
+            "⚫ 1 csokor újhagyma ⚫ 150 g zöldborsó (tisztított)",
+            ".",
+            "• 100 g füstölt főtt marha-/sertésnyelv ⚫2 ek. olaj",
+            ".",
+            "só, bors • 100 g érett rokfort ⚫1 csokor petrezselyem",
+            ". .",
+            "⚫ 2,5 dl tejföl • 3 tojás • szerecsendió",
+            ". ."
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet munkalapra szitáljuk, tetejére szórunk 125 g apróra felkockázott vajat/margarinnt, és széles pengéjű késsel vagy habkártyával összedolgozzuk-elmorzsoljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a tejföllel és a sóval elkevert tojássárgáját, gyors mozdulatokkal összegyúrjuk, aztán cipót formálunk belőle, folpackba csomagoljuk, és a hűtőszekrényben 30 percet pihentetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségeket megtisztítjuk, megmossuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A (hámozatlan) spárgasípok fás szárvégét levágjuk, 8 spárgafejet (a díszítéshez) 7-8 cm-es szárával egyben hagyunk, a többit 2-3 cm-es darabokra aprítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az újhagymát 8-10 cm zöldjével együtt felkarikázzuk, a sárgarépát és a nyelvet 1x1 cm-es kockákra aprózzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A petrezselymet leöblítjük, levélkéit lecsipkedjük, finomra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az olajat felforrósítjuk, megfonnyasztjuk benne a hagymát, rádobjuk a zöldborsót (A), a répát és a felaprózott spárgát, néhány percig élénk tűzön pirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ízlés szerint sózzuk, borsozzuk, tetejére fektetjük a 8 spárgafejet, és fedő alatt, nem kevergetve, csak meg-megrázogatva az edényt, 5 percig pároljuk, levét fedő nélkül elfőzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hagyjuk kihűlni, a spárgafejeket félretesszük, a többiben lazán elkeverjük a nyelvet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt előmelegítjük 200 °C-ra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy 26 cm átmérőjű gyümölcstortaformát kikenünk vajjal/margarinnal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát lisztezett munkalapon 30-32 cm átmérőjű korongra nyújtjuk, a formába terítjük-nyomkodjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Szegélyét körbevágjuk, alját villával sűrűn megszurkáljuk (B)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beleterítjük a zöldségragut, tetejét csillagformán kirakjuk a félretett spárgafejekkel, végül rámorzsoljuk a rokfortot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tejfölt elkeverjük a tojásokkal, ízlés szerint sóval, borssal, pici frissen reszelt szerecsendióval (C) és a petrezselyemmel, majd egyenletesen a töltelék tetejére öntjük-merjük (D)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Középső bordamagasságra állított rácson 45-50 percig sütjük (tűpróba!)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Melegen vagy langyosan tálaljuk, de hidegen (nem behűtve!) is finom, különleges."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha italkorcsolyának szánjuk, 12 vékonyabb szeletre vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "TIPP: Készíthetjük hámozatlan, felkarikázott cukkinivel, sonkával, füstölt tarjával is."
+            }
+        ],
+        "prepTime": "PT1H30M",
+        "cookTime": "PT50M",
+        "recipeYield": "12 szelet",
+        "image": "images/3b862976-6326-4724-a29e-d04b982c1cd6_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "3b862976-6326-4724-a29e-d04b982c1cd6",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Rokfortos-zöldséges spárgatorta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "12 szelet",
+            "prepTime": "PT1H30M",
+            "cookTime": "PT50M",
+            "recipeIngredients": [
+                "Hozzávalók 8 szelethez:",
+                "A tésztához:",
+                "250 g finomliszt 125 g vaj/margarin+diónyi a formához",
+                "1 kk. tejföl • 1/2 kk. só ⚫ 1 tojássárgája",
+                "A töltelékhez és az öntethez:",
+                "• 250 g zöldspárga ⚫ 2 szál zsenge sárgarépa",
+                ". .",
+                "⚫ 1 csokor újhagyma ⚫ 150 g zöldborsó (tisztított)",
+                ".",
+                "• 100 g füstölt főtt marha-/sertésnyelv ⚫2 ek. olaj",
+                ".",
+                "só, bors • 100 g érett rokfort ⚫1 csokor petrezselyem",
+                ". .",
+                "⚫ 2,5 dl tejföl • 3 tojás • szerecsendió",
+                ". ."
+            ],
+            "recipeDirections": [
+                "A lisztet munkalapra szitáljuk, tetejére szórunk 125 g apróra felkockázott vajat/margarinnt, és széles pengéjű késsel vagy habkártyával összedolgozzuk-elmorzsoljuk.",
+                "Hozzáadjuk a tejföllel és a sóval elkevert tojássárgáját, gyors mozdulatokkal összegyúrjuk, aztán cipót formálunk belőle, folpackba csomagoljuk, és a hűtőszekrényben 30 percet pihentetjük.",
+                "A zöldségeket megtisztítjuk, megmossuk.",
+                "A (hámozatlan) spárgasípok fás szárvégét levágjuk, 8 spárgafejet (a díszítéshez) 7-8 cm-es szárával egyben hagyunk, a többit 2-3 cm-es darabokra aprítjuk.",
+                "Az újhagymát 8-10 cm zöldjével együtt felkarikázzuk, a sárgarépát és a nyelvet 1x1 cm-es kockákra aprózzuk.",
+                "A petrezselymet leöblítjük, levélkéit lecsipkedjük, finomra vágjuk.",
+                "Az olajat felforrósítjuk, megfonnyasztjuk benne a hagymát, rádobjuk a zöldborsót (A), a répát és a felaprózott spárgát, néhány percig élénk tűzön pirítjuk.",
+                "Ízlés szerint sózzuk, borsozzuk, tetejére fektetjük a 8 spárgafejet, és fedő alatt, nem kevergetve, csak meg-megrázogatva az edényt, 5 percig pároljuk, levét fedő nélkül elfőzzük.",
+                "Hagyjuk kihűlni, a spárgafejeket félretesszük, a többiben lazán elkeverjük a nyelvet.",
+                "A sütőt előmelegítjük 200 °C-ra.",
+                "Egy 26 cm átmérőjű gyümölcstortaformát kikenünk vajjal/margarinnal.",
+                "A tésztát lisztezett munkalapon 30-32 cm átmérőjű korongra nyújtjuk, a formába terítjük-nyomkodjuk.",
+                "Szegélyét körbevágjuk, alját villával sűrűn megszurkáljuk (B).",
+                "Beleterítjük a zöldségragut, tetejét csillagformán kirakjuk a félretett spárgafejekkel, végül rámorzsoljuk a rokfortot.",
+                "A tejfölt elkeverjük a tojásokkal, ízlés szerint sóval, borssal, pici frissen reszelt szerecsendióval (C) és a petrezselyemmel, majd egyenletesen a töltelék tetejére öntjük-merjük (D).",
+                "Középső bordamagasságra állított rácson 45-50 percig sütjük (tűpróba!).",
+                "Melegen vagy langyosan tálaljuk, de hidegen (nem behűtve!) is finom, különleges.",
+                "Ha italkorcsolyának szánjuk, 12 vékonyabb szeletre vágjuk.",
+                "TIPP: Készíthetjük hámozatlan, felkarikázott cukkinivel, sonkával, füstölt tarjával is."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/3b862976-6326-4724-a29e-d04b982c1cd6_0.jpg"
+        },
+        "x-source-file": "8e973511-a906-412c-a871-c6205380a313.zip",
+        "x-db-id": 208,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

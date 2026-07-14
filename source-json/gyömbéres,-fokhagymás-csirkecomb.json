@@ -1,0 +1,79 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gyömbéres, fokhagymás csirkecomb",
+        "recipeIngredient": [
+            "6 egész csirkecomb",
+            "6 gerezd fokhagyma",
+            "kb. 2x annyi gyömbér, mint a fokhagyma",
+            "2 ek olívaolaj",
+            "só, bors",
+            "2 dl száraz fehérbor",
+            "1 doboz Philadlephia sajtkrém",
+            "kb. 1 kg gnocchi (lehet félkész is)",
+            "20 dkg olajbogyó",
+            "4 ek vaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A combokat sózta, borsoztam."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A gyömbért, a fokhagymát és a bort botmixerrel pépesítettem, majd a combok alá öntöttem az olívaolajjal együtt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Alufóliával lefedve a sütőbe toltam, és harminc percig fólia alatt, majd nélküle sütöttem tovább, míg a combok szép piros ropogósra sültek."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ekkor kivettem őket, és a tepsi aljáról összekapartam a gyömbéres, boros lét, amit leturmixoltam a krémsajttal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A gnocchit nem kifőztem, hanem az olajbogyóval együtt megpirítottam a vajon, majd a combokkal együtt meglocsoltam a sajtszósszal."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT30M",
+        "x-recipe-keeper": {
+            "recipeId": "6132d2b2-2777-401e-9f62-ae73db0f86d3",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gyömbéres, fokhagymás csirkecomb",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "6 egész csirkecomb",
+                "6 gerezd fokhagyma",
+                "kb. 2x annyi gyömbér, mint a fokhagyma",
+                "2 ek olívaolaj",
+                "só, bors",
+                "2 dl száraz fehérbor",
+                "1 doboz Philadlephia sajtkrém",
+                "kb. 1 kg gnocchi (lehet félkész is)",
+                "20 dkg olajbogyó",
+                "4 ek vaj"
+            ],
+            "recipeDirections": [
+                "A combokat sózta, borsoztam.",
+                "A gyömbért, a fokhagymát és a bort botmixerrel pépesítettem, majd a combok alá öntöttem az olívaolajjal együtt.",
+                "Alufóliával lefedve a sütőbe toltam, és harminc percig fólia alatt, majd nélküle sütöttem tovább, míg a combok szép piros ropogósra sültek.",
+                "Ekkor kivettem őket, és a tepsi aljáról összekapartam a gyömbéres, boros lét, amit leturmixoltam a krémsajttal.",
+                "A gnocchit nem kifőztem, hanem az olajbogyóval együtt megpirítottam a vajon, majd a combokkal együtt meglocsoltam a sajtszósszal."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 88,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

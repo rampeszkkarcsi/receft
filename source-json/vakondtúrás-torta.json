@@ -1,0 +1,102 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Vakondtúrás torta",
+        "recipeIngredient": [
+            "Piskótához",
+            "5 db tojás",
+            "80 g (4 ek) kristálycukor",
+            "1 dl olaj",
+            "100 g (5 ek) finomliszt",
+            "40 g (2 ek) cukrozatlan kakaópor",
+            "1 cs sütőpor",
+            "Töltelékhez",
+            "2 cs habfixáló",
+            "2 ek porcukor",
+            "0,5 I habtejszín",
+            "80 g csokilencse vagy kakaós tortadara",
+            "3 db banán",
+            "citromlé"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Előmelegítjük a sütőt. Sütőpapírral kibélelünk egy 26 cm átmérőjű tortaformát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Szétválasztjuk a tojásokat, a fehérjéket kemény habbá verjük. A tojássárgákat a cukorral habosra keverjük, és belecsurgatjuk az olajat. A lisztet összeszitáljuk a kakaóporral és a sütőporral, majd a fehérjehabbal váltakozva óvatosan a tojássárgákhoz forgatjuk. A tésztát a formába öntjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Középfokozaton kb. 30 perc alatt készre sütjük. (Tűpróba!) Kiborítjuk a formából, rácson hűlni hagyjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kihűlt torta tetejére késsel \"rajzolunk\" egy kört a külsejétől 2 cm-re. Kb. 2 cm mélyen bemetszük, majd az így nyert belső körünket egy kiskanállal 2 cm mélyen kikaparjuk. Ezt a morzsolt tésztát félretesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Elkészítjük a tölteléket: a tejszínhabot, porcukorral és habfixálóval kemény habbá verjük. Lyukas fakanállal óvatosan beleforgatjuk a csokilencsét vagy a tortadarát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megtisztított banánokat hosszában félbevágjuk, és megkenjük citromlével. A lapos oldalukkal lefelé a kivájt torta aljára sorakoztatjuk azokat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tejszínhabot félgömb alakban ráhalmozzuk a tortára. A félretett, szétmorzsolt tésztával mindenhol befedjük, enyhén rányomjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Letakarva egy éjszakára hűtőbe tesszük! Tényleg adjunk neki egy éjszakát!!! A piskóta így kellően megpuhul, nem morzsálódik és gyönyörűen szeletelhető."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT30M",
+        "x-recipe-keeper": {
+            "recipeId": "e3e32785-2a94-4373-a40a-9a45ec893796",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Vakondtúrás torta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "Piskótához",
+                "5 db tojás",
+                "80 g (4 ek) kristálycukor",
+                "1 dl olaj",
+                "100 g (5 ek) finomliszt",
+                "40 g (2 ek) cukrozatlan kakaópor",
+                "1 cs sütőpor",
+                "Töltelékhez",
+                "2 cs habfixáló",
+                "2 ek porcukor",
+                "0,5 I habtejszín",
+                "80 g csokilencse vagy kakaós tortadara",
+                "3 db banán",
+                "citromlé"
+            ],
+            "recipeDirections": [
+                "Előmelegítjük a sütőt. Sütőpapírral kibélelünk egy 26 cm átmérőjű tortaformát.",
+                "Szétválasztjuk a tojásokat, a fehérjéket kemény habbá verjük. A tojássárgákat a cukorral habosra keverjük, és belecsurgatjuk az olajat. A lisztet összeszitáljuk a kakaóporral és a sütőporral, majd a fehérjehabbal váltakozva óvatosan a tojássárgákhoz forgatjuk. A tésztát a formába öntjük.",
+                "Középfokozaton kb. 30 perc alatt készre sütjük. (Tűpróba!) Kiborítjuk a formából, rácson hűlni hagyjuk.",
+                "A kihűlt torta tetejére késsel \"rajzolunk\" egy kört a külsejétől 2 cm-re. Kb. 2 cm mélyen bemetszük, majd az így nyert belső körünket egy kiskanállal 2 cm mélyen kikaparjuk. Ezt a morzsolt tésztát félretesszük.",
+                "Elkészítjük a tölteléket: a tejszínhabot, porcukorral és habfixálóval kemény habbá verjük. Lyukas fakanállal óvatosan beleforgatjuk a csokilencsét vagy a tortadarát.",
+                "A megtisztított banánokat hosszában félbevágjuk, és megkenjük citromlével. A lapos oldalukkal lefelé a kivájt torta aljára sorakoztatjuk azokat.",
+                "A tejszínhabot félgömb alakban ráhalmozzuk a tortára. A félretett, szétmorzsolt tésztával mindenhol befedjük, enyhén rányomjuk.",
+                "Letakarva egy éjszakára hűtőbe tesszük! Tényleg adjunk neki egy éjszakát!!! A piskóta így kellően megpuhul, nem morzsálódik és gyönyörűen szeletelhető."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 119,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

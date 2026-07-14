@@ -1,0 +1,97 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Citromos gombaleves",
+        "recipeIngredient": [
+            "2 ek. olaj",
+            "1 kis fej hagyma",
+            "1 vékony szál póréhagyma",
+            "2 közepes sárgarépa",
+            "25 dkg laskagomba",
+            "1 l húsleves (kockából)",
+            "1 szerecsendió-virág",
+            "½ citrom",
+            "1 kis csokor petrezselyem",
+            "1 dl tejföl"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát, a póréhagymát és a sárgarépát megtisztítjuk, megmossuk, felkarikázzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A laskagombákat száranként levágjuk a tönkről, megtörölgetjük vagy folyó víz alatt leöblítjük, tányérjukat széles, szárukat vékony csíkokra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az olajon megfonnyasztjuk a hagymát és a pórét, rádobjuk a sárgarépát és a gombát, néhány percig erős tűzön pirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Felöntjük a húslevessel, beletördeljük a szerecsendió-virágot, ízlés szerint sózzuk, borsozzuk, és fedő alatt, mérsékelt tűzön puhára főzzük (20 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben megmossuk, finomra vágjuk a petrezselymet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Belefacsarjuk a levesbe a citrom átszűrt levét, éppen csak felforraljuk, végül hozzáadjuk a petrezselymet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Minden tányér aljára 1-1 evőkanál tejfölt simítunk, arra merjük a forró levest."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Változat: szerecsendió helyett 8-10 friss, finomra vágott tárkonylevéllel vagy 1 késhegynyi őrölt tárkonnyal is készíthetjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "recipeYield": "4 személyre",
+        "image": "images/d81c662d-8065-4d0b-a7a0-658d2dffd115_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "d81c662d-8065-4d0b-a7a0-658d2dffd115",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Citromos gombaleves",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "2 ek. olaj",
+                "1 kis fej hagyma",
+                "1 vékony szál póréhagyma",
+                "2 közepes sárgarépa",
+                "25 dkg laskagomba",
+                "1 l húsleves (kockából)",
+                "1 szerecsendió-virág",
+                "½ citrom",
+                "1 kis csokor petrezselyem",
+                "1 dl tejföl"
+            ],
+            "recipeDirections": [
+                "A hagymát, a póréhagymát és a sárgarépát megtisztítjuk, megmossuk, felkarikázzuk.",
+                "A laskagombákat száranként levágjuk a tönkről, megtörölgetjük vagy folyó víz alatt leöblítjük, tányérjukat széles, szárukat vékony csíkokra vágjuk.",
+                "Az olajon megfonnyasztjuk a hagymát és a pórét, rádobjuk a sárgarépát és a gombát, néhány percig erős tűzön pirítjuk.",
+                "Felöntjük a húslevessel, beletördeljük a szerecsendió-virágot, ízlés szerint sózzuk, borsozzuk, és fedő alatt, mérsékelt tűzön puhára főzzük (20 perc).",
+                "Közben megmossuk, finomra vágjuk a petrezselymet.",
+                "Belefacsarjuk a levesbe a citrom átszűrt levét, éppen csak felforraljuk, végül hozzáadjuk a petrezselymet.",
+                "Minden tányér aljára 1-1 evőkanál tejfölt simítunk, arra merjük a forró levest.",
+                "Változat: szerecsendió helyett 8-10 friss, finomra vágott tárkonylevéllel vagy 1 késhegynyi őrölt tárkonnyal is készíthetjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/d81c662d-8065-4d0b-a7a0-658d2dffd115_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 212,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

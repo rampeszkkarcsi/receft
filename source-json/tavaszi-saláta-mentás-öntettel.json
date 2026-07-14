@@ -1,0 +1,102 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "TAVASZI SALÁTA MENTÁS ÖNTETTEL",
+        "recipeIngredient": [
+            "300 g burgonya",
+            "só",
+            "bors",
+            "1 kis fej fodros saláta",
+            "1 csokor retek",
+            "200 g kígyóuborka",
+            "1/4 piros húsú paprika",
+            "2 szál szárzeller zöldjével együtt",
+            "1 nagy csokor újhagyma",
+            "Az öntethez",
+            "300 g natúr görög joghurt",
+            "1 ek. ketchup",
+            "1 ek. csípős paprikakrém",
+            "1 ek. szójaszósz",
+            "6-8 mentalevél"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A burgonyát meghámozzuk, felkarikázzuk, sós vízben puhára főzzük, aztán hideg vízbe szedjük, leszűrjük, és alaposan lecsepegtetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségeket megtisztítjuk, megmossuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A salátaleveleket konyharuhával szárazra lapogatjuk/kicentrifugáljuk, falatnyi darabokra tépkedjük, tálba szórjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A retket gerezdekre, az uborkát és a paprikát kisebb kockákra, a zeller- és újhagymaszárakat karikákra, zöldjüket apróra vágjuk (a paprikát és 1 kk. hagymaszárat félreteszünk az öntethez)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a burgonyát, lazán összekeverjük, a salátaágy tetejére terítjük, és zöldfűszerbóbitákkal (pl. bazsalikom, zeller, petrezselyem, menta) díszítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az öntethez elkeverjük a joghurtban a ketchupot, a paprikakrémet, a szójaszószt, ízlés szerint sót és őrölt borsot, végül a finomra vágott mentaleveleket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megszórjuk a félretett paprikával és hagymaszárral, de a szépség kedvéért csak fogyasztáskor, az asztalnál keverjük össze a salátával."
+            }
+        ],
+        "prepTime": "PT40M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/902dc09a-36f7-4edf-94d1-c575f20e1402_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "902dc09a-36f7-4edf-94d1-c575f20e1402",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "TAVASZI SALÁTA MENTÁS ÖNTETTEL",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT40M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "300 g burgonya",
+                "só",
+                "bors",
+                "1 kis fej fodros saláta",
+                "1 csokor retek",
+                "200 g kígyóuborka",
+                "1/4 piros húsú paprika",
+                "2 szál szárzeller zöldjével együtt",
+                "1 nagy csokor újhagyma",
+                "Az öntethez",
+                "300 g natúr görög joghurt",
+                "1 ek. ketchup",
+                "1 ek. csípős paprikakrém",
+                "1 ek. szójaszósz",
+                "6-8 mentalevél"
+            ],
+            "recipeDirections": [
+                "A burgonyát meghámozzuk, felkarikázzuk, sós vízben puhára főzzük, aztán hideg vízbe szedjük, leszűrjük, és alaposan lecsepegtetjük.",
+                "A zöldségeket megtisztítjuk, megmossuk.",
+                "A salátaleveleket konyharuhával szárazra lapogatjuk/kicentrifugáljuk, falatnyi darabokra tépkedjük, tálba szórjuk.",
+                "A retket gerezdekre, az uborkát és a paprikát kisebb kockákra, a zeller- és újhagymaszárakat karikákra, zöldjüket apróra vágjuk (a paprikát és 1 kk. hagymaszárat félreteszünk az öntethez).",
+                "Hozzáadjuk a burgonyát, lazán összekeverjük, a salátaágy tetejére terítjük, és zöldfűszerbóbitákkal (pl. bazsalikom, zeller, petrezselyem, menta) díszítjük.",
+                "Az öntethez elkeverjük a joghurtban a ketchupot, a paprikakrémet, a szójaszószt, ízlés szerint sót és őrölt borsot, végül a finomra vágott mentaleveleket.",
+                "Megszórjuk a félretett paprikával és hagymaszárral, de a szépség kedvéért csak fogyasztáskor, az asztalnál keverjük össze a salátával."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/902dc09a-36f7-4edf-94d1-c575f20e1402_0.jpg"
+        },
+        "x-source-file": "6e03e7be-5be6-419b-9334-749488909078.zip",
+        "x-db-id": 136,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

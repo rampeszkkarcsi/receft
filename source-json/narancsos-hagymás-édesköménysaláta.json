@@ -1,0 +1,81 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Narancsos-hagymás édesköménysaláta",
+        "recipeIngredient": [
+            "2-3 édesköménygumó (kb. 500 g)",
+            "2-3 ek. citromlé",
+            "1/2 piros húsú paprika",
+            "néhány zellerlevél",
+            "2 közepes lilahagyma",
+            "2 gerezd fokhagyma",
+            "2 közepes narancs",
+            "4 szelet szendvicskenyér",
+            "2+2 ek. olívaolaj",
+            "só, bors",
+            "1 csipet porcukor",
+            "1 kk. csípős mustár"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Az édesköménygumók külső szirmait lebontjuk, szárukat visszavágjuk, megmossuk. A gumókat félbe, majd vékony szeletekre, a levágott, zsenge-zöld szárakat karikákra vágjuk, és azonnal meglocsoljuk citromlével. A paprikát felaprózzuk, a zellerleveleket leöblítjük. A lilahagymát és a fokhagymát megtisztítjuk, a hagymát felkarikázzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A narancsokat megmossuk, egyiket meghámozzuk, a gerezdeket elválasztó hártyák közül kivágjuk a gyümölcshúst. A másik levét kinyomjuk, a filézés közben keletkezett lével együtt tálkába szűrjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kenyérszeleteket apró kockákra vágjuk. 2 ek. olajban rózsaszínűre pirítjuk a fokhagymát, kidobjuk, aztán megpirítjuk benne a kenyérkockákat. A köményt és a hagymát tálra csinosítjuk, tetejükre rendezzük a narancsot, a köményszárkarikákat, a kenyér- és paprikakockákat, végül a zellerlevelekkel díszítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Elkeverünk a narancslében 1/2 kk. sót, ízlés szerint borsot, a porcukrot, a mustárt, végül apránként a maradék 2 ek. olívaolajat, de csak az asztalnál keverjük össze a salátával."
+            }
+        ],
+        "prepTime": "PT35M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 PERSON",
+        "image": "images/11f7cf5b-5961-46b3-a490-7ca584e73768_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "11f7cf5b-5961-46b3-a490-7ca584e73768",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Narancsos-hagymás édesköménysaláta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT35M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "2-3 édesköménygumó (kb. 500 g)",
+                "2-3 ek. citromlé",
+                "1/2 piros húsú paprika",
+                "néhány zellerlevél",
+                "2 közepes lilahagyma",
+                "2 gerezd fokhagyma",
+                "2 közepes narancs",
+                "4 szelet szendvicskenyér",
+                "2+2 ek. olívaolaj",
+                "só, bors",
+                "1 csipet porcukor",
+                "1 kk. csípős mustár"
+            ],
+            "recipeDirections": [
+                "Az édesköménygumók külső szirmait lebontjuk, szárukat visszavágjuk, megmossuk. A gumókat félbe, majd vékony szeletekre, a levágott, zsenge-zöld szárakat karikákra vágjuk, és azonnal meglocsoljuk citromlével. A paprikát felaprózzuk, a zellerleveleket leöblítjük. A lilahagymát és a fokhagymát megtisztítjuk, a hagymát felkarikázzuk.",
+                "A narancsokat megmossuk, egyiket meghámozzuk, a gerezdeket elválasztó hártyák közül kivágjuk a gyümölcshúst. A másik levét kinyomjuk, a filézés közben keletkezett lével együtt tálkába szűrjük.",
+                "A kenyérszeleteket apró kockákra vágjuk. 2 ek. olajban rózsaszínűre pirítjuk a fokhagymát, kidobjuk, aztán megpirítjuk benne a kenyérkockákat. A köményt és a hagymát tálra csinosítjuk, tetejükre rendezzük a narancsot, a köményszárkarikákat, a kenyér- és paprikakockákat, végül a zellerlevelekkel díszítjük.",
+                "Elkeverünk a narancslében 1/2 kk. sót, ízlés szerint borsot, a porcukrot, a mustárt, végül apránként a maradék 2 ek. olívaolajat, de csak az asztalnál keverjük össze a salátával."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/11f7cf5b-5961-46b3-a490-7ca584e73768_0.jpg"
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 72,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

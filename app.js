@@ -6,6 +6,7 @@ const template = document.getElementById('recipeTemplate');
 const PLACEHOLDER = 'placeholder.svg';
 
 let recipes = [];
+let expandedId = null;
 
 function normalize(str) {
   return (str || '')
@@ -13,6 +14,10 @@ function normalize(str) {
     .toLowerCase()
     .normalize('NFD')
     .replace(/[\u0300-\u036f]/g, '');
+}
+
+function getId(recipe, fallback) {
+  return recipe.id || recipe.recipeId || fallback;
 }
 
 function getTitle(recipe) {
@@ -24,10 +29,9 @@ function getIngredients(recipe) {
 }
 
 function getSteps(recipe) {
-  return Array.isArray(recipe.recipeInstructions)
-    ? recipe.recipeInstructions
-        .map(s => typeof s === 'string' ? s : (s.text || ''))
-        .filter(Boolean)
+  const steps = recipe.recipeInstructions || [];
+  return Array.isArray(steps)
+    ? steps.map(s => typeof s === 'string' ? s : (s.text || '')).filter(Boolean)
     : [];
 }
 
@@ -67,10 +71,8 @@ function escapeRegExp(str) {
 
 function highlightText(text, query) {
   if (!query) return escapeHtml(text);
-
   const re = new RegExp(`(${escapeRegExp(query)})`, 'gi');
   const parts = text.split(re);
-
   return parts.map(part => {
     if (normalize(part) === normalize(query)) {
       return `<span class="highlight">${escapeHtml(part)}</span>`;
@@ -79,48 +81,72 @@ function highlightText(text, query) {
   }).join('');
 }
 
+function visibleIngredients(recipe, expanded) {
+  const ingredients = getIngredients(recipe);
+  if (expanded) return ingredients;
+  return ingredients.slice(0, 4);
+}
+
 function render(list, query = '') {
   recipesEl.innerHTML = '';
   const fragment = document.createDocumentFragment();
 
-  list.forEach(recipe => {
+  list.forEach((recipe, index) => {
     const node = template.content.cloneNode(true);
+    const card = node.querySelector('.card');
     const img = node.querySelector('.thumb');
+    const toggle = node.querySelector('.card-toggle');
     const title = node.querySelector('.title');
     const meta = node.querySelector('.meta');
-    const ingredients = node.querySelector('.ingredients');
+    const previewIngredients = node.querySelector('.preview-ingredients');
+    const expandedIngredients = node.querySelector('.expanded-ingredients');
     const steps = node.querySelector('.steps');
+    const expandedBlock = node.querySelector('.card-expanded');
 
+    const id = getId(recipe, index);
     const titleText = getTitle(recipe);
-    title.innerHTML = highlightText(titleText, query);
+    const isExpanded = expandedId === id;
 
+    card.dataset.id = id;
+    card.classList.toggle('expanded', isExpanded);
+    toggle.setAttribute('aria-expanded', String(isExpanded));
+
+    title.innerHTML = highlightText(titleText, query);
     meta.textContent = getMeta(recipe);
 
-    ingredients.innerHTML = getIngredients(recipe)
-      .slice(0, 12)
+    previewIngredients.innerHTML = visibleIngredients(recipe, false)
       .map(x => `<span class="tag">${highlightText(x, query)}</span>`)
       .join('');
 
-    const stepHtml = getSteps(recipe)
-      .slice(0, 2)
+    expandedIngredients.innerHTML = visibleIngredients(recipe, true)
+      .map(x => `<span class="tag">${highlightText(x, query)}</span>`)
+      .join('');
+
+    steps.innerHTML = getSteps(recipe)
       .map(s => `<div>${highlightText(s, query)}</div>`)
       .join('');
-    steps.innerHTML = stepHtml;
 
     const image = getImage(recipe);
     img.alt = titleText;
 
-if (image) {
-  img.src = image;
-  img.onerror = function () {
-    this.onerror = null;
-    this.src = PLACEHOLDER;
-    this.classList.add('placeholder');
-  };
-} else {
-  img.src = PLACEHOLDER;
-  img.classList.add('placeholder');
-}
+    if (image) {
+      img.src = image;
+      img.onerror = function () {
+        this.onerror = null;
+        this.src = PLACEHOLDER;
+        this.classList.add('placeholder');
+      };
+    } else {
+      img.src = PLACEHOLDER;
+      img.classList.add('placeholder');
+    }
+
+    toggle.addEventListener('click', () => {
+      expandedId = expandedId === id ? null : id;
+      render(filterRecipes(searchEl.value), searchEl.value.trim());
+    });
+
+    expandedBlock.style.display = isExpanded ? 'block' : 'none';
 
     fragment.appendChild(node);
   });
@@ -154,6 +180,9 @@ async function init() {
 
 searchEl.addEventListener('input', () => {
   const filtered = filterRecipes(searchEl.value);
+  if (expandedId && !filtered.some((r, i) => getId(r, i) === expandedId)) {
+    expandedId = null;
+  }
   render(filtered, searchEl.value.trim());
 });
 

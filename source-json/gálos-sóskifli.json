@@ -1,0 +1,92 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gálos sóskifli",
+        "recipeIngredient": [
+            "Tészta : 2,5 tej, 1kk cukor, 1 élesztő felfuttat",
+            "70dkg liszt",
+            "1 tojás",
+            "1dl olaj",
+            "1 kefir",
+            "Összedagaszt, 8 cipót formáz",
+            "Bele: 25dkg margarin",
+            "1ek só",
+            "(fokhagyma!)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Kinyujtani 1 cipot"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Vajjal megkenni"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Masik cipot kinyujtani"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ra a tetejere"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "12dbra vagni"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cikkeket feltekerni"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tetejere tojas"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "+Reszelt sajt"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "f44f5195-ced3-4b87-93bc-bc82a0153e79",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gálos sóskifli",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "Tészta : 2,5 tej, 1kk cukor, 1 élesztő felfuttat",
+                "70dkg liszt",
+                "1 tojás",
+                "1dl olaj",
+                "1 kefir",
+                "Összedagaszt, 8 cipót formáz",
+                "Bele: 25dkg margarin",
+                "1ek só",
+                "(fokhagyma!)"
+            ],
+            "recipeDirections": [
+                "Kinyujtani 1 cipot",
+                "Vajjal megkenni",
+                "Masik cipot kinyujtani",
+                "Ra a tetejere",
+                "12dbra vagni",
+                "Cikkeket feltekerni",
+                "Tetejere tojas",
+                "+Reszelt sajt"
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 239,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

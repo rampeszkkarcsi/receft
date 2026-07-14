@@ -1,0 +1,84 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Mákos-meggyes muffin",
+        "recipeIngredient": [
+            "300 g friss meggy (vagy 250 g kimagozott meggybefőtt)",
+            "250 g finomliszt",
+            "1 tasak sütőpor (12 g)",
+            "80 g porcukor+a szóráshoz",
+            "1 tasak vaníliás cukor (10 g)",
+            "50 g darált mák",
+            "1/2 kk. őrölt fahéj",
+            "1 citrom reszelt héja",
+            "2 dl tej",
+            "2 tojás",
+            "60 g vaj/margarin"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A meggyet megmossuk, lecsepegtetjük, kimagozzuk (ha befőttből készítjük, alaposan lecsepegtetjük). Egy 12 csészés muffinformát kibélelünk kettesével egymásba illesztett, azaz 24 papírtálkával (ezek híján kikenjük vajjal/margarinnal). A sütőt előmelegítjük 200 °C-ra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet összekeverjük a sütőporral, porcukorral, vaníliás cukorral, mákkal, fahéjjal és reszelt citromhéjjal. Hozzáadjuk a tejben kissé felvert-elkevert tojásokat, majd az olvasztott, langyos vajat/margarint, és alaposan összedolgozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A massza felét a formákba szedjük, mindegyikre 3-5 szem meggyet szórunk, kissé bele is nyomkodjuk, aztán a tetejükre simítjuk a maradék masszát. Középső bordamagasságon 35-40 percig sütjük (tűpróba!)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kivesszük a formát a sütőből, 10 perc múlva rácsra emeljük-rakosgatjuk a muffinokat, és hagyjuk teljesen kihűlni. Tálra csinosítjuk őket, végül megszórjuk fátyolnyi porcukorral. Sokáig elálló, finom sütemény!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "TIPP: Csokoládés/vaníliás öntetet, meggyrösztert (múlt heti számunk), vagy krémsűrűségűre felvert, őrölt fahéjjal és cseresznyepálinkával illatosított tejszínt kínálhatunk hozzá."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT40M",
+        "recipeYield": "12 darab",
+        "image": "images/c8403f37-045b-4565-bed6-d21a8369d09e_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "c8403f37-045b-4565-bed6-d21a8369d09e",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Mákos-meggyes muffin",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "12 darab",
+            "prepTime": "PT0S",
+            "cookTime": "PT40M",
+            "recipeIngredients": [
+                "300 g friss meggy (vagy 250 g kimagozott meggybefőtt)",
+                "250 g finomliszt",
+                "1 tasak sütőpor (12 g)",
+                "80 g porcukor+a szóráshoz",
+                "1 tasak vaníliás cukor (10 g)",
+                "50 g darált mák",
+                "1/2 kk. őrölt fahéj",
+                "1 citrom reszelt héja",
+                "2 dl tej",
+                "2 tojás",
+                "60 g vaj/margarin"
+            ],
+            "recipeDirections": [
+                "A meggyet megmossuk, lecsepegtetjük, kimagozzuk (ha befőttből készítjük, alaposan lecsepegtetjük). Egy 12 csészés muffinformát kibélelünk kettesével egymásba illesztett, azaz 24 papírtálkával (ezek híján kikenjük vajjal/margarinnal). A sütőt előmelegítjük 200 °C-ra.",
+                "A lisztet összekeverjük a sütőporral, porcukorral, vaníliás cukorral, mákkal, fahéjjal és reszelt citromhéjjal. Hozzáadjuk a tejben kissé felvert-elkevert tojásokat, majd az olvasztott, langyos vajat/margarint, és alaposan összedolgozzuk.",
+                "A massza felét a formákba szedjük, mindegyikre 3-5 szem meggyet szórunk, kissé bele is nyomkodjuk, aztán a tetejükre simítjuk a maradék masszát. Középső bordamagasságon 35-40 percig sütjük (tűpróba!).",
+                "Kivesszük a formát a sütőből, 10 perc múlva rácsra emeljük-rakosgatjuk a muffinokat, és hagyjuk teljesen kihűlni. Tálra csinosítjuk őket, végül megszórjuk fátyolnyi porcukorral. Sokáig elálló, finom sütemény!",
+                "TIPP: Csokoládés/vaníliás öntetet, meggyrösztert (múlt heti számunk), vagy krémsűrűségűre felvert, őrölt fahéjjal és cseresznyepálinkával illatosított tejszínt kínálhatunk hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/c8403f37-045b-4565-bed6-d21a8369d09e_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 51,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Citromos varázs",
+        "recipeIngredient": [
+            "25 dkg babapiskóta",
+            "5 dl tejföl",
+            "5 dl tejszín (habtejszín)",
+            "1 csomag habfixáló",
+            "2 egész citrom",
+            "6 ek cukor",
+            "1 csomag vaníliás cukor"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tejfölt a cukorral és a vaníliás cukorral habosra keverjük, majd belekeverjük a citrom levét és reszelt héját."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tejszínt kemény habbá verjük a habfixálóval, majd óvatosan a citromos krémhez keverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy jénai tál alját kirakjuk babapiskótával, rákenjük a krém felét, majd ismét egy sor babapiskóta következik, végül a krém másik fele."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy éjszakára hűtőbe tesszük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/5a8cd52c-4dd8-424c-a22e-a2855da11ad9_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "5a8cd52c-4dd8-424c-a22e-a2855da11ad9",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Citromos varázs",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "25 dkg babapiskóta",
+                "5 dl tejföl",
+                "5 dl tejszín (habtejszín)",
+                "1 csomag habfixáló",
+                "2 egész citrom",
+                "6 ek cukor",
+                "1 csomag vaníliás cukor"
+            ],
+            "recipeDirections": [
+                "A tejfölt a cukorral és a vaníliás cukorral habosra keverjük, majd belekeverjük a citrom levét és reszelt héját.",
+                "A tejszínt kemény habbá verjük a habfixálóval, majd óvatosan a citromos krémhez keverjük.",
+                "Egy jénai tál alját kirakjuk babapiskótával, rákenjük a krém felét, majd ismét egy sor babapiskóta következik, végül a krém másik fele.",
+                "Egy éjszakára hűtőbe tesszük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/5a8cd52c-4dd8-424c-a22e-a2855da11ad9_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 7,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

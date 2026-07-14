@@ -1,0 +1,92 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Dorka-tál",
+        "recipeIngredient": [
+            "1 kisebb brokkoli",
+            "2 nagya répa",
+            "1 konzevr csicseriborsó",
+            "6 közepes krumpli",
+            "madársaláta",
+            "görög joghurt",
+            "feta",
+            "petruska",
+            "snidling",
+            "citromlé",
+            "méz",
+            "só",
+            "bors",
+            "fokhagymasó",
+            "olivaolaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "krumplit előfőzni, kicsit szétnyomni, só, bors."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tepsibe rakni a csicseriborsóval (fokhagymasó, olivaolaj) kb 25 percig sütni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Utolsó 12 percre mellé a felkarikázott, kicsi mézbe forgatott répát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Brokkolihoz vizet forralni, bele a br. 4 percre, utána rögtön leöblíteni hideg vízzel. (roppanós)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mártogatós: fetasajt, görög joghurt fele-fele arányban, snidling, petrezselyem, pici citromlé, pici méz."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT25M",
+        "recipeYield": "2 főre",
+        "image": "images/90ceba80-ef42-42ff-b581-0f28813a28dd_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "90ceba80-ef42-42ff-b581-0f28813a28dd",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Dorka-tál",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "2 főre",
+            "prepTime": "PT0S",
+            "cookTime": "PT25M",
+            "recipeIngredients": [
+                "1 kisebb brokkoli",
+                "2 nagya répa",
+                "1 konzevr csicseriborsó",
+                "6 közepes krumpli",
+                "madársaláta",
+                "görög joghurt",
+                "feta",
+                "petruska",
+                "snidling",
+                "citromlé",
+                "méz",
+                "só",
+                "bors",
+                "fokhagymasó",
+                "olivaolaj"
+            ],
+            "recipeDirections": [
+                "krumplit előfőzni, kicsit szétnyomni, só, bors.",
+                "Tepsibe rakni a csicseriborsóval (fokhagymasó, olivaolaj) kb 25 percig sütni.",
+                "Utolsó 12 percre mellé a felkarikázott, kicsi mézbe forgatott répát.",
+                "Brokkolihoz vizet forralni, bele a br. 4 percre, utána rögtön leöblíteni hideg vízzel. (roppanós)",
+                "Mártogatós: fetasajt, görög joghurt fele-fele arányban, snidling, petrezselyem, pici citromlé, pici méz."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/90ceba80-ef42-42ff-b581-0f28813a28dd_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 12,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

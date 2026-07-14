@@ -1,0 +1,97 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kókuszos zabpelyhes rozskeksz",
+        "recipeIngredient": [
+            "10 dkg rozsliszt",
+            "6 dkg zabpehely",
+            "4 dkg kókuszreszelék",
+            "7 dkg cukor",
+            "1/2 kk szódabikarbóna",
+            "1/2 kk sütőpor",
+            "10 dkg olvadt vaj",
+            "1 egész tojás",
+            "csipet só"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Kivesszük a sütőrácsot, és begyújtjuk a sütőt (4-5-ös fokozat)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőtepsit kibéleljük sütőpapírral."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az olvadt vajba belekeverjük a cukrot, a csipet sót, majd a tojással habosra keverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet, a zabpelyhet, a kókuszreszeléket, a szódabikarbónát és a sütőport összekeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lisztes keverékbe belekeverjük a vajas keveréket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Diónyi golyókat formázunk (kb. evőkanálnyiakat), és 1 cm magas koronggá lapítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Előmelegített sütőben sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Áttesszük a sütőrácsra kihűlni, ott fog megkeményedni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütési hőfok: 180°C"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "dc04b66b-e1b6-44d0-8954-358f70388959",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kókuszos zabpelyhes rozskeksz",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "10 dkg rozsliszt",
+                "6 dkg zabpehely",
+                "4 dkg kókuszreszelék",
+                "7 dkg cukor",
+                "1/2 kk szódabikarbóna",
+                "1/2 kk sütőpor",
+                "10 dkg olvadt vaj",
+                "1 egész tojás",
+                "csipet só"
+            ],
+            "recipeDirections": [
+                "Kivesszük a sütőrácsot, és begyújtjuk a sütőt (4-5-ös fokozat).",
+                "A sütőtepsit kibéleljük sütőpapírral.",
+                "Az olvadt vajba belekeverjük a cukrot, a csipet sót, majd a tojással habosra keverjük.",
+                "A lisztet, a zabpelyhet, a kókuszreszeléket, a szódabikarbónát és a sütőport összekeverjük.",
+                "A lisztes keverékbe belekeverjük a vajas keveréket.",
+                "Diónyi golyókat formázunk (kb. evőkanálnyiakat), és 1 cm magas koronggá lapítjuk.",
+                "Előmelegített sütőben sütjük.",
+                "Áttesszük a sütőrácsra kihűlni, ott fog megkeményedni.",
+                "Sütési hőfok: 180°C"
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 93,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

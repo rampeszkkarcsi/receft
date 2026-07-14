@@ -1,0 +1,125 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Muszala",
+        "recipeIngredient": [
+            "0.5 kg padlizsán",
+            "0.5 kg burgonya",
+            "0.8 kg darált hús",
+            "2 vöröshagyma",
+            "2 paradicsom",
+            "1 paprika",
+            "6 gerezd fokhagyma",
+            "kb. 3 dl sűrített paradicsom",
+            "fahéj",
+            "oregánó",
+            "babérlevél",
+            "szegfűszeg",
+            "só",
+            "bors",
+            "Mártáshoz:",
+            "5 dkg vaj",
+            "liszt",
+            "tej",
+            "1 tojás",
+            "só",
+            "szerecsendió",
+            "reszelt füstölt sajt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A padlizsánokat 1 cm-es szeletekre vágva sütőben megsütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A krumplit felkockázzuk, majd megfőzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az apróra szelt hagymát olajon megdinszteljük, hozzáadjuk a húst és megpirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a sót, borsot, fahéjat, oregánót, babérlevelet, szegfűszeget és a zúzott fokhagymát is belekeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha a hús kezd átsülni, hozzáadjuk a felaprított paradicsomot, paprikát, és a paradicsompürét, és zsírjára sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy edényben megolvasztjuk a vajat, és hozzáadjuk a lisztet, a tejet és a tojást."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Levesszük a tűzről, sózzuk, hozzáadjuk a szerecsendiót, reszelt sajtot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Rétegek: padlizsán, hús, krumpli, mártás."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Előmelegített sütőben közepes lángon kb. 25 perc."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT25M",
+        "image": "images/5e15cc3f-d2ac-4a46-b42b-5c773b2c95a5_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "5e15cc3f-d2ac-4a46-b42b-5c773b2c95a5",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Muszala",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT25M",
+            "recipeIngredients": [
+                "0.5 kg padlizsán",
+                "0.5 kg burgonya",
+                "0.8 kg darált hús",
+                "2 vöröshagyma",
+                "2 paradicsom",
+                "1 paprika",
+                "6 gerezd fokhagyma",
+                "kb. 3 dl sűrített paradicsom",
+                "fahéj",
+                "oregánó",
+                "babérlevél",
+                "szegfűszeg",
+                "só",
+                "bors",
+                "Mártáshoz:",
+                "5 dkg vaj",
+                "liszt",
+                "tej",
+                "1 tojás",
+                "só",
+                "szerecsendió",
+                "reszelt füstölt sajt"
+            ],
+            "recipeDirections": [
+                "A padlizsánokat 1 cm-es szeletekre vágva sütőben megsütjük.",
+                "A krumplit felkockázzuk, majd megfőzzük.",
+                "Az apróra szelt hagymát olajon megdinszteljük, hozzáadjuk a húst és megpirítjuk.",
+                "Közben a sót, borsot, fahéjat, oregánót, babérlevelet, szegfűszeget és a zúzott fokhagymát is belekeverjük.",
+                "Ha a hús kezd átsülni, hozzáadjuk a felaprított paradicsomot, paprikát, és a paradicsompürét, és zsírjára sütjük.",
+                "Egy edényben megolvasztjuk a vajat, és hozzáadjuk a lisztet, a tejet és a tojást.",
+                "Levesszük a tűzről, sózzuk, hozzáadjuk a szerecsendiót, reszelt sajtot.",
+                "Rétegek: padlizsán, hús, krumpli, mártás.",
+                "Előmelegített sütőben közepes lángon kb. 25 perc."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/5e15cc3f-d2ac-4a46-b42b-5c773b2c95a5_0.jpg"
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 29,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

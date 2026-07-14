@@ -1,0 +1,79 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Brokkolis-szalonnás orsótészta",
+        "recipeIngredient": [
+            "30 dkg kolozsvári szalonna",
+            "3 evőkanál olívaolaj",
+            "3 gerezd fokhagyma",
+            "só, frissen őrölt bors",
+            "40 dkg brokkoli",
+            "50 dkg orsótészta (fussili)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Vágjuk kockákra a szalonnát, az olívaolajon süssük ropogósra, a sütési idő felénél adjuk hozzá az aprított fokhagymát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Borsozzuk, sózni nem szükséges, a szalonna sós."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Szedjük rózsákra a brokkolit."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Nagy fazékban forraljunk vizet, amikor felforrt, sózzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A brokkolit a tésztával együtt tegyük a vízbe, 10-11 perc alatt főzzük a tésztát puhára, ennyi idő alatt a brokkoli is bőven megfő."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Szűrjük le, szedjük a szalonnára, keverjük el, és azonnal tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT11M",
+        "recipeYield": "4 PERSON",
+        "image": "images/2fe013e1-6c85-47f1-8305-dc8b20c4380d_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "2fe013e1-6c85-47f1-8305-dc8b20c4380d",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Brokkolis-szalonnás orsótészta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT0S",
+            "cookTime": "PT11M",
+            "recipeIngredients": [
+                "30 dkg kolozsvári szalonna",
+                "3 evőkanál olívaolaj",
+                "3 gerezd fokhagyma",
+                "só, frissen őrölt bors",
+                "40 dkg brokkoli",
+                "50 dkg orsótészta (fussili)"
+            ],
+            "recipeDirections": [
+                "Vágjuk kockákra a szalonnát, az olívaolajon süssük ropogósra, a sütési idő felénél adjuk hozzá az aprított fokhagymát.",
+                "Borsozzuk, sózni nem szükséges, a szalonna sós.",
+                "Szedjük rózsákra a brokkolit.",
+                "Nagy fazékban forraljunk vizet, amikor felforrt, sózzuk.",
+                "A brokkolit a tésztával együtt tegyük a vízbe, 10-11 perc alatt főzzük a tésztát puhára, ennyi idő alatt a brokkoli is bőven megfő.",
+                "Szűrjük le, szedjük a szalonnára, keverjük el, és azonnal tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/2fe013e1-6c85-47f1-8305-dc8b20c4380d_0.jpg"
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 103,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

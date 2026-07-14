@@ -1,0 +1,66 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Töltött káposzta",
+        "recipeIngredient": [
+            "40dkg darált hús",
+            "25dkg füstölt oldalas",
+            "80dkg savanyú káposzta (ebből 5 levél)",
+            "1fej hagyma",
+            "1ger fokhagyma",
+            "Keves bors",
+            "1kk majoranna",
+            "1kk pirospaprika",
+            "1 tojás",
+            "8dkg rizs",
+            "So"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Húst , rizst, tojást, hagymákat, fűszereket összegyúrni, levelekbe tölteni. Lábast kizsírozni, aljára a káposztát(kicsavarni!!) , erre a töltelék, füstölt hús, annyi víz ami épp ellepi,."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kb 1,5 órát főzni, kiszedni a gombócokat, húst, káposztás lét berántani pirospaprikás rántással."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "fb07aee3-21ff-47b5-a0d6-b1200b0a8b86",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Töltött káposzta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "40dkg darált hús",
+                "25dkg füstölt oldalas",
+                "80dkg savanyú káposzta (ebből 5 levél)",
+                "1fej hagyma",
+                "1ger fokhagyma",
+                "Keves bors",
+                "1kk majoranna",
+                "1kk pirospaprika",
+                "1 tojás",
+                "8dkg rizs",
+                "So"
+            ],
+            "recipeDirections": [
+                "Húst , rizst, tojást, hagymákat, fűszereket összegyúrni, levelekbe tölteni. Lábast kizsírozni, aljára a káposztát(kicsavarni!!) , erre a töltelék, füstölt hús, annyi víz ami épp ellepi,.",
+                "Kb 1,5 órát főzni, kiszedni a gombócokat, húst, káposztás lét berántani pirospaprikás rántással."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 40,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

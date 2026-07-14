@@ -1,0 +1,77 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Citromos csirke",
+        "recipeIngredient": [
+            "4 nagyobb csirkecomb",
+            "1 ágacska rozmaring (10 cm-es + a díszítéshez)",
+            "2 citrom+1 a díszítéshez",
+            "1 ek. cukor",
+            "1/2 kk. őrölt fahéj",
+            "4 ek. olívaolaj",
+            "2 gerezd fokhagyma",
+            "só, bors",
+            "1+1 dl fehérbor",
+            "1 csapott ek. étkezési keményítő"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A csirkecombokat megmossuk, műanyag dobozba vagy mély üveg-/porcelántálba tesszük. A páchoz a rozmaringot leöblítjük, levélkéit finomra vágjuk. 2 citrom átszűrt levét elkeverjük a cukorral, a fahéjjal, az olívaolajjal, a rozmaringgal, az áttört fokhagymával, ízlés szerinti sóval, borssal, majd meglocsoljuk vele a csirkedarabokat. Gondosan letakarjuk, és a hűtőszekrényben 6 órán át (még jobb, ha egy éjszakát) érleljük-pácoljuk, 2-3 alkalommal megforgatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A húsdarabokat mélyebb sütőedénybe tesszük, tetejükre locsoljuk a pácot és 1 dl bort, aztán lefedjük, és 180 °C-ra előmelegített sütőben puhára pároljuk (kb. 40 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A csirkecombokat alufóliával bélelt tepsire fektetjük (így kevesebbet kell mosogatni), visszatesszük a sütőbe, és pirosra-ropogósra sütjük. A pecsenyealjat lábaskába szűrjük, zsírtalanítjuk, majd hozzáadjuk a maradék 1 dl borban elkevert étkezési keményítőt, és éppen csak sűrűsödésig forraljuk (1 perc). Ízlés szerint utána sózzuk, borsozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A húst tálra rendezzük, citromgerezdekkel és rozmaringbóbitákkal díszítjük, a bormártást pedig külön csészében kínáljuk. Sült vagy vajas-petrezselymes főtt burgonya, párolt rizs illik hozzá."
+            }
+        ],
+        "prepTime": "PT50M",
+        "cookTime": "PT40M",
+        "recipeYield": "4 személyre",
+        "image": "images/fcd35d5f-71b0-423d-843b-6b5c6d1cbaaf_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "fcd35d5f-71b0-423d-843b-6b5c6d1cbaaf",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Citromos csirke",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT50M",
+            "cookTime": "PT40M",
+            "recipeIngredients": [
+                "4 nagyobb csirkecomb",
+                "1 ágacska rozmaring (10 cm-es + a díszítéshez)",
+                "2 citrom+1 a díszítéshez",
+                "1 ek. cukor",
+                "1/2 kk. őrölt fahéj",
+                "4 ek. olívaolaj",
+                "2 gerezd fokhagyma",
+                "só, bors",
+                "1+1 dl fehérbor",
+                "1 csapott ek. étkezési keményítő"
+            ],
+            "recipeDirections": [
+                "A csirkecombokat megmossuk, műanyag dobozba vagy mély üveg-/porcelántálba tesszük. A páchoz a rozmaringot leöblítjük, levélkéit finomra vágjuk. 2 citrom átszűrt levét elkeverjük a cukorral, a fahéjjal, az olívaolajjal, a rozmaringgal, az áttört fokhagymával, ízlés szerinti sóval, borssal, majd meglocsoljuk vele a csirkedarabokat. Gondosan letakarjuk, és a hűtőszekrényben 6 órán át (még jobb, ha egy éjszakát) érleljük-pácoljuk, 2-3 alkalommal megforgatjuk.",
+                "A húsdarabokat mélyebb sütőedénybe tesszük, tetejükre locsoljuk a pácot és 1 dl bort, aztán lefedjük, és 180 °C-ra előmelegített sütőben puhára pároljuk (kb. 40 perc).",
+                "A csirkecombokat alufóliával bélelt tepsire fektetjük (így kevesebbet kell mosogatni), visszatesszük a sütőbe, és pirosra-ropogósra sütjük. A pecsenyealjat lábaskába szűrjük, zsírtalanítjuk, majd hozzáadjuk a maradék 1 dl borban elkevert étkezési keményítőt, és éppen csak sűrűsödésig forraljuk (1 perc). Ízlés szerint utána sózzuk, borsozzuk.",
+                "A húst tálra rendezzük, citromgerezdekkel és rozmaringbóbitákkal díszítjük, a bormártást pedig külön csészében kínáljuk. Sült vagy vajas-petrezselymes főtt burgonya, párolt rizs illik hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/fcd35d5f-71b0-423d-843b-6b5c6d1cbaaf_0.jpg"
+        },
+        "x-source-file": "78c7b1d4-56f5-40ee-9e76-a7d93ffbed93.zip",
+        "x-db-id": 143,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

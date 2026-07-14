@@ -1,0 +1,115 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Zöldborsós sertésragu dödöllével",
+        "recipeIngredient": [
+            "60 dkg sertésszűz",
+            "3 közepes fej hagyma",
+            "5 dkg vaj",
+            "20 dkg zöldborsó",
+            "2 szál friss vagy 1 ek. szárított tárkony",
+            "3 dl főzőtejszín",
+            "60 dkg burgonya",
+            "15 dkg liszt",
+            "10 dkg zsír"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Két fej hagymát apróra vágunk, és a vajon kissé lepirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mikor üvegesedik, hozzáadjuk a zöldborsót, pár perc múlva pedig a 2x2 cm-esre felkockázott sertésszüzet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sózzuk, borsozzuk, majd 2 perc múlva felöntjük a tejszínnel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a tárkonyt, majd további 2 percig forraljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lefedve pihentetjük tálalásig."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A dödölléhez héjában megfőzzük a megmosott burgonyákat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Amikor megpuhult, meghámozzuk, majd összetörjük, és hozzákeverjük a lisztet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A maradék hagymát nagyon apróra vágjuk, és a zsír felén lepirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kicsit kihűtjük, majd a burgonyához keverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kanállal nagy galuskákat szaggatunk belőle, majd a zsír másik felén aranybarnára pirítjuk őket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sertésragu mellé tálaljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "TIPP: A sertésszűz helyett használhatunk csirkemellfilét vagy filézett csirkecombot."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 PERSON",
+        "image": "images/eec4add6-93e8-4056-b4c3-316db0d4c37a_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "eec4add6-93e8-4056-b4c3-316db0d4c37a",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Zöldborsós sertésragu dödöllével",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "60 dkg sertésszűz",
+                "3 közepes fej hagyma",
+                "5 dkg vaj",
+                "20 dkg zöldborsó",
+                "2 szál friss vagy 1 ek. szárított tárkony",
+                "3 dl főzőtejszín",
+                "60 dkg burgonya",
+                "15 dkg liszt",
+                "10 dkg zsír"
+            ],
+            "recipeDirections": [
+                "Két fej hagymát apróra vágunk, és a vajon kissé lepirítjuk.",
+                "Mikor üvegesedik, hozzáadjuk a zöldborsót, pár perc múlva pedig a 2x2 cm-esre felkockázott sertésszüzet.",
+                "Sózzuk, borsozzuk, majd 2 perc múlva felöntjük a tejszínnel.",
+                "Hozzáadjuk a tárkonyt, majd további 2 percig forraljuk.",
+                "Lefedve pihentetjük tálalásig.",
+                "A dödölléhez héjában megfőzzük a megmosott burgonyákat.",
+                "Amikor megpuhult, meghámozzuk, majd összetörjük, és hozzákeverjük a lisztet.",
+                "A maradék hagymát nagyon apróra vágjuk, és a zsír felén lepirítjuk.",
+                "Kicsit kihűtjük, majd a burgonyához keverjük.",
+                "Kanállal nagy galuskákat szaggatunk belőle, majd a zsír másik felén aranybarnára pirítjuk őket.",
+                "A sertésragu mellé tálaljuk.",
+                "TIPP: A sertésszűz helyett használhatunk csirkemellfilét vagy filézett csirkecombot."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/eec4add6-93e8-4056-b4c3-316db0d4c37a_0.jpg"
+        },
+        "x-source-file": "6e03e7be-5be6-419b-9334-749488909078.zip",
+        "x-db-id": 140,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

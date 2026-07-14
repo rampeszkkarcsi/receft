@@ -1,0 +1,75 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Rókagombás-szalonnás krumpli",
+        "recipeIngredient": [
+            "800 g krumpli",
+            "200 g rókagomba (vagy barna sampinyon)",
+            "1 nagy fej hagyma",
+            "80 g szeletelt bacon/füstölt, húsos szalonna",
+            "2-3 szál friss kakukkfű",
+            "1/2 dl száraz fehérbor",
+            "4 ek. olaj",
+            "só",
+            "bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A krumplit meghámozzuk, meg- suk, kb. 3x3 cm-es kockákra aprózzuk, és enyhén sós vízben a forrástól számított 8 percig, félpuhára főzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A gombákat megtisztítjuk: konyha- ruhával vagy durva sörtéjű ecsettel eltávolítjuk felületükről az avar- és földma- radványokat, szárvégükből csak annyit vágunk le, amennyit feltétlenül szükséges, és félbe-negyedbe, illetve kisebb dara- bokra tépkedjük. A hagymát meghámozzuk, megmossuk, és vékonyan felkarikázzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A szalonnát ujjnyi széles, hosszanti csíkokra vágjuk, mérsékelt tűzön ro- pogósra sütjük, a pörcöket szűrőlapáttal kiemeljük az edényből. A zsiradékba dob- juk a hagymát és a gombát, 2 percig élénk tűzön pirítjuk, aztán hozzáadjuk a leöblí- tett, száráról lecsipkedett kakukkfüvet, valamint a bort, és fedő alatt további 5 percig pároljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A krumplit leszűrjük, alaposan leráz- zuk róla a vizet, aztán a felforrósított olajban, gyakori rázogatással, óvatos ke- keveréssel aranysárgára sütjük. Hozzáadjuk a szalonnapörcöt és a hagymás gombát, ízlés szerint sózzuk, frissen őrölt borssal illatosítjuk, lazán összekeverjük, végül csi- nos tálba terítjük, és köretként kínáljuk. Kétszeres mennyiségből készítve, friss sa- láta kíséretében egytálételként is remek."
+            }
+        ],
+        "prepTime": "PT45M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 PERSON",
+        "image": "images/dfb0ccfe-dacf-4714-8897-d239d48a1ad3_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "dfb0ccfe-dacf-4714-8897-d239d48a1ad3",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Rókagombás-szalonnás krumpli",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT45M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "800 g krumpli",
+                "200 g rókagomba (vagy barna sampinyon)",
+                "1 nagy fej hagyma",
+                "80 g szeletelt bacon/füstölt, húsos szalonna",
+                "2-3 szál friss kakukkfű",
+                "1/2 dl száraz fehérbor",
+                "4 ek. olaj",
+                "só",
+                "bors"
+            ],
+            "recipeDirections": [
+                "A krumplit meghámozzuk, meg- suk, kb. 3x3 cm-es kockákra aprózzuk, és enyhén sós vízben a forrástól számított 8 percig, félpuhára főzzük.",
+                "A gombákat megtisztítjuk: konyha- ruhával vagy durva sörtéjű ecsettel eltávolítjuk felületükről az avar- és földma- radványokat, szárvégükből csak annyit vágunk le, amennyit feltétlenül szükséges, és félbe-negyedbe, illetve kisebb dara- bokra tépkedjük. A hagymát meghámozzuk, megmossuk, és vékonyan felkarikázzuk.",
+                "A szalonnát ujjnyi széles, hosszanti csíkokra vágjuk, mérsékelt tűzön ro- pogósra sütjük, a pörcöket szűrőlapáttal kiemeljük az edényből. A zsiradékba dob- juk a hagymát és a gombát, 2 percig élénk tűzön pirítjuk, aztán hozzáadjuk a leöblí- tett, száráról lecsipkedett kakukkfüvet, valamint a bort, és fedő alatt további 5 percig pároljuk.",
+                "A krumplit leszűrjük, alaposan leráz- zuk róla a vizet, aztán a felforrósított olajban, gyakori rázogatással, óvatos ke- keveréssel aranysárgára sütjük. Hozzáadjuk a szalonnapörcöt és a hagymás gombát, ízlés szerint sózzuk, frissen őrölt borssal illatosítjuk, lazán összekeverjük, végül csi- nos tálba terítjük, és köretként kínáljuk. Kétszeres mennyiségből készítve, friss sa- láta kíséretében egytálételként is remek."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/dfb0ccfe-dacf-4714-8897-d239d48a1ad3_0.jpg"
+        },
+        "x-source-file": "78c7b1d4-56f5-40ee-9e76-a7d93ffbed93.zip",
+        "x-db-id": 155,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

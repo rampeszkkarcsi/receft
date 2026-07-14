@@ -1,0 +1,67 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Estike",
+        "recipeIngredient": [
+            "20 dkg cukor",
+            "2 nagyobb tojás",
+            "20 dkg liszt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Keverni géppel legalább 10 percig."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadni a lisztet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Zsírozott tepsibe kiskanálnyi halmokat tenni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy éjszakán át állni hagyni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Másnap 200 fokon megsütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "image": "images/99e829ca-f80b-4f8b-8db1-098e22cb4d55_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "99e829ca-f80b-4f8b-8db1-098e22cb4d55",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Estike",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "20 dkg cukor",
+                "2 nagyobb tojás",
+                "20 dkg liszt"
+            ],
+            "recipeDirections": [
+                "Keverni géppel legalább 10 percig.",
+                "Hozzáadni a lisztet.",
+                "Zsírozott tepsibe kiskanálnyi halmokat tenni.",
+                "Egy éjszakán át állni hagyni.",
+                "Másnap 200 fokon megsütjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/99e829ca-f80b-4f8b-8db1-098e22cb4d55_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 13,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

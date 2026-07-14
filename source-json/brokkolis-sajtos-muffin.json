@@ -1,0 +1,122 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Brokkolis-sajtos muffin",
+        "recipeIngredient": [
+            "20 dkg brokkoli",
+            "10 dkg reszelt füstölt sajt",
+            "5 dkg bacon",
+            "20 dkg liszt",
+            "1 db tojás (nagy)",
+            "1 dl olaj",
+            "1,5 dl főzőtejszín (10%-os)",
+            "1 cs sütőpor",
+            "1 mk szódabikarbóna",
+            "só",
+            "őrölt fehér bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A brokkolit enyhén sós vízben, pár perc alatt főzzük roppanósra, majd szűrjük le, és csepegtessük le alaposan. (a főzővízbe tegyünk egy késhegynyi szódabikarbónát, akkor szép zöld marad a brokkoli)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A bacont vágjuk fel apróra, majd kevergetve süssük világos színűre. Ezután szedjük ki a zsiradékból, és hűtsük ki. (figyeljünk hogy ne süssük túl pirosra, ropogósra)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojást az olajjal kissé verjük fel, majd keverjük hozzá a tejszínt is."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet keverjük össze a sütőporral, a szódabikarbónával, ízlés szerint sóval, őrölt borssal, a reszelt füstölt sajt több mint a felével, és a kihűtött, elősütött baconnel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezután a lisztes keverékhez öntsük hozzá a tejszínes keveréket, majd fakanállal keverjük össze."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Végül adjuk hozzá az alaposan lecsepegtetett brokkolit, majd óvatosan forgassuk össze."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "figyeljünk arra nehogy a brokkoli nagyon összetörjön"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A muffin sütőt béleljük ki papír vagy szilikon kapszlival, majd kanalazzuk bele a brokkolis masszát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezután a maradék reszelt sajttal szórjuk meg ízlés szerint."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Helyezzük be előmelegített sütőbe, majd közepes hőmérsékleten kb. 30 perc alatt süssük készre."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "én légkeverésnél 160 fokon, 25 percig sütöttem"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőből kivéve hagyjuk pár percig a formában, majd helyezzük rácsra és hűtsük ki egészen."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kínálhatjuk pl. ebédre egy tányér leves mellé második fogásként, vagy éppen vacsorára egy bögre finom gyümölcsteával."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT30M",
+        "recipeYield": "12 db muffinhoz",
+        "x-recipe-keeper": {
+            "recipeId": "f4492152-ab46-4465-9380-7d83d12fa03e",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Brokkolis-sajtos muffin",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "12 db muffinhoz",
+            "prepTime": "PT0S",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "20 dkg brokkoli",
+                "10 dkg reszelt füstölt sajt",
+                "5 dkg bacon",
+                "20 dkg liszt",
+                "1 db tojás (nagy)",
+                "1 dl olaj",
+                "1,5 dl főzőtejszín (10%-os)",
+                "1 cs sütőpor",
+                "1 mk szódabikarbóna",
+                "só",
+                "őrölt fehér bors"
+            ],
+            "recipeDirections": [
+                "A brokkolit enyhén sós vízben, pár perc alatt főzzük roppanósra, majd szűrjük le, és csepegtessük le alaposan. (a főzővízbe tegyünk egy késhegynyi szódabikarbónát, akkor szép zöld marad a brokkoli)",
+                "A bacont vágjuk fel apróra, majd kevergetve süssük világos színűre. Ezután szedjük ki a zsiradékból, és hűtsük ki. (figyeljünk hogy ne süssük túl pirosra, ropogósra)",
+                "A tojást az olajjal kissé verjük fel, majd keverjük hozzá a tejszínt is.",
+                "A lisztet keverjük össze a sütőporral, a szódabikarbónával, ízlés szerint sóval, őrölt borssal, a reszelt füstölt sajt több mint a felével, és a kihűtött, elősütött baconnel.",
+                "Ezután a lisztes keverékhez öntsük hozzá a tejszínes keveréket, majd fakanállal keverjük össze.",
+                "Végül adjuk hozzá az alaposan lecsepegtetett brokkolit, majd óvatosan forgassuk össze.",
+                "figyeljünk arra nehogy a brokkoli nagyon összetörjön",
+                "A muffin sütőt béleljük ki papír vagy szilikon kapszlival, majd kanalazzuk bele a brokkolis masszát.",
+                "Ezután a maradék reszelt sajttal szórjuk meg ízlés szerint.",
+                "Helyezzük be előmelegített sütőbe, majd közepes hőmérsékleten kb. 30 perc alatt süssük készre.",
+                "én légkeverésnél 160 fokon, 25 percig sütöttem",
+                "A sütőből kivéve hagyjuk pár percig a formában, majd helyezzük rácsra és hűtsük ki egészen.",
+                "Kínálhatjuk pl. ebédre egy tányér leves mellé második fogásként, vagy éppen vacsorára egy bögre finom gyümölcsteával."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 102,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

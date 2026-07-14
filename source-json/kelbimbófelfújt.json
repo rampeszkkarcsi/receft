@@ -1,0 +1,85 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kelbimbófelfújt",
+        "recipeIngredient": [
+            "750 g kelbimbó",
+            "1 közepes hagyma",
+            "2 gerezd fokhagyma",
+            "1 karcsú póréhagyma fehér része",
+            "1 ek. vaj/margarin",
+            "1 dl húsleves (kockából)",
+            "só, bors",
+            "150 g főtt sonka",
+            "1 kis doboz hámozott paradicsom",
+            "120 g trappista sajt",
+            "1 kis csokor petrezselyem",
+            "2 dl tejszín",
+            "2 tojás",
+            "cayenne-i bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A kelbimbót megtisztítjuk, a nagyobbakat a félbe-ne-gyedbe vágjuk. A hagymát és a fokhagymát meghámozzuk, finomra vágjuk, és a felkarikázott póréval együtt megfonnyasztjuk a vajban/margarinban. Rádobjuk a kelbimbót, aláöntjük a felforrósított húslevest, ízlés szerint sózzuk, borsozzuk, majd fedő alatt puhára pároljuk (30 perc), levét teljesen elfőzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sonkát vékony csíkokra vágjuk. A hámozott paradicsomot leszűrjük, és felaprózzuk, 1/2 dl paradicsomlét félreteszünk. A sajtot megreszeljük, a petrezselymet leöblítjük, levélkéit lecsipkedjük, és finomra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "200 °C-ra előmelegítjük a sütőt. A kelbimbót, a sonkát és a paradicsomot egy kevés olajjal vagy vajjal/margarinnal kikent sütőformába terítjük, összekeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tejszínt, a félretett paradicsomlét és a tojásokat simára keverjük a reszelt sajttal, a petrezselyemmel, ízlés szerint sóval és cayenne-i borssal. A kelbimbós keverékre öntjük, majd a forró sütőben 20-25 percig sütjük. Főtt burgonya, párolt rizs vagy friss házikenér illik hozzá. Gazdagíthatjuk grillen sült virslivel is."
+            }
+        ],
+        "prepTime": "PT1H15M",
+        "cookTime": "PT30M",
+        "recipeYield": "4 PERSON",
+        "image": "images/89335eae-c5af-452e-ba44-a06c2522e318_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "89335eae-c5af-452e-ba44-a06c2522e318",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kelbimbófelfújt",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT1H15M",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "750 g kelbimbó",
+                "1 közepes hagyma",
+                "2 gerezd fokhagyma",
+                "1 karcsú póréhagyma fehér része",
+                "1 ek. vaj/margarin",
+                "1 dl húsleves (kockából)",
+                "só, bors",
+                "150 g főtt sonka",
+                "1 kis doboz hámozott paradicsom",
+                "120 g trappista sajt",
+                "1 kis csokor petrezselyem",
+                "2 dl tejszín",
+                "2 tojás",
+                "cayenne-i bors"
+            ],
+            "recipeDirections": [
+                "A kelbimbót megtisztítjuk, a nagyobbakat a félbe-ne-gyedbe vágjuk. A hagymát és a fokhagymát meghámozzuk, finomra vágjuk, és a felkarikázott póréval együtt megfonnyasztjuk a vajban/margarinban. Rádobjuk a kelbimbót, aláöntjük a felforrósított húslevest, ízlés szerint sózzuk, borsozzuk, majd fedő alatt puhára pároljuk (30 perc), levét teljesen elfőzzük.",
+                "A sonkát vékony csíkokra vágjuk. A hámozott paradicsomot leszűrjük, és felaprózzuk, 1/2 dl paradicsomlét félreteszünk. A sajtot megreszeljük, a petrezselymet leöblítjük, levélkéit lecsipkedjük, és finomra vágjuk.",
+                "200 °C-ra előmelegítjük a sütőt. A kelbimbót, a sonkát és a paradicsomot egy kevés olajjal vagy vajjal/margarinnal kikent sütőformába terítjük, összekeverjük.",
+                "A tejszínt, a félretett paradicsomlét és a tojásokat simára keverjük a reszelt sajttal, a petrezselyemmel, ízlés szerint sóval és cayenne-i borssal. A kelbimbós keverékre öntjük, majd a forró sütőben 20-25 percig sütjük. Főtt burgonya, párolt rizs vagy friss házikenér illik hozzá. Gazdagíthatjuk grillen sült virslivel is."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/89335eae-c5af-452e-ba44-a06c2522e318_0.jpg"
+        },
+        "x-source-file": "6927f13b-408a-4c16-9b05-60d162e1329b.zip",
+        "x-db-id": 190,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

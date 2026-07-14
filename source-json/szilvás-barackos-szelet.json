@@ -1,0 +1,79 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Szilvás-barackos szelet",
+        "recipeIngredient": [
+            "400 g magvaváló őszibarack",
+            "600 g magvaváló szilva",
+            "5 tojás",
+            "só",
+            "130+100 g finomított kristály-/sütőcukor",
+            "250 g lágy vaj/margarin",
+            "2 tasak vaníliás cukor (20 g)",
+            "1 citrom reszelt héja",
+            "250 g finomliszt",
+            "2 ek. rum",
+            "fahéjas porcukor a szóráshoz"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Kibélelünk sütőpapírral egy kb. 25x35 cm-es, mélyebb tepsit. A sütőt előmelegítjük 180 °C-ra. A gyümölcsöket megmossuk, az őszibarackokat meghámozzuk, majd a szilvákkal együtt, a szemek nagyságától függően félbe-, negyedbe vágjuk, kimagozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojásokat kettéválasztjuk, a tojásfehérjéket 1 csipet sóval felverjük, majd 130 g apránként hozzáadott cukorral krém keménységű habbá verjük. A maradék 100 g cukrot és a vaníliás cukrot habosra keverjük a vajjal/margarinnal, az egyenként hozzadott tojássárgákkal, végül a reszelt citromhéjjal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lyukas fakanállal lazán a masszához keverjük a tojáshab egyharmadát, majd több részletben a maradékot és a lisztet úgy, hogy a lisztet mindig a hab tetejére szitáljuk. Hozzáadjuk a rumot, a tepsibe simítjuk, tetejét sűrűn-változatosan kirakjuk a szilvával és az őszibarackkal, majd középső bordamagasságon 45-50 percig sütjük. Ha nagyon pirulna a teteje, sütőpapírral vagy alufóliával letakarjuk, de át kell sülnie (tűpróba)!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tepsiben hagyjuk kihűlni, aztán sütőpapírostul vágólapra emeljük, és rombuszokra-kockákra vágva kínáljuk. Tálaláskor megszórjuk fahéjas porcukorral. Szilvarösztert, szilvapálinkával vagy rummal illatosított vaníliasodót kínálhatunk hozzá."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT45M",
+        "recipeYield": "24 szelet",
+        "image": "images/d388c9da-fa4b-482e-8d38-5a9756e567fa_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "d388c9da-fa4b-482e-8d38-5a9756e567fa",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Szilvás-barackos szelet",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "24 szelet",
+            "prepTime": "PT0S",
+            "cookTime": "PT45M",
+            "recipeIngredients": [
+                "400 g magvaváló őszibarack",
+                "600 g magvaváló szilva",
+                "5 tojás",
+                "só",
+                "130+100 g finomított kristály-/sütőcukor",
+                "250 g lágy vaj/margarin",
+                "2 tasak vaníliás cukor (20 g)",
+                "1 citrom reszelt héja",
+                "250 g finomliszt",
+                "2 ek. rum",
+                "fahéjas porcukor a szóráshoz"
+            ],
+            "recipeDirections": [
+                "Kibélelünk sütőpapírral egy kb. 25x35 cm-es, mélyebb tepsit. A sütőt előmelegítjük 180 °C-ra. A gyümölcsöket megmossuk, az őszibarackokat meghámozzuk, majd a szilvákkal együtt, a szemek nagyságától függően félbe-, negyedbe vágjuk, kimagozzuk.",
+                "A tojásokat kettéválasztjuk, a tojásfehérjéket 1 csipet sóval felverjük, majd 130 g apránként hozzáadott cukorral krém keménységű habbá verjük. A maradék 100 g cukrot és a vaníliás cukrot habosra keverjük a vajjal/margarinnal, az egyenként hozzadott tojássárgákkal, végül a reszelt citromhéjjal.",
+                "Lyukas fakanállal lazán a masszához keverjük a tojáshab egyharmadát, majd több részletben a maradékot és a lisztet úgy, hogy a lisztet mindig a hab tetejére szitáljuk. Hozzáadjuk a rumot, a tepsibe simítjuk, tetejét sűrűn-változatosan kirakjuk a szilvával és az őszibarackkal, majd középső bordamagasságon 45-50 percig sütjük. Ha nagyon pirulna a teteje, sütőpapírral vagy alufóliával letakarjuk, de át kell sülnie (tűpróba)!",
+                "A tepsiben hagyjuk kihűlni, aztán sütőpapírostul vágólapra emeljük, és rombuszokra-kockákra vágva kínáljuk. Tálaláskor megszórjuk fahéjas porcukorral. Szilvarösztert, szilvapálinkával vagy rummal illatosított vaníliasodót kínálhatunk hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/d388c9da-fa4b-482e-8d38-5a9756e567fa_0.jpg"
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 14,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

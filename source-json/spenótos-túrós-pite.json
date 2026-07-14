@@ -1,0 +1,117 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Spenótos-túrós pite",
+        "recipeIngredient": [
+            "A TÉSZTÁHOZ:",
+            "25 dkg liszt",
+            "csipet só",
+            "1 mokkáskanál sütőpor",
+            "12 dkg vaj vagy margarin",
+            "1 nagy tojás",
+            "A TÖLTELÉKHEZ:",
+            "50 dkg túró",
+            "1 dl tejföl",
+            "1 nagy tojás",
+            "só",
+            "frissen őrölt bors",
+            "25 dkg friss, leveles spenót",
+            "2 gerezd fokhagyma",
+            "néhány evőkanál olívaolaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tésztához a lisztet keverjük el a sóval, a sütőporral, majd morzsoljuk el a vajjal/margarinnal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojást hozzáadva gyúrjuk össze a tésztát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha szükséges, adjunk hozzá 1-2 evőkanál hideg vizet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Formázzunk cipót belőle, csomagoljuk folpackba, tegyük minimum 30 percre a hűtőbe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Melegítsük elő a sütőt 200 °C-ra, enyhén lisztezett felületen nyújtsuk ki a tésztát 4-5 mm vékonyra, helyezzük piteformába (1 nagy vagy 8 kicsi), nyomkodjuk a formába, a széleket vágjuk le."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Villával szurkáljuk meg, tegyük vissza a hűtőbe, míg a töltelék elkészül."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A túrót keverjük krémesre a tejföllel és a tojással."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sóval, frissen őrölt borssal ízesítsük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megmosott spenótot csíkozzuk fel vékonyan, az olívaolajon a felaprított fokhagymával együtt enyhén fonnyasszuk meg, majd keverjük a túróhoz."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kanalazzuk a tölteléket a tésztára, és 180 °C-on 25-30 perc alatt süssük készre."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT30M",
+        "recipeYield": "1 nagy vagy 8 kicsi pitéhez",
+        "image": "images/96c86426-8b54-4bee-a70e-a7b1ca1cbfe9_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "96c86426-8b54-4bee-a70e-a7b1ca1cbfe9",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Spenótos-túrós pite",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "1 nagy vagy 8 kicsi pitéhez",
+            "prepTime": "PT0S",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "A TÉSZTÁHOZ:",
+                "25 dkg liszt",
+                "csipet só",
+                "1 mokkáskanál sütőpor",
+                "12 dkg vaj vagy margarin",
+                "1 nagy tojás",
+                "A TÖLTELÉKHEZ:",
+                "50 dkg túró",
+                "1 dl tejföl",
+                "1 nagy tojás",
+                "só",
+                "frissen őrölt bors",
+                "25 dkg friss, leveles spenót",
+                "2 gerezd fokhagyma",
+                "néhány evőkanál olívaolaj"
+            ],
+            "recipeDirections": [
+                "A tésztához a lisztet keverjük el a sóval, a sütőporral, majd morzsoljuk el a vajjal/margarinnal.",
+                "A tojást hozzáadva gyúrjuk össze a tésztát.",
+                "Ha szükséges, adjunk hozzá 1-2 evőkanál hideg vizet.",
+                "Formázzunk cipót belőle, csomagoljuk folpackba, tegyük minimum 30 percre a hűtőbe.",
+                "Melegítsük elő a sütőt 200 °C-ra, enyhén lisztezett felületen nyújtsuk ki a tésztát 4-5 mm vékonyra, helyezzük piteformába (1 nagy vagy 8 kicsi), nyomkodjuk a formába, a széleket vágjuk le.",
+                "Villával szurkáljuk meg, tegyük vissza a hűtőbe, míg a töltelék elkészül.",
+                "A túrót keverjük krémesre a tejföllel és a tojással.",
+                "Sóval, frissen őrölt borssal ízesítsük.",
+                "A megmosott spenótot csíkozzuk fel vékonyan, az olívaolajon a felaprított fokhagymával együtt enyhén fonnyasszuk meg, majd keverjük a túróhoz.",
+                "Kanalazzuk a tölteléket a tésztára, és 180 °C-on 25-30 perc alatt süssük készre."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/96c86426-8b54-4bee-a70e-a7b1ca1cbfe9_0.jpg"
+        },
+        "x-source-file": "a732a041-ba4a-4467-98ee-e33a82efcb46.zip",
+        "x-db-id": 274,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

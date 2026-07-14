@@ -1,0 +1,78 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kuglóf",
+        "recipeIngredient": [
+            "25 dkg liszt",
+            "20 dkg porcukor",
+            "4 tojás",
+            "2 dl étolaj",
+            "1 dl tej",
+            "1 csomag sütőpor",
+            "1 csomag vaníliás cukor",
+            "rumaroma",
+            "reszelt citromhéj",
+            "2 evőkanál kakaópor",
+            "darabolt étcsokoládé"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A hozzávalókat összekeverjük, majd kb. 2 dl masszát külön veszünk belőle, és ezt elkeverjük a kakaóporral."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kivajazott, lisztezett kuglófformába beleöntjük a világos tészta felét."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Erre ráöntjük a kakaós masszát cikk-cakk mintában, majd befedjük a maradék világos tésztával."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "160 °C-on kb. 30 percig sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT30M",
+        "image": "images/236c328c-2f39-411f-ae50-d0e6e191ba87_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "236c328c-2f39-411f-ae50-d0e6e191ba87",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kuglóf",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "25 dkg liszt",
+                "20 dkg porcukor",
+                "4 tojás",
+                "2 dl étolaj",
+                "1 dl tej",
+                "1 csomag sütőpor",
+                "1 csomag vaníliás cukor",
+                "rumaroma",
+                "reszelt citromhéj",
+                "2 evőkanál kakaópor",
+                "darabolt étcsokoládé"
+            ],
+            "recipeDirections": [
+                "A hozzávalókat összekeverjük, majd kb. 2 dl masszát külön veszünk belőle, és ezt elkeverjük a kakaóporral.",
+                "A kivajazott, lisztezett kuglófformába beleöntjük a világos tészta felét.",
+                "Erre ráöntjük a kakaós masszát cikk-cakk mintában, majd befedjük a maradék világos tésztával.",
+                "160 °C-on kb. 30 percig sütjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/236c328c-2f39-411f-ae50-d0e6e191ba87_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 21,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

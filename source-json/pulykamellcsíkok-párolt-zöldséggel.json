@@ -1,0 +1,98 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Pulykamellcsíkok párolt zöldséggel",
+        "recipeIngredient": [
+            "600 g pulykamellfilé",
+            "2 kk. pulykafűszersó",
+            "4 ek. olaj",
+            "400 g karfiol",
+            "4 kisebb sárgarépa",
+            "1 nagyobb karalábé",
+            "2 közepes fej hagyma",
+            "30 g vaj/margarin",
+            "só, bors",
+            "őrölt szerecsendió",
+            "1 dl húsleves (kockából)",
+            "200 g trappista sajt",
+            "1 kis csokor petrezselyem"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A húst leöblítjük, szárazra töröljük, kisujjnyi csíkokra vágjuk, és összekeverjük a fűszersóval. Meglocsoljuk az olajjal, lefedjük, és 1/2 órát a hűtőben pihentetjük-pácoljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségeket megtisztítjuk, megmossuk. A karfiolt kisebb rózsákra bontjuk, a sárgarépát és a karalábét karcsú hasábokra, a hagymát nem túl vékony karikákra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Vastagon megkenünk vajjal egy kb. 30x30 cm-es alufóliát. Közepükre halmozzuk a zöldségeket, meghintjük sóval, borssal és szerecsendióval, majd mielőtt lezárnánk a fóliaszéleket, mindegyikre 2-3 ek. levest öntünk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tűzálló tálba sorakoztatjuk, és 180 °C-os sütőben puhára pároljuk (40-45 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A pulykahús alól serpenyőbe öntjük az olajat, felforrósítjuk, aztán rádobjuk a húst, és élénk tűzön, folyamatosan keverve, 2-3 percig pirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lehúzzuk a tűzről, tetejére reszeljük a sajtot, és fedő alatt 2-3 percig pihentetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kibontott fóliában hagyott zöldségek tetejét meghintjük finomra vágott petrezselyemmel, és a pulykacsíkok köreteként tálaljuk."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT45M",
+        "recipeYield": "4 személyre",
+        "image": "images/c290221e-2d93-4067-a7ed-4bbbf5ae61d0_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "c290221e-2d93-4067-a7ed-4bbbf5ae61d0",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Pulykamellcsíkok párolt zöldséggel",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H",
+            "cookTime": "PT45M",
+            "recipeIngredients": [
+                "600 g pulykamellfilé",
+                "2 kk. pulykafűszersó",
+                "4 ek. olaj",
+                "400 g karfiol",
+                "4 kisebb sárgarépa",
+                "1 nagyobb karalábé",
+                "2 közepes fej hagyma",
+                "30 g vaj/margarin",
+                "só, bors",
+                "őrölt szerecsendió",
+                "1 dl húsleves (kockából)",
+                "200 g trappista sajt",
+                "1 kis csokor petrezselyem"
+            ],
+            "recipeDirections": [
+                "A húst leöblítjük, szárazra töröljük, kisujjnyi csíkokra vágjuk, és összekeverjük a fűszersóval. Meglocsoljuk az olajjal, lefedjük, és 1/2 órát a hűtőben pihentetjük-pácoljuk.",
+                "A zöldségeket megtisztítjuk, megmossuk. A karfiolt kisebb rózsákra bontjuk, a sárgarépát és a karalábét karcsú hasábokra, a hagymát nem túl vékony karikákra vágjuk.",
+                "Vastagon megkenünk vajjal egy kb. 30x30 cm-es alufóliát. Közepükre halmozzuk a zöldségeket, meghintjük sóval, borssal és szerecsendióval, majd mielőtt lezárnánk a fóliaszéleket, mindegyikre 2-3 ek. levest öntünk.",
+                "Tűzálló tálba sorakoztatjuk, és 180 °C-os sütőben puhára pároljuk (40-45 perc).",
+                "A pulykahús alól serpenyőbe öntjük az olajat, felforrósítjuk, aztán rádobjuk a húst, és élénk tűzön, folyamatosan keverve, 2-3 percig pirítjuk.",
+                "Lehúzzuk a tűzről, tetejére reszeljük a sajtot, és fedő alatt 2-3 percig pihentetjük.",
+                "A kibontott fóliában hagyott zöldségek tetejét meghintjük finomra vágott petrezselyemmel, és a pulykacsíkok köreteként tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/c290221e-2d93-4067-a7ed-4bbbf5ae61d0_0.jpg"
+        },
+        "x-source-file": "a732a041-ba4a-4467-98ee-e33a82efcb46.zip",
+        "x-db-id": 270,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

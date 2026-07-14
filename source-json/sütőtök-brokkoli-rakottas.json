@@ -1,0 +1,75 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sütőtök-brokkoli rakottas",
+        "recipeIngredient": [
+            "800 g sütőtök (,,sonkatök\")",
+            "500 g brokkoli (mélyhűtött)",
+            "só, bors",
+            "50 g vaj/margarin + a tálhoz",
+            "50 g finomliszt",
+            "5 dl tej",
+            "2 tojássárgája",
+            "1 csipet őrölt szerecsendió",
+            "50 g reszelt trappista sajt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A sütőtököt megmossuk, kettévágjuk, magjait eltávolítjuk, meghámozzuk, 1/2 cm vastagon felszeleteljük. Alufóliával bélelt tepsibe sorakoztatjuk, betakarjuk egy másik alufóliával, majd 200 °C-os sütőben 15 percig pároljuk. Kivesszük a sütőből, és fóliatakaró nélkül hűlni hagyjuk (a sütőt melegen tartjuk)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A brokkolit fagyos állapotban, enyhén sós, forrásban lévő vízben 5 percig főzzük, aztán leszűrjük, és konyharuhára terítve szikkadni hagyjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A mártáshoz 50 g vajban/margarinban világosra pirítjuk a lisztet, simára keverjük az apránként hozzáadott tejjel, és mérsékelt tűzön/mikróban, folyamatosan keverve besűrítjük, azaz besamelt készítünk. Hideg vízfürdőben langyosra hűtjük, azután beledolgozzuk a tojássárgákat, a szerecsendiót, sót és borsot, végül a sajtot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Vastagon kikenünk vajjal/margarinnal egy nagy, lapos sütőtálat. Élükre állítva, kissé egymásra csúsztatva, váltakozva lerakjuk benne a tökszeleteket, valamint a brokkolit, végül bevonjuk a mártással, és a forró sütőben enyhe pirulásig sütjük (25-30 perc). Hirtelensült és főtt/párolt húsok köreteként vagy hústalan egytálételként kínálhatjuk."
+            }
+        ],
+        "prepTime": "PT1H15M",
+        "cookTime": "PT25M",
+        "recipeYield": "4 személyre",
+        "image": "images/ca9b3fcf-9534-4e39-a6d7-7f8119a8fac6_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "ca9b3fcf-9534-4e39-a6d7-7f8119a8fac6",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sütőtök-brokkoli rakottas",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H15M",
+            "cookTime": "PT25M",
+            "recipeIngredients": [
+                "800 g sütőtök (,,sonkatök\")",
+                "500 g brokkoli (mélyhűtött)",
+                "só, bors",
+                "50 g vaj/margarin + a tálhoz",
+                "50 g finomliszt",
+                "5 dl tej",
+                "2 tojássárgája",
+                "1 csipet őrölt szerecsendió",
+                "50 g reszelt trappista sajt"
+            ],
+            "recipeDirections": [
+                "A sütőtököt megmossuk, kettévágjuk, magjait eltávolítjuk, meghámozzuk, 1/2 cm vastagon felszeleteljük. Alufóliával bélelt tepsibe sorakoztatjuk, betakarjuk egy másik alufóliával, majd 200 °C-os sütőben 15 percig pároljuk. Kivesszük a sütőből, és fóliatakaró nélkül hűlni hagyjuk (a sütőt melegen tartjuk).",
+                "A brokkolit fagyos állapotban, enyhén sós, forrásban lévő vízben 5 percig főzzük, aztán leszűrjük, és konyharuhára terítve szikkadni hagyjuk.",
+                "A mártáshoz 50 g vajban/margarinban világosra pirítjuk a lisztet, simára keverjük az apránként hozzáadott tejjel, és mérsékelt tűzön/mikróban, folyamatosan keverve besűrítjük, azaz besamelt készítünk. Hideg vízfürdőben langyosra hűtjük, azután beledolgozzuk a tojássárgákat, a szerecsendiót, sót és borsot, végül a sajtot.",
+                "Vastagon kikenünk vajjal/margarinnal egy nagy, lapos sütőtálat. Élükre állítva, kissé egymásra csúsztatva, váltakozva lerakjuk benne a tökszeleteket, valamint a brokkolit, végül bevonjuk a mártással, és a forró sütőben enyhe pirulásig sütjük (25-30 perc). Hirtelensült és főtt/párolt húsok köreteként vagy hústalan egytálételként kínálhatjuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/ca9b3fcf-9534-4e39-a6d7-7f8119a8fac6_0.jpg"
+        },
+        "x-source-file": "78c7b1d4-56f5-40ee-9e76-a7d93ffbed93.zip",
+        "x-db-id": 158,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

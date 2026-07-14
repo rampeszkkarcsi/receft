@@ -1,0 +1,75 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gyömbéres sütőtök-paprika köret",
+        "recipeIngredient": [
+            "600 g sütőtök",
+            "1 dundi póréhagyma",
+            "1 nagy, piros húsú paprika",
+            "diónyi friss vagy 1/2 kk. őrölt gyömbér",
+            "2 gerezd fokhagyma",
+            "2 ek. olaj",
+            "1 ek. szójaszósz",
+            "1 késhegynyi chilipor vagy 1/2 kk. csípős paprikakrém",
+            "1 csokor snidling"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A sütőtököt leöblítjük, szárazra töröljük, kettévágjuk, magjait eltávolítjuk, és burgonyahámozóval vékonyan meghámozzuk. Uborkagyalu segítségével hosszanti irányban, vékonyan felszeleteljük, majd a szeleteket egymásra fektetjük, és kissé rézsútosan vékony, szinte gyufaszálnyi csíkokra (,,julienne-re\") vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A pórét megtisztítjuk, mossuk, hosszában kettévágjuk, ellapítva kiterítjük, és 2 cm-es csíkokra, majd rézsútosan rombuszokra vágjuk. A paprikát megmossuk, kicsumázzuk, és a póréval azonos nagyságú és formájú darabokra aprózzuk. A gyömbért és a fokhagymát meghámozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az olajat mélyebb serpenyőben/wokban felhevítjük. Rádobjuk a pórét, a tököt és a pirospaprikát, majd erős tűzön, 2 favillával lazán, állandóan keverve 3 percig pirítjuk. Belereszeljük a gyömbért, hozzáadjuk az áttört fokhagymát, a szójaszószt és a chiliport, majd mérsékelt tűzön további 5 percig pirítjuk, végül ízlés szerint sózzuk, borsozzuk, és meghintjük a leöblített, ollóval felaprózott snidlinggel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Néhány petrezselyemlevéllel díszítve, hirtelen sült szelethúsokhoz kínálhatjuk, de egyszerű párolt rizzsel is pompás."
+            }
+        ],
+        "prepTime": "PT35M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/6dabe59c-fe1d-49a7-84cc-cc3af884bfe7_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "6dabe59c-fe1d-49a7-84cc-cc3af884bfe7",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gyömbéres sütőtök-paprika köret",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT35M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "600 g sütőtök",
+                "1 dundi póréhagyma",
+                "1 nagy, piros húsú paprika",
+                "diónyi friss vagy 1/2 kk. őrölt gyömbér",
+                "2 gerezd fokhagyma",
+                "2 ek. olaj",
+                "1 ek. szójaszósz",
+                "1 késhegynyi chilipor vagy 1/2 kk. csípős paprikakrém",
+                "1 csokor snidling"
+            ],
+            "recipeDirections": [
+                "A sütőtököt leöblítjük, szárazra töröljük, kettévágjuk, magjait eltávolítjuk, és burgonyahámozóval vékonyan meghámozzuk. Uborkagyalu segítségével hosszanti irányban, vékonyan felszeleteljük, majd a szeleteket egymásra fektetjük, és kissé rézsútosan vékony, szinte gyufaszálnyi csíkokra (,,julienne-re\") vágjuk.",
+                "A pórét megtisztítjuk, mossuk, hosszában kettévágjuk, ellapítva kiterítjük, és 2 cm-es csíkokra, majd rézsútosan rombuszokra vágjuk. A paprikát megmossuk, kicsumázzuk, és a póréval azonos nagyságú és formájú darabokra aprózzuk. A gyömbért és a fokhagymát meghámozzuk.",
+                "Az olajat mélyebb serpenyőben/wokban felhevítjük. Rádobjuk a pórét, a tököt és a pirospaprikát, majd erős tűzön, 2 favillával lazán, állandóan keverve 3 percig pirítjuk. Belereszeljük a gyömbért, hozzáadjuk az áttört fokhagymát, a szójaszószt és a chiliport, majd mérsékelt tűzön további 5 percig pirítjuk, végül ízlés szerint sózzuk, borsozzuk, és meghintjük a leöblített, ollóval felaprózott snidlinggel.",
+                "Néhány petrezselyemlevéllel díszítve, hirtelen sült szelethúsokhoz kínálhatjuk, de egyszerű párolt rizzsel is pompás."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/6dabe59c-fe1d-49a7-84cc-cc3af884bfe7_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 223,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

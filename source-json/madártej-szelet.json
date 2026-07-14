@@ -1,0 +1,82 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Madártej szelet",
+        "recipeIngredient": [
+            "8 tojás",
+            "12 evőkanál cukor",
+            "13 evőkanál liszt",
+            "2 vaníliáscukor",
+            "4 dl tej",
+            "18 dkg margarin",
+            "10 dkg porcukor",
+            "1 teáskanál sütőpor",
+            "4 dl tejszín"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "8 tojásfehérjét, 8 evőkanál cukorral habbá verünk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "8 evőkanál lisztben elkeverünk egy teáskanál sütőport, a kemény habhoz adjuk és megsütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Krém: 8 tojás sárgáját, 4 evőkanál cukrot, 5 evőkanál lisztet, 2 evőkanál vaníliáscukrot 4 dl tejben elkeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sűrűre főzzük és kihűtjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "18 dkg margarint 10 dkg porcukorral alaposan kikeverjük és a kihűlt krémhez adjuk, majd a tésztára simítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tetejére 4 dl tejszínből kemény habot verünk (szerintem kell bele egy kis habfixáló), csokireszelékkel megszórjuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "eed089b4-ae50-4a8e-b856-e9b980ffcdc5",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Madártej szelet",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "8 tojás",
+                "12 evőkanál cukor",
+                "13 evőkanál liszt",
+                "2 vaníliáscukor",
+                "4 dl tej",
+                "18 dkg margarin",
+                "10 dkg porcukor",
+                "1 teáskanál sütőpor",
+                "4 dl tejszín"
+            ],
+            "recipeDirections": [
+                "8 tojásfehérjét, 8 evőkanál cukorral habbá verünk.",
+                "8 evőkanál lisztben elkeverünk egy teáskanál sütőport, a kemény habhoz adjuk és megsütjük.",
+                "Krém: 8 tojás sárgáját, 4 evőkanál cukrot, 5 evőkanál lisztet, 2 evőkanál vaníliáscukrot 4 dl tejben elkeverjük.",
+                "Sűrűre főzzük és kihűtjük.",
+                "18 dkg margarint 10 dkg porcukorral alaposan kikeverjük és a kihűlt krémhez adjuk, majd a tésztára simítjuk.",
+                "Tetejére 4 dl tejszínből kemény habot verünk (szerintem kell bele egy kis habfixáló), csokireszelékkel megszórjuk."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "5d69ba0e-6fbf-4ffa-86b3-7aaa925b1eab.zip",
+        "x-db-id": 174,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

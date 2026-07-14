@@ -1,0 +1,74 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Provance-i hús",
+        "recipeIngredient": [
+            "1 kg burgonya",
+            "só, bors",
+            "2 ek. olaj",
+            "600 g sovány sertéstarja szeletben",
+            "1 ek. provence-i fűszerkeverék",
+            "2-3 gerezd fokhagyma",
+            "2+1 dl tejföl",
+            "100 g trappista sajt",
+            "100 g füstölt sajt",
+            "1-2 paradicsom",
+            "1 szál friss zsálya vagy 2-3 szál petrezselyem"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "180 °C-ra előmelegítjük a sütőt. A burgonyát meghámozzuk, megmossuk, hasábokra vágjuk, nem túl mély, csinos tűzállótál aljára terítjük. Meghintjük sóval, frissen őrölt borssal, valamint az olajjal, és lazán összekeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hússzeleteket folpackkal letakarva kissé kiverjük-elvékonyítjuk, mindkét oldalukat megszórjuk sóval, borssal és fűszerkeverékkel, majd a burgonyaágyra fektetjük. Tetejükre simítjuk az áttört fokhagymával elkevert 2 dl tejfölt, letakarjuk alufóliával, és a sütőben 40-45 percig pároljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kétféle sajtot megreszeljük. Levesszük a tálról a fóliát, vastagon megszórjuk a hússzeletek tetejét a sajttal, aztán fólia nélkül visszatesszük a sütőbe, és pirosra sütjük (további 20-25 perc). A sütőből kivéve a maradék 1 dl tejföllel, paradicsomgerezdekkel és zsálya-/petrezselyemlevélkékkel díszítjük. A sütőedényben tálaljuk, frissen az igazi! Vegyes saláta, savanyúság illik hozzá. Készíthetjük vékony szalonnászeletekbe göngyölt csirke-/pulykamellszeletekből is."
+            }
+        ],
+        "prepTime": "PT1H30M",
+        "cookTime": "PT45M",
+        "recipeYield": "4 PERSON",
+        "image": "images/7fce79b0-130a-486f-8b21-186eddff7607_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "7fce79b0-130a-486f-8b21-186eddff7607",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Provance-i hús",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT1H30M",
+            "cookTime": "PT45M",
+            "recipeIngredients": [
+                "1 kg burgonya",
+                "só, bors",
+                "2 ek. olaj",
+                "600 g sovány sertéstarja szeletben",
+                "1 ek. provence-i fűszerkeverék",
+                "2-3 gerezd fokhagyma",
+                "2+1 dl tejföl",
+                "100 g trappista sajt",
+                "100 g füstölt sajt",
+                "1-2 paradicsom",
+                "1 szál friss zsálya vagy 2-3 szál petrezselyem"
+            ],
+            "recipeDirections": [
+                "180 °C-ra előmelegítjük a sütőt. A burgonyát meghámozzuk, megmossuk, hasábokra vágjuk, nem túl mély, csinos tűzállótál aljára terítjük. Meghintjük sóval, frissen őrölt borssal, valamint az olajjal, és lazán összekeverjük.",
+                "A hússzeleteket folpackkal letakarva kissé kiverjük-elvékonyítjuk, mindkét oldalukat megszórjuk sóval, borssal és fűszerkeverékkel, majd a burgonyaágyra fektetjük. Tetejükre simítjuk az áttört fokhagymával elkevert 2 dl tejfölt, letakarjuk alufóliával, és a sütőben 40-45 percig pároljuk.",
+                "A kétféle sajtot megreszeljük. Levesszük a tálról a fóliát, vastagon megszórjuk a hússzeletek tetejét a sajttal, aztán fólia nélkül visszatesszük a sütőbe, és pirosra sütjük (további 20-25 perc). A sütőből kivéve a maradék 1 dl tejföllel, paradicsomgerezdekkel és zsálya-/petrezselyemlevélkékkel díszítjük. A sütőedényben tálaljuk, frissen az igazi! Vegyes saláta, savanyúság illik hozzá. Készíthetjük vékony szalonnászeletekbe göngyölt csirke-/pulykamellszeletekből is."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/7fce79b0-130a-486f-8b21-186eddff7607_0.jpg"
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 74,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

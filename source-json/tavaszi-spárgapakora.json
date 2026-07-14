@@ -1,0 +1,81 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Tavaszi spárgapakora",
+        "recipeIngredient": [
+            "10 dkg liszt",
+            "1 tk sütőpor",
+            "cayenne bors",
+            "római kömény",
+            "só",
+            "örölt bors",
+            "1 tojás",
+            "2 evőkanál víz",
+            "4 szál szép zöld spárga",
+            "4 újhagyma",
+            "olaj a sütéshez"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A zöld spárgát és az újhagymát feldaraboljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet egy tojással, egy kiskanál sütőporral, és a fűszerekkel összekeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Annyi vizet adunk hozzá, hogy a tészta lágy galuskatészta állagú legyen."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségdarabokat belekeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Végül egy kanálsegítségével a forró olajba szaggatjuk a spárgás, hagymás tésztafalatokat, és aranyszínűre sütjük őket."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "c3bd6b87-0da0-479b-935c-172d151beffa",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Tavaszi spárgapakora",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "10 dkg liszt",
+                "1 tk sütőpor",
+                "cayenne bors",
+                "római kömény",
+                "só",
+                "örölt bors",
+                "1 tojás",
+                "2 evőkanál víz",
+                "4 szál szép zöld spárga",
+                "4 újhagyma",
+                "olaj a sütéshez"
+            ],
+            "recipeDirections": [
+                "A zöld spárgát és az újhagymát feldaraboljuk.",
+                "A lisztet egy tojással, egy kiskanál sütőporral, és a fűszerekkel összekeverjük.",
+                "Annyi vizet adunk hozzá, hogy a tészta lágy galuskatészta állagú legyen.",
+                "A zöldségdarabokat belekeverjük.",
+                "Végül egy kanálsegítségével a forró olajba szaggatjuk a spárgás, hagymás tésztafalatokat, és aranyszínűre sütjük őket."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 16,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

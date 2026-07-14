@@ -1,0 +1,84 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Masnitészta grillezett téli zöldségekkel és juhtúróval",
+        "recipeIngredient": [
+            "50 dkg masnitészta (farfalle)",
+            "30 dkg sütőtök",
+            "10 dkg zellergumó",
+            "10 dkg fehérrépa",
+            "1 szál póréhagyma",
+            "1 dl olívaolaj",
+            "1 csokor petrezselyem",
+            "1 gerezd fokhagyma",
+            "só",
+            "frissen őrölt bors",
+            "10 dkg juhtúró"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségeket hámozzuk meg, kockázzuk fel, a póréhagymát karikázzuk fel, és adagonként, egy nagy teflonserpenyőben kevés olívaolajon grillezzük mindegyiket puhára, kívül ropogósra. Tegyük félre."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A petrezselymet és a pucolt fokhagymát turmixoljuk pépesre fél dl olívaolajjal, sózzuk, frissen őrölt borssal ízesítsük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát főzzük ki lobogó sós vízben, szűrjük le, szedjük a zöldségekre."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Keverjük el, melegítsük össze."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tálaláskor csepegtessük meg a petrezselymes-fokhagymás olajjal, és morzsoljunk ra juhtúrót."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 SZEMÉLYRE",
+        "image": "images/175537cf-b7d8-46c8-a310-517a0c8d2b74_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "175537cf-b7d8-46c8-a310-517a0c8d2b74",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Masnitészta grillezett téli zöldségekkel és juhtúróval",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 SZEMÉLYRE",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "50 dkg masnitészta (farfalle)",
+                "30 dkg sütőtök",
+                "10 dkg zellergumó",
+                "10 dkg fehérrépa",
+                "1 szál póréhagyma",
+                "1 dl olívaolaj",
+                "1 csokor petrezselyem",
+                "1 gerezd fokhagyma",
+                "só",
+                "frissen őrölt bors",
+                "10 dkg juhtúró"
+            ],
+            "recipeDirections": [
+                "A zöldségeket hámozzuk meg, kockázzuk fel, a póréhagymát karikázzuk fel, és adagonként, egy nagy teflonserpenyőben kevés olívaolajon grillezzük mindegyiket puhára, kívül ropogósra. Tegyük félre.",
+                "A petrezselymet és a pucolt fokhagymát turmixoljuk pépesre fél dl olívaolajjal, sózzuk, frissen őrölt borssal ízesítsük.",
+                "A tésztát főzzük ki lobogó sós vízben, szűrjük le, szedjük a zöldségekre.",
+                "Keverjük el, melegítsük össze.",
+                "Tálaláskor csepegtessük meg a petrezselymes-fokhagymás olajjal, és morzsoljunk ra juhtúrót."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/175537cf-b7d8-46c8-a310-517a0c8d2b74_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 52,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

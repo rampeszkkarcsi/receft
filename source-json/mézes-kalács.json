@@ -1,0 +1,88 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Mézes kalács",
+        "recipeIngredient": [
+            "76 dkg liszt",
+            "34 dkg porcukor",
+            "2 ek. szódabikarbóna",
+            "őrölt fahéj (1 lapos kk)",
+            "10 szem porrá tört szegfűszeg",
+            "5 dkg margarin",
+            "4 tojás",
+            "4 ek. méz",
+            "Máz",
+            "1 tojásfehérje",
+            "12 dkg porcukor"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Összegyúrni, kis pihentetés után 3 mm-esre nyújtjuk, formákat szaggatunk belőle, felvert tojással megkenjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lisztezett tepsiben 180 °C-os sütőben világosbarnára sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sülés után cukormázzal díszítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "1 tojásfehérjét felverünk keményre."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzá 12 dkg porcukor."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Nylon zacskóba töltjük, egyik sarkát kicsit levágjuk, és ezzel díszítjük a formákat."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/9bc6085b-26a1-4b6b-8c88-56d26a5e7480_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "9bc6085b-26a1-4b6b-8c88-56d26a5e7480",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Mézes kalács",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "76 dkg liszt",
+                "34 dkg porcukor",
+                "2 ek. szódabikarbóna",
+                "őrölt fahéj (1 lapos kk)",
+                "10 szem porrá tört szegfűszeg",
+                "5 dkg margarin",
+                "4 tojás",
+                "4 ek. méz",
+                "Máz",
+                "1 tojásfehérje",
+                "12 dkg porcukor"
+            ],
+            "recipeDirections": [
+                "Összegyúrni, kis pihentetés után 3 mm-esre nyújtjuk, formákat szaggatunk belőle, felvert tojással megkenjük.",
+                "Lisztezett tepsiben 180 °C-os sütőben világosbarnára sütjük.",
+                "Sülés után cukormázzal díszítjük.",
+                "1 tojásfehérjét felverünk keményre.",
+                "Hozzá 12 dkg porcukor.",
+                "Nylon zacskóba töltjük, egyik sarkát kicsit levágjuk, és ezzel díszítjük a formákat."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/9bc6085b-26a1-4b6b-8c88-56d26a5e7480_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 27,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:14+00:00"
+    }
+]

@@ -1,0 +1,89 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Hortobágyi rostélyos puliszkával",
+        "recipeIngredient": [
+            "1 nagy fej hagyma",
+            "2 gerezd fokhagyma",
+            "80 g húsos füstölt szalonna",
+            "4 szelet (800 g) kicsontozott rostélyos",
+            "só, bors",
+            "100 g liszt",
+            "1/2 dl olaj",
+            "1 kk. félcsípős pirospaprika",
+            "300 g paradicsom",
+            "600 g zöldpaprika",
+            "1-2 szál petrezselyem",
+            "A puliszkagaluskához",
+            "1/2 liter víz",
+            "150 g kukoricadara",
+            "50 g vaj/margarin",
+            "2 ek. olaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát és a fokhagymát meghámozzuk, a hagymát és a szalonnát apróra felkockázzuk. A rostélyosokat kissé kiverjük, besózzuk, borsozzuk, lisztbe forgatjuk, a forró olajban mindkét oldalukat 3-3 percig sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az olaj „tisztáját❞ nagyobb lábasba öntjük, megpirítjuk benne a szalonnát és a hagymát. Hozzákeverjük a pirospaprikát, az áttört fokhagymát, 1 dl vizet, egy kevés sót, felforraljuk. Beletesszük a húst, és mérsékelt tűzön, fedő alatt majdnem puhára pároljuk (1-1 és 1/4 óra)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A paradicsomokat meghámozzuk és gerezdekre vágjuk, a paprikákat kicsumázzuk és felkarikázzuk, mindkettőt a húshoz adjuk. Az egészet puhára pároljuk, végül utánasózzuk, borsozzuk, tálra rendezzük, petrezselyemmel díszítjük, és puliszkagaluskával/burgonyapürével kínáljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A puliszkagaluskához 1 kk. sóval felforraljuk a vizet, és folyamatosan keverve beleszórjuk a kukoricadarát. Amint besűrűsödik, levesszük a tűzről, 5 percig fedő alatt puffasztjuk, beledolgozzuk a vajat/margarint, és evőkanállal galuskákat szaggatunk belőle."
+            }
+        ],
+        "prepTime": "PT1H45M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/03e86859-7e70-4501-855c-20056d90a039_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "03e86859-7e70-4501-855c-20056d90a039",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Hortobágyi rostélyos puliszkával",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H45M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1 nagy fej hagyma",
+                "2 gerezd fokhagyma",
+                "80 g húsos füstölt szalonna",
+                "4 szelet (800 g) kicsontozott rostélyos",
+                "só, bors",
+                "100 g liszt",
+                "1/2 dl olaj",
+                "1 kk. félcsípős pirospaprika",
+                "300 g paradicsom",
+                "600 g zöldpaprika",
+                "1-2 szál petrezselyem",
+                "A puliszkagaluskához",
+                "1/2 liter víz",
+                "150 g kukoricadara",
+                "50 g vaj/margarin",
+                "2 ek. olaj"
+            ],
+            "recipeDirections": [
+                "A hagymát és a fokhagymát meghámozzuk, a hagymát és a szalonnát apróra felkockázzuk. A rostélyosokat kissé kiverjük, besózzuk, borsozzuk, lisztbe forgatjuk, a forró olajban mindkét oldalukat 3-3 percig sütjük.",
+                "Az olaj „tisztáját❞ nagyobb lábasba öntjük, megpirítjuk benne a szalonnát és a hagymát. Hozzákeverjük a pirospaprikát, az áttört fokhagymát, 1 dl vizet, egy kevés sót, felforraljuk. Beletesszük a húst, és mérsékelt tűzön, fedő alatt majdnem puhára pároljuk (1-1 és 1/4 óra).",
+                "A paradicsomokat meghámozzuk és gerezdekre vágjuk, a paprikákat kicsumázzuk és felkarikázzuk, mindkettőt a húshoz adjuk. Az egészet puhára pároljuk, végül utánasózzuk, borsozzuk, tálra rendezzük, petrezselyemmel díszítjük, és puliszkagaluskával/burgonyapürével kínáljuk.",
+                "A puliszkagaluskához 1 kk. sóval felforraljuk a vizet, és folyamatosan keverve beleszórjuk a kukoricadarát. Amint besűrűsödik, levesszük a tűzről, 5 percig fedő alatt puffasztjuk, beledolgozzuk a vajat/margarint, és evőkanállal galuskákat szaggatunk belőle."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/03e86859-7e70-4501-855c-20056d90a039_0.jpg"
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 244,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

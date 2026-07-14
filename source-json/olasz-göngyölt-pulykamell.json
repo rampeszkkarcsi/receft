@@ -1,0 +1,96 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Olasz göngyölt pulykamell",
+        "recipeIngredient": [
+            "1 nagy, vékony szelet pulykamellfilé (kb. 800 g)",
+            "só, bors",
+            "1 kk. szárított oregánó",
+            "150 g hajszálvékony szelet pácolt sonka (pl. pármai, serranoi, speck)",
+            "40 g reszelt parmezán sajt",
+            "200 g szeletelt pizza-mozzarella sajt",
+            "8 vékony szelet bacon vagy szalonna",
+            "1 nagy fej hagyma",
+            "6-8 gerezd fokhagyma",
+            "50 g olajos, aszalt paradicsom",
+            "2 paradicsom",
+            "400 g apró-zsenge cukkini",
+            "2 ek. olívaolaj",
+            "2 csipet szárított kakukkfű",
+            "1 bazsalikombóbita"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt előmelegítjük 180 °C-ra. A húst leöblítjük, szárazra töröljük, folpackkal letakarva kissé kiverjük-elvékonyítjuk. Meghintjük sóval, frissen őrölt borssal és az oregánóval, kissé egymásra csúsztatva beterítjük a sonkaszeletekkel (A), megszórjuk a parmezán sajttal, végül a tetejére fektetjük a mozzarellát. A sonkaszeletekkel párhuzamosan, szorosan feltekerjük (B), vékony zsineggel sonkaszerűen megkötözzük, két végét fogvájóval betűzzük. Bedörzsöljük sóval és őrölt borssal, mélyebb sütőedénybe tesszük, és betakarjuk a kissé egymásra hajtogatott szalonnaszeletekkel (C)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát és a fokhagymát meghámozzuk, a hagymát gerezdekre vágjuk, a hús mellé dobjuk. Aláöntünk 1/2 dl vizet (vagy fehérbort), lefedjük, a sütőben 1 órán át pároljuk, végül fedetlenül pirosra sütjük (további 20-25 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kiemeljük az olajból az aszalt paradicsomot, lecsepegtetjük, vékony csíkokra szeljük. A paradicsomokat megmossuk, kettévágjuk, magjaikat-levüket eltávolítjuk, apróra felkockázzuk. A cukkiniket megmossuk, két végüket leválasztjuk, vékony karikákra gyaluljuk, és a felhevített olívaolajban, folyamatosan-óvatosan keverve élénk tűzön megpirítjuk (4-5 perc). Hozzáadjuk a kakukkfüvet, az aszalt paradicsomot és a friss paradicsomkockákat, sózzuk, borsozzuk, összeforrósítjuk, melegen tartjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tálalás előtt a húst vágódeszkára emeljük, alufóliával betakarva 10 percig pihentetjük. Lehántjuk róla a zsineget, nem túl vékonyan felszeleteljük, tálra rendezzük. Mellé-köré szedjük a cukkiniragut, és bazsalikombóbitával díszítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zsírtalanított pecsenyealjat külön tálkában kínáljuk. Olasz hosszúmetélt (tagliatelle) illik hozzá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "TIPP: Tészta helyett készíthetjük tejszínnel gazdagított, szerecsendióval illatosított burgonyapürével, vagy ennek krokettváltozatával is."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT1H20M",
+        "image": "images/48388a9e-50c5-4f7d-86bf-2bf65a829bd4_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "48388a9e-50c5-4f7d-86bf-2bf65a829bd4",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Olasz göngyölt pulykamell",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT1H20M",
+            "recipeIngredients": [
+                "1 nagy, vékony szelet pulykamellfilé (kb. 800 g)",
+                "só, bors",
+                "1 kk. szárított oregánó",
+                "150 g hajszálvékony szelet pácolt sonka (pl. pármai, serranoi, speck)",
+                "40 g reszelt parmezán sajt",
+                "200 g szeletelt pizza-mozzarella sajt",
+                "8 vékony szelet bacon vagy szalonna",
+                "1 nagy fej hagyma",
+                "6-8 gerezd fokhagyma",
+                "50 g olajos, aszalt paradicsom",
+                "2 paradicsom",
+                "400 g apró-zsenge cukkini",
+                "2 ek. olívaolaj",
+                "2 csipet szárított kakukkfű",
+                "1 bazsalikombóbita"
+            ],
+            "recipeDirections": [
+                "A sütőt előmelegítjük 180 °C-ra. A húst leöblítjük, szárazra töröljük, folpackkal letakarva kissé kiverjük-elvékonyítjuk. Meghintjük sóval, frissen őrölt borssal és az oregánóval, kissé egymásra csúsztatva beterítjük a sonkaszeletekkel (A), megszórjuk a parmezán sajttal, végül a tetejére fektetjük a mozzarellát. A sonkaszeletekkel párhuzamosan, szorosan feltekerjük (B), vékony zsineggel sonkaszerűen megkötözzük, két végét fogvájóval betűzzük. Bedörzsöljük sóval és őrölt borssal, mélyebb sütőedénybe tesszük, és betakarjuk a kissé egymásra hajtogatott szalonnaszeletekkel (C).",
+                "A hagymát és a fokhagymát meghámozzuk, a hagymát gerezdekre vágjuk, a hús mellé dobjuk. Aláöntünk 1/2 dl vizet (vagy fehérbort), lefedjük, a sütőben 1 órán át pároljuk, végül fedetlenül pirosra sütjük (további 20-25 perc).",
+                "Kiemeljük az olajból az aszalt paradicsomot, lecsepegtetjük, vékony csíkokra szeljük. A paradicsomokat megmossuk, kettévágjuk, magjaikat-levüket eltávolítjuk, apróra felkockázzuk. A cukkiniket megmossuk, két végüket leválasztjuk, vékony karikákra gyaluljuk, és a felhevített olívaolajban, folyamatosan-óvatosan keverve élénk tűzön megpirítjuk (4-5 perc). Hozzáadjuk a kakukkfüvet, az aszalt paradicsomot és a friss paradicsomkockákat, sózzuk, borsozzuk, összeforrósítjuk, melegen tartjuk.",
+                "Tálalás előtt a húst vágódeszkára emeljük, alufóliával betakarva 10 percig pihentetjük. Lehántjuk róla a zsineget, nem túl vékonyan felszeleteljük, tálra rendezzük. Mellé-köré szedjük a cukkiniragut, és bazsalikombóbitával díszítjük.",
+                "A zsírtalanított pecsenyealjat külön tálkában kínáljuk. Olasz hosszúmetélt (tagliatelle) illik hozzá.",
+                "TIPP: Tészta helyett készíthetjük tejszínnel gazdagított, szerecsendióval illatosított burgonyapürével, vagy ennek krokettváltozatával is."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/48388a9e-50c5-4f7d-86bf-2bf65a829bd4_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 54,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

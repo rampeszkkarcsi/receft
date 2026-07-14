@@ -1,0 +1,103 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Túrós-spenótos lepény",
+        "recipeIngredient": [
+            "1 doboz (1/2 kg) mirelit leveles tészta",
+            "60 dkg spenót",
+            "1/2 kg tehéntúró",
+            "10 tojás",
+            "10 ek. reszelt parmezán",
+            "liszt",
+            "vaj",
+            "só",
+            "bors",
+            "majoránna",
+            "szódabikarbóna"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát szobahőmérsékleten kiolvasztjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A töltelékhez a spenótot megmossuk, majd sós, csipet szódabikarbónás vízben megfőzzük, lecsöpögtetjük és a levét kinyomkodjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Négy tojást felverünk és hozzákeverjük az áttört túrót és a spenótot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sóval, őrölt borssal és morzsolt majoránnával fűszerezzük, majd a parmezán felét is beleforgatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tészta nagyobbik felét lisztezett deszkán kinyújtjuk és kibélelünk vele egy kerek tortaformát úgy, hogy oldala is legyen."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ráöntjük a túrós spenótot, majd öt mélyedést készítünk bele, mindegyikbe kis vajat teszünk és beleütünk egy-egy tojást."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tetejét megsózzuk, sajttal megszórjuk, és a tészta másik felével betakarjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A fölső tésztát felvert tojással megkenjük és a leeső tésztaszélekből fel is díszíthetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Előmelegített sütőbe toljuk és 50-60 perc alatt aranysárgára sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT50M",
+        "image": "images/0dd3c1a5-08e9-455b-a0d6-449ffe920ef3_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "0dd3c1a5-08e9-455b-a0d6-449ffe920ef3",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Túrós-spenótos lepény",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT50M",
+            "recipeIngredients": [
+                "1 doboz (1/2 kg) mirelit leveles tészta",
+                "60 dkg spenót",
+                "1/2 kg tehéntúró",
+                "10 tojás",
+                "10 ek. reszelt parmezán",
+                "liszt",
+                "vaj",
+                "só",
+                "bors",
+                "majoránna",
+                "szódabikarbóna"
+            ],
+            "recipeDirections": [
+                "A tésztát szobahőmérsékleten kiolvasztjuk.",
+                "A töltelékhez a spenótot megmossuk, majd sós, csipet szódabikarbónás vízben megfőzzük, lecsöpögtetjük és a levét kinyomkodjuk.",
+                "Négy tojást felverünk és hozzákeverjük az áttört túrót és a spenótot.",
+                "Sóval, őrölt borssal és morzsolt majoránnával fűszerezzük, majd a parmezán felét is beleforgatjuk.",
+                "A tészta nagyobbik felét lisztezett deszkán kinyújtjuk és kibélelünk vele egy kerek tortaformát úgy, hogy oldala is legyen.",
+                "Ráöntjük a túrós spenótot, majd öt mélyedést készítünk bele, mindegyikbe kis vajat teszünk és beleütünk egy-egy tojást.",
+                "A tetejét megsózzuk, sajttal megszórjuk, és a tészta másik felével betakarjuk.",
+                "A fölső tésztát felvert tojással megkenjük és a leeső tésztaszélekből fel is díszíthetjük.",
+                "Előmelegített sütőbe toljuk és 50-60 perc alatt aranysárgára sütjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/0dd3c1a5-08e9-455b-a0d6-449ffe920ef3_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 230,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

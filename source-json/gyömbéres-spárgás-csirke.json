@@ -1,0 +1,78 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gyömbéres-spárgás csirke",
+        "recipeIngredient": [
+            "25 dkg csirkemell",
+            "20 dkg spárga",
+            "10 dkg csiperkegomba",
+            "1 db gyömbér",
+            "20 dkg basmati rizs",
+            "1 dl szójaszósz",
+            "2 ek szezámmag",
+            "2 ek szezámolaj",
+            "himalaya só"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A basmati rizst 2,5-szeres mennyiségű sós vízben puhára főzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A csirkemellet kifilézzük, kb. 1 cm-es kockákra vágjuk, majd bepácoljuk a szójaszószba."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A spárgák végéről levágjuk a kb. 3-4 cm-es fás részt, majd alaposan megmossuk. Vizet forralunk és 5 perc alatt roppanósra pároljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A csiperkegombát megmossuk és felszeleteljük, a gyömbért pedig meghámozzuk. Egy serpenyőben felhevítjük a szezámolajat, megpirítjuk rajta a szezámmagot, majd hozzáadjuk a szójaszószba pácolt csirkemell kockákat is. A friss gömbérből ízlés szerinti mennyiséget reszelünk a csirkéhez. Ha a hús már szépen kifehéredett, hozzáadjuk a csiperkegombát, majd kevés vízzel felöntve tovább pároljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kb. 10 perc múlva hozzáadjuk a néhány centis darabokra vágott spárgát is, alaposan összekeverjük, és kész is. A spárgás-csirkét ragut a basmati rizsre kanalazva tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "2 adaghoz",
+        "x-recipe-keeper": {
+            "recipeId": "864890e4-cdce-496d-bb6d-c162ba7101cf",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gyömbéres-spárgás csirke",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "2 adaghoz",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "25 dkg csirkemell",
+                "20 dkg spárga",
+                "10 dkg csiperkegomba",
+                "1 db gyömbér",
+                "20 dkg basmati rizs",
+                "1 dl szójaszósz",
+                "2 ek szezámmag",
+                "2 ek szezámolaj",
+                "himalaya só"
+            ],
+            "recipeDirections": [
+                "A basmati rizst 2,5-szeres mennyiségű sós vízben puhára főzzük.",
+                "A csirkemellet kifilézzük, kb. 1 cm-es kockákra vágjuk, majd bepácoljuk a szójaszószba.",
+                "A spárgák végéről levágjuk a kb. 3-4 cm-es fás részt, majd alaposan megmossuk. Vizet forralunk és 5 perc alatt roppanósra pároljuk.",
+                "A csiperkegombát megmossuk és felszeleteljük, a gyömbért pedig meghámozzuk. Egy serpenyőben felhevítjük a szezámolajat, megpirítjuk rajta a szezámmagot, majd hozzáadjuk a szójaszószba pácolt csirkemell kockákat is. A friss gömbérből ízlés szerinti mennyiséget reszelünk a csirkéhez. Ha a hús már szépen kifehéredett, hozzáadjuk a csiperkegombát, majd kevés vízzel felöntve tovább pároljuk.",
+                "Kb. 10 perc múlva hozzáadjuk a néhány centis darabokra vágott spárgát is, alaposan összekeverjük, és kész is. A spárgás-csirkét ragut a basmati rizsre kanalazva tálaljuk."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 6,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

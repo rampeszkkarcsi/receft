@@ -1,0 +1,84 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Fokhagymás joghurtleves metélt salátával",
+        "recipeIngredient": [
+            "1/2 l joghurt",
+            "2 ek. vaj",
+            "1 púpozott ek. liszt",
+            "2 gerezd fokhagyma",
+            "ételízesítő",
+            "só",
+            "őrölt bors",
+            "2 tk. finomra vágott petrezselyem",
+            "néhány salátalevél"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A joghurtot keverjük össze 1/2 liter vízzel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A vajat olvasszuk fel, világosra pirítsuk meg benne a lisztet, keverjük hozzá a zúzott fokhagymát, valamint a petrezselyem felét."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "1/2 liter vízzel öntsük fel és csomómentesen keverjük el."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sóval, ételízesítővel forraljuk fel, habarjuk be a felhígított joghurttal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Miután felforr, vegyük le a tűzről."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Őrölt borssal fűszerezzük, majd melegen, metéltre vágott salátalevéllel, petrezselyemmel meghintve tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/ef847b8d-ff2a-4ae3-bd76-d8a0f98060e6_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "ef847b8d-ff2a-4ae3-bd76-d8a0f98060e6",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Fokhagymás joghurtleves metélt salátával",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1/2 l joghurt",
+                "2 ek. vaj",
+                "1 púpozott ek. liszt",
+                "2 gerezd fokhagyma",
+                "ételízesítő",
+                "só",
+                "őrölt bors",
+                "2 tk. finomra vágott petrezselyem",
+                "néhány salátalevél"
+            ],
+            "recipeDirections": [
+                "A joghurtot keverjük össze 1/2 liter vízzel.",
+                "A vajat olvasszuk fel, világosra pirítsuk meg benne a lisztet, keverjük hozzá a zúzott fokhagymát, valamint a petrezselyem felét.",
+                "1/2 liter vízzel öntsük fel és csomómentesen keverjük el.",
+                "Sóval, ételízesítővel forraljuk fel, habarjuk be a felhígított joghurttal.",
+                "Miután felforr, vegyük le a tűzről.",
+                "Őrölt borssal fűszerezzük, majd melegen, metéltre vágott salátalevéllel, petrezselyemmel meghintve tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/ef847b8d-ff2a-4ae3-bd76-d8a0f98060e6_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 220,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

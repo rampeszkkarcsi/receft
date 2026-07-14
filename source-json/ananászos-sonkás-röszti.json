@@ -1,0 +1,105 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Ananászos-sonkás röszti",
+        "recipeIngredient": [
+            "200 g félzsíros tehéntúró",
+            "2 ek. tejföl",
+            "só, őrölt fehér bors",
+            "1 kis fej hagyma",
+            "diónyi friss gyömbér",
+            "5-6 szál petrezselyem",
+            "200 g füstölt, főtt sonka",
+            "4 karika ananászbefőtt",
+            "4 nagyobb burgonya (600 g)",
+            "3 púpozott ek. liszt",
+            "2 tojás",
+            "olaj a sütéshez",
+            "2 paradicsom",
+            "4-6 salátalevél"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A túrót simára keverjük a tejföllel, ízlés szerint sóval és borssal. A hagymát és a gyömbért meghámozzuk, mindkettőt megreszeljük, majd a tejfölös túróhoz adjuk, letakarjuk, fogyasztásig hűtőbe tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A petrezselyemlevélkéket (néhány kivételével) finomra, a sonkát és az ananászt apró kockákra vágjuk, összekeverjük és szintén hidegre tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A burgonyát meghámozzuk, megmossuk, nagy lyukú reszelőn keverőtálba reszeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a lisztet és a tojásokat, ízlés szerint sózzuk, borsozzuk, alaposan összekeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Nagyobb-mélyebb lábasban/serpenyőben felforrósítunk kétujjnyi olajat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A masszából vizes tenyérrel 8 gombócot formálunk, majd 8-10 cm átmérőjű korongokra lapítjuk őket, és mindkét oldalukat pirosra sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Papírkendőre szedve felitatjuk a rosztikról az olajat, lapos tálra rendezzük, majd megkenjük őket a túrókrémmel, és tetejükre halmozzuk az ananászos sonkát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Paradicsomgerezdekkel, salátalevelekkel, a félretett petrezselyemmel díszítve, forrón tálaljuk."
+            }
+        ],
+        "prepTime": "PT45M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/218e3783-5a52-4466-b74e-95012ea967fc_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "218e3783-5a52-4466-b74e-95012ea967fc",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Ananászos-sonkás röszti",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT45M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "200 g félzsíros tehéntúró",
+                "2 ek. tejföl",
+                "só, őrölt fehér bors",
+                "1 kis fej hagyma",
+                "diónyi friss gyömbér",
+                "5-6 szál petrezselyem",
+                "200 g füstölt, főtt sonka",
+                "4 karika ananászbefőtt",
+                "4 nagyobb burgonya (600 g)",
+                "3 púpozott ek. liszt",
+                "2 tojás",
+                "olaj a sütéshez",
+                "2 paradicsom",
+                "4-6 salátalevél"
+            ],
+            "recipeDirections": [
+                "A túrót simára keverjük a tejföllel, ízlés szerint sóval és borssal. A hagymát és a gyömbért meghámozzuk, mindkettőt megreszeljük, majd a tejfölös túróhoz adjuk, letakarjuk, fogyasztásig hűtőbe tesszük.",
+                "A petrezselyemlevélkéket (néhány kivételével) finomra, a sonkát és az ananászt apró kockákra vágjuk, összekeverjük és szintén hidegre tesszük.",
+                "A burgonyát meghámozzuk, megmossuk, nagy lyukú reszelőn keverőtálba reszeljük.",
+                "Hozzáadjuk a lisztet és a tojásokat, ízlés szerint sózzuk, borsozzuk, alaposan összekeverjük.",
+                "Nagyobb-mélyebb lábasban/serpenyőben felforrósítunk kétujjnyi olajat.",
+                "A masszából vizes tenyérrel 8 gombócot formálunk, majd 8-10 cm átmérőjű korongokra lapítjuk őket, és mindkét oldalukat pirosra sütjük.",
+                "Papírkendőre szedve felitatjuk a rosztikról az olajat, lapos tálra rendezzük, majd megkenjük őket a túrókrémmel, és tetejükre halmozzuk az ananászos sonkát.",
+                "Paradicsomgerezdekkel, salátalevelekkel, a félretett petrezselyemmel díszítve, forrón tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/218e3783-5a52-4466-b74e-95012ea967fc_0.jpg"
+        },
+        "x-source-file": "5d69ba0e-6fbf-4ffa-86b3-7aaa925b1eab.zip",
+        "x-db-id": 161,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

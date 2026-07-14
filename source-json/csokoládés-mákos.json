@@ -1,0 +1,84 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Csokoládés mákos",
+        "recipeIngredient": [
+            "1 bögre (kb. 3 dl űrtartalmú)",
+            "1 bögre finomliszt (200 g)",
+            "1,5 tasak (15 g) sütőpor",
+            "1/2 kk. őrölt fahéj",
+            "1 csipet só",
+            "1 bögre darált mák (100 g)",
+            "100 g lágy vaj/margarin",
+            "1 bögre cukor (250 g)",
+            "2 tojás",
+            "1 narancs reszelt héja",
+            "1 bögre tej (3 dl)",
+            "100 g ribizli- vagy málnalekvár",
+            "100 g tortabevonó étcsokoládé",
+            "2 ek. olaj (napraforgó)",
+            "1 ek. vágott pisztácia",
+            "1 kk. morzsacukor"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt előmelegítjük 180 °C-ra. Egy kb. 25x35 cm-es tepsit kibélelünk sütőpapírral. A lisztet összekeverjük a sütőporral, a fahéjjal, a sóval és a mákkal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A vajat/margarint a cukorral habosra keverjük, majd egyenként beledolgozzuk a tojásokat, a reszelt narancshéjat, végül a tejjel felváltva a mákos lisztet. A masszát a tepsibe öntjük-simítjuk, és középső rácsálláson 35-40 percig sütjük (tűpróba!)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tepsiben hagyjuk langyosra hűlni, aztán sütőpapírostul vágódeszkára emeljük. A lekvárt felforrósítjuk, megkenjük vele a tészta tetejét, kissé szikkadni-száradni hagyjuk. A felaprózott tortabevonó csokoládét forró vízfürdőbe állított lábaskában felolvasztjuk, elkeverjük az olajjal, majd a tészta tetejére öntjük-kenjük. Mielőtt teljesen megkötne, sűrűn beszórjuk pisztáciával és morzsacukorral. Hagyjuk teljesen megdermedni, majd 5x5 cm-es kockákra vagy szeletekre vágva kínáljuk. Mélyhűthető!"
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT40M",
+        "recipeYield": "35 kocka",
+        "image": "images/0f4aac64-eed4-4f94-9700-77026333f81b_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "0f4aac64-eed4-4f94-9700-77026333f81b",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Csokoládés mákos",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "35 kocka",
+            "prepTime": "PT1H",
+            "cookTime": "PT40M",
+            "recipeIngredients": [
+                "1 bögre (kb. 3 dl űrtartalmú)",
+                "1 bögre finomliszt (200 g)",
+                "1,5 tasak (15 g) sütőpor",
+                "1/2 kk. őrölt fahéj",
+                "1 csipet só",
+                "1 bögre darált mák (100 g)",
+                "100 g lágy vaj/margarin",
+                "1 bögre cukor (250 g)",
+                "2 tojás",
+                "1 narancs reszelt héja",
+                "1 bögre tej (3 dl)",
+                "100 g ribizli- vagy málnalekvár",
+                "100 g tortabevonó étcsokoládé",
+                "2 ek. olaj (napraforgó)",
+                "1 ek. vágott pisztácia",
+                "1 kk. morzsacukor"
+            ],
+            "recipeDirections": [
+                "A sütőt előmelegítjük 180 °C-ra. Egy kb. 25x35 cm-es tepsit kibélelünk sütőpapírral. A lisztet összekeverjük a sütőporral, a fahéjjal, a sóval és a mákkal.",
+                "A vajat/margarint a cukorral habosra keverjük, majd egyenként beledolgozzuk a tojásokat, a reszelt narancshéjat, végül a tejjel felváltva a mákos lisztet. A masszát a tepsibe öntjük-simítjuk, és középső rácsálláson 35-40 percig sütjük (tűpróba!).",
+                "A tepsiben hagyjuk langyosra hűlni, aztán sütőpapírostul vágódeszkára emeljük. A lekvárt felforrósítjuk, megkenjük vele a tészta tetejét, kissé szikkadni-száradni hagyjuk. A felaprózott tortabevonó csokoládét forró vízfürdőbe állított lábaskában felolvasztjuk, elkeverjük az olajjal, majd a tészta tetejére öntjük-kenjük. Mielőtt teljesen megkötne, sűrűn beszórjuk pisztáciával és morzsacukorral. Hagyjuk teljesen megdermedni, majd 5x5 cm-es kockákra vagy szeletekre vágva kínáljuk. Mélyhűthető!"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/0f4aac64-eed4-4f94-9700-77026333f81b_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 214,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

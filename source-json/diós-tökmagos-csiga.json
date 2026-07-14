@@ -1,0 +1,75 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Diós-tökmagos csiga",
+        "recipeIngredient": [
+            "1/2 kg mélyhűtött leveles tészta",
+            "10 dkg darált dió",
+            "10 dkg apróra vágott tökmag",
+            "15 dkg porcukor",
+            "1 tojás",
+            "liszt",
+            "vaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát szobahőmérsékleten kiolvasztjuk, majd lisztezett deszkán kinyújtjuk kb. fél centi vastag téglalapra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Villával felvert tojással vékonyan megkenjük a tetejét, majd megszórjuk cukorral elkevert dióval, tökmaggal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A bejglihez hasonlóan óvatosan föltekerjük és körülbelül egy centi széles szeletekre felvágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Vajjal kikent sütőlapra rakjuk, és a tetejét tojással megkenjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közepes hőmérsékletű sütőben készre sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/902ade92-558c-46d5-be67-e5ffdbc2b019_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "902ade92-558c-46d5-be67-e5ffdbc2b019",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Diós-tökmagos csiga",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1/2 kg mélyhűtött leveles tészta",
+                "10 dkg darált dió",
+                "10 dkg apróra vágott tökmag",
+                "15 dkg porcukor",
+                "1 tojás",
+                "liszt",
+                "vaj"
+            ],
+            "recipeDirections": [
+                "A tésztát szobahőmérsékleten kiolvasztjuk, majd lisztezett deszkán kinyújtjuk kb. fél centi vastag téglalapra.",
+                "Villával felvert tojással vékonyan megkenjük a tetejét, majd megszórjuk cukorral elkevert dióval, tökmaggal.",
+                "A bejglihez hasonlóan óvatosan föltekerjük és körülbelül egy centi széles szeletekre felvágjuk.",
+                "Vajjal kikent sütőlapra rakjuk, és a tetejét tojással megkenjük.",
+                "Közepes hőmérsékletű sütőben készre sütjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/902ade92-558c-46d5-be67-e5ffdbc2b019_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 217,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

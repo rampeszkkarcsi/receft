@@ -1,0 +1,84 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Angolszalonnás-sütőtökös muffin",
+        "recipeIngredient": [
+            "10 dkg angolszalonna",
+            "2-3 ág friss rozmaring",
+            "30 dkg liszt",
+            "30 dkg sütőtök püré (pucolt mennyiség)",
+            "reszelve",
+            "2 tojás",
+            "2 dl napraforgóolaj",
+            "2 dl natúr joghurt",
+            "2 teáskanál Dr. Oetker Sütőpor",
+            "só",
+            "bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Helyezzünk 12 papírkapszlit a muffinformába."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt melegítsük elő 180 °C-ra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az angolszalonnát vágjuk apró kockákra, a rozmaringleveleket tépkedjük le a szárról, késsel vágjuk apróra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tészta összes hozzávalóját tegyük keverőtálba, alaposan dolgozzuk össze, majd osszuk szét a formákba."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "30-35 perc alatt süssük készre."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT35M",
+        "recipeYield": "12 muffin",
+        "image": "images/eee69d88-ce41-4cec-b5b7-d22de78cccc0_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "eee69d88-ce41-4cec-b5b7-d22de78cccc0",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Angolszalonnás-sütőtökös muffin",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "12 muffin",
+            "prepTime": "PT0S",
+            "cookTime": "PT35M",
+            "recipeIngredients": [
+                "10 dkg angolszalonna",
+                "2-3 ág friss rozmaring",
+                "30 dkg liszt",
+                "30 dkg sütőtök püré (pucolt mennyiség)",
+                "reszelve",
+                "2 tojás",
+                "2 dl napraforgóolaj",
+                "2 dl natúr joghurt",
+                "2 teáskanál Dr. Oetker Sütőpor",
+                "só",
+                "bors"
+            ],
+            "recipeDirections": [
+                "Helyezzünk 12 papírkapszlit a muffinformába.",
+                "A sütőt melegítsük elő 180 °C-ra.",
+                "Az angolszalonnát vágjuk apró kockákra, a rozmaringleveleket tépkedjük le a szárról, késsel vágjuk apróra.",
+                "A tészta összes hozzávalóját tegyük keverőtálba, alaposan dolgozzuk össze, majd osszuk szét a formákba.",
+                "30-35 perc alatt süssük készre."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/eee69d88-ce41-4cec-b5b7-d22de78cccc0_0.jpg"
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 101,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

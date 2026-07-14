@@ -1,0 +1,91 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Polentakrokett",
+        "recipeIngredient": [
+            "8 dl zöldségerőleves (kockából)",
+            "250 g kukoricadara",
+            "40 g vaj/margarin",
+            "150 g főtt sonka egyben",
+            "40 g füstölt sajt",
+            "1+2 tojás",
+            "1 közepes fej hagyma",
+            "2 gerezd fokhagyma",
+            "2 ek. olaj+a sütéshez",
+            "2 doboz hámozott, felaprózott paradicsom (800 g)",
+            "1/2 kk. provence-i fűszerkeverék",
+            "só, bors",
+            "100 g liszt",
+            "100 g zsemlemorzsa",
+            "1 csapott ek. szezámmag",
+            "néhány zeller-/reteklevél",
+            "2-4 paradicsom"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A polentához a levest felforraljuk, beleszórjuk a kukoricadarát, és mérsékelt tűzön, folyamatosan keverve csak addig főzzük, amíg besűrűsödik. Lehúzzuk a tűzről, belekeverjük a vajat/margarint, majd lefedjük, és 15 percig pihentetjük. A sonkát apró kockákra vágjuk, a sajtot szálasra reszeljük, aztán a sonka felével és 1 tojással együtt a polentához adjuk, hagyjuk kihűlni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát és a fokhagymát meghámozzuk, felaprózzuk, megfonnyasztjuk 2 ek. olajban. Hozzáadjuk a paradicsomot, a fűszerkeveréket, ízlés szerint sót és borsot, majd félig lefedve 20 percig sűrítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A masszából vizes kézzel evőkanálnyi gombócokat formálunk, majd kissé ellapítjuk őket. Lisztbe, 2 felvert tojásba, szezámmaggal összekevert zsemlemorzsába forgatjuk, és forró, bő olajban kisütjük. Papírkendőre szedve felitatjuk róluk az olajat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kroketteket tálra rendezzük, körbeöntözzük a mártással, megszórjuk a maradék sonkával, végül zeller-, reteklevelekkel és az elfelezett paradicsomokkal díszítjük. Azonnal tálaljuk, frissen az igazi!"
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/2b276054-156f-4a81-976c-39a1d2a24c43_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "2b276054-156f-4a81-976c-39a1d2a24c43",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Polentakrokett",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "8 dl zöldségerőleves (kockából)",
+                "250 g kukoricadara",
+                "40 g vaj/margarin",
+                "150 g főtt sonka egyben",
+                "40 g füstölt sajt",
+                "1+2 tojás",
+                "1 közepes fej hagyma",
+                "2 gerezd fokhagyma",
+                "2 ek. olaj+a sütéshez",
+                "2 doboz hámozott, felaprózott paradicsom (800 g)",
+                "1/2 kk. provence-i fűszerkeverék",
+                "só, bors",
+                "100 g liszt",
+                "100 g zsemlemorzsa",
+                "1 csapott ek. szezámmag",
+                "néhány zeller-/reteklevél",
+                "2-4 paradicsom"
+            ],
+            "recipeDirections": [
+                "A polentához a levest felforraljuk, beleszórjuk a kukoricadarát, és mérsékelt tűzön, folyamatosan keverve csak addig főzzük, amíg besűrűsödik. Lehúzzuk a tűzről, belekeverjük a vajat/margarint, majd lefedjük, és 15 percig pihentetjük. A sonkát apró kockákra vágjuk, a sajtot szálasra reszeljük, aztán a sonka felével és 1 tojással együtt a polentához adjuk, hagyjuk kihűlni.",
+                "A hagymát és a fokhagymát meghámozzuk, felaprózzuk, megfonnyasztjuk 2 ek. olajban. Hozzáadjuk a paradicsomot, a fűszerkeveréket, ízlés szerint sót és borsot, majd félig lefedve 20 percig sűrítjük.",
+                "A masszából vizes kézzel evőkanálnyi gombócokat formálunk, majd kissé ellapítjuk őket. Lisztbe, 2 felvert tojásba, szezámmaggal összekevert zsemlemorzsába forgatjuk, és forró, bő olajban kisütjük. Papírkendőre szedve felitatjuk róluk az olajat.",
+                "A kroketteket tálra rendezzük, körbeöntözzük a mártással, megszórjuk a maradék sonkával, végül zeller-, reteklevelekkel és az elfelezett paradicsomokkal díszítjük. Azonnal tálaljuk, frissen az igazi!"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/2b276054-156f-4a81-976c-39a1d2a24c43_0.jpg"
+        },
+        "x-source-file": "78c7b1d4-56f5-40ee-9e76-a7d93ffbed93.zip",
+        "x-db-id": 154,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

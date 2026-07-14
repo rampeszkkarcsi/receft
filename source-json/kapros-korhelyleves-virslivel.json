@@ -1,0 +1,87 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kapros korhelyleves virslivel",
+        "recipeIngredient": [
+            "1 közepes fej hagyma",
+            "2 gerezd fokhagyma",
+            "1 kis csokor kapor",
+            "200 g savanyú káposzta",
+            "2 ek. olaj",
+            "1 kk. pirospaprika",
+            "1/2 liter füstölt sonkalé",
+            "1/2 liter húsleves (kockából)",
+            "1 babérlevél",
+            "2 pár füstölt virsli",
+            "2+1 dl tejföl",
+            "1 ek. rizsliszt",
+            "só, bors",
+            "1-2 kk. citromlé",
+            "hegyes csípős paprika"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát és a fokhagymát meghámozzuk, a hagymát finomra vágjuk. A kaprot leöblítjük, 1-2 szálat félreteszünk, a többit felaprózzuk. A savanyú káposztát szűrőtálban kissé kiöblítjük, lecsepegtetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A forró olajban megfony-nyasztjuk a hagymát és az áttört fokhagymát, rádobjuk a kaprot, 1 percig együtt pirítjuk, aztán elkeverjük a pirospaprikával, felöntjük a füstölt lével és a húslevessel. Beledobjuk a savanyú káposztát és a babérlevelet, majd fedő alatt, mérsékelt tűzön puhára főzzük (30-35 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A virslit megmossuk, felkarikázzuk. A tejfölben és 1 nagy merőkanál főzőlében eldolgozzuk a rizslisztet, folyamatosan keverve a leveshez adjuk. Beledobjuk a virslit, és fedő nélkül, szelíd forralással 5 percig főzzük. Ízlés és szükség szerint utánasózzuk, citromlével savanyítjuk, végül frissen őrölt borssal illatosítjuk. Tálaláskor tetejére cirmosítjuk a maradék 1 dl tejfölt, végül paprikakarikákkal és a félretett kaporral díszítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "TIPP: Virsli helyett készíthetjük 200 g sonkamaradékkal is."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT35M",
+        "recipeYield": "4 PERSON",
+        "image": "images/01c68371-776f-4773-9515-02ac42c2df9c_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "01c68371-776f-4773-9515-02ac42c2df9c",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kapros korhelyleves virslivel",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT1H",
+            "cookTime": "PT35M",
+            "recipeIngredients": [
+                "1 közepes fej hagyma",
+                "2 gerezd fokhagyma",
+                "1 kis csokor kapor",
+                "200 g savanyú káposzta",
+                "2 ek. olaj",
+                "1 kk. pirospaprika",
+                "1/2 liter füstölt sonkalé",
+                "1/2 liter húsleves (kockából)",
+                "1 babérlevél",
+                "2 pár füstölt virsli",
+                "2+1 dl tejföl",
+                "1 ek. rizsliszt",
+                "só, bors",
+                "1-2 kk. citromlé",
+                "hegyes csípős paprika"
+            ],
+            "recipeDirections": [
+                "A hagymát és a fokhagymát meghámozzuk, a hagymát finomra vágjuk. A kaprot leöblítjük, 1-2 szálat félreteszünk, a többit felaprózzuk. A savanyú káposztát szűrőtálban kissé kiöblítjük, lecsepegtetjük.",
+                "A forró olajban megfony-nyasztjuk a hagymát és az áttört fokhagymát, rádobjuk a kaprot, 1 percig együtt pirítjuk, aztán elkeverjük a pirospaprikával, felöntjük a füstölt lével és a húslevessel. Beledobjuk a savanyú káposztát és a babérlevelet, majd fedő alatt, mérsékelt tűzön puhára főzzük (30-35 perc).",
+                "A virslit megmossuk, felkarikázzuk. A tejfölben és 1 nagy merőkanál főzőlében eldolgozzuk a rizslisztet, folyamatosan keverve a leveshez adjuk. Beledobjuk a virslit, és fedő nélkül, szelíd forralással 5 percig főzzük. Ízlés és szükség szerint utánasózzuk, citromlével savanyítjuk, végül frissen őrölt borssal illatosítjuk. Tálaláskor tetejére cirmosítjuk a maradék 1 dl tejfölt, végül paprikakarikákkal és a félretett kaporral díszítjük.",
+                "TIPP: Virsli helyett készíthetjük 200 g sonkamaradékkal is."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/01c68371-776f-4773-9515-02ac42c2df9c_0.jpg"
+        },
+        "x-source-file": "78c7b1d4-56f5-40ee-9e76-a7d93ffbed93.zip",
+        "x-db-id": 150,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

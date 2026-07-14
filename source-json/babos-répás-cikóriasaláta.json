@@ -1,0 +1,86 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Babos-répás cikóriasaláta",
+        "recipeIngredient": [
+            "2-3 cikória (400 g)",
+            "1 citrom",
+            "1 karcsú póréhagyma",
+            "só, szemes rózsabors",
+            "400 g sárgarépa",
+            "1 kis doboz főtt fehér bab (250 g)",
+            "Az öntethez",
+            "diónyi friss gyömbérgumó",
+            "6-8 mentalevélke",
+            "1 narancs",
+            "1 ek. méz",
+            "4 ek. szezám- vagy olívaolaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A cikóriák külső leveleit lebontjuk, a foltosakat-sérülteket kidobjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Végüket levágjuk, torzsarészüket ékszerűen kiemeljük (ez tartalmazza a keserű aromaanyagot). 10-15 szép levelet félreteszünk, a többit felkarikázzuk, meglocsoljuk 1/2 citrom átszűrt levével, hogy meg ne barnuljon."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A póréhagymát megtisztítjuk, megmossuk, világos részét nem túl vékonyan felkarikázzuk. Enyhén sós, forrásban lévő vízbe dobjuk, 2 perc múlva hideg vízbe szedjük, leszűrjük, konyharuhára terítve szikkadni hagyjuk. A sárgarépákat meghámozzuk, nagy lyukú reszelőn csíkokra reszeljük. A babot hideg vízzel leöblítjük, lecsepegtetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az öntethez a gyömbért meghámozzuk, finomra reszeljük. A mentaleveleket leöblítjük, 2-3-at félreteszünk, a többit felaprózzuk. A maradék 1/2 citrom és a narancs levét kinyomjuk, átszűrjük, hozzáadjuk a vágott cikória levét is. Elkeverjük benne a mézet, a sót és borsot, cseppenként az olajat, végül a gyömbért és a mentát. Beleforgatjuk a répát, a babot és a póré felét."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mélyebb tál szegélyét kirakjuk a cikórialevelekkel, a cikóriakarikákat az aljára terítjük. Közepére halmozzuk a sárgarépás keveréket, tetejét a maradék póréhagymával és a félretett mentalevélkékkel díszítjük. Csak az asztalnál keverjük össze."
+            }
+        ],
+        "prepTime": "PT35M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/bf636baa-48f8-4a85-9c87-681130756836_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "bf636baa-48f8-4a85-9c87-681130756836",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Babos-répás cikóriasaláta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT35M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "2-3 cikória (400 g)",
+                "1 citrom",
+                "1 karcsú póréhagyma",
+                "só, szemes rózsabors",
+                "400 g sárgarépa",
+                "1 kis doboz főtt fehér bab (250 g)",
+                "Az öntethez",
+                "diónyi friss gyömbérgumó",
+                "6-8 mentalevélke",
+                "1 narancs",
+                "1 ek. méz",
+                "4 ek. szezám- vagy olívaolaj"
+            ],
+            "recipeDirections": [
+                "A cikóriák külső leveleit lebontjuk, a foltosakat-sérülteket kidobjuk.",
+                "Végüket levágjuk, torzsarészüket ékszerűen kiemeljük (ez tartalmazza a keserű aromaanyagot). 10-15 szép levelet félreteszünk, a többit felkarikázzuk, meglocsoljuk 1/2 citrom átszűrt levével, hogy meg ne barnuljon.",
+                "A póréhagymát megtisztítjuk, megmossuk, világos részét nem túl vékonyan felkarikázzuk. Enyhén sós, forrásban lévő vízbe dobjuk, 2 perc múlva hideg vízbe szedjük, leszűrjük, konyharuhára terítve szikkadni hagyjuk. A sárgarépákat meghámozzuk, nagy lyukú reszelőn csíkokra reszeljük. A babot hideg vízzel leöblítjük, lecsepegtetjük.",
+                "Az öntethez a gyömbért meghámozzuk, finomra reszeljük. A mentaleveleket leöblítjük, 2-3-at félreteszünk, a többit felaprózzuk. A maradék 1/2 citrom és a narancs levét kinyomjuk, átszűrjük, hozzáadjuk a vágott cikória levét is. Elkeverjük benne a mézet, a sót és borsot, cseppenként az olajat, végül a gyömbért és a mentát. Beleforgatjuk a répát, a babot és a póré felét.",
+                "Mélyebb tál szegélyét kirakjuk a cikórialevelekkel, a cikóriakarikákat az aljára terítjük. Közepére halmozzuk a sárgarépás keveréket, tetejét a maradék póréhagymával és a félretett mentalevélkékkel díszítjük. Csak az asztalnál keverjük össze."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/bf636baa-48f8-4a85-9c87-681130756836_0.jpg"
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 62,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

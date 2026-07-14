@@ -1,0 +1,81 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kukoricás sült paprika",
+        "recipeIngredient": [
+            "2 nagy, piros húsú paprika",
+            "só, bors",
+            "2 közepes fej hagyma",
+            "2 gerezd fokhagyma",
+            "1 kis csilipaprika",
+            "6-8 mentalevél",
+            "1 kis csokor petrezselyem",
+            "4 ek. olaj",
+            "200 g hosszú szemű rizs",
+            "1 tyúkhúsleveskocka",
+            "1 dl tejszín",
+            "1 doboz főtt csemege-kukorica (töltötömeg kb. 280 g)",
+            "8 szelet (pizza-)mozzarella sajt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A paprikákat megmossuk, hosszában kettévágjuk, csumájukat-magokat eltávolítjuk, enyhén sós vízben 10 percig főzzük. Hideg vízben lehűtjük, aztán lecsepegtetjük, üregükkel lefelé konyharuhára borítjuk. A hagymákat, a fokhagymát, a csilipaprikát és a zöldfűszereket megtisztítjuk. A hagymákat finomra, a csilit karikákra, a zöldfűszereket apróra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A felhevített olajban megfonnyasztjuk a hagymát. Felét (az olajjal együtt) áttesszük egy másik edénybe, rádobjuk a rizst és az áttört fokhagymát, 1 percig pirítjuk. Felöntjük 4 dl vízzel, belemorzsoljuk a leveskockát, és fedő alatt, mérsékelt tűzön 10 percig főzzük. Lehúzzuk a tűzről, belekeverjük a felforrósított tejszínt, fedő alatt 10-12 percig pihentetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kukoricát leöblítjük, lecsepegtetjük, és a maradék hagymára dobjuk. Hozzáadjuk a csilit és a mentát, sózzuk, borsozzuk, összeforrósítjuk, és a paprikákba töltjük. Sütőedénybe sorakoztatjuk, tetejüket befedjük 2-2 szelet sajttal, és 180 °C-os sütőben addig sütjük, amíg a sajt kissé megpirul."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Elkeverjük a rizsben a petrezselymet, utánasózzuk, borsozzuk, tálba terítjük. Tetejére emeljük a paprikákat, és zöldfűszerlevelekkel díszítve, köretként/egytálételként kínáljuk."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "x-recipe-keeper": {
+            "recipeId": "e02ebacd-321d-4539-9c45-3e0a56881c8d",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kukoricás sült paprika",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "2 nagy, piros húsú paprika",
+                "só, bors",
+                "2 közepes fej hagyma",
+                "2 gerezd fokhagyma",
+                "1 kis csilipaprika",
+                "6-8 mentalevél",
+                "1 kis csokor petrezselyem",
+                "4 ek. olaj",
+                "200 g hosszú szemű rizs",
+                "1 tyúkhúsleveskocka",
+                "1 dl tejszín",
+                "1 doboz főtt csemege-kukorica (töltötömeg kb. 280 g)",
+                "8 szelet (pizza-)mozzarella sajt"
+            ],
+            "recipeDirections": [
+                "A paprikákat megmossuk, hosszában kettévágjuk, csumájukat-magokat eltávolítjuk, enyhén sós vízben 10 percig főzzük. Hideg vízben lehűtjük, aztán lecsepegtetjük, üregükkel lefelé konyharuhára borítjuk. A hagymákat, a fokhagymát, a csilipaprikát és a zöldfűszereket megtisztítjuk. A hagymákat finomra, a csilit karikákra, a zöldfűszereket apróra vágjuk.",
+                "A felhevített olajban megfonnyasztjuk a hagymát. Felét (az olajjal együtt) áttesszük egy másik edénybe, rádobjuk a rizst és az áttört fokhagymát, 1 percig pirítjuk. Felöntjük 4 dl vízzel, belemorzsoljuk a leveskockát, és fedő alatt, mérsékelt tűzön 10 percig főzzük. Lehúzzuk a tűzről, belekeverjük a felforrósított tejszínt, fedő alatt 10-12 percig pihentetjük.",
+                "A kukoricát leöblítjük, lecsepegtetjük, és a maradék hagymára dobjuk. Hozzáadjuk a csilit és a mentát, sózzuk, borsozzuk, összeforrósítjuk, és a paprikákba töltjük. Sütőedénybe sorakoztatjuk, tetejüket befedjük 2-2 szelet sajttal, és 180 °C-os sütőben addig sütjük, amíg a sajt kissé megpirul.",
+                "Elkeverjük a rizsben a petrezselymet, utánasózzuk, borsozzuk, tálba terítjük. Tetejére emeljük a paprikákat, és zöldfűszerlevelekkel díszítve, köretként/egytálételként kínáljuk."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 70,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

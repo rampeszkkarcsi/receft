@@ -1,0 +1,97 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gyors kakaós kalács",
+        "recipeIngredient": [
+            "70 dkg liszt",
+            "egy kocka élesztő",
+            "1 mokkás kanál só",
+            "4,5 dl tej",
+            "1,5 dl olaj",
+            "3 ek kakaópor",
+            "1 tojás a tésztába",
+            "1 tojás a kenéshez",
+            "10 ek cukor"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Meleg tejbe beleteszünk egy ek cukrot és felfuttatjuk benne az élesztőt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A felfuttatott élesztős tejet beleöntöm a kenyérsütőbe rá a liszt, a tojás, a cukor, az olaj, a só és hagyom hogy a gép végezze a dolgát!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha kézzel csinálod dagasztás után 30 percig hagyd kelni!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mikor megkelt a tészta akkor kettéveszem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A maradék tejjel eldolgozom a kakaóport és a tészta egyik feléhez jól hozzádolgozom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kétféle tésztát kinyújtom és egymásra teszem majd feltekerem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beleteszem a tepsibe (Én ketté szoktam vágni, mert egybe nagyon nagy.)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tepsiben fél órát még hagyom kelni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tetejét tojássárgájával megkenem, hogy szép fényes legyen, majd 180 fokos sütőben 20-30 perc alatt megsütöm!"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT30M",
+        "x-recipe-keeper": {
+            "recipeId": "65bd230a-4d01-41f4-bbe9-a33afbef6639",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gyors kakaós kalács",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "70 dkg liszt",
+                "egy kocka élesztő",
+                "1 mokkás kanál só",
+                "4,5 dl tej",
+                "1,5 dl olaj",
+                "3 ek kakaópor",
+                "1 tojás a tésztába",
+                "1 tojás a kenéshez",
+                "10 ek cukor"
+            ],
+            "recipeDirections": [
+                "Meleg tejbe beleteszünk egy ek cukrot és felfuttatjuk benne az élesztőt.",
+                "A felfuttatott élesztős tejet beleöntöm a kenyérsütőbe rá a liszt, a tojás, a cukor, az olaj, a só és hagyom hogy a gép végezze a dolgát!",
+                "Ha kézzel csinálod dagasztás után 30 percig hagyd kelni!",
+                "Mikor megkelt a tészta akkor kettéveszem.",
+                "A maradék tejjel eldolgozom a kakaóport és a tészta egyik feléhez jól hozzádolgozom.",
+                "A kétféle tésztát kinyújtom és egymásra teszem majd feltekerem.",
+                "Beleteszem a tepsibe (Én ketté szoktam vágni, mert egybe nagyon nagy.)",
+                "A tepsiben fél órát még hagyom kelni.",
+                "Tetejét tojássárgájával megkenem, hogy szép fényes legyen, majd 180 fokos sütőben 20-30 perc alatt megsütöm!"
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "5d69ba0e-6fbf-4ffa-86b3-7aaa925b1eab.zip",
+        "x-db-id": 168,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

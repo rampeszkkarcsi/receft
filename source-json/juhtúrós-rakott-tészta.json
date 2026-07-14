@@ -1,0 +1,72 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Juhtúrós rakott tészta",
+        "recipeIngredient": [
+            "1 közepes fej hagyma",
+            "3-4 gerezd fokhagyma",
+            "1 ágacska rozmaring (10 cm-es)",
+            "15-18 bazsalikomlevél+ 1 bóbita a díszítéshez",
+            "1 gombóc mozzarella (125 g)",
+            "1 doboz felaprózott paradicsom (400 g)",
+            "1 kk.+3 ek. olívaolaj",
+            "500 g rövid csőtészta",
+            "250 g juhtúró",
+            "só, bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát és a fokhagymát meghámozzuk, a zöldfűszereket leöblítjük, valamennyit finomra vágjuk. A mozzarellát kiemeljük a levéből, vékonyan felszeleteljük. A paradicsomot péppé turmixoljuk. Felteszünk forrni 5 liter vizet. Egy csinos, mélyebb tűzálló tálat/sütőedényt kikenünk 1 kk. olajjal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mélyebb lábasban/serpenyőben felforrósítunk 3 ek. olajat, rádobjuk a hagymát és a fokhagymát, megfonnyasztjuk. Hozzáadjuk a paradicsompépet és a rozmaringot, ízlés szerint sózzuk, borsozzuk, mérsékelt tűzön, félig lefedve sűrűsödésig főzzük (10-15 perc). A bazsalikomot (gyorsan illanó aromája miatt) csak a főzés utolsó perceiben keverjük hozzá. A sütőt előmelegítjük 200 °C-ra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A forrásban lévő vízhez 1 ek. sót adunk, beleszórjuk a tésztát, és gyakorta megkeverve a csomagoláson javasolt ideig főzzük. Leszűrjük, a paradicsommártáshoz adjuk, lazán összeforgatjuk, felét a tűzálló tál/sütőedény aljára terítjük. Rámorzsoljuk a juhtúrót, befedjük a maradék tésztával, végül elrendezzük a tetején a mozzarellaszeleteket. A forró sütőben csak addig sütjük, amíg a sajt a tetejére olvad (kb. 15 perc). Bazsalikom-bóbitával díszítve mihamarabb tálaljuk."
+            }
+        ],
+        "prepTime": "PT45M",
+        "cookTime": "PT15M",
+        "recipeYield": "4 személyre",
+        "image": "images/cbd9f626-0e87-49a2-8e6b-fc24b8dbe24c_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "cbd9f626-0e87-49a2-8e6b-fc24b8dbe24c",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Juhtúrós rakott tészta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT45M",
+            "cookTime": "PT15M",
+            "recipeIngredients": [
+                "1 közepes fej hagyma",
+                "3-4 gerezd fokhagyma",
+                "1 ágacska rozmaring (10 cm-es)",
+                "15-18 bazsalikomlevél+ 1 bóbita a díszítéshez",
+                "1 gombóc mozzarella (125 g)",
+                "1 doboz felaprózott paradicsom (400 g)",
+                "1 kk.+3 ek. olívaolaj",
+                "500 g rövid csőtészta",
+                "250 g juhtúró",
+                "só, bors"
+            ],
+            "recipeDirections": [
+                "A hagymát és a fokhagymát meghámozzuk, a zöldfűszereket leöblítjük, valamennyit finomra vágjuk. A mozzarellát kiemeljük a levéből, vékonyan felszeleteljük. A paradicsomot péppé turmixoljuk. Felteszünk forrni 5 liter vizet. Egy csinos, mélyebb tűzálló tálat/sütőedényt kikenünk 1 kk. olajjal.",
+                "Mélyebb lábasban/serpenyőben felforrósítunk 3 ek. olajat, rádobjuk a hagymát és a fokhagymát, megfonnyasztjuk. Hozzáadjuk a paradicsompépet és a rozmaringot, ízlés szerint sózzuk, borsozzuk, mérsékelt tűzön, félig lefedve sűrűsödésig főzzük (10-15 perc). A bazsalikomot (gyorsan illanó aromája miatt) csak a főzés utolsó perceiben keverjük hozzá. A sütőt előmelegítjük 200 °C-ra.",
+                "A forrásban lévő vízhez 1 ek. sót adunk, beleszórjuk a tésztát, és gyakorta megkeverve a csomagoláson javasolt ideig főzzük. Leszűrjük, a paradicsommártáshoz adjuk, lazán összeforgatjuk, felét a tűzálló tál/sütőedény aljára terítjük. Rámorzsoljuk a juhtúrót, befedjük a maradék tésztával, végül elrendezzük a tetején a mozzarellaszeleteket. A forró sütőben csak addig sütjük, amíg a sajt a tetejére olvad (kb. 15 perc). Bazsalikom-bóbitával díszítve mihamarabb tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/cbd9f626-0e87-49a2-8e6b-fc24b8dbe24c_0.jpg"
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 91,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

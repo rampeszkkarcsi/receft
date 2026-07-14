@@ -1,0 +1,91 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Cukkinis-juhtúrós muffin",
+        "recipeIngredient": [
+            "25 dkg cukkini",
+            "10 dkg juhtúró",
+            "10 dkg sajt(trappista)",
+            "1 db tojás",
+            "0,5 dl olaj",
+            "1,2 dl tej",
+            "20 dkg liszt",
+            "2 kk sütőpor",
+            "1 mk szódabikarbóna",
+            "1 tk só",
+            "örölt fehér bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Egy tálba tenni a tejet, az olajat, a tojást, a sót, az őrölt borsot és habosra keverni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezután hozzáadni a juhtúrót és simára keverni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet összekeverni a sütőporral és a szódabikarbónával, majd az előzőleg kikevert masszához keverni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Végül nagy lyukú reszelőn belereszelni a cukkinit és a sajtot, majd szintén jól összekeverni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A muffin formát kivajazni és megszórni zsemlemorzsával, majd belekanalazni a masszát.(én szilikonos formába tettem, így nem kentem ki)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Előmelegített sütőben közepes lángon 20-25 perc alatt készre sütni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőből kivéve rácsra szedni, majd tálalás előtt langyosra hűteni."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT25M",
+        "x-recipe-keeper": {
+            "recipeId": "527e696d-3d92-4b38-80a6-6d05bdeaf52f",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Cukkinis-juhtúrós muffin",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT25M",
+            "recipeIngredients": [
+                "25 dkg cukkini",
+                "10 dkg juhtúró",
+                "10 dkg sajt(trappista)",
+                "1 db tojás",
+                "0,5 dl olaj",
+                "1,2 dl tej",
+                "20 dkg liszt",
+                "2 kk sütőpor",
+                "1 mk szódabikarbóna",
+                "1 tk só",
+                "örölt fehér bors"
+            ],
+            "recipeDirections": [
+                "Egy tálba tenni a tejet, az olajat, a tojást, a sót, az őrölt borsot és habosra keverni.",
+                "Ezután hozzáadni a juhtúrót és simára keverni.",
+                "A lisztet összekeverni a sütőporral és a szódabikarbónával, majd az előzőleg kikevert masszához keverni.",
+                "Végül nagy lyukú reszelőn belereszelni a cukkinit és a sajtot, majd szintén jól összekeverni.",
+                "A muffin formát kivajazni és megszórni zsemlemorzsával, majd belekanalazni a masszát.(én szilikonos formába tettem, így nem kentem ki)",
+                "Előmelegített sütőben közepes lángon 20-25 perc alatt készre sütni.",
+                "A sütőből kivéve rácsra szedni, majd tálalás előtt langyosra hűteni."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 105,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

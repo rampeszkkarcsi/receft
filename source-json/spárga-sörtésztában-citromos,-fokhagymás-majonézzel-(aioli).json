@@ -1,0 +1,100 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Spárga sörtésztában citromos, fokhagymás majonézzel (aioli)",
+        "recipeIngredient": [
+            "Sörtésztában sült spárga:",
+            "50 dkg fehér spárga (egyenes, és ne túl vékony)",
+            "15 dkg liszt",
+            "keményítő",
+            "3 tojás",
+            "1,5 dl sör",
+            "3 dk vaj",
+            "5 dkg reszelt parmezán",
+            "sütéshez olaj",
+            "Citromos aioli:",
+            "2 citrom",
+            "1 zöldcitrom",
+            "2 tojássárgája",
+            "1 dl olívaolaj",
+            "1 dl sima olaj",
+            "mustár",
+            "citromlé",
+            "fokhagyma"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet összekeverjük kevés keményítővel, olvasztott vajjal, három tojással a reszelt parmezánnal és a sörrel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát egy elektromos kézi keverővel jól összedolgozzuk, majd kb. 20 percig pihentetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A fehér spárgát megpucoljuk, 5-6 cm-es darabokra vágjuk, majd 1-2 percig blansírozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Amikor ezzel készen vagyunk, szűrőkanállal kivesszük a főzővízből."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tészta pihentetése után, amikorra a spárgák is kicsit kihűltek beleforgatjuk őket a sörtésztába."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Forró, bő olajban kisütjük, majd konyhai papírtörlőre szedjük, hogy az olajat leitassuk róla."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "c375e32d-e95a-4ef8-8f8b-df40e88abe8f",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Spárga sörtésztában citromos, fokhagymás majonézzel (aioli)",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "Sörtésztában sült spárga:",
+                "50 dkg fehér spárga (egyenes, és ne túl vékony)",
+                "15 dkg liszt",
+                "keményítő",
+                "3 tojás",
+                "1,5 dl sör",
+                "3 dk vaj",
+                "5 dkg reszelt parmezán",
+                "sütéshez olaj",
+                "Citromos aioli:",
+                "2 citrom",
+                "1 zöldcitrom",
+                "2 tojássárgája",
+                "1 dl olívaolaj",
+                "1 dl sima olaj",
+                "mustár",
+                "citromlé",
+                "fokhagyma"
+            ],
+            "recipeDirections": [
+                "A lisztet összekeverjük kevés keményítővel, olvasztott vajjal, három tojással a reszelt parmezánnal és a sörrel.",
+                "A tésztát egy elektromos kézi keverővel jól összedolgozzuk, majd kb. 20 percig pihentetjük.",
+                "A fehér spárgát megpucoljuk, 5-6 cm-es darabokra vágjuk, majd 1-2 percig blansírozzuk.",
+                "Amikor ezzel készen vagyunk, szűrőkanállal kivesszük a főzővízből.",
+                "A tészta pihentetése után, amikorra a spárgák is kicsit kihűltek beleforgatjuk őket a sörtésztába.",
+                "Forró, bő olajban kisütjük, majd konyhai papírtörlőre szedjük, hogy az olajat leitassuk róla."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 11,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

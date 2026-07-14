@@ -1,0 +1,93 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Káposztás táskák",
+        "recipeIngredient": [
+            "A töltelékhez:",
+            "600 g fehér káposzta",
+            "1 ek. kristálycukor",
+            "4 ek. olaj",
+            "só, bors",
+            "1 tojássárgája",
+            "chilipor",
+            "1 ek. liszt",
+            "A tésztához:",
+            "500 g liszt",
+            "250 g vaj/margarin",
+            "1 csapott ek. só",
+            "1 dl tejföl",
+            "1 kk. kristálycukor",
+            "25 g élesztő",
+            "1 tojássárgája",
+            "1 tojás a kenéshez",
+            "1 kk. olaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A töltelékhez a káposzta külső leveleit és torzsáját eltávolítjuk, megreszeljük. Aranybarnára pirítjuk a cukrot, hozzáadjuk az olajat és a káposztát, sózzuk, borsozzuk, és élénk tűzön, folyamatosan keverve megpirítjuk (15-20 perc). Hagyjuk teljesen kihűlni, aztán hozzáadjuk a tojássárgáját, utánasózzuk, borsozzuk. A chiliporral ízesítjük, végül megszórjuk a liszttel, összekeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Két sütőlapot kibélelünk sütőpapírral. A tésztához a lisztet elmorzsoljuk a vajjal/margarinnal és a sóval. A tejfölt meg langyosítjuk, elkeverjük benne a cukrot, az eltördelt élesztőt és a tojássárgáját, majd a liszthez adjuk, összegyúrjuk, és cipót formálunk belőle."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lisztezett munkalapon (pihentetés nélkül) 2-3 mm vékonyra nyújtjuk a tésztát, és lisztbe mártogatott 9-10 cm átmérőjű pogácsaszaggatóval a lehető legtöbb korongot szúrjuk ki belőle. A korongok közepére 1-1 kávéskanálnyi tölteléket púpozunk. A tojást kettéválasztjuk, a sárgáját elkeverjük az olajjal, a fehérjével pedig vékonyan megkenjük a tésztakorongok szegélyét. A tésztaszéleket egymásra hajtjuk-ragasztjuk, a táskákat a sütőlapokra sorakoztatjuk, szegélyüket villával vagy cakkos raviolisszaggatóval lenyomkodjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Konyharuhával letakarva fél órát kelesztjük. A sütőt előmelegítjük 180 °C-ra. A táskák tetejét megkenjük az olajos tojássárgájával (az olajtól fényesebbek lesznek), villával 1-2 helyen megszúrkáljuk, majd középső bordamagasságon 25-30 percig sütjük. A tepsiben hagyjuk kihűlni."
+            }
+        ],
+        "prepTime": "PT1H30M",
+        "cookTime": "PT30M",
+        "recipeYield": "40 DARABHOZ",
+        "image": "images/08ba2854-3846-4038-b0f7-a62712348dac_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "08ba2854-3846-4038-b0f7-a62712348dac",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Káposztás táskák",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "40 DARABHOZ",
+            "prepTime": "PT1H30M",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "A töltelékhez:",
+                "600 g fehér káposzta",
+                "1 ek. kristálycukor",
+                "4 ek. olaj",
+                "só, bors",
+                "1 tojássárgája",
+                "chilipor",
+                "1 ek. liszt",
+                "A tésztához:",
+                "500 g liszt",
+                "250 g vaj/margarin",
+                "1 csapott ek. só",
+                "1 dl tejföl",
+                "1 kk. kristálycukor",
+                "25 g élesztő",
+                "1 tojássárgája",
+                "1 tojás a kenéshez",
+                "1 kk. olaj"
+            ],
+            "recipeDirections": [
+                "A töltelékhez a káposzta külső leveleit és torzsáját eltávolítjuk, megreszeljük. Aranybarnára pirítjuk a cukrot, hozzáadjuk az olajat és a káposztát, sózzuk, borsozzuk, és élénk tűzön, folyamatosan keverve megpirítjuk (15-20 perc). Hagyjuk teljesen kihűlni, aztán hozzáadjuk a tojássárgáját, utánasózzuk, borsozzuk. A chiliporral ízesítjük, végül megszórjuk a liszttel, összekeverjük.",
+                "Két sütőlapot kibélelünk sütőpapírral. A tésztához a lisztet elmorzsoljuk a vajjal/margarinnal és a sóval. A tejfölt meg langyosítjuk, elkeverjük benne a cukrot, az eltördelt élesztőt és a tojássárgáját, majd a liszthez adjuk, összegyúrjuk, és cipót formálunk belőle.",
+                "Lisztezett munkalapon (pihentetés nélkül) 2-3 mm vékonyra nyújtjuk a tésztát, és lisztbe mártogatott 9-10 cm átmérőjű pogácsaszaggatóval a lehető legtöbb korongot szúrjuk ki belőle. A korongok közepére 1-1 kávéskanálnyi tölteléket púpozunk. A tojást kettéválasztjuk, a sárgáját elkeverjük az olajjal, a fehérjével pedig vékonyan megkenjük a tésztakorongok szegélyét. A tésztaszéleket egymásra hajtjuk-ragasztjuk, a táskákat a sütőlapokra sorakoztatjuk, szegélyüket villával vagy cakkos raviolisszaggatóval lenyomkodjuk.",
+                "Konyharuhával letakarva fél órát kelesztjük. A sütőt előmelegítjük 180 °C-ra. A táskák tetejét megkenjük az olajos tojássárgájával (az olajtól fényesebbek lesznek), villával 1-2 helyen megszúrkáljuk, majd középső bordamagasságon 25-30 percig sütjük. A tepsiben hagyjuk kihűlni."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/08ba2854-3846-4038-b0f7-a62712348dac_0.jpg"
+        },
+        "x-source-file": "a732a041-ba4a-4467-98ee-e33a82efcb46.zip",
+        "x-db-id": 262,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

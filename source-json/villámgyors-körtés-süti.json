@@ -1,0 +1,89 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Villámgyors körtés süti",
+        "recipeIngredient": [
+            "25 dkg liszt",
+            "20 dkg cukor",
+            "1 cs. vaníliás cukor",
+            "1 tojás",
+            "10 dkg szoba hőmérsékletű vaj",
+            "2,5 dl tej",
+            "4 ek. kakaópor",
+            "1 sütőpor",
+            "csipet só",
+            "nagyságtól függően 4-5 érett körte"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A hozzávalókat fakanállal jól kikeverjük, kivajazott tepsibe, vagy hőálló tálba simítjuk,"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "elrendezzük a tetején a meghámozott és kis ujjnyi szeletekre vágott körtét."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tetejét megszórjuk 1 ek cukorral, hogy a körte sütés közben kicsit karamellizálódjon."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztáját gazdagíthatjuk 1 maréknyi durvára vágott dióval, mazsolával, esetleg csoki darabokkal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A körte helyett használhatunk szeletelt nektarint vagy negyedelt szilvát is."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "180 fokra előmelegített sütőben 35 percig sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Nagyobb tepsiben, sűrűn rakni körtével, különben túl vastag a tésztája."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT35M",
+        "x-recipe-keeper": {
+            "recipeId": "03478b7c-2972-43ef-a9d3-3c28a83221e6",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Villámgyors körtés süti",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT35M",
+            "recipeIngredients": [
+                "25 dkg liszt",
+                "20 dkg cukor",
+                "1 cs. vaníliás cukor",
+                "1 tojás",
+                "10 dkg szoba hőmérsékletű vaj",
+                "2,5 dl tej",
+                "4 ek. kakaópor",
+                "1 sütőpor",
+                "csipet só",
+                "nagyságtól függően 4-5 érett körte"
+            ],
+            "recipeDirections": [
+                "A hozzávalókat fakanállal jól kikeverjük, kivajazott tepsibe, vagy hőálló tálba simítjuk,",
+                "elrendezzük a tetején a meghámozott és kis ujjnyi szeletekre vágott körtét.",
+                "A tetejét megszórjuk 1 ek cukorral, hogy a körte sütés közben kicsit karamellizálódjon.",
+                "A tésztáját gazdagíthatjuk 1 maréknyi durvára vágott dióval, mazsolával, esetleg csoki darabokkal.",
+                "A körte helyett használhatunk szeletelt nektarint vagy negyedelt szilvát is.",
+                "180 fokra előmelegített sütőben 35 percig sütjük.",
+                "Nagyobb tepsiben, sűrűn rakni körtével, különben túl vastag a tésztája."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 17,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

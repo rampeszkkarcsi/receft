@@ -1,0 +1,82 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Zöldséges kuszkusz fasírt",
+        "recipeIngredient": [
+            "1 db hámozott cukkini",
+            "1 db hámozott édesburgonya",
+            "1 db megtisztított sárgarépa",
+            "1 db közepes vöröshagyma",
+            "2 gerezd fokhagyma",
+            "2 db tojás",
+            "25 dkg reszelt sajt",
+            "1 bögre kuszkusz (nem kell megfőzni!)",
+            "ízlés szerint só",
+            "ízlés szerint bors",
+            "ízlés szerint kakukkfű"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségeket reszeljük le (cukkini, édesburgonya, közepes vöröshagyma, 2 cikk fokhagyma, sárgarépa) Keverjük össze."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lereszelt zöldségekhez adjuk hozzá a 2 tojást, 25 dkg reszelt sajtot, 1 bögre kuszkuszt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Jól dolgozzuk össze, fűszerezzük ízlés szerint."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Vizes kézzel formázunk kisebb golyókat és helyezzük muffin sütőformába."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Előremelegített sütőben, 220 C fokon süssük készre."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "3 adag",
+        "x-recipe-keeper": {
+            "recipeId": "4ced9840-34dc-4c1b-be2d-dbb4f83b0669",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Zöldséges kuszkusz fasírt",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "3 adag",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1 db hámozott cukkini",
+                "1 db hámozott édesburgonya",
+                "1 db megtisztított sárgarépa",
+                "1 db közepes vöröshagyma",
+                "2 gerezd fokhagyma",
+                "2 db tojás",
+                "25 dkg reszelt sajt",
+                "1 bögre kuszkusz (nem kell megfőzni!)",
+                "ízlés szerint só",
+                "ízlés szerint bors",
+                "ízlés szerint kakukkfű"
+            ],
+            "recipeDirections": [
+                "A zöldségeket reszeljük le (cukkini, édesburgonya, közepes vöröshagyma, 2 cikk fokhagyma, sárgarépa) Keverjük össze.",
+                "A lereszelt zöldségekhez adjuk hozzá a 2 tojást, 25 dkg reszelt sajtot, 1 bögre kuszkuszt.",
+                "Jól dolgozzuk össze, fűszerezzük ízlés szerint.",
+                "Vizes kézzel formázunk kisebb golyókat és helyezzük muffin sütőformába.",
+                "Előremelegített sütőben, 220 C fokon süssük készre."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 80,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

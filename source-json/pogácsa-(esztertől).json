@@ -1,0 +1,47 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Pogácsa (Esztertől)",
+        "recipeIngredient": [
+            "60 dkg liszt",
+            "45 dkg vaj",
+            "50 dkg 10-15 dkg juhtúró, gomolya, rendes túró",
+            "3 dkg élesztő (tejben felfuttatva)",
+            "1 ek só",
+            "2 tojás",
+            "kapor (kb. 1 marék)"
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/980e7c5a-a7ef-40c6-9e26-2c3cb5bf755d_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "980e7c5a-a7ef-40c6-9e26-2c3cb5bf755d",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Pogácsa (Esztertől)",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "60 dkg liszt",
+                "45 dkg vaj",
+                "50 dkg 10-15 dkg juhtúró, gomolya, rendes túró",
+                "3 dkg élesztő (tejben felfuttatva)",
+                "1 ek só",
+                "2 tojás",
+                "kapor (kb. 1 marék)"
+            ],
+            "recipeDirections": [],
+            "recipeNotes": [],
+            "photo0": "images/980e7c5a-a7ef-40c6-9e26-2c3cb5bf755d_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 32,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:14+00:00"
+    }
+]

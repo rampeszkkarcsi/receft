@@ -1,0 +1,97 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Bukta",
+        "recipeIngredient": [
+            "1/2 kg liszt",
+            "3 dkg élesztő",
+            "5 dkg cukor",
+            "só",
+            "2 tojássárgája",
+            "3 dl tej",
+            "6 dkg margarin",
+            "lekvár"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "1 dl langyos tejjel az élesztőt felfuttatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojássárgáját a cukorral elkeverjük, majd hozzáöntjük a maradék 2 dl langyos tejet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A liszt közepébe öntjük a tojásos keveréket és a felfuttatott élesztőt. Jól kidolgozzuk, hogy hólyagos legyen, majd hozzákeverjük az olvasztott margarint."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Langyos helyen kelesztjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lisztezett deszkára borítjuk, kb. 1 cm vastagra kinyújtjuk. 8–10 cm-es négyzetekre vágjuk, a közepükbe lekvárt teszünk, majd összecsomagoljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tetejét zsírral megkenjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fél órát pihentetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közepesen forró sütőben megsütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Csak tálaláskor szedjük szét, a tetejét porcukorral meghintjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/097621e8-7957-41bc-85e8-b5db97377bd5_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "097621e8-7957-41bc-85e8-b5db97377bd5",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Bukta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1/2 kg liszt",
+                "3 dkg élesztő",
+                "5 dkg cukor",
+                "só",
+                "2 tojássárgája",
+                "3 dl tej",
+                "6 dkg margarin",
+                "lekvár"
+            ],
+            "recipeDirections": [
+                "1 dl langyos tejjel az élesztőt felfuttatjuk.",
+                "A tojássárgáját a cukorral elkeverjük, majd hozzáöntjük a maradék 2 dl langyos tejet.",
+                "A liszt közepébe öntjük a tojásos keveréket és a felfuttatott élesztőt. Jól kidolgozzuk, hogy hólyagos legyen, majd hozzákeverjük az olvasztott margarint.",
+                "Langyos helyen kelesztjük.",
+                "Lisztezett deszkára borítjuk, kb. 1 cm vastagra kinyújtjuk. 8–10 cm-es négyzetekre vágjuk, a közepükbe lekvárt teszünk, majd összecsomagoljuk.",
+                "A tetejét zsírral megkenjük.",
+                "Fél órát pihentetjük.",
+                "Közepesen forró sütőben megsütjük.",
+                "Csak tálaláskor szedjük szét, a tetejét porcukorral meghintjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/097621e8-7957-41bc-85e8-b5db97377bd5_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 4,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Raffaello",
+        "recipeIngredient": [
+            "25 dg Rama",
+            "30 dg porcukor",
+            "30 dg kókuszreszelék",
+            "30 dg tejpor",
+            "1,5 dl víz"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A vizet a cukorral 3-4 percig fözzük, beletesszük a Rámát, ha elolvadt, akkor a tejport adjuk hozzá, a végén belekeverjük a kókuszreszeléket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "3-4 órát állni hagyjuk a hütöben, amíg meg nem keményedik."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Vizes kézzel golyókat formálunk. A közepébe mandulát, mogyorót, vagy diót tehetünk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Végül kókuszreszelékben megforgatjuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "18",
+        "image": "images/903403af-ec40-450c-93a9-2aca0bf7c7e4_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "903403af-ec40-450c-93a9-2aca0bf7c7e4",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Raffaello",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "18",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "25 dg Rama",
+                "30 dg porcukor",
+                "30 dg kókuszreszelék",
+                "30 dg tejpor",
+                "1,5 dl víz"
+            ],
+            "recipeDirections": [
+                "A vizet a cukorral 3-4 percig fözzük, beletesszük a Rámát, ha elolvadt, akkor a tejport adjuk hozzá, a végén belekeverjük a kókuszreszeléket.",
+                "3-4 órát állni hagyjuk a hütöben, amíg meg nem keményedik.",
+                "Vizes kézzel golyókat formálunk. A közepébe mandulát, mogyorót, vagy diót tehetünk.",
+                "Végül kókuszreszelékben megforgatjuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/903403af-ec40-450c-93a9-2aca0bf7c7e4_0.jpg"
+        },
+        "x-source-file": "6927f13b-408a-4c16-9b05-60d162e1329b.zip",
+        "x-db-id": 194,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

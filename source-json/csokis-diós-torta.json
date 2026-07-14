@@ -1,0 +1,88 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Csokis-diós torta",
+        "recipeIngredient": [
+            "A tésztához",
+            "8 db tojásfehérje",
+            "8 dkg finomliszt",
+            "16 dkg cukor",
+            "0.5 csomag sütőpor",
+            "1 csomag vaníliás cukor (opcionális)",
+            "4 dkg cukrozatlan kakaópor",
+            "5 dkg dió (darált)",
+            "Az összeállításhoz",
+            "5 ek lekvár/ dzsem (savanykás, keményebb gyümölcslekvár)",
+            "10 dkg étcsokoládé",
+            "5 dkg vaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tojásfehérjét kemény habbá verjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beletesszük a többi hozzávalót, párszor átkeverjük, hogy jól elegyedjenek a tojáshabbal és sütőpapírral bélelt kapcsos tortaformába öntjük. (Sütőpapir nagyon fontos, anélkül leragad. Nem elég neki, ha kikenjük a formát!)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Előmelegített sütőben 40 perc alatt készre sütjük. (Tűpróba!)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kivesszük, 15 percet pihentetjük, majd kettévágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Valamilyen savanykás, keményebb lekvárral megtöltjük, ami nem fog belőle kifolyni)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A csokit a vajjal vízgőz felett megolvasztjuk, összekeverjük, és bevonjuk vele a torta tetejét."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT40M",
+        "x-recipe-keeper": {
+            "recipeId": "9fe6d23f-63a4-48d0-9f1f-a039581f31de",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Csokis-diós torta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT40M",
+            "recipeIngredients": [
+                "A tésztához",
+                "8 db tojásfehérje",
+                "8 dkg finomliszt",
+                "16 dkg cukor",
+                "0.5 csomag sütőpor",
+                "1 csomag vaníliás cukor (opcionális)",
+                "4 dkg cukrozatlan kakaópor",
+                "5 dkg dió (darált)",
+                "Az összeállításhoz",
+                "5 ek lekvár/ dzsem (savanykás, keményebb gyümölcslekvár)",
+                "10 dkg étcsokoládé",
+                "5 dkg vaj"
+            ],
+            "recipeDirections": [
+                "A tojásfehérjét kemény habbá verjük.",
+                "Beletesszük a többi hozzávalót, párszor átkeverjük, hogy jól elegyedjenek a tojáshabbal és sütőpapírral bélelt kapcsos tortaformába öntjük. (Sütőpapir nagyon fontos, anélkül leragad. Nem elég neki, ha kikenjük a formát!)",
+                "Előmelegített sütőben 40 perc alatt készre sütjük. (Tűpróba!)",
+                "Kivesszük, 15 percet pihentetjük, majd kettévágjuk.",
+                "Valamilyen savanykás, keményebb lekvárral megtöltjük, ami nem fog belőle kifolyni).",
+                "A csokit a vajjal vízgőz felett megolvasztjuk, összekeverjük, és bevonjuk vele a torta tetejét."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "5d69ba0e-6fbf-4ffa-86b3-7aaa925b1eab.zip",
+        "x-db-id": 165,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

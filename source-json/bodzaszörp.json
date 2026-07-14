@@ -1,0 +1,98 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Bodzaszörp",
+        "recipeIngredient": [
+            "13 kg cukor",
+            "41 6 liter víz",
+            "12-15 bodzavirágzat",
+            "3 citrom",
+            "10 dkg citromsav vagy citrompótló",
+            "Kevés Na-benzoát"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Elsó nap a vízből és a cukorból sűrű sziru-pot fözünk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Másnap elkeverjük benne a citromsavat, és kettéöntjük két 5 literes befőttesüvegbe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beletesszük a karikára vágott citromot, a bodzavirágokat, és kistányérral lefedjük az üvegeket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hűvös helyre tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Naponta egyszer jól felkeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "4-5 napig hagyjuk így érni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezután leszűrjük, 1 kiskanál nátrium-benzoátot feloldunk kevés forró vizben, és a szörpbe keverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Üvegekbe töltjük, és higitva fogyasztjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha igazi bodzaizre vágysz, érdemes időt szárni a valódi bodzaszörp exeszitésére."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha esetleg elfeledkeznél egy-egy üveg szörpről, ne aggódj, 4-5 év után még finomabb, muskotályos izt kap"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/f540b9cf-9f36-42c1-b7e5-f89242b08ae0_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "f540b9cf-9f36-42c1-b7e5-f89242b08ae0",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Bodzaszörp",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "13 kg cukor",
+                "41 6 liter víz",
+                "12-15 bodzavirágzat",
+                "3 citrom",
+                "10 dkg citromsav vagy citrompótló",
+                "Kevés Na-benzoát"
+            ],
+            "recipeDirections": [
+                "Elsó nap a vízből és a cukorból sűrű sziru-pot fözünk.",
+                "Másnap elkeverjük benne a citromsavat, és kettéöntjük két 5 literes befőttesüvegbe.",
+                "Beletesszük a karikára vágott citromot, a bodzavirágokat, és kistányérral lefedjük az üvegeket.",
+                "Hűvös helyre tesszük.",
+                "Naponta egyszer jól felkeverjük.",
+                "4-5 napig hagyjuk így érni.",
+                "Ezután leszűrjük, 1 kiskanál nátrium-benzoátot feloldunk kevés forró vizben, és a szörpbe keverjük.",
+                "Üvegekbe töltjük, és higitva fogyasztjuk.",
+                "Ha igazi bodzaizre vágysz, érdemes időt szárni a valódi bodzaszörp exeszitésére.",
+                "Ha esetleg elfeledkeznél egy-egy üveg szörpről, ne aggódj, 4-5 év után még finomabb, muskotályos izt kap"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/f540b9cf-9f36-42c1-b7e5-f89242b08ae0_0.jpg"
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 23,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

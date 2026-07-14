@@ -1,0 +1,114 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sült csirkecomb gombás töltelékágyon",
+        "recipeIngredient": [
+            "3 db csirkecomb",
+            "1 db zsemle",
+            "1/2 kg csiperke gomba",
+            "1 fej lilahagyma",
+            "5 dkg bacon",
+            "1 marék mirelit borsó",
+            "1 csokor petrezselyem",
+            "1 db tojás",
+            "csirkefűszer keverék, bors",
+            "1/2 kg krumpli",
+            "1 csokor petrezselyem",
+            "zsiradék"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A combokat félbevágtam, a felső combot még kettőbe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Csirkefűszer keverékkel bedörzsöltem és kevés forró zsiradékon mindkét oldalukat elősütöttem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Míg sültek, elkészítettem a \"tölteléket\":"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zsemlét tejbe áztattam."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadtam egy fej felaprított lilahagymát, az előzőleg kisütött bacon kockákat, a feldarabolt és szintén megpirított gombát, valamint a mirelit borsót és az összevágott petrezselymet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beleütöttem egy egész tojást, ízesítettem a csirkefűszer keverékkel, egy kis borssal és alaposan összekevertem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy tűzálló tálban elegyengettem a masszát majd bőrös felükkel fölfelé ráültettem a combdarabokat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Alufóliával lefedtem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "180 fokos előmelegített sütőbe toltam és egy órán át sütöttem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "220 fokra felemeltem a hőt és fólia nélkül, kb. negyed órán át légkeveréssel pirosra sütöttem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Petrezselymes burgonyával tálaltam."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT1H15M",
+        "recipeYield": "3 főre",
+        "x-recipe-keeper": {
+            "recipeId": "85ab6964-8bd0-4ed1-83de-938213cbf5c8",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sült csirkecomb gombás töltelékágyon",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "3 főre",
+            "prepTime": "PT0S",
+            "cookTime": "PT1H15M",
+            "recipeIngredients": [
+                "3 db csirkecomb",
+                "1 db zsemle",
+                "1/2 kg csiperke gomba",
+                "1 fej lilahagyma",
+                "5 dkg bacon",
+                "1 marék mirelit borsó",
+                "1 csokor petrezselyem",
+                "1 db tojás",
+                "csirkefűszer keverék, bors",
+                "1/2 kg krumpli",
+                "1 csokor petrezselyem",
+                "zsiradék"
+            ],
+            "recipeDirections": [
+                "A combokat félbevágtam, a felső combot még kettőbe.",
+                "Csirkefűszer keverékkel bedörzsöltem és kevés forró zsiradékon mindkét oldalukat elősütöttem.",
+                "Míg sültek, elkészítettem a \"tölteléket\":",
+                "A zsemlét tejbe áztattam.",
+                "Hozzáadtam egy fej felaprított lilahagymát, az előzőleg kisütött bacon kockákat, a feldarabolt és szintén megpirított gombát, valamint a mirelit borsót és az összevágott petrezselymet.",
+                "Beleütöttem egy egész tojást, ízesítettem a csirkefűszer keverékkel, egy kis borssal és alaposan összekevertem.",
+                "Egy tűzálló tálban elegyengettem a masszát majd bőrös felükkel fölfelé ráültettem a combdarabokat.",
+                "Alufóliával lefedtem.",
+                "180 fokos előmelegített sütőbe toltam és egy órán át sütöttem.",
+                "220 fokra felemeltem a hőt és fólia nélkül, kb. negyed órán át légkeveréssel pirosra sütöttem.",
+                "Petrezselymes burgonyával tálaltam."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "5d69ba0e-6fbf-4ffa-86b3-7aaa925b1eab.zip",
+        "x-db-id": 179,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

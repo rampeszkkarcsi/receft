@@ -1,0 +1,109 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Aszalt barackos pulykamell",
+        "recipeIngredient": [
+            "800 g pulykamellfilé egyben",
+            "só, bors",
+            "chilipor",
+            "80 g aszalt, puha sárgabarack",
+            "4 szelet bacon/füstölt szalonna",
+            "2 zsályalevél",
+            "1 ág rozmaring (10 cm-es)",
+            "8-10 gerezd fokhagyma",
+            "1 dl száraz fehérbor",
+            "2 ek. olaj",
+            "néhány salátalevél",
+            "A körethez",
+            "40 g puha mazsola",
+            "20 g vaj/margarin",
+            "200 g hosszú szemű rizs",
+            "20 g mandulapálcika",
+            "1-2 szál petrezselyem",
+            "1-2 karika csípős paprika"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A húst leöblítjük, szárazra töröljük, rostjaival párhuzamosan 3 vonalban mélyen bemetszszük. A nyílások belsejét meghintjük sóval, borssal és chiliporral. A sárgabarackokat leöblítjük, papírkendőre fektetve felitatjuk róluk a nedvességet, és a nyílásokba fektetjük. A sütőt előmelegítjük 180 °C-ra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Összehajtjuk-nyomkodjuk a húst, bambuszpálcikával megtűzzük-formára igazítjuk, megszórjuk egy kevés sóval. Betakarjuk a félbehajtott, kissé egymásra csúsztatott szalonnaszeletekkel, vékony zsineggel sonkaszerűen megkötözzük, végül kihuzigáljuk belőle a pálcikákat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A húst mély sütőedénybe fektetjük, mellédobjuk a leöblített zsályaleveleket, rozmaringot és a hámozatlan fokhagymagerezdeket. Megöntözzük a borral és az olajjal, lefedjük, a sütőben puhára pároljuk (45-50 perc), majd takaratlanul pirosra sütjük (további 15-20 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A körethez a mazsolát forró vízzel leöblítjük, lecsepegtetjük. A vajat/margarint felforrósítjuk, rádobjuk a rizst, kissé megsózzuk, felöntjük 4 dl vízzel/húslevessel, felforraljuk és lefedjük. Betesszük a (már pirulásban lévő) hús mellé/alá a sütőbe, és 20-25 perc alatt puhára pároljuk (készíthető mikrohullámú sütőben is)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A mandulát serpenyőben, zsiradék nélkül rózsaszínűre pirítjuk, és azonnal lapostányérra csúsztatjuk, hogy meg ne égjen."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A húst vágódeszkára emeljük, alufóliával letakarva 10 percig pihentetjük. Lehántjuk róla a zsineget, nem túl vékonyan felszeleteljük, és tálra rendezzük. Mellészedjük a vele sült fokhagymát, meglocsoljuk az átszúrt pecsenyelével, és salátalevelekkel díszítjük. A mazsolát és a mandulát a rizshez keverjük, külön tálban kínáljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "TIPP: Nagyon mutatós, ha a rizst hideg vízzel kiöblített, kerek hasú teáscsészékbe vagy tálkákba nyomkodjuk, és óvatosan, hogy formájukat megtartsák, lapos tálra fordítjuk-borítjuk."
+            }
+        ],
+        "prepTime": "PT1H45M",
+        "cookTime": "PT1H5M",
+        "recipeYield": "4 személyre",
+        "image": "images/93613b3b-b166-435c-a8a4-d5b9888ffb95_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "93613b3b-b166-435c-a8a4-d5b9888ffb95",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Aszalt barackos pulykamell",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H45M",
+            "cookTime": "PT1H5M",
+            "recipeIngredients": [
+                "800 g pulykamellfilé egyben",
+                "só, bors",
+                "chilipor",
+                "80 g aszalt, puha sárgabarack",
+                "4 szelet bacon/füstölt szalonna",
+                "2 zsályalevél",
+                "1 ág rozmaring (10 cm-es)",
+                "8-10 gerezd fokhagyma",
+                "1 dl száraz fehérbor",
+                "2 ek. olaj",
+                "néhány salátalevél",
+                "A körethez",
+                "40 g puha mazsola",
+                "20 g vaj/margarin",
+                "200 g hosszú szemű rizs",
+                "20 g mandulapálcika",
+                "1-2 szál petrezselyem",
+                "1-2 karika csípős paprika"
+            ],
+            "recipeDirections": [
+                "A húst leöblítjük, szárazra töröljük, rostjaival párhuzamosan 3 vonalban mélyen bemetszszük. A nyílások belsejét meghintjük sóval, borssal és chiliporral. A sárgabarackokat leöblítjük, papírkendőre fektetve felitatjuk róluk a nedvességet, és a nyílásokba fektetjük. A sütőt előmelegítjük 180 °C-ra.",
+                "Összehajtjuk-nyomkodjuk a húst, bambuszpálcikával megtűzzük-formára igazítjuk, megszórjuk egy kevés sóval. Betakarjuk a félbehajtott, kissé egymásra csúsztatott szalonnaszeletekkel, vékony zsineggel sonkaszerűen megkötözzük, végül kihuzigáljuk belőle a pálcikákat.",
+                "A húst mély sütőedénybe fektetjük, mellédobjuk a leöblített zsályaleveleket, rozmaringot és a hámozatlan fokhagymagerezdeket. Megöntözzük a borral és az olajjal, lefedjük, a sütőben puhára pároljuk (45-50 perc), majd takaratlanul pirosra sütjük (további 15-20 perc).",
+                "A körethez a mazsolát forró vízzel leöblítjük, lecsepegtetjük. A vajat/margarint felforrósítjuk, rádobjuk a rizst, kissé megsózzuk, felöntjük 4 dl vízzel/húslevessel, felforraljuk és lefedjük. Betesszük a (már pirulásban lévő) hús mellé/alá a sütőbe, és 20-25 perc alatt puhára pároljuk (készíthető mikrohullámú sütőben is).",
+                "A mandulát serpenyőben, zsiradék nélkül rózsaszínűre pirítjuk, és azonnal lapostányérra csúsztatjuk, hogy meg ne égjen.",
+                "A húst vágódeszkára emeljük, alufóliával letakarva 10 percig pihentetjük. Lehántjuk róla a zsineget, nem túl vékonyan felszeleteljük, és tálra rendezzük. Mellészedjük a vele sült fokhagymát, meglocsoljuk az átszúrt pecsenyelével, és salátalevelekkel díszítjük. A mazsolát és a mandulát a rizshez keverjük, külön tálban kínáljuk.",
+                "TIPP: Nagyon mutatós, ha a rizst hideg vízzel kiöblített, kerek hasú teáscsészékbe vagy tálkákba nyomkodjuk, és óvatosan, hogy formájukat megtartsák, lapos tálra fordítjuk-borítjuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/93613b3b-b166-435c-a8a4-d5b9888ffb95_0.jpg",
+            "photo1": "images/93613b3b-b166-435c-a8a4-d5b9888ffb95_1.jpg"
+        },
+        "x-source-file": "a732a041-ba4a-4467-98ee-e33a82efcb46.zip",
+        "x-db-id": 257,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

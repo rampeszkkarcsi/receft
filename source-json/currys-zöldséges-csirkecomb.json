@@ -1,0 +1,79 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Currys-zöldséges csirkecomb",
+        "recipeIngredient": [
+            "4 nagyobb csirkecomb",
+            "1 nagy fej hagyma",
+            "400 g sárgarépa",
+            "400 g sampinyon gomba",
+            "4-5 szál újhagyma zöldjével",
+            "1 csokor petrezselyem",
+            "4 ek. olaj",
+            "só, bors",
+            "1 kk. curry",
+            "2 dl száraz fehérbor",
+            "1 ek. étkezési keményítő"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A csirkecombokat megmossuk, szárazra törölgetjük. A zöldségeket megtisztítjuk, a hagymát finomra vágjuk, a sárgarépát és a gombát vékonyan felszeleteljük. Az újhagymákat kissé rézsútosan felkarikázzuk. A petrezselymet leöblítjük és finomra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Nagyobb serpenyőben felforraljuk az olajat, beletesszük a combokat, meghintjük sóval, borssal, és mindkét oldalukat hirtelen elősütjük, aztán kivesszük a serpenyőből."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőolajban üvegesre pároljuk a hagymát, hozzáadjuk a répát, a gombát, a curryt (ízlés szerint 1-2 csipet chiliport), végül a bort, és összekeverjük. Visszatesszük bele a csirkecombokat, majd fedő alatt, meg-megrázogatva puhára pároljuk (30-35 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A húst tálra rendezzük, melegen tartjuk. 2 ek. hideg vízzel elkeverjük a keményítőt, a zöldségraguhoz adjuk, és éppen csak összeforraljuk (1 perc). Utánasózzuk, borsozzuk, végül hozzákeverjük az újhagymát zöldjével együtt (ezzel már nem főzzük), és a hús mellé szedve, azonnal tálaljuk. Burgonyapüré, sós vízben főtt, petrezselymes burgonya vagy párolt rizs illik hozzá."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/6b0d6b51-6499-48bf-9afe-da2a4d6501ab_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "6b0d6b51-6499-48bf-9afe-da2a4d6501ab",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Currys-zöldséges csirkecomb",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "4 nagyobb csirkecomb",
+                "1 nagy fej hagyma",
+                "400 g sárgarépa",
+                "400 g sampinyon gomba",
+                "4-5 szál újhagyma zöldjével",
+                "1 csokor petrezselyem",
+                "4 ek. olaj",
+                "só, bors",
+                "1 kk. curry",
+                "2 dl száraz fehérbor",
+                "1 ek. étkezési keményítő"
+            ],
+            "recipeDirections": [
+                "A csirkecombokat megmossuk, szárazra törölgetjük. A zöldségeket megtisztítjuk, a hagymát finomra vágjuk, a sárgarépát és a gombát vékonyan felszeleteljük. Az újhagymákat kissé rézsútosan felkarikázzuk. A petrezselymet leöblítjük és finomra vágjuk.",
+                "Nagyobb serpenyőben felforraljuk az olajat, beletesszük a combokat, meghintjük sóval, borssal, és mindkét oldalukat hirtelen elősütjük, aztán kivesszük a serpenyőből.",
+                "A sütőolajban üvegesre pároljuk a hagymát, hozzáadjuk a répát, a gombát, a curryt (ízlés szerint 1-2 csipet chiliport), végül a bort, és összekeverjük. Visszatesszük bele a csirkecombokat, majd fedő alatt, meg-megrázogatva puhára pároljuk (30-35 perc).",
+                "A húst tálra rendezzük, melegen tartjuk. 2 ek. hideg vízzel elkeverjük a keményítőt, a zöldségraguhoz adjuk, és éppen csak összeforraljuk (1 perc). Utánasózzuk, borsozzuk, végül hozzákeverjük az újhagymát zöldjével együtt (ezzel már nem főzzük), és a hús mellé szedve, azonnal tálaljuk. Burgonyapüré, sós vízben főtt, petrezselymes burgonya vagy párolt rizs illik hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/6b0d6b51-6499-48bf-9afe-da2a4d6501ab_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 215,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

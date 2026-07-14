@@ -1,0 +1,63 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kukorica leves",
+        "recipeIngredient": [
+            "15-20 dkg kockázott bacon",
+            "húsleves kocka",
+            "4-5 db krumpli",
+            "0,5 kg kukorica",
+            "2 dl főző tejszín",
+            "Olaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A krumplit kockákra vágva sós vízbe áztatjuk, a szalonnát az olajon enyhén megpirítjuk, majd hozzáadjuk a krumplit."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Felöntjük vízzel, és beletesszük a leveskockát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha a krumpli puha, beletesszük a kukoricát, a tárkonyt és a tejszínt."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/ab7db1a8-afd2-4e2e-affd-0f5c0b9104ca_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "ab7db1a8-afd2-4e2e-affd-0f5c0b9104ca",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kukorica leves",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "15-20 dkg kockázott bacon",
+                "húsleves kocka",
+                "4-5 db krumpli",
+                "0,5 kg kukorica",
+                "2 dl főző tejszín",
+                "Olaj"
+            ],
+            "recipeDirections": [
+                "A krumplit kockákra vágva sós vízbe áztatjuk, a szalonnát az olajon enyhén megpirítjuk, majd hozzáadjuk a krumplit.",
+                "Felöntjük vízzel, és beletesszük a leveskockát.",
+                "Ha a krumpli puha, beletesszük a kukoricát, a tárkonyt és a tejszínt."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/ab7db1a8-afd2-4e2e-affd-0f5c0b9104ca_0.jpg"
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 28,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Bögrés süti",
+        "recipeIngredient": [
+            "1 tojás",
+            "1 bögre cukor",
+            "1 bögre tej",
+            "bögre dió",
+            "1 bögre liszt",
+            "1 csomag sütőpor",
+            "1 citrom reszelt héja",
+            "margarin a forma kikenéséhez"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tojást a cukorral és a sütőporral habosra kikeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk: apróra vágott diót, reszelt citromhéjat, tejet, lisztet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kizsírozott, kilisztezett közepes tepsiben sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütés: kb. 45 perc 200 °C (megjegyzés: „2 dl-es bögrével”)"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT45M",
+        "image": "images/720439a8-5ebe-4f52-89d0-a5ecbdda3fec_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "720439a8-5ebe-4f52-89d0-a5ecbdda3fec",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Bögrés süti",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT45M",
+            "recipeIngredients": [
+                "1 tojás",
+                "1 bögre cukor",
+                "1 bögre tej",
+                "bögre dió",
+                "1 bögre liszt",
+                "1 csomag sütőpor",
+                "1 citrom reszelt héja",
+                "margarin a forma kikenéséhez"
+            ],
+            "recipeDirections": [
+                "A tojást a cukorral és a sütőporral habosra kikeverjük.",
+                "Hozzáadjuk: apróra vágott diót, reszelt citromhéjat, tejet, lisztet.",
+                "Kizsírozott, kilisztezett közepes tepsiben sütjük.",
+                "Sütés: kb. 45 perc 200 °C (megjegyzés: „2 dl-es bögrével”)"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/720439a8-5ebe-4f52-89d0-a5ecbdda3fec_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 3,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

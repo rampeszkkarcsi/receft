@@ -1,0 +1,86 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Csirkecomb chilis szőlőkörettel",
+        "recipeIngredient": [
+            "4 nagyobb csirkecomb",
+            "1 ek. grillfűszerkeverék",
+            "2 ek. olaj",
+            "1+1 dl száraz fehérbor",
+            "1 kis chilipaprika",
+            "400 g fehér csemegeszőlő",
+            "1+1 ek. vaj/margarin",
+            "1 ek. kristálycukor",
+            "1/2 citrom leve",
+            "1/2 rúd fahéj",
+            "só",
+            "bors",
+            "600 g burgonya",
+            "1 kis fej hagyma",
+            "1 dl tejszín",
+            "2-3 szál petrezselyem",
+            "1 ek. pirított gyalult mandula"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A csirkecombokat megmossuk, bedörzsöljük a fűszerkeverékkel, sütőedénybe tesszük, meglocsoljuk az olajjal és 1 dl borral. Lefedjük, 180 °C-ra előmelegített sütőben 30 percig pároljuk, aztán fedetlenül aranybarnára sütjük (20 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A chilipaprikát apró kockákra vágjuk, a szőlőt megmossuk és leszemezzük. 1 ek. vajban/margarinban megpirítjuk a cukrot, felöntjük a maradék 1 dl borral és a citromlével, beledobjuk a fahéjat, majd addig forraljuk, amíg a cukor fel nem olvad. Beledobjuk a szőlőt, a chilipaprikát, ízlés szerint sót, frissen őrölt borsot, éppen csak összeforraljuk, csinos tálba szedve melegen tartjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A burgonyát meghámozzuk, felkockázzuk, sós vízben puhára főzzük. A hagymát felaprózzuk, 1 ek. vajban/margarinban megpirítjuk. A burgonyát leszűrjük, megtörjük a felforrósított tejszínnel, végül beleforgatjuk a hagymát. Két egymásba forgatott evőkanállal galuskákat formálunk belőle, lapos tálra rendezzük. Melléjük fektetjük a csirkecombokat, tetejüket meghintjük a finomra vágott petrezselyemmel, és a mandulával megszórt szőlőkörettel kínáljuk."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/423169a7-3dba-42d9-8eb5-54fa7c2890c0_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "423169a7-3dba-42d9-8eb5-54fa7c2890c0",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Csirkecomb chilis szőlőkörettel",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "4 nagyobb csirkecomb",
+                "1 ek. grillfűszerkeverék",
+                "2 ek. olaj",
+                "1+1 dl száraz fehérbor",
+                "1 kis chilipaprika",
+                "400 g fehér csemegeszőlő",
+                "1+1 ek. vaj/margarin",
+                "1 ek. kristálycukor",
+                "1/2 citrom leve",
+                "1/2 rúd fahéj",
+                "só",
+                "bors",
+                "600 g burgonya",
+                "1 kis fej hagyma",
+                "1 dl tejszín",
+                "2-3 szál petrezselyem",
+                "1 ek. pirított gyalult mandula"
+            ],
+            "recipeDirections": [
+                "A csirkecombokat megmossuk, bedörzsöljük a fűszerkeverékkel, sütőedénybe tesszük, meglocsoljuk az olajjal és 1 dl borral. Lefedjük, 180 °C-ra előmelegített sütőben 30 percig pároljuk, aztán fedetlenül aranybarnára sütjük (20 perc).",
+                "A chilipaprikát apró kockákra vágjuk, a szőlőt megmossuk és leszemezzük. 1 ek. vajban/margarinban megpirítjuk a cukrot, felöntjük a maradék 1 dl borral és a citromlével, beledobjuk a fahéjat, majd addig forraljuk, amíg a cukor fel nem olvad. Beledobjuk a szőlőt, a chilipaprikát, ízlés szerint sót, frissen őrölt borsot, éppen csak összeforraljuk, csinos tálba szedve melegen tartjuk.",
+                "A burgonyát meghámozzuk, felkockázzuk, sós vízben puhára főzzük. A hagymát felaprózzuk, 1 ek. vajban/margarinban megpirítjuk. A burgonyát leszűrjük, megtörjük a felforrósított tejszínnel, végül beleforgatjuk a hagymát. Két egymásba forgatott evőkanállal galuskákat formálunk belőle, lapos tálra rendezzük. Melléjük fektetjük a csirkecombokat, tetejüket meghintjük a finomra vágott petrezselyemmel, és a mandulával megszórt szőlőkörettel kínáljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/423169a7-3dba-42d9-8eb5-54fa7c2890c0_0.jpg"
+        },
+        "x-source-file": "78c7b1d4-56f5-40ee-9e76-a7d93ffbed93.zip",
+        "x-db-id": 145,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

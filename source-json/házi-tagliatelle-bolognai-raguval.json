@@ -1,0 +1,117 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Házi tagliatelle bolognai raguval",
+        "recipeIngredient": [
+            "30 dkg darált marhahús",
+            "1 fej vöröshagyma",
+            "extra szűz olívaolaj",
+            "10 dkg sárgarépa",
+            "10 dkg fehérrépa",
+            "1 dl száraz fehérbor",
+            "3 ek. sűrített paradicsom",
+            "só, bors",
+            "1 gerezd fokhagyma",
+            "2 dl tej",
+            "parmezán a tálaláshoz",
+            "A tésztához",
+            "30 dkg finomliszt",
+            "3 egész tojás",
+            "só"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A raguhoz az apróra kockázott hagymát dinszteljük kevés olívaolajon, hozzáadjuk a tisztított, vékonyra reszelt répákat, tovább dinszteljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Adjuk hozzá a darált húst, pirítsuk le."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Öntsük fel a borral, 1 dl vízzel, adjuk hozzá a paradicsomsűrítményt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sózzuk, borsozzuk, ízesítsük az aprított fokhagymával."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Takarékon, lefedve főzzük puhára a húst kb. 1 óra alatt, közben öntögessük fel egy-egy adag tejjel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztához a lisztet keverjük el a tojásokkal és 1 teáskanál sóval."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Gyúrjuk kemény tésztává, pihentessük 30 percet, tésztagéppel nyújtsuk ki lapckká, majd szélesmetélt-fejjel csíkozzuk fel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tésztagép nélkül: lisztezett felületen nyújtsuk ki egészen vékonyra a tésztát (több részletben), majd késsel vékonyan csíkozzuk fel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Főzzük ki lobogó sós vízben, szűrjük le, majd tálaljuk a bolognai raguval."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Talaláskor reszelhetünk parmezánt a tetejére."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT1H",
+        "recipeYield": "4 SZEMÉLYRE",
+        "image": "images/4b082474-9b9c-4b4c-9a69-2b4d558020ee_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "4b082474-9b9c-4b4c-9a69-2b4d558020ee",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Házi tagliatelle bolognai raguval",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 SZEMÉLYRE",
+            "prepTime": "PT0S",
+            "cookTime": "PT1H",
+            "recipeIngredients": [
+                "30 dkg darált marhahús",
+                "1 fej vöröshagyma",
+                "extra szűz olívaolaj",
+                "10 dkg sárgarépa",
+                "10 dkg fehérrépa",
+                "1 dl száraz fehérbor",
+                "3 ek. sűrített paradicsom",
+                "só, bors",
+                "1 gerezd fokhagyma",
+                "2 dl tej",
+                "parmezán a tálaláshoz",
+                "A tésztához",
+                "30 dkg finomliszt",
+                "3 egész tojás",
+                "só"
+            ],
+            "recipeDirections": [
+                "A raguhoz az apróra kockázott hagymát dinszteljük kevés olívaolajon, hozzáadjuk a tisztított, vékonyra reszelt répákat, tovább dinszteljük.",
+                "Adjuk hozzá a darált húst, pirítsuk le.",
+                "Öntsük fel a borral, 1 dl vízzel, adjuk hozzá a paradicsomsűrítményt.",
+                "Sózzuk, borsozzuk, ízesítsük az aprított fokhagymával.",
+                "Takarékon, lefedve főzzük puhára a húst kb. 1 óra alatt, közben öntögessük fel egy-egy adag tejjel.",
+                "A tésztához a lisztet keverjük el a tojásokkal és 1 teáskanál sóval.",
+                "Gyúrjuk kemény tésztává, pihentessük 30 percet, tésztagéppel nyújtsuk ki lapckká, majd szélesmetélt-fejjel csíkozzuk fel.",
+                "Tésztagép nélkül: lisztezett felületen nyújtsuk ki egészen vékonyra a tésztát (több részletben), majd késsel vékonyan csíkozzuk fel.",
+                "Főzzük ki lobogó sós vízben, szűrjük le, majd tálaljuk a bolognai raguval.",
+                "Talaláskor reszelhetünk parmezánt a tetejére."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/4b082474-9b9c-4b4c-9a69-2b4d558020ee_0.jpg"
+        },
+        "x-source-file": "78c7b1d4-56f5-40ee-9e76-a7d93ffbed93.zip",
+        "x-db-id": 148,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Medvehagymás, sonkás pogácsa",
+        "recipeIngredient": [
+            "25 dkg liszt",
+            "1 ek sütőpor",
+            "1 tk só",
+            "2 tojás",
+            "1,2 dl tejszín",
+            "1 csokor medvehagyma",
+            "20 dkg főtt, füstölt tarja vagy sonka",
+            "10 dkg érett, kemény juhsajt",
+            "15 dkg hideg vaj",
+            "kenéshez: 1 tojás"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Először összekeverjük a száraz anyagokat, azaz a lisztet, a sót és a sütőport, majd egy aprítógépben a hideg, felkockázott vaj felével összedaráljuk, és megszórjuk a juhsajttal. Félretesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Összekeverjük a nedves hozzávalókat: azaz a hideg tejszínt a tojásokkal, majd a száraz és a nedves anyagokat összekeverjük, és beleforgatjuk a felkockázott sonkát, valamint az apróra vágott medvehagymát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az így kapott tésztát kézzel összedolgozzuk, átgyúrjuk, majd sodrófával, egy lisztezett deszkán kinyújtjuk, és háromszög alakú pogácsákat szaggatunk belőle."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütőpapírral bélelt tepsire, egymástól 2-3 cm-re ültetjük őket, és a tetejüket megkenjük a felvert tojással, 200 C fokra előmelegített sütőben, 20 perc alatt a tetejét aranybarnára sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "recipeYield": "16 darab",
+        "x-recipe-keeper": {
+            "recipeId": "5aaea168-38de-428a-bd1d-e0104c2fe001",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Medvehagymás, sonkás pogácsa",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "16 darab",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "25 dkg liszt",
+                "1 ek sütőpor",
+                "1 tk só",
+                "2 tojás",
+                "1,2 dl tejszín",
+                "1 csokor medvehagyma",
+                "20 dkg főtt, füstölt tarja vagy sonka",
+                "10 dkg érett, kemény juhsajt",
+                "15 dkg hideg vaj",
+                "kenéshez: 1 tojás"
+            ],
+            "recipeDirections": [
+                "Először összekeverjük a száraz anyagokat, azaz a lisztet, a sót és a sütőport, majd egy aprítógépben a hideg, felkockázott vaj felével összedaráljuk, és megszórjuk a juhsajttal. Félretesszük.",
+                "Összekeverjük a nedves hozzávalókat: azaz a hideg tejszínt a tojásokkal, majd a száraz és a nedves anyagokat összekeverjük, és beleforgatjuk a felkockázott sonkát, valamint az apróra vágott medvehagymát.",
+                "Az így kapott tésztát kézzel összedolgozzuk, átgyúrjuk, majd sodrófával, egy lisztezett deszkán kinyújtjuk, és háromszög alakú pogácsákat szaggatunk belőle.",
+                "Sütőpapírral bélelt tepsire, egymástól 2-3 cm-re ültetjük őket, és a tetejüket megkenjük a felvert tojással, 200 C fokra előmelegített sütőben, 20 perc alatt a tetejét aranybarnára sütjük."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 246,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

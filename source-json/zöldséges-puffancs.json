@@ -1,0 +1,81 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Zöldséges puffancs",
+        "recipeIngredient": [
+            "400 g burgonya",
+            "200 g sárgarépa",
+            "150 g cukkini",
+            "150 g spenót",
+            "1 közepes fej hagyma",
+            "1 ek. vaj/margarin",
+            "1 gerezd fokhagyma",
+            "só, bors",
+            "1 csipet őrölt szerecsendió",
+            "2 tojássárgája",
+            "4 ek. liszt",
+            "olaj a sütéshez"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségeket megtisztítjuk, megmossuk. A hagymát finomra vágjuk, megfonnyasztjuk a vajban/margarinban, rädobjuk az alaposan lecsepegtetett spenótot, fedő alatt kb. 5 percig pároljuk, levét elfőzzük, hűlni hagyjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Szűrőtálba fektetünk egy tiszta vászonszalvétát, nagy lyukú reszelőn sorra belereszeljük a burgonyát, a sárgarépát és a cukkinit, a szalvéta csücskeit összefogva kicsavarjuk belőlük a nedvességet. Mély tálba szórjuk, hozzákeverjük a spenótot, az áttört fokhagymát, ízlés szerint sót, borsot, szerecsendiót, a tojássárgákat és a lisztet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Nagyobb serpenyőben felforrósítunk 2 ek. olajat, beleteszünk 4-5 evőkanálnyi masszát, kanálháttal kissé ellapítjuk, és mérsékelt tűzön, mindkét oldalukat pirosra sütjük (ha túl gyorsan sülnek, belül nyersek maradnak!). Papírkendőre szedve felitatjuk róluk a zsiradékot, és melegen tartjuk, amíg a többi puffancsot is megsütjük. Salátalevelekkel vidámítva mihamarabb tálaljuk. Sült húsokhoz, virslihez, gombához köretként adhatjuk; sajttal megszórva önálló étel!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "VÁLTOZAT: A masszához 100 g főtt csemegekukoricát is keverhetünk; nyers helyett héjában főtt burgonyával is készíthetjük."
+            }
+        ],
+        "prepTime": "PT45M",
+        "cookTime": "PT0S",
+        "recipeYield": "16 darab",
+        "image": "images/5321579d-cd96-42b9-b918-43735a2e1451_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "5321579d-cd96-42b9-b918-43735a2e1451",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Zöldséges puffancs",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "16 darab",
+            "prepTime": "PT45M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "400 g burgonya",
+                "200 g sárgarépa",
+                "150 g cukkini",
+                "150 g spenót",
+                "1 közepes fej hagyma",
+                "1 ek. vaj/margarin",
+                "1 gerezd fokhagyma",
+                "só, bors",
+                "1 csipet őrölt szerecsendió",
+                "2 tojássárgája",
+                "4 ek. liszt",
+                "olaj a sütéshez"
+            ],
+            "recipeDirections": [
+                "A zöldségeket megtisztítjuk, megmossuk. A hagymát finomra vágjuk, megfonnyasztjuk a vajban/margarinban, rädobjuk az alaposan lecsepegtetett spenótot, fedő alatt kb. 5 percig pároljuk, levét elfőzzük, hűlni hagyjuk.",
+                "Szűrőtálba fektetünk egy tiszta vászonszalvétát, nagy lyukú reszelőn sorra belereszeljük a burgonyát, a sárgarépát és a cukkinit, a szalvéta csücskeit összefogva kicsavarjuk belőlük a nedvességet. Mély tálba szórjuk, hozzákeverjük a spenótot, az áttört fokhagymát, ízlés szerint sót, borsot, szerecsendiót, a tojássárgákat és a lisztet.",
+                "Nagyobb serpenyőben felforrósítunk 2 ek. olajat, beleteszünk 4-5 evőkanálnyi masszát, kanálháttal kissé ellapítjuk, és mérsékelt tűzön, mindkét oldalukat pirosra sütjük (ha túl gyorsan sülnek, belül nyersek maradnak!). Papírkendőre szedve felitatjuk róluk a zsiradékot, és melegen tartjuk, amíg a többi puffancsot is megsütjük. Salátalevelekkel vidámítva mihamarabb tálaljuk. Sült húsokhoz, virslihez, gombához köretként adhatjuk; sajttal megszórva önálló étel!",
+                "VÁLTOZAT: A masszához 100 g főtt csemegekukoricát is keverhetünk; nyers helyett héjában főtt burgonyával is készíthetjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/5321579d-cd96-42b9-b918-43735a2e1451_0.jpg"
+        },
+        "x-source-file": "8e973511-a906-412c-a871-c6205380a313.zip",
+        "x-db-id": 211,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

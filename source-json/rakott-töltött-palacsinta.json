@@ -1,0 +1,88 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Rakott töltött palacsinta",
+        "recipeIngredient": [
+            "10 vastagabb palacsinta",
+            "20 dkg főtt (legjobb: füstölt) hús",
+            "15 dkg főtt-füstölt sonka",
+            "1 nagyobb doboz tejföl",
+            "1 tojás",
+            "20 dkg sajt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A főtt húst + sonkát apróra vágjuk és összekeverjük fél doboz tejföllel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sajtot lereszeljük, 1/3-át félretesszük a tetejére szórásához."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy jénait kivajazunk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tejföl másik felét összekeverjük a tojással, sózzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A palacsintákat megtöltjük a húsos cuccal, majd megszórjuk reszelt sajttal és feltekerjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megtöltött palacsintákat a tepsibe helyezzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Végül a tejföl-tojás keverékkel leöntjük, a félretett sajttal megszórjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közepes lángon sütjük, míg a sajt meg nem pirul."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/5745e86e-ba36-4efd-8460-8d6bd47ff5fc_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "5745e86e-ba36-4efd-8460-8d6bd47ff5fc",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Rakott töltött palacsinta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "10 vastagabb palacsinta",
+                "20 dkg főtt (legjobb: füstölt) hús",
+                "15 dkg főtt-füstölt sonka",
+                "1 nagyobb doboz tejföl",
+                "1 tojás",
+                "20 dkg sajt"
+            ],
+            "recipeDirections": [
+                "A főtt húst + sonkát apróra vágjuk és összekeverjük fél doboz tejföllel.",
+                "A sajtot lereszeljük, 1/3-át félretesszük a tetejére szórásához.",
+                "Egy jénait kivajazunk.",
+                "A tejföl másik felét összekeverjük a tojással, sózzuk.",
+                "A palacsintákat megtöltjük a húsos cuccal, majd megszórjuk reszelt sajttal és feltekerjük.",
+                "A megtöltött palacsintákat a tepsibe helyezzük.",
+                "Végül a tejföl-tojás keverékkel leöntjük, a félretett sajttal megszórjuk.",
+                "Közepes lángon sütjük, míg a sajt meg nem pirul."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/5745e86e-ba36-4efd-8460-8d6bd47ff5fc_0.jpg"
+        },
+        "x-source-file": "6927f13b-408a-4c16-9b05-60d162e1329b.zip",
+        "x-db-id": 195,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

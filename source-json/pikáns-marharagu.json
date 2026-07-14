@@ -1,0 +1,91 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Pikáns marharagu",
+        "recipeIngredient": [
+            "800 g marhalábszár/felsál",
+            "1 nagy fej hagyma",
+            "4-5 gerezd fokhagyma",
+            "1 ág rozmaring (10 cm-es)",
+            "1/2 kk. őrölt köménymag",
+            "1/2 citrom reszelt héja",
+            "1/2 kk. majoránna",
+            "3+2 ek. olaj",
+            "1 ek. paradicsompüré",
+            "1 ek. csípős paprikakrém",
+            "só, bors",
+            "1/2 dl 5%-os vörösborecet",
+            "1/2 liter marhahúsleves",
+            "1-1 piros, sárga és zöld húsú paprika",
+            "4-5 szál újhagyma",
+            "1 ek. étkezési keményítő",
+            "1/2 dl száraz vörösbor"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A húst leöblítjük, 3x3 cm-es kockákra vágjuk. A hagymát és a fokhagymát meghámozzuk, a hagymát apróra felkockázzuk. A fokhagymát áttörjük, a rozmaringot finomra vágjuk, és összekeverjük a felsorolt fűszerekkel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát 3 ek. olajban megfonnyasztjuk, rádobjuk a húst, 2-3 percig pirítjuk, majd hozzáadjuk a fokhagymás fűszerkeveréket, a paradicsompürét, a paprikakrémet, ízlés szerint sót, borsot, végül aláöntjük a borecetet és a húslevest. Fedő alatt, mérsékelt tűzön puhára főzzük (1 és 1/2 óra)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A paprikákat megmossuk, kicsumázzuk, 2 cm-es rombuszokra vágjuk. Az újhagymát (egy kevés zöldet is) rézsútosan felkarikázzuk. A keményítőt elkeverjük a vörösborban, a húshoz adjuk, és éppen csak sűrűsödésig főzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A maradék 2 ek. olajat felforrósítjuk, rádobjuk a felaprózott paprika és újhagymát, majd erős tűzön éppen csak megpirítjuk. Sózzuk, borsozzuk, végül a húshoz adjuk, és salátalevelekkel díszítve, currys galuskával kínáljuk (receptje a fortélyoldalon olvasható)."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT1H30M",
+        "recipeYield": "4 PERSON",
+        "image": "images/3ebd6942-a6ed-4717-bf64-8bee79dcb22a_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "3ebd6942-a6ed-4717-bf64-8bee79dcb22a",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Pikáns marharagu",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT0S",
+            "cookTime": "PT1H30M",
+            "recipeIngredients": [
+                "800 g marhalábszár/felsál",
+                "1 nagy fej hagyma",
+                "4-5 gerezd fokhagyma",
+                "1 ág rozmaring (10 cm-es)",
+                "1/2 kk. őrölt köménymag",
+                "1/2 citrom reszelt héja",
+                "1/2 kk. majoránna",
+                "3+2 ek. olaj",
+                "1 ek. paradicsompüré",
+                "1 ek. csípős paprikakrém",
+                "só, bors",
+                "1/2 dl 5%-os vörösborecet",
+                "1/2 liter marhahúsleves",
+                "1-1 piros, sárga és zöld húsú paprika",
+                "4-5 szál újhagyma",
+                "1 ek. étkezési keményítő",
+                "1/2 dl száraz vörösbor"
+            ],
+            "recipeDirections": [
+                "A húst leöblítjük, 3x3 cm-es kockákra vágjuk. A hagymát és a fokhagymát meghámozzuk, a hagymát apróra felkockázzuk. A fokhagymát áttörjük, a rozmaringot finomra vágjuk, és összekeverjük a felsorolt fűszerekkel.",
+                "A hagymát 3 ek. olajban megfonnyasztjuk, rádobjuk a húst, 2-3 percig pirítjuk, majd hozzáadjuk a fokhagymás fűszerkeveréket, a paradicsompürét, a paprikakrémet, ízlés szerint sót, borsot, végül aláöntjük a borecetet és a húslevest. Fedő alatt, mérsékelt tűzön puhára főzzük (1 és 1/2 óra).",
+                "A paprikákat megmossuk, kicsumázzuk, 2 cm-es rombuszokra vágjuk. Az újhagymát (egy kevés zöldet is) rézsútosan felkarikázzuk. A keményítőt elkeverjük a vörösborban, a húshoz adjuk, és éppen csak sűrűsödésig főzzük.",
+                "A maradék 2 ek. olajat felforrósítjuk, rádobjuk a felaprózott paprika és újhagymát, majd erős tűzön éppen csak megpirítjuk. Sózzuk, borsozzuk, végül a húshoz adjuk, és salátalevelekkel díszítve, currys galuskával kínáljuk (receptje a fortélyoldalon olvasható)."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/3ebd6942-a6ed-4717-bf64-8bee79dcb22a_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 228,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

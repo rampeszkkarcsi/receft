@@ -1,0 +1,105 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "NARANCSOS SZŰZÉRMÉK",
+        "recipeIngredient": [
+            "35 dkg szűzérme",
+            "két narancs",
+            "egy szál póréhagyma (kb. 20 dkg-os)",
+            "őrölt bors",
+            "egy evőkanál olaj",
+            "só",
+            "két teáskanál tejfel",
+            "egy teáskanál szójaszósz",
+            "egy teáskanál mustár"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Miután a húst megmostuk, konyhapapírral leitattuk róla a vizet, sze-ljük 2 cm vastag szeletekre."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A narancsot meghámozzuk, a gyümölcshúst kifejtjük a gerezdeket borító hártyából."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kicsepegő levet kis tálkában felfogjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A póréhagymát megtisztítjuk, 3 cm-es darabokra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A húst megborsozzuk, és teflonedényben, a felforrósított olajban mind-két oldalát hirtelen pirosra sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ekkor a serpenyőbe tesszük a póré-darabokat, és ráöntjük a narancslevet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fedő alatt, kis lángon 3-4 percig sütjük, közben a húst egy pillanatra kivesszük, a serpenyőben levő pecsenyelébe belekeverjük a szójaszószt, a mustárt és a tejfelt, majd visszarakjuk a húst s vele együtt a narancsdarabokat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Még egy percig sütjük, majd tálaljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Rizs vagy friss, ropogós franciakenyér illik hozzá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Narancs helyett aromás vilmoskörtével és 1 dl-nyi dobozos körtelével is készíthetjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "két személyre",
+        "image": "images/2f68c633-fed4-4acb-b5a4-1541afb191f1_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "2f68c633-fed4-4acb-b5a4-1541afb191f1",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "NARANCSOS SZŰZÉRMÉK",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "két személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "35 dkg szűzérme",
+                "két narancs",
+                "egy szál póréhagyma (kb. 20 dkg-os)",
+                "őrölt bors",
+                "egy evőkanál olaj",
+                "só",
+                "két teáskanál tejfel",
+                "egy teáskanál szójaszósz",
+                "egy teáskanál mustár"
+            ],
+            "recipeDirections": [
+                "Miután a húst megmostuk, konyhapapírral leitattuk róla a vizet, sze-ljük 2 cm vastag szeletekre.",
+                "A narancsot meghámozzuk, a gyümölcshúst kifejtjük a gerezdeket borító hártyából.",
+                "A kicsepegő levet kis tálkában felfogjuk.",
+                "A póréhagymát megtisztítjuk, 3 cm-es darabokra vágjuk.",
+                "A húst megborsozzuk, és teflonedényben, a felforrósított olajban mind-két oldalát hirtelen pirosra sütjük.",
+                "Ekkor a serpenyőbe tesszük a póré-darabokat, és ráöntjük a narancslevet.",
+                "Fedő alatt, kis lángon 3-4 percig sütjük, közben a húst egy pillanatra kivesszük, a serpenyőben levő pecsenyelébe belekeverjük a szójaszószt, a mustárt és a tejfelt, majd visszarakjuk a húst s vele együtt a narancsdarabokat.",
+                "Még egy percig sütjük, majd tálaljuk.",
+                "Rizs vagy friss, ropogós franciakenyér illik hozzá.",
+                "Narancs helyett aromás vilmoskörtével és 1 dl-nyi dobozos körtelével is készíthetjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/2f68c633-fed4-4acb-b5a4-1541afb191f1_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 227,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

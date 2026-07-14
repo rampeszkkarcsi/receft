@@ -1,0 +1,103 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gyümölcskrémes",
+        "recipeIngredient": [
+            "Piskótalap",
+            "6 tojás",
+            "12 dkg cukor",
+            "12 dkg liszt",
+            "Krém",
+            "7 dl tej",
+            "1 csomag vaníliás cukor",
+            "10 dkg cukor",
+            "6 dkg liszt",
+            "4 tojássárgája + a fehérje",
+            "1/2 csomag vaníliás pudingpor"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tojásfehérjéből kemény habot verünk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojássárgáját összekeverjük a cukorral, majd óvatosan belekeverjük a habba."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Végül lazán hozzáadjuk a lisztet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kivajazott, lisztezett tepsiben 170 °C-on kb. 14 perc alatt megsütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "6 dl tejet a vaníliás cukorral és a cukorral felforralunk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a tojássárgáját kikeverjük a pudingporral, a liszttel és 1 dl tejjel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ráöntjük a felforrt tejet, majd kis lángon, állandó keverés mellett sűrűre főzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha kissé kihűlt, rákenjük a gyümölccsel megszórt piskótalapra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megmaradt tojásfehérjéből kemény habot verünk, és a forró krémbe keverjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT14M",
+        "image": "images/5348fd76-11c6-4e3e-bf86-81554d54b8f3_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "5348fd76-11c6-4e3e-bf86-81554d54b8f3",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gyümölcskrémes",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT14M",
+            "recipeIngredients": [
+                "Piskótalap",
+                "6 tojás",
+                "12 dkg cukor",
+                "12 dkg liszt",
+                "Krém",
+                "7 dl tej",
+                "1 csomag vaníliás cukor",
+                "10 dkg cukor",
+                "6 dkg liszt",
+                "4 tojássárgája + a fehérje",
+                "1/2 csomag vaníliás pudingpor"
+            ],
+            "recipeDirections": [
+                "A tojásfehérjéből kemény habot verünk.",
+                "A tojássárgáját összekeverjük a cukorral, majd óvatosan belekeverjük a habba.",
+                "Végül lazán hozzáadjuk a lisztet.",
+                "Kivajazott, lisztezett tepsiben 170 °C-on kb. 14 perc alatt megsütjük.",
+                "6 dl tejet a vaníliás cukorral és a cukorral felforralunk.",
+                "Közben a tojássárgáját kikeverjük a pudingporral, a liszttel és 1 dl tejjel.",
+                "Ráöntjük a felforrt tejet, majd kis lángon, állandó keverés mellett sűrűre főzzük.",
+                "Ha kissé kihűlt, rákenjük a gyümölccsel megszórt piskótalapra.",
+                "A megmaradt tojásfehérjéből kemény habot verünk, és a forró krémbe keverjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/5348fd76-11c6-4e3e-bf86-81554d54b8f3_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 16,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

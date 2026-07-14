@@ -1,0 +1,113 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Rakott pulyka",
+        "recipeIngredient": [
+            "50 dkg darált pulykahús",
+            "50 dkg száraztészta (legjobb a csavart tészta)",
+            "1 nagyobb fej hagyma",
+            "1 gerezd fokhagyma",
+            "1 kk. őrölt pirospaprika",
+            "1 csípős paprika",
+            "2 paradicsom",
+            "2 dl vörösbor",
+            "10 dkg reszelt füstölt sajt",
+            "olaj",
+            "őrölt bors",
+            "só",
+            "A SZÓSZHOZ",
+            "3 dkg vaj",
+            "5 dl tej",
+            "1 gerezd fokhagyma",
+            "1 ek. liszt",
+            "2 dl tejföl"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Kevés olajon üvegesre pároljuk a felvágott hagymát, hozzáadjuk a zúzott fokhagymát, a pirospaprikát, a húst, és pár percig pároljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a felszeletelt csípős paprikát és az apróra vágott paradicsomot, sózzuk, borsozzuk, és kb. 5 percig sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ekkor felöntjük a borral, és még 5 percig főzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A szószhoz a vajon megfuttatjuk a lisztet, majd állandó keverés mellett fokozatosan hozzáadjuk a hideg tejet és összefőzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fokhagymával ízesítjük, és miután kicsit hűlt, elkeverjük a tejföllel"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát kifőzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy sütőtálat kikenünk olajjal, beletesszük a tésztát, rászórjuk a húst, és a szósszal bevonjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tetejét megszórjuk a reszelt sajttal, és 180°C-os sütőben készre sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT50M",
+        "recipeYield": "6 adag",
+        "image": "images/6bf183f5-27c7-4471-add9-ac7b71e7a59a_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "6bf183f5-27c7-4471-add9-ac7b71e7a59a",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Rakott pulyka",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "6 adag",
+            "prepTime": "PT0S",
+            "cookTime": "PT50M",
+            "recipeIngredients": [
+                "50 dkg darált pulykahús",
+                "50 dkg száraztészta (legjobb a csavart tészta)",
+                "1 nagyobb fej hagyma",
+                "1 gerezd fokhagyma",
+                "1 kk. őrölt pirospaprika",
+                "1 csípős paprika",
+                "2 paradicsom",
+                "2 dl vörösbor",
+                "10 dkg reszelt füstölt sajt",
+                "olaj",
+                "őrölt bors",
+                "só",
+                "A SZÓSZHOZ",
+                "3 dkg vaj",
+                "5 dl tej",
+                "1 gerezd fokhagyma",
+                "1 ek. liszt",
+                "2 dl tejföl"
+            ],
+            "recipeDirections": [
+                "Kevés olajon üvegesre pároljuk a felvágott hagymát, hozzáadjuk a zúzott fokhagymát, a pirospaprikát, a húst, és pár percig pároljuk.",
+                "Hozzáadjuk a felszeletelt csípős paprikát és az apróra vágott paradicsomot, sózzuk, borsozzuk, és kb. 5 percig sütjük.",
+                "Ekkor felöntjük a borral, és még 5 percig főzzük.",
+                "A szószhoz a vajon megfuttatjuk a lisztet, majd állandó keverés mellett fokozatosan hozzáadjuk a hideg tejet és összefőzzük.",
+                "Fokhagymával ízesítjük, és miután kicsit hűlt, elkeverjük a tejföllel",
+                "A tésztát kifőzzük.",
+                "Egy sütőtálat kikenünk olajjal, beletesszük a tésztát, rászórjuk a húst, és a szósszal bevonjuk.",
+                "A tetejét megszórjuk a reszelt sajttal, és 180°C-os sütőben készre sütjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/6bf183f5-27c7-4471-add9-ac7b71e7a59a_0.jpg"
+        },
+        "x-source-file": "a732a041-ba4a-4467-98ee-e33a82efcb46.zip",
+        "x-db-id": 271,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

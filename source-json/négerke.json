@@ -1,0 +1,69 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Négerke",
+        "recipeIngredient": [
+            "Tészta",
+            "25 dkg liszt",
+            "3 csapott evőkanál kakaó",
+            "1 csapott teáskanál 2 Dr. Oetker Sütőpor",
+            "15 dkg cukor",
+            "1 tasak Dr Oetker Vanillincukor",
+            "1 tojás",
+            "1 evőkanál víz",
+            "12,5 dkg margarin"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Tészta: a liszt egy részét, a kakaót és a sütőport összekeverjük és a munkafelületre szitáljuk. A közepébe mélyedést alakítunk ki, hozzáadjuk a cukrot, vanillincukrot, tojást és vizet, és sűrű masszává dolgozzuk. Hozzáadjuk a kis darabokra vágott hideg margarint, liszttel megszórjuk és a közepétől kezdve sima tésztává gyúrjuk. Ha a munkafelülethez ragad, hagyjuk a tésztát egy kis ideig pihenni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát vékonyra nyújtjuk, kerek, 5-6 cm átmérőjű különböző kiszúróval formákat szaggatunk, amiket a kizsírozott sütőlemezre helyezünk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütés: 3-4 fokozaton 5 percig előmelegített gázsütőben a süteményt 5-10 percig, elektromos sütőben 175-200 °C-on szintén 5-10 percig sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT10M",
+        "image": "images/78deb68e-3cc3-46f7-838f-523dccfa6b9b_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "78deb68e-3cc3-46f7-838f-523dccfa6b9b",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Négerke",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT10M",
+            "recipeIngredients": [
+                "Tészta",
+                "25 dkg liszt",
+                "3 csapott evőkanál kakaó",
+                "1 csapott teáskanál 2 Dr. Oetker Sütőpor",
+                "15 dkg cukor",
+                "1 tasak Dr Oetker Vanillincukor",
+                "1 tojás",
+                "1 evőkanál víz",
+                "12,5 dkg margarin"
+            ],
+            "recipeDirections": [
+                "Tészta: a liszt egy részét, a kakaót és a sütőport összekeverjük és a munkafelületre szitáljuk. A közepébe mélyedést alakítunk ki, hozzáadjuk a cukrot, vanillincukrot, tojást és vizet, és sűrű masszává dolgozzuk. Hozzáadjuk a kis darabokra vágott hideg margarint, liszttel megszórjuk és a közepétől kezdve sima tésztává gyúrjuk. Ha a munkafelülethez ragad, hagyjuk a tésztát egy kis ideig pihenni.",
+                "A tésztát vékonyra nyújtjuk, kerek, 5-6 cm átmérőjű különböző kiszúróval formákat szaggatunk, amiket a kizsírozott sütőlemezre helyezünk.",
+                "Sütés: 3-4 fokozaton 5 percig előmelegített gázsütőben a süteményt 5-10 percig, elektromos sütőben 175-200 °C-on szintén 5-10 percig sütjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/78deb68e-3cc3-46f7-838f-523dccfa6b9b_0.jpg"
+        },
+        "x-source-file": "6927f13b-408a-4c16-9b05-60d162e1329b.zip",
+        "x-db-id": 192,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

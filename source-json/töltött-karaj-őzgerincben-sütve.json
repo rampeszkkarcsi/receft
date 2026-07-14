@@ -1,0 +1,112 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Töltött karaj őzgerincben sütve",
+        "recipeIngredient": [
+            "6-7 szelet karaj",
+            "1/2 kg darált hús",
+            "2 szikkadt zsemle",
+            "4 tojás",
+            "20 dkg sajt",
+            "35 dkg bacon szalonna",
+            "só",
+            "bors",
+            "fokhagyma",
+            "ételízesítő",
+            "petrezselyemzöld"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Az őzgerincformát kiolajozzuk, Kibéleljük bacon szalonnával úgy hogy a szélein lelógjon."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A karajt kiklopfoljuk fűszerezzük ízlés szerint."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hússzeleteket előbb lisztbe, majd tojásba mártjuk, reszelt sajtba forgatjuk, és így tesszük a formába."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zsemlét beáztatjuk vízbe vagy tejbe, ki ahogyan szereti, a darált húst beízesítjük sóval, borssal, fokhagymával, petrezselyemmel, 2 tojást keverünk bele."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezt a tölteléket ráhelyezzük a formában lévő karajszeletekre, ezt is befedjük lisztbe, tojásba, sajtba forgatott karajjal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Legvégül a lelógó bacon szalonnát ráhajtogatjuk a hús tetejére."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Alufóliával lefedjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Előmelegített sütőben közepes lángon, kb 90 percig sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "45 perc után a fóliát levesszük, így még kb 20 percig sütjük, majd a formából kiborítva még 20-25 percig pirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Nagyon finom, laktató étel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Köretnek rizst, vagy akár petrezselymes krumplit tálalhatunk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT1H30M",
+        "recipeYield": "1 db őzgerinc formához",
+        "x-recipe-keeper": {
+            "recipeId": "9e7b3431-3447-4a7a-bd26-9501d8a714d3",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Töltött karaj őzgerincben sütve",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "1 db őzgerinc formához",
+            "prepTime": "PT0S",
+            "cookTime": "PT1H30M",
+            "recipeIngredients": [
+                "6-7 szelet karaj",
+                "1/2 kg darált hús",
+                "2 szikkadt zsemle",
+                "4 tojás",
+                "20 dkg sajt",
+                "35 dkg bacon szalonna",
+                "só",
+                "bors",
+                "fokhagyma",
+                "ételízesítő",
+                "petrezselyemzöld"
+            ],
+            "recipeDirections": [
+                "Az őzgerincformát kiolajozzuk, Kibéleljük bacon szalonnával úgy hogy a szélein lelógjon.",
+                "A karajt kiklopfoljuk fűszerezzük ízlés szerint.",
+                "A hússzeleteket előbb lisztbe, majd tojásba mártjuk, reszelt sajtba forgatjuk, és így tesszük a formába.",
+                "A zsemlét beáztatjuk vízbe vagy tejbe, ki ahogyan szereti, a darált húst beízesítjük sóval, borssal, fokhagymával, petrezselyemmel, 2 tojást keverünk bele.",
+                "Ezt a tölteléket ráhelyezzük a formában lévő karajszeletekre, ezt is befedjük lisztbe, tojásba, sajtba forgatott karajjal.",
+                "Legvégül a lelógó bacon szalonnát ráhajtogatjuk a hús tetejére.",
+                "Alufóliával lefedjük.",
+                "Előmelegített sütőben közepes lángon, kb 90 percig sütjük.",
+                "45 perc után a fóliát levesszük, így még kb 20 percig sütjük, majd a formából kiborítva még 20-25 percig pirítjuk.",
+                "Nagyon finom, laktató étel.",
+                "Köretnek rizst, vagy akár petrezselymes krumplit tálalhatunk."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 117,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

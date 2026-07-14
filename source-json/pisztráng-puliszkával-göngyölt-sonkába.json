@@ -1,0 +1,94 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "PISZTRÁNG PULISZKÁVAL GÖNGYÖLT SONKÁBA",
+        "recipeIngredient": [
+            "8 darab bőr nélküli pisztrángfilé (kb. 80 dkg)",
+            "8 szelet vékony, szárított sonka (pl. fekete-erdei)",
+            "5 dkg vaj",
+            "olaj",
+            "3 szál friss kakukkfű",
+            "A puliszkához",
+            "só",
+            "20 dkg kukoricadara",
+            "5 dkg vaj",
+            "3 szál friss kakukkfű",
+            "10 dkg dió"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A pisztrángfiléket csipesszel kiszálkázzuk, majd mindegyiket 1-1 szelet sonkára fektetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megkenjük szoba-hőmérsékletű vajjal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Szorosan feltekerjük, zsineggel megkötözzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Serpenyőben, kevés olajon, folyamatosan forgatva, a kakukkfüvet mellétéve kb. 20 perc alatt megsütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A puliszkához négyszeres mennyiségű vizet forralunk, megsózzuk, beleöntjük a kukoricadarát, és habverővel kevergetve, kis lángon megfőzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tűzről lehúzva belekeverjük a vajat, majd tálaláskor megszórjuk kakukkfűlevéllel és dióval."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A pisztráng mellé kínáljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "recipeYield": "4 személyre",
+        "image": "images/3715bdc0-3de6-4939-8606-417cdc549dad_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "3715bdc0-3de6-4939-8606-417cdc549dad",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "PISZTRÁNG PULISZKÁVAL GÖNGYÖLT SONKÁBA",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "8 darab bőr nélküli pisztrángfilé (kb. 80 dkg)",
+                "8 szelet vékony, szárított sonka (pl. fekete-erdei)",
+                "5 dkg vaj",
+                "olaj",
+                "3 szál friss kakukkfű",
+                "A puliszkához",
+                "só",
+                "20 dkg kukoricadara",
+                "5 dkg vaj",
+                "3 szál friss kakukkfű",
+                "10 dkg dió"
+            ],
+            "recipeDirections": [
+                "A pisztrángfiléket csipesszel kiszálkázzuk, majd mindegyiket 1-1 szelet sonkára fektetjük.",
+                "Megkenjük szoba-hőmérsékletű vajjal.",
+                "Szorosan feltekerjük, zsineggel megkötözzük.",
+                "Serpenyőben, kevés olajon, folyamatosan forgatva, a kakukkfüvet mellétéve kb. 20 perc alatt megsütjük.",
+                "A puliszkához négyszeres mennyiségű vizet forralunk, megsózzuk, beleöntjük a kukoricadarát, és habverővel kevergetve, kis lángon megfőzzük.",
+                "A tűzről lehúzva belekeverjük a vajat, majd tálaláskor megszórjuk kakukkfűlevéllel és dióval.",
+                "A pisztráng mellé kínáljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/3715bdc0-3de6-4939-8606-417cdc549dad_0.jpg"
+        },
+        "x-source-file": "6e03e7be-5be6-419b-9334-749488909078.zip",
+        "x-db-id": 131,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

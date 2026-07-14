@@ -1,0 +1,111 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "PARADICSOMOS RAKOTT CUKKINI",
+        "recipeIngredient": [
+            "800 g cukkini",
+            "só",
+            "800 g hámozott paradicsom",
+            "150 g szeletelt ementáli vagy trappista sajt",
+            "30 g vaj vagy margarin",
+            "petrezselyem",
+            "A besamelhez",
+            "50 g vaj vagy margarin",
+            "50 g liszt",
+            "5 dl tej",
+            "4 tojássárgája",
+            "100 g reszelt parmezán (jellegű) sajt",
+            "1 kis csokor petrezselyem",
+            "só",
+            "bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Az alaposan megmosott - nem hámozott! - cukkinik végeit levágjuk, hosszában, uborkagyalun vékonyra felszeleteljük, fél órára kissé besózzuk, hogy,,ellágyuljanak\" és formázhatók legyenek, papírkendővel megtörölgetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Elkészítjük a besamelt: a vajon rózsaszínűre pirítjuk a lisztet, apránként hozzáadjuk a felforrósított tejet, simára keverjük, szelíd tűzön sűrűre főzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Gyakran megkeverve - hogy a teteje ne bőrösödjön! - hagyjuk langyosra hűlni, egyenként beledolgozzuk a tojássárgákat, a reszelt sajt felét, a finomra vágott petrezselymet, ízlés szerint sózzuk, borsozzuk és félreteszünk belőle 3-4 evőkanállal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A paradicsomot gerezdekre vágjuk, magjait eltávolítjuk, szitára téve lecsepegtetjük; 2-3 evőkanálnyit félreteszünk belőle."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kivajazunk egy csinos sütőedényt, oldalát kibéleljük a kissé egymásra csúsztatott cukkiniszeletekkel, ügyelve, hogy a végük jócskán túllógjon a tál peremén."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az aljára is fektetünk,,bélést\", majd belesimítunk néhány kanál besamelt, erre egy sor sajtszelet kerül, majd egy réteg paradicsom, egy sor cukkini és ismét besamel stb., amíg a hozzávalók el nem fogynak."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Felhajtjuk a lelógó cukkinivégeket, megkenjük a félretett besamellel, majd a félretett paradicsommal és megszórjuk a maradék reszelt sajttal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Előmelegített sütőben, közepes hőmérsékleten (180 °C) kb. 50 percig sütjük, 8-10 percig pihentetjük, és a sütőedényben hagyva tálaljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tetejét petrezselyemmel díszítjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT50M",
+        "image": "images/dfcce8fe-a9e3-49ab-b00e-5004fe79bf80_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "dfcce8fe-a9e3-49ab-b00e-5004fe79bf80",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "PARADICSOMOS RAKOTT CUKKINI",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT50M",
+            "recipeIngredients": [
+                "800 g cukkini",
+                "só",
+                "800 g hámozott paradicsom",
+                "150 g szeletelt ementáli vagy trappista sajt",
+                "30 g vaj vagy margarin",
+                "petrezselyem",
+                "A besamelhez",
+                "50 g vaj vagy margarin",
+                "50 g liszt",
+                "5 dl tej",
+                "4 tojássárgája",
+                "100 g reszelt parmezán (jellegű) sajt",
+                "1 kis csokor petrezselyem",
+                "só",
+                "bors"
+            ],
+            "recipeDirections": [
+                "Az alaposan megmosott - nem hámozott! - cukkinik végeit levágjuk, hosszában, uborkagyalun vékonyra felszeleteljük, fél órára kissé besózzuk, hogy,,ellágyuljanak\" és formázhatók legyenek, papírkendővel megtörölgetjük.",
+                "Elkészítjük a besamelt: a vajon rózsaszínűre pirítjuk a lisztet, apránként hozzáadjuk a felforrósított tejet, simára keverjük, szelíd tűzön sűrűre főzzük.",
+                "Gyakran megkeverve - hogy a teteje ne bőrösödjön! - hagyjuk langyosra hűlni, egyenként beledolgozzuk a tojássárgákat, a reszelt sajt felét, a finomra vágott petrezselymet, ízlés szerint sózzuk, borsozzuk és félreteszünk belőle 3-4 evőkanállal.",
+                "A paradicsomot gerezdekre vágjuk, magjait eltávolítjuk, szitára téve lecsepegtetjük; 2-3 evőkanálnyit félreteszünk belőle.",
+                "Kivajazunk egy csinos sütőedényt, oldalát kibéleljük a kissé egymásra csúsztatott cukkiniszeletekkel, ügyelve, hogy a végük jócskán túllógjon a tál peremén.",
+                "Az aljára is fektetünk,,bélést\", majd belesimítunk néhány kanál besamelt, erre egy sor sajtszelet kerül, majd egy réteg paradicsom, egy sor cukkini és ismét besamel stb., amíg a hozzávalók el nem fogynak.",
+                "Felhajtjuk a lelógó cukkinivégeket, megkenjük a félretett besamellel, majd a félretett paradicsommal és megszórjuk a maradék reszelt sajttal.",
+                "Előmelegített sütőben, közepes hőmérsékleten (180 °C) kb. 50 percig sütjük, 8-10 percig pihentetjük, és a sütőedényben hagyva tálaljuk.",
+                "Tetejét petrezselyemmel díszítjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/dfcce8fe-a9e3-49ab-b00e-5004fe79bf80_0.jpg"
+        },
+        "x-source-file": "a6a64a5f-514f-4273-8bef-9af377af9b33.zip",
+        "x-db-id": 255,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

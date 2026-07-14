@@ -1,0 +1,84 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Fűszeres sertésnyárs sáfrányos rizzsel",
+        "recipeIngredient": [
+            "60 dkg sertésszűz",
+            "1 kk. őrölt római kömény",
+            "1 kk. őrölt koriandermag",
+            "3 gerezd fokhagyma",
+            "6 ek. olívaolaj",
+            "1 fej vöröshagyma",
+            "fél tk. őrölt fahéj",
+            "20 dkg aszalt barack",
+            "1 g sáfrány vagy 1 tk. sáfrányos szeklice",
+            "30 dkg rizs",
+            "só"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A sertésszüzet egyforma darabokra vágjuk, megfűszerezzük római köménnyel, sóval, koriandermaggal és a zúzott fokhagymával, meglocsoljuk 3 ek. olívaolajjal, majd 1 órát hűtőben állni hagyjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezt követően nyársra tűzzük, és meggrillezzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A körethez az apróra vágott vöröshagymát megpirítjuk a maradék olívaolajon, hozzáadjuk a fahéjat, a feldarabolt aszalt barackot, megszórjuk sáfránnyal, majd beletesszük a rizst."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kicsit átforrósítjuk, majd felengedjük másfélszeres mennyiségű forró vízzel, és fedő alatt készre pároljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tálaláskor a nyársakat a rizsre helyezzük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/772870e9-b27b-4ac0-a728-b64da8102ee9_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "772870e9-b27b-4ac0-a728-b64da8102ee9",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Fűszeres sertésnyárs sáfrányos rizzsel",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "60 dkg sertésszűz",
+                "1 kk. őrölt római kömény",
+                "1 kk. őrölt koriandermag",
+                "3 gerezd fokhagyma",
+                "6 ek. olívaolaj",
+                "1 fej vöröshagyma",
+                "fél tk. őrölt fahéj",
+                "20 dkg aszalt barack",
+                "1 g sáfrány vagy 1 tk. sáfrányos szeklice",
+                "30 dkg rizs",
+                "só"
+            ],
+            "recipeDirections": [
+                "A sertésszüzet egyforma darabokra vágjuk, megfűszerezzük római köménnyel, sóval, koriandermaggal és a zúzott fokhagymával, meglocsoljuk 3 ek. olívaolajjal, majd 1 órát hűtőben állni hagyjuk.",
+                "Ezt követően nyársra tűzzük, és meggrillezzük.",
+                "A körethez az apróra vágott vöröshagymát megpirítjuk a maradék olívaolajon, hozzáadjuk a fahéjat, a feldarabolt aszalt barackot, megszórjuk sáfránnyal, majd beletesszük a rizst.",
+                "Kicsit átforrósítjuk, majd felengedjük másfélszeres mennyiségű forró vízzel, és fedő alatt készre pároljuk.",
+                "Tálaláskor a nyársakat a rizsre helyezzük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/772870e9-b27b-4ac0-a728-b64da8102ee9_0.jpg"
+        },
+        "x-source-file": "a732a041-ba4a-4467-98ee-e33a82efcb46.zip",
+        "x-db-id": 260,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

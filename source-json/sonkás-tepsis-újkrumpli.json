@@ -1,0 +1,88 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sonkás Tepsis Újkrumpli",
+        "recipeIngredient": [
+            "1 kg újkrumpli",
+            "4-8 gerezd fokhagyma",
+            "1 púpozott ek. nagy szemű tengeri só",
+            "1+1 ek. olaj",
+            "1 ágacska rozmaring (15 cm-es)",
+            "1/2 citrom héja",
+            "80 g szeletelt szalonna (bacon)",
+            "80 g sonka",
+            "Frissen őrölt vagy finomra tört szegfűbors",
+            "Salátalevelek",
+            "1-2 szál petrezselyem",
+            "4-5 szem szegfűbors",
+            "1/4 fejes saláta"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Az újkrumplit 15-20 percre beáztatjuk hideg vízbe. A fokhagymát meghámozzuk. 200 °C-ra előmelegítjük a sütőt. A krumpliszemeket egyenként, alaposan megmossuk, lecsepegtetjük, a nagyobbakat villával vagy hústűvel több helyen megszurkáljuk (hogy a kisebbekkel egyszerre puhuljanak meg)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hámozatlanul-héjastul tepsi- a fokhagymagerezdeket, megszórjuk a tengeri sóval, meglocsoljuk 1 ek. olajjal. A forró sütőben puhára sütjük (45-55 perc), többször, lazán megkeverjük-átforgatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a rozmaringot leöblítjük, levélkéit fás-kemény száráról lecsipkedjük. A citromot folyó, forró vízben gondosan megmossuk, sárga héjából két-három-ujjnyit vékonyan lehántunk, és gyufaszálnyi csíkokra szeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A szalonnát és a sonkát előbb kisebb darabokra, majd a rozmaringgal és a citromhéjjal együtt apróra-finomra vágjuk. Felfor-rósított serpenyőbe szórjuk, 1 percig pirítjuk, majd hozzáöntünk 1 ek. olajat, és pirosra-ropogósra sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőből kivett krumpliszemeket hosszában kettévágjuk, nagyobb, lapos tálra terítjük, és bevonjuk az illatos sonnakeverékkel. Meghintjük a frissen őrölt vagy finomra tört szegfűborssal, és salátalevelekkel, petrezselyemlevélkékkel vidámítva azonnal-melegen tálaljuk. Mártás nélkül készített húsok, halak mellé kínálhatjuk, de önmagában, nagy tál vegyes saláta kíséretében is pompás (ha főételnek szánjuk, célszerű megemelni az újkrumpli mennyiségét!). Különleges, finom, elronthatatlan!"
+            }
+        ],
+        "prepTime": "PT1H30M",
+        "cookTime": "PT45M",
+        "recipeYield": "4 PERSON",
+        "image": "images/c0ca488a-4d93-4d40-a471-c0af1d1c710c_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "c0ca488a-4d93-4d40-a471-c0af1d1c710c",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sonkás Tepsis Újkrumpli",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT1H30M",
+            "cookTime": "PT45M",
+            "recipeIngredients": [
+                "1 kg újkrumpli",
+                "4-8 gerezd fokhagyma",
+                "1 púpozott ek. nagy szemű tengeri só",
+                "1+1 ek. olaj",
+                "1 ágacska rozmaring (15 cm-es)",
+                "1/2 citrom héja",
+                "80 g szeletelt szalonna (bacon)",
+                "80 g sonka",
+                "Frissen őrölt vagy finomra tört szegfűbors",
+                "Salátalevelek",
+                "1-2 szál petrezselyem",
+                "4-5 szem szegfűbors",
+                "1/4 fejes saláta"
+            ],
+            "recipeDirections": [
+                "Az újkrumplit 15-20 percre beáztatjuk hideg vízbe. A fokhagymát meghámozzuk. 200 °C-ra előmelegítjük a sütőt. A krumpliszemeket egyenként, alaposan megmossuk, lecsepegtetjük, a nagyobbakat villával vagy hústűvel több helyen megszurkáljuk (hogy a kisebbekkel egyszerre puhuljanak meg).",
+                "Hámozatlanul-héjastul tepsi- a fokhagymagerezdeket, megszórjuk a tengeri sóval, meglocsoljuk 1 ek. olajjal. A forró sütőben puhára sütjük (45-55 perc), többször, lazán megkeverjük-átforgatjuk.",
+                "Közben a rozmaringot leöblítjük, levélkéit fás-kemény száráról lecsipkedjük. A citromot folyó, forró vízben gondosan megmossuk, sárga héjából két-három-ujjnyit vékonyan lehántunk, és gyufaszálnyi csíkokra szeljük.",
+                "A szalonnát és a sonkát előbb kisebb darabokra, majd a rozmaringgal és a citromhéjjal együtt apróra-finomra vágjuk. Felfor-rósított serpenyőbe szórjuk, 1 percig pirítjuk, majd hozzáöntünk 1 ek. olajat, és pirosra-ropogósra sütjük.",
+                "A sütőből kivett krumpliszemeket hosszában kettévágjuk, nagyobb, lapos tálra terítjük, és bevonjuk az illatos sonnakeverékkel. Meghintjük a frissen őrölt vagy finomra tört szegfűborssal, és salátalevelekkel, petrezselyemlevélkékkel vidámítva azonnal-melegen tálaljuk. Mártás nélkül készített húsok, halak mellé kínálhatjuk, de önmagában, nagy tál vegyes saláta kíséretében is pompás (ha főételnek szánjuk, célszerű megemelni az újkrumpli mennyiségét!). Különleges, finom, elronthatatlan!"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/c0ca488a-4d93-4d40-a471-c0af1d1c710c_0.jpg"
+        },
+        "x-source-file": "5d69ba0e-6fbf-4ffa-86b3-7aaa925b1eab.zip",
+        "x-db-id": 177,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

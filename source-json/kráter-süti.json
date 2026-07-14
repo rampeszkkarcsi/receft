@@ -1,0 +1,143 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kráter süti",
+        "recipeIngredient": [
+            "A pudinghoz",
+            "2 csomag vaníliás puding",
+            "9 dl tej",
+            "6 evőkanál cukor",
+            "A tésztához",
+            "5 tojás",
+            "25 dkg cukor",
+            "1 csomag vaníliás cukor",
+            "1 dl tej",
+            "1 dl olaj",
+            "25 dkg liszt",
+            "2 evőkanál kakaó",
+            "1 csomag sütőpor",
+            "A mázhoz",
+            "2 kis pohár tejföl",
+            "4 evőkanál porcukor",
+            "1 csomag vaníliás cukor"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A pudingot megfőzzük, félrerakjuk kihűlni (néha keverjük meg, hogy ne legyen hártyás a teteje)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az 5 tojássárgáját, a 25 dkg cukrot és a vaníliás cukrot elkeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lassan hozzáadjuk az 1 dl tejet, az 1 dl olajat, majd a lisztet, kakaót, a sütőport, és a végén a kikevert tésztához adjuk a keményre vert tojás habját."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütőpapírral vagy vajjal, liszttel kikent tepsibe tesszük a tésztát, és vizes kanállal beleszaggatjuk a pudingot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "180 fokon megsütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "2 pohár tejfölbe elkeverünk 4 evőkanál porcukrot és 1 csomag vaníliás cukrot, és a forrón kivett sütire öntjük szépen elkenve."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ettől lesz olyan kráteres."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Én most 1 vanilíás és 1 puncsos pudinggal készítettem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hozzászólásaitokat olvasva azt ajánlom, hogy ne nagy kanállal, hanem kis kávéskanállal szaggassátok a pudingot a masszába, mert akkor nem lesz nagy a súlya és nem fog lesüllyedni az aljára."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Annyit változtattam a receptem, hogy én a tejfölös mázat sütés elött tettem a sütire."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Én 24 * 32 cm-es tepsiben sütöttem, alacsony hőfokon (kb. 160 - 170 fokon ), kb. 35 - 40 percig."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "És ami még több hozzászólás témája volt, a puding mennyisége."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mehet bele a 2 cs. puding, \" elfér \" benne."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sőt, így utólag kóstólás után azt mondom kell is bele a 2 cs. puding."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Természetesen 1-el is elkészíthető, ha valaki spórolni akar."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT35M",
+        "x-recipe-keeper": {
+            "recipeId": "9dd88bc2-808c-41d7-8f12-2209f81211f3",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kráter süti",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT35M",
+            "recipeIngredients": [
+                "A pudinghoz",
+                "2 csomag vaníliás puding",
+                "9 dl tej",
+                "6 evőkanál cukor",
+                "A tésztához",
+                "5 tojás",
+                "25 dkg cukor",
+                "1 csomag vaníliás cukor",
+                "1 dl tej",
+                "1 dl olaj",
+                "25 dkg liszt",
+                "2 evőkanál kakaó",
+                "1 csomag sütőpor",
+                "A mázhoz",
+                "2 kis pohár tejföl",
+                "4 evőkanál porcukor",
+                "1 csomag vaníliás cukor"
+            ],
+            "recipeDirections": [
+                "A pudingot megfőzzük, félrerakjuk kihűlni (néha keverjük meg, hogy ne legyen hártyás a teteje).",
+                "Az 5 tojássárgáját, a 25 dkg cukrot és a vaníliás cukrot elkeverjük.",
+                "Lassan hozzáadjuk az 1 dl tejet, az 1 dl olajat, majd a lisztet, kakaót, a sütőport, és a végén a kikevert tésztához adjuk a keményre vert tojás habját.",
+                "Sütőpapírral vagy vajjal, liszttel kikent tepsibe tesszük a tésztát, és vizes kanállal beleszaggatjuk a pudingot.",
+                "180 fokon megsütjük.",
+                "2 pohár tejfölbe elkeverünk 4 evőkanál porcukrot és 1 csomag vaníliás cukrot, és a forrón kivett sütire öntjük szépen elkenve.",
+                "Ettől lesz olyan kráteres.",
+                "Én most 1 vanilíás és 1 puncsos pudinggal készítettem.",
+                "A hozzászólásaitokat olvasva azt ajánlom, hogy ne nagy kanállal, hanem kis kávéskanállal szaggassátok a pudingot a masszába, mert akkor nem lesz nagy a súlya és nem fog lesüllyedni az aljára.",
+                "Annyit változtattam a receptem, hogy én a tejfölös mázat sütés elött tettem a sütire.",
+                "Én 24 * 32 cm-es tepsiben sütöttem, alacsony hőfokon (kb. 160 - 170 fokon ), kb. 35 - 40 percig.",
+                "És ami még több hozzászólás témája volt, a puding mennyisége.",
+                "Mehet bele a 2 cs. puding, \" elfér \" benne.",
+                "Sőt, így utólag kóstólás után azt mondom kell is bele a 2 cs. puding.",
+                "Természetesen 1-el is elkészíthető, ha valaki spórolni akar."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 109,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

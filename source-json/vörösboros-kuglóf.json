@@ -1,0 +1,86 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Vörösboros kuglóf",
+        "recipeIngredient": [
+            "25 dkg margarin",
+            "30 dkg cukor",
+            "1 csomag vaníliás cukor",
+            "5 tojás",
+            "38 dkg liszt",
+            "1 csomag sütőpor",
+            "1 kk fahéj",
+            "2,5 dl vörösbor",
+            "15 dkg dió (durvára törve)",
+            "10 dkg étcsokoládé (durvára törve)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A margarint a cukorral és a vaníliás cukorral habosra keverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egyenként hozzáadjuk a tojásokat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Belekeverjük a lisztet, a sütőport, a fahéjat, majd felváltva a vörösbort."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Végül hozzáforgatjuk a durvára vágott diót és az étcsokoládét."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A masszát vastagon kivajazott kuglófformába öntjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "180 °C-on kb. 1 órán át sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT1H",
+        "image": "images/b1888e62-d780-44f0-9688-ab97d8af2833_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "b1888e62-d780-44f0-9688-ab97d8af2833",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Vörösboros kuglóf",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT1H",
+            "recipeIngredients": [
+                "25 dkg margarin",
+                "30 dkg cukor",
+                "1 csomag vaníliás cukor",
+                "5 tojás",
+                "38 dkg liszt",
+                "1 csomag sütőpor",
+                "1 kk fahéj",
+                "2,5 dl vörösbor",
+                "15 dkg dió (durvára törve)",
+                "10 dkg étcsokoládé (durvára törve)"
+            ],
+            "recipeDirections": [
+                "A margarint a cukorral és a vaníliás cukorral habosra keverjük.",
+                "Egyenként hozzáadjuk a tojásokat.",
+                "Belekeverjük a lisztet, a sütőport, a fahéjat, majd felváltva a vörösbort.",
+                "Végül hozzáforgatjuk a durvára vágott diót és az étcsokoládét.",
+                "A masszát vastagon kivajazott kuglófformába öntjük.",
+                "180 °C-on kb. 1 órán át sütjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/b1888e62-d780-44f0-9688-ab97d8af2833_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 40,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:14+00:00"
+    }
+]

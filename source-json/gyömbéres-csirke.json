@@ -1,0 +1,79 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gyömbéres csirke",
+        "recipeIngredient": [
+            "2 db csirkemell filé",
+            "1 db citrom",
+            "1 fej hagyma",
+            "őrölt gyömbér (vagy friss gyömbérgyökér)",
+            "2 db tyúkhúsleves-kocka",
+            "5 dl tejföl",
+            "2 evőkanál liszt",
+            "3-4 gerezd fokhagyma",
+            "Só",
+            "fehérbors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A kockára vágott hagymát némi olajon üvegesre pirítom, majd rászórom a reszelt gyömbért vagy a gyömbérport, és összekeverem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A felkockázott csirkemellet rádobom és megpirítom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha a hús megpuhult, rámorzsolom a leveskockákat, ráöntöm a citrom kifacsart levét, az apróra vágott fokhagymát, sózom, borsozom - csak módjával, mert a gyömbérnek alapvetően elég erős az íze, és még ott van a leveskocka is, ami szintén sós -, és hagyom még egyet rottyanni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben kikeverem a tejfölt a liszttel és körülbelül 1 deci vízzel, és ráöntöm a húsra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Még egyszer összeforralom, és kész."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "34144c90-6fc0-4a0d-8d11-03df193d74c5",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gyömbéres csirke",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "2 db csirkemell filé",
+                "1 db citrom",
+                "1 fej hagyma",
+                "őrölt gyömbér (vagy friss gyömbérgyökér)",
+                "2 db tyúkhúsleves-kocka",
+                "5 dl tejföl",
+                "2 evőkanál liszt",
+                "3-4 gerezd fokhagyma",
+                "Só",
+                "fehérbors"
+            ],
+            "recipeDirections": [
+                "A kockára vágott hagymát némi olajon üvegesre pirítom, majd rászórom a reszelt gyömbért vagy a gyömbérport, és összekeverem.",
+                "A felkockázott csirkemellet rádobom és megpirítom.",
+                "Ha a hús megpuhult, rámorzsolom a leveskockákat, ráöntöm a citrom kifacsart levét, az apróra vágott fokhagymát, sózom, borsozom - csak módjával, mert a gyömbérnek alapvetően elég erős az íze, és még ott van a leveskocka is, ami szintén sós -, és hagyom még egyet rottyanni.",
+                "Közben kikeverem a tejfölt a liszttel és körülbelül 1 deci vízzel, és ráöntöm a húsra.",
+                "Még egyszer összeforralom, és kész."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 86,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

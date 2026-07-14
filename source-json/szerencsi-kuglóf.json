@@ -1,0 +1,99 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Szerencsi kuglóf",
+        "recipeIngredient": [
+            "20 dkg ét tortabevonó",
+            "20 dkg liszt",
+            "5 dkg kakaópor",
+            "5 dkg cukor",
+            "5 dkg mazsola (elhagyható)",
+            "10 dkg vaj",
+            "3 tojás",
+            "1 dl tej",
+            "2 dkg élesztő"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Az élesztőből langyos tejjel, kevés liszttel és egy csipet cukorral kovászt készítünk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A vajat a cukorral jól kikeverjük, majd összedolgozzuk a liszttel és a 3 tojással."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Végül hozzáadjuk az elkészített kovászt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát két részre osztjuk:"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "az egyik felébe belekeverjük a kakaóport,"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "a másik felébe a mazsolát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kivajazott, lisztezett kuglófformába öntjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha megkelt, 220 °C-os sütőben kb. 45 percig sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kihűlt kuglóf tetejét olvasztott tortabevonóval bevonjuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT45M",
+        "image": "images/7b21e1d5-2439-42f5-bfc4-6f5622b51a9f_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "7b21e1d5-2439-42f5-bfc4-6f5622b51a9f",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Szerencsi kuglóf",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT45M",
+            "recipeIngredients": [
+                "20 dkg ét tortabevonó",
+                "20 dkg liszt",
+                "5 dkg kakaópor",
+                "5 dkg cukor",
+                "5 dkg mazsola (elhagyható)",
+                "10 dkg vaj",
+                "3 tojás",
+                "1 dl tej",
+                "2 dkg élesztő"
+            ],
+            "recipeDirections": [
+                "Az élesztőből langyos tejjel, kevés liszttel és egy csipet cukorral kovászt készítünk.",
+                "A vajat a cukorral jól kikeverjük, majd összedolgozzuk a liszttel és a 3 tojással.",
+                "Végül hozzáadjuk az elkészített kovászt.",
+                "A tésztát két részre osztjuk:",
+                "az egyik felébe belekeverjük a kakaóport,",
+                "a másik felébe a mazsolát.",
+                "Kivajazott, lisztezett kuglófformába öntjük.",
+                "Ha megkelt, 220 °C-os sütőben kb. 45 percig sütjük.",
+                "A kihűlt kuglóf tetejét olvasztott tortabevonóval bevonjuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/7b21e1d5-2439-42f5-bfc4-6f5622b51a9f_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 36,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:14+00:00"
+    }
+]

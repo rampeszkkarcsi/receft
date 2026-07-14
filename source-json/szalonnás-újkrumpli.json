@@ -1,0 +1,86 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Szalonnás újkrumpli",
+        "recipeIngredient": [
+            "1 kg apró/közepes szemű újkrumpli (16-20 db)",
+            "8-10 vékony szelet bacon (füstölt szalonna)",
+            "8-10 zsályalevél",
+            "2 gerezd fokhagyma",
+            "1 csokor petrezselyem",
+            "10-15 szál snidling",
+            "2 dl joghurt",
+            "1/2 dl fehérbor",
+            "1/4 kk, porcukor",
+            "2 ek. olívaolaj",
+            "1-2 csipet csilipor",
+            "só, bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Vékony héjú újkrumplit vásárolunk, 8-10 percre beáztatjuk langyos vízbe, alaposan megmossuk (meghámozni szükségtelen!), lecsepegtetjük. A szemek nagyságától-formájától függően kettévágjuk a szalonna-szeleteket, a zsályaleveleket leöblítjük, félbetépjük-vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A szalonnaszeleteket sorra vágólapra terítjük, tetejükre 1-1 elfelezett zsályalevelet fektetünk. A krumpliszemeket egyesével a szalonna-szeletekbe göngyöljük, fogvájóval megtűzzük. Nagyobb serpenyőben, zsiradék nélkül körbepirítjuk-sütjük őket, majd mérsékelt tűzön, félig lefedve puhára pároljuk-sütjük (12-15 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A mártáshoz a fokhagymát meghámozzuk, a snidlinget és a petrezselymet leöblítjük, lerázzuk róla a vizet, levélkéit lecsipkedjük, nagyjából felaprózzuk, majd a fokhagymával együtt turmixkehelybe szórjuk. Hozzáadjuk a joghurtot, a bort, a porcukrot, az olívaolajat, a csiliport, sót és borsot, aztán botmixerrel sűrű péppé pörgetjük, tálkába szedjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A krumplit kiemeljük a serpenyőből, tálra csúsztatjuk (ha nagyon „tocsogós”, papírkendőn felitatjuk róla a zsiradékot), néhány zöldfűszerlevéllel díszítjük, és a mártással kínáljuk. Sült/grillezett húsok pompás körete, de önmagában is ínyencfalat! Elkészítési idő: 45 perc"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "1 adag: 373 kcal/1557 kj"
+            }
+        ],
+        "prepTime": "PT45M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/b06d0063-193f-420f-b820-336b7f3657b9_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "b06d0063-193f-420f-b820-336b7f3657b9",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Szalonnás újkrumpli",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT45M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1 kg apró/közepes szemű újkrumpli (16-20 db)",
+                "8-10 vékony szelet bacon (füstölt szalonna)",
+                "8-10 zsályalevél",
+                "2 gerezd fokhagyma",
+                "1 csokor petrezselyem",
+                "10-15 szál snidling",
+                "2 dl joghurt",
+                "1/2 dl fehérbor",
+                "1/4 kk, porcukor",
+                "2 ek. olívaolaj",
+                "1-2 csipet csilipor",
+                "só, bors"
+            ],
+            "recipeDirections": [
+                "Vékony héjú újkrumplit vásárolunk, 8-10 percre beáztatjuk langyos vízbe, alaposan megmossuk (meghámozni szükségtelen!), lecsepegtetjük. A szemek nagyságától-formájától függően kettévágjuk a szalonna-szeleteket, a zsályaleveleket leöblítjük, félbetépjük-vágjuk.",
+                "A szalonnaszeleteket sorra vágólapra terítjük, tetejükre 1-1 elfelezett zsályalevelet fektetünk. A krumpliszemeket egyesével a szalonna-szeletekbe göngyöljük, fogvájóval megtűzzük. Nagyobb serpenyőben, zsiradék nélkül körbepirítjuk-sütjük őket, majd mérsékelt tűzön, félig lefedve puhára pároljuk-sütjük (12-15 perc).",
+                "A mártáshoz a fokhagymát meghámozzuk, a snidlinget és a petrezselymet leöblítjük, lerázzuk róla a vizet, levélkéit lecsipkedjük, nagyjából felaprózzuk, majd a fokhagymával együtt turmixkehelybe szórjuk. Hozzáadjuk a joghurtot, a bort, a porcukrot, az olívaolajat, a csiliport, sót és borsot, aztán botmixerrel sűrű péppé pörgetjük, tálkába szedjük.",
+                "A krumplit kiemeljük a serpenyőből, tálra csúsztatjuk (ha nagyon „tocsogós”, papírkendőn felitatjuk róla a zsiradékot), néhány zöldfűszerlevéllel díszítjük, és a mártással kínáljuk. Sült/grillezett húsok pompás körete, de önmagában is ínyencfalat! Elkészítési idő: 45 perc",
+                "1 adag: 373 kcal/1557 kj"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/b06d0063-193f-420f-b820-336b7f3657b9_0.jpg"
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 249,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

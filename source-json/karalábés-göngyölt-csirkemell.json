@@ -1,0 +1,138 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Karalábés göngyölt csirkemell",
+        "recipeIngredient": [
+            "Hozzávalók 4 személyre:",
+            "• 200 g póréhagyma . 500 g sárgarépa",
+            "2-3 nagy, zsenge karalábé (1 kg) • 3-4 gerezd fokhagyma",
+            "2 ek. olaj . 1 ek. ételízesítő ⚫ 4 csirkemellfilé (150 g/db)",
+            "1 kk. provence-i fűszerkeverék⚫ só, bors",
+            "⚫ őrölt fehér bors ⚫ 8 vékony szelet húsos bacon/szalonna",
+            "⚫2 dl tejszín ⚫3 ek. ételsűrítő granulátum",
+            "100 g gouda/edami sajt⚫ őrölt fehér bors ⚫ szerecsendió"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségeket megtisztítjuk, megmossuk. A pórét és a sárgarépát vastagon felkarikázzuk, a karalábét karcsú hasábokra-nagyobb kockákra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A felforrósított olajban megfonnyasztjuk a pórét, rádobjuk a sárgarépát és a karalábét, meghintjük az ételízesítővel, felöntjük 2,5 dl vízzel, és fedő alatt 10 percig főzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a csirkemelleket leöblítjük, lecsepegtetjük, meghintjük sóval, borssal, bedörzsöljük a fűszerkeverékkel, aztán 2-2 szelet kissé egymásra csúsztatott szalonnászeletbe göngyöljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Felforrósított teflonserpenyőben, élénk tűzön körbepirítjuk őket (4-5 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A csirke alól elvett zsiradékkal kikenünk egy mélyebb, csinos tűzálló tálat/sütőedényt (ebben fogjuk tálalni)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt előmelegítjük 200 °C-ra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zöldséghez adjuk az áttört fokhagymát, a tejszínt és az ételsűrítőt, folyamatosan keverve sűrűsödésig főzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáreszeljük a sajt kétharmadát, sóval, őrölt fehér borssal és egy kevés frissen reszelt szerecsendióval illatosítjuk, összeforraljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőedénybe szedjük-simítjuk a zöldségragut, tetejére rendezzük az elősütött csirkemelleket, végül meghintjük a maradék reszelt sajttal, és középső bordamagasságra állított rácson 15-20 percig sütjük-pirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "További köretként burgonyapürét vagy egyszerűen friss kenyeret kínálhatunk hozzá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütjük-pirítjuk gázgrillen 15-20 percig."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Köretként burgonyapürét vagy friss kenyeret kínálhatunk hozzá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az ételsűrítő granulátum helyett sűríthetjük rizsliszttel is, ezt azonban célszerű előzőleg egy kevés vízben vagy a tejszínben elkeverni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségeket ízlésünk és kedvünk szerint társíthatjuk, a póréhagyma azonban ne maradjon ki belőle."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Csirkemell helyett készíthetjük 15-20 cm-es darabokra vágott sertés szűzérmével, pulykamellfilével is."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha a zsenge karalábét nem használjuk fel azonnal, külső, nagyobb leveleit letördeljük, a középső 4-5 kisebb, „vízmegtartó\" levelet a gumón hagyjuk, így tovább friss marad."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Papírkendőbe göngyöljük, nejlontasakba zárjuk, és a hűtő alsó harmadába tesszük."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT0S",
+        "recipeYield": "1 adag",
+        "image": "images/34cd72a9-7e10-4c8d-a026-f898efd6cd83_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "34cd72a9-7e10-4c8d-a026-f898efd6cd83",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Karalábés göngyölt csirkemell",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "1 adag",
+            "prepTime": "PT1H",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "Hozzávalók 4 személyre:",
+                "• 200 g póréhagyma . 500 g sárgarépa",
+                "2-3 nagy, zsenge karalábé (1 kg) • 3-4 gerezd fokhagyma",
+                "2 ek. olaj . 1 ek. ételízesítő ⚫ 4 csirkemellfilé (150 g/db)",
+                "1 kk. provence-i fűszerkeverék⚫ só, bors",
+                "⚫ őrölt fehér bors ⚫ 8 vékony szelet húsos bacon/szalonna",
+                "⚫2 dl tejszín ⚫3 ek. ételsűrítő granulátum",
+                "100 g gouda/edami sajt⚫ őrölt fehér bors ⚫ szerecsendió"
+            ],
+            "recipeDirections": [
+                "A zöldségeket megtisztítjuk, megmossuk. A pórét és a sárgarépát vastagon felkarikázzuk, a karalábét karcsú hasábokra-nagyobb kockákra vágjuk.",
+                "A felforrósított olajban megfonnyasztjuk a pórét, rádobjuk a sárgarépát és a karalábét, meghintjük az ételízesítővel, felöntjük 2,5 dl vízzel, és fedő alatt 10 percig főzzük.",
+                "Közben a csirkemelleket leöblítjük, lecsepegtetjük, meghintjük sóval, borssal, bedörzsöljük a fűszerkeverékkel, aztán 2-2 szelet kissé egymásra csúsztatott szalonnászeletbe göngyöljük.",
+                "Felforrósított teflonserpenyőben, élénk tűzön körbepirítjuk őket (4-5 perc).",
+                "A csirke alól elvett zsiradékkal kikenünk egy mélyebb, csinos tűzálló tálat/sütőedényt (ebben fogjuk tálalni).",
+                "A sütőt előmelegítjük 200 °C-ra.",
+                "A zöldséghez adjuk az áttört fokhagymát, a tejszínt és az ételsűrítőt, folyamatosan keverve sűrűsödésig főzzük.",
+                "Hozzáreszeljük a sajt kétharmadát, sóval, őrölt fehér borssal és egy kevés frissen reszelt szerecsendióval illatosítjuk, összeforraljuk.",
+                "A sütőedénybe szedjük-simítjuk a zöldségragut, tetejére rendezzük az elősütött csirkemelleket, végül meghintjük a maradék reszelt sajttal, és középső bordamagasságra állított rácson 15-20 percig sütjük-pirítjuk.",
+                "További köretként burgonyapürét vagy egyszerűen friss kenyeret kínálhatunk hozzá.",
+                "Sütjük-pirítjuk gázgrillen 15-20 percig.",
+                "Köretként burgonyapürét vagy friss kenyeret kínálhatunk hozzá.",
+                "Az ételsűrítő granulátum helyett sűríthetjük rizsliszttel is, ezt azonban célszerű előzőleg egy kevés vízben vagy a tejszínben elkeverni.",
+                "A zöldségeket ízlésünk és kedvünk szerint társíthatjuk, a póréhagyma azonban ne maradjon ki belőle.",
+                "Csirkemell helyett készíthetjük 15-20 cm-es darabokra vágott sertés szűzérmével, pulykamellfilével is.",
+                "Ha a zsenge karalábét nem használjuk fel azonnal, külső, nagyobb leveleit letördeljük, a középső 4-5 kisebb, „vízmegtartó\" levelet a gumón hagyjuk, így tovább friss marad.",
+                "Papírkendőbe göngyöljük, nejlontasakba zárjuk, és a hűtő alsó harmadába tesszük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/34cd72a9-7e10-4c8d-a026-f898efd6cd83_0.jpg"
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 92,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

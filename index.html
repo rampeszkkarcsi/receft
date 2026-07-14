@@ -11,7 +11,7 @@
     <h1>Recept kereső</h1>
 
     <div class="toolbar">
-      <input id="search" type="text" placeholder="Keresés alapanyagra vagy címre…">
+      <input id="search" type="text" placeholder="Keresés alapanyagra vagy címre...">
       <div id="resultCount" class="muted"></div>
     </div>
 
@@ -22,10 +22,23 @@
     <article class="card">
       <img class="thumb" alt="">
       <div class="card-body">
-        <h2 class="title"></h2>
-        <div class="meta"></div>
-        <div class="ingredients"></div>
-        <div class="steps"></div>
+        <button class="card-toggle" type="button" aria-expanded="false">
+          <h2 class="title"></h2>
+          <div class="meta"></div>
+          <div class="preview-ingredients"></div>
+        </button>
+
+        <div class="card-expanded">
+          <div class="expanded-section">
+            <h3>Hozzávalók</h3>
+            <div class="expanded-ingredients ingredients"></div>
+          </div>
+
+          <div class="expanded-section">
+            <h3>Elkészítés</h3>
+            <div class="steps"></div>
+          </div>
+        </div>
       </div>
     </article>
   </template>

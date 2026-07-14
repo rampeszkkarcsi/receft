@@ -1,0 +1,81 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Zöldborsó-krémleves retekkel",
+        "recipeIngredient": [
+            "200 g burgonya",
+            "2 csokor újhagyma",
+            "2 gerezd fokhagyma",
+            "2 ek. olaj",
+            "3 dl tej",
+            "2 tyúkhúsleveskocka",
+            "400 g zöldborsó (mélyhűtött)",
+            "1 nagy csokor petrezselyem",
+            "15 szál snidling",
+            "4 szem retek",
+            "2 dl főzőtejszín",
+            "só, bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A burgonyát, az újhagymát és a fokhagymát meghámozzuk. A burgonyát apró kockákra, a hagymát 2-3 cm-es darabokra-karikákra vágjuk (8-10 cm-t a zöldjéből is)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A felforrósított olajban megfonnyasztjuk a hagymát és az áttört fokhagymát. Felöntjük 1,2 liter vízzel és a tejjel, belemorzsoljuk a leveskockákat, felforraljuk. Beledobjuk a burgonyát, fagyos állapotban a borsót, és félig lefedve, mérsékelt tűzön vajpuhára főzzük (a tejjel készült ételek könnyen kifutnak!)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A petrezselymet és a snidlinget leöblítjük, a petrezselyem levélkéit lecsipkedjük és finomra vágjuk. A retek szemeket megtisztítjuk, megmossuk, apróra felkockázzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kiveszünk 2 evőkanálnyi borsót a levesből, a többit botmixerrel péppé turmixoljuk. Hozzáadjuk a petrezselymet, majd 4 kk. kivételével a tejszínt, utánasózzuk, borsozzuk, és összeforraljuk. 4 erőleveses csészébe/mélytányérba szedjük, belecirmosítjuk a maradék tejszínt, tetejükre halmozzuk a félretett borsót és a retekkockákat, végül snidlingszálakkal díszítjük. Külön tálkában fokhagymás olajban pirított zsemlekockákat kínálhatunk hozzá."
+            }
+        ],
+        "prepTime": "PT45M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/99ffb184-6730-4e93-85b9-bc2ce2878808_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "99ffb184-6730-4e93-85b9-bc2ce2878808",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Zöldborsó-krémleves retekkel",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT45M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "200 g burgonya",
+                "2 csokor újhagyma",
+                "2 gerezd fokhagyma",
+                "2 ek. olaj",
+                "3 dl tej",
+                "2 tyúkhúsleveskocka",
+                "400 g zöldborsó (mélyhűtött)",
+                "1 nagy csokor petrezselyem",
+                "15 szál snidling",
+                "4 szem retek",
+                "2 dl főzőtejszín",
+                "só, bors"
+            ],
+            "recipeDirections": [
+                "A burgonyát, az újhagymát és a fokhagymát meghámozzuk. A burgonyát apró kockákra, a hagymát 2-3 cm-es darabokra-karikákra vágjuk (8-10 cm-t a zöldjéből is).",
+                "A felforrósított olajban megfonnyasztjuk a hagymát és az áttört fokhagymát. Felöntjük 1,2 liter vízzel és a tejjel, belemorzsoljuk a leveskockákat, felforraljuk. Beledobjuk a burgonyát, fagyos állapotban a borsót, és félig lefedve, mérsékelt tűzön vajpuhára főzzük (a tejjel készült ételek könnyen kifutnak!).",
+                "A petrezselymet és a snidlinget leöblítjük, a petrezselyem levélkéit lecsipkedjük és finomra vágjuk. A retek szemeket megtisztítjuk, megmossuk, apróra felkockázzuk.",
+                "Kiveszünk 2 evőkanálnyi borsót a levesből, a többit botmixerrel péppé turmixoljuk. Hozzáadjuk a petrezselymet, majd 4 kk. kivételével a tejszínt, utánasózzuk, borsozzuk, és összeforraljuk. 4 erőleveses csészébe/mélytányérba szedjük, belecirmosítjuk a maradék tejszínt, tetejükre halmozzuk a félretett borsót és a retekkockákat, végül snidlingszálakkal díszítjük. Külön tálkában fokhagymás olajban pirított zsemlekockákat kínálhatunk hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/99ffb184-6730-4e93-85b9-bc2ce2878808_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 59,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Hagymás halszeletek",
+        "recipeIngredient": [
+            "800 g kiflikrumpli",
+            "só, bors",
+            "1 közepes fej ezüst/lila hagyma",
+            "4 ek. fehér borecet",
+            "1-2 csipet porcukor",
+            "1 csokor petrezselyem",
+            "4 ek. olívaolaj",
+            "800 g szálkamentes édes vízi/tengeri halfilé",
+            "1 citrom leve +1 a díszítéshez",
+            "2 dundi póréhagyma",
+            "200 g liszt",
+            "olaj a sütéshez",
+            "1-2 paradicsom"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A körethez a krumplit megmossuk, enyhén sós vízben, héjában megfőzzük, leszűrjük meghámozzuk, hagyjuk langyosra hűlni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát megtisztítjuk, felkarikázzuk, elkeverjük 1 kk. sóval, 15-20 percig pihentetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a borecetet, a porcukrot, ízlés szerint frissen őrölt borsot, 4-5 ek. vizet, az olajat, végül a finomra vágott petrezselymet, és belekarikázzuk a krumplit."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lazán összekeverjük, lefedjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A halat leöblítjük, 4-8 darabra vágjuk, bedörzsöljük sóval és citromlével."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A póréhagymát megtisztítjuk, megmossuk, fehér és világoszöld részét 1 cm-es karikákra szeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lisztbe hempergetjük, majd felforrósított, bő olajban, több részletben ropogósra sütjük, többszörösen összehajtogatott papírkendőre terítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A halszeletekről felitatjuk a nedvességet, aztán a póréhoz használt lisztbe forgatjuk, lerázzuk róluk a felesleget, és a póré sütőolajában, mindkét oldalukat pirosra sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Papírkendőre fektetve felitatjuk róluk az olajat, tálra rendezzük, tetejükre-köréjük halmozzuk a sült pórékarikákat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Citrom- és paradicsomgerezdekkel, petrezselyemmel díszítjük, a krumplisaláta kíséretében azonnal tálaljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Külön csészében-tálkában joghurtos-mustáros majonézmártást is kínálhatunk mellé."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/df077065-d5af-4367-b03c-a209bb708f2d_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "df077065-d5af-4367-b03c-a209bb708f2d",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Hagymás halszeletek",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "800 g kiflikrumpli",
+                "só, bors",
+                "1 közepes fej ezüst/lila hagyma",
+                "4 ek. fehér borecet",
+                "1-2 csipet porcukor",
+                "1 csokor petrezselyem",
+                "4 ek. olívaolaj",
+                "800 g szálkamentes édes vízi/tengeri halfilé",
+                "1 citrom leve +1 a díszítéshez",
+                "2 dundi póréhagyma",
+                "200 g liszt",
+                "olaj a sütéshez",
+                "1-2 paradicsom"
+            ],
+            "recipeDirections": [
+                "A körethez a krumplit megmossuk, enyhén sós vízben, héjában megfőzzük, leszűrjük meghámozzuk, hagyjuk langyosra hűlni.",
+                "A hagymát megtisztítjuk, felkarikázzuk, elkeverjük 1 kk. sóval, 15-20 percig pihentetjük.",
+                "Hozzáadjuk a borecetet, a porcukrot, ízlés szerint frissen őrölt borsot, 4-5 ek. vizet, az olajat, végül a finomra vágott petrezselymet, és belekarikázzuk a krumplit.",
+                "Lazán összekeverjük, lefedjük.",
+                "A halat leöblítjük, 4-8 darabra vágjuk, bedörzsöljük sóval és citromlével.",
+                "A póréhagymát megtisztítjuk, megmossuk, fehér és világoszöld részét 1 cm-es karikákra szeljük.",
+                "Lisztbe hempergetjük, majd felforrósított, bő olajban, több részletben ropogósra sütjük, többszörösen összehajtogatott papírkendőre terítjük.",
+                "A halszeletekről felitatjuk a nedvességet, aztán a póréhoz használt lisztbe forgatjuk, lerázzuk róluk a felesleget, és a póré sütőolajában, mindkét oldalukat pirosra sütjük.",
+                "Papírkendőre fektetve felitatjuk róluk az olajat, tálra rendezzük, tetejükre-köréjük halmozzuk a sült pórékarikákat.",
+                "Citrom- és paradicsomgerezdekkel, petrezselyemmel díszítjük, a krumplisaláta kíséretében azonnal tálaljuk.",
+                "Külön csészében-tálkában joghurtos-mustáros majonézmártást is kínálhatunk mellé."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/df077065-d5af-4367-b03c-a209bb708f2d_0.jpg"
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 89,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

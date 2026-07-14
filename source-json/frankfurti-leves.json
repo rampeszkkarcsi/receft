@@ -1,0 +1,93 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Frankfurti leves",
+        "recipeIngredient": [
+            "40 dkg kelkáposzta",
+            "1 fej vöröshagyma",
+            "1 gerezd fokhagyma",
+            "2 nagyobb krumpli",
+            "20 dkg vissli",
+            "1,5 dl tejföl",
+            "olaj",
+            "liszt",
+            "petrezselyem, majoranna",
+            "só, bors",
+            "köménymag"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A finomra vágott hagymát olajon megpirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzátesszük a zúzott fokhagymát és a felkockázott krumplit."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sózzuk, borsozzuk, meghintjük majorannával és petrezselyemmel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Felengedjük vízzel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mikor a krumpli félig megfőtt, hozzáadjuk a vékony csíkokra vágott kelkáposztát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha már megfőtt, rántást készítünk, megszórjuk piros paprikával, és levesbe sűrítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Virslikarikákat teszünk bele, ha kész, tejfölt is belekeverjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/c692113c-3b51-4221-87e2-2c60c7da5db7_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "c692113c-3b51-4221-87e2-2c60c7da5db7",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Frankfurti leves",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "40 dkg kelkáposzta",
+                "1 fej vöröshagyma",
+                "1 gerezd fokhagyma",
+                "2 nagyobb krumpli",
+                "20 dkg vissli",
+                "1,5 dl tejföl",
+                "olaj",
+                "liszt",
+                "petrezselyem, majoranna",
+                "só, bors",
+                "köménymag"
+            ],
+            "recipeDirections": [
+                "A finomra vágott hagymát olajon megpirítjuk.",
+                "Hozzátesszük a zúzott fokhagymát és a felkockázott krumplit.",
+                "Sózzuk, borsozzuk, meghintjük majorannával és petrezselyemmel.",
+                "Felengedjük vízzel.",
+                "Mikor a krumpli félig megfőtt, hozzáadjuk a vékony csíkokra vágott kelkáposztát.",
+                "Ha már megfőtt, rántást készítünk, megszórjuk piros paprikával, és levesbe sűrítjük.",
+                "Virslikarikákat teszünk bele, ha kész, tejfölt is belekeverjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/c692113c-3b51-4221-87e2-2c60c7da5db7_0.jpg"
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 24,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

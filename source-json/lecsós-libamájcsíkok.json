@@ -1,0 +1,75 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Lecsós libamájcsíkok",
+        "recipeIngredient": [
+            "400 g pecsenyeliba-/kacsamáj",
+            "1 közepes fej hagyma",
+            "1/2 kg zöldpaprika",
+            "2-3 paradicsom",
+            "2 szál friss majoránna",
+            "2+2 ek. olaj",
+            "1 kk. pirospaprika",
+            "1 kk. csípős paprikakrém",
+            "só, bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A májat leöblítjük, alaposan lecsepegtetjük, hártyáit-inait eltávolítjuk, 0,5 cm vastag csíkokra vágjuk (az élénkvörös, pulykamáj színére és állagára emlékeztető pecsenyeliba-/kacsamáj nem tévesztendő össze a nevezetes és drága, sápadtsárga, hízott libamájjal!)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát meghámozzuk, vékonyan felkarikázzuk, a paprikákat kicsumázzuk, karcsú csíkokra szeljük. A paradicsomokat 1 percre forrásban lévő, majd hideg vízbe merítjük, meghámozzuk és gerezdekre vágjuk. A majoránnát leöblítjük, levélkéit lecsipkedjük, néhány bóbita kivételével finomra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lecsóhoz 2 ek. olajban megfonnyasztjuk a hagymát, elkeverjük a pirospaprikával és a csípős paprikakrémmel, rádobjuk a paradicsomot, kissé megsózzuk, 2-3 percig forraljuk. Hozzáadjuk a paprikát, élénk tűzön, gyakran megkeverve, 5-6 percig puhára, de még ropogósra sütjük. Lehúzzuk a tűzről, fedő alatt melegen tartjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Felforrósítjuk a maradék 2 ek. olajat, beleforgatjuk a májat, meghintjük a majoránnával, élénk tűzön, folyamatosan keverve, 4-5 percig pirítjuk, végül sózzuk, borsozzuk. A lecsót tálra terítjük, levével együtt tetejére szedjük a májat, és a félretett majoránnalevelekkel díszítjük. Friss kenyér, petrezselymes burgonya illik hozzá."
+            }
+        ],
+        "prepTime": "PT40M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/099f7037-b327-434d-b381-c7cbf6f33a08_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "099f7037-b327-434d-b381-c7cbf6f33a08",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Lecsós libamájcsíkok",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT40M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "400 g pecsenyeliba-/kacsamáj",
+                "1 közepes fej hagyma",
+                "1/2 kg zöldpaprika",
+                "2-3 paradicsom",
+                "2 szál friss majoránna",
+                "2+2 ek. olaj",
+                "1 kk. pirospaprika",
+                "1 kk. csípős paprikakrém",
+                "só, bors"
+            ],
+            "recipeDirections": [
+                "A májat leöblítjük, alaposan lecsepegtetjük, hártyáit-inait eltávolítjuk, 0,5 cm vastag csíkokra vágjuk (az élénkvörös, pulykamáj színére és állagára emlékeztető pecsenyeliba-/kacsamáj nem tévesztendő össze a nevezetes és drága, sápadtsárga, hízott libamájjal!).",
+                "A hagymát meghámozzuk, vékonyan felkarikázzuk, a paprikákat kicsumázzuk, karcsú csíkokra szeljük. A paradicsomokat 1 percre forrásban lévő, majd hideg vízbe merítjük, meghámozzuk és gerezdekre vágjuk. A majoránnát leöblítjük, levélkéit lecsipkedjük, néhány bóbita kivételével finomra vágjuk.",
+                "A lecsóhoz 2 ek. olajban megfonnyasztjuk a hagymát, elkeverjük a pirospaprikával és a csípős paprikakrémmel, rádobjuk a paradicsomot, kissé megsózzuk, 2-3 percig forraljuk. Hozzáadjuk a paprikát, élénk tűzön, gyakran megkeverve, 5-6 percig puhára, de még ropogósra sütjük. Lehúzzuk a tűzről, fedő alatt melegen tartjuk.",
+                "Felforrósítjuk a maradék 2 ek. olajat, beleforgatjuk a májat, meghintjük a majoránnával, élénk tűzön, folyamatosan keverve, 4-5 percig pirítjuk, végül sózzuk, borsozzuk. A lecsót tálra terítjük, levével együtt tetejére szedjük a májat, és a félretett majoránnalevelekkel díszítjük. Friss kenyér, petrezselymes burgonya illik hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/099f7037-b327-434d-b381-c7cbf6f33a08_0.jpg"
+        },
+        "x-source-file": "8e973511-a906-412c-a871-c6205380a313.zip",
+        "x-db-id": 203,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

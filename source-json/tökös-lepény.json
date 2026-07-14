@@ -1,0 +1,110 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Tökös lepény",
+        "recipeIngredient": [
+            "5 tojás",
+            "1 dl olaj",
+            "12 dkg liszt",
+            "1+1/2 tk sütőpor",
+            "2-3 darab zsenge tök (kb. 50 dkg)",
+            "10 dkg sárgarépa",
+            "1 kisebb fej hagyma",
+            "10 dkg sajt",
+            "só, bors",
+            "1 ek apróra vágott petrezselyemzöld"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tököt megmossuk, végeit levágjuk és nagy lyukú reszelőn lereszeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sárgarépát megpucoljuk és ugyancsak lereszeljük a nagy lyukú reszelőn."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát meghámozzuk és felaprítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojásokat felverjük, hozzáadjuk az olajat és elkeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beleszórjuk a sütőporos lisztet és egyneművé keverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beleforgatjuk a lereszelt zöldségeket, a hagymát és az apróra vágott petrezselyemzöldet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Végül a reszelt sajtot is beledolgozzuk és sóval, borssal ízesítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy 24x29 cm-es tepsit kibélelünk sütőpapírral, beleöntjük a masszát és elsimítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Előmelegített sütőben, 180 fokon kb. 30-35 perc alatt szép aranybarnára sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kockára vágva, hidegen vagy melegen egyaránt tálalhatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fokhagymás, fűszerezett tejfölt is lehet kínálni mellé."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT35M",
+        "recipeYield": "3-4 fő részére",
+        "x-recipe-keeper": {
+            "recipeId": "7c0c3be3-c3bc-45bf-994c-f2ef09238a2f",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Tökös lepény",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "3-4 fő részére",
+            "prepTime": "PT0S",
+            "cookTime": "PT35M",
+            "recipeIngredients": [
+                "5 tojás",
+                "1 dl olaj",
+                "12 dkg liszt",
+                "1+1/2 tk sütőpor",
+                "2-3 darab zsenge tök (kb. 50 dkg)",
+                "10 dkg sárgarépa",
+                "1 kisebb fej hagyma",
+                "10 dkg sajt",
+                "só, bors",
+                "1 ek apróra vágott petrezselyemzöld"
+            ],
+            "recipeDirections": [
+                "A tököt megmossuk, végeit levágjuk és nagy lyukú reszelőn lereszeljük.",
+                "A sárgarépát megpucoljuk és ugyancsak lereszeljük a nagy lyukú reszelőn.",
+                "A hagymát meghámozzuk és felaprítjuk.",
+                "A tojásokat felverjük, hozzáadjuk az olajat és elkeverjük.",
+                "Beleszórjuk a sütőporos lisztet és egyneművé keverjük.",
+                "Beleforgatjuk a lereszelt zöldségeket, a hagymát és az apróra vágott petrezselyemzöldet.",
+                "Végül a reszelt sajtot is beledolgozzuk és sóval, borssal ízesítjük.",
+                "Egy 24x29 cm-es tepsit kibélelünk sütőpapírral, beleöntjük a masszát és elsimítjuk.",
+                "Előmelegített sütőben, 180 fokon kb. 30-35 perc alatt szép aranybarnára sütjük.",
+                "Kockára vágva, hidegen vagy melegen egyaránt tálalhatjuk.",
+                "Fokhagymás, fűszerezett tejfölt is lehet kínálni mellé."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "6e03e7be-5be6-419b-9334-749488909078.zip",
+        "x-db-id": 138,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

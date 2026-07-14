@@ -1,0 +1,88 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gombás palacsintametélt",
+        "recipeIngredient": [
+            "200 g finomliszt",
+            "4 dl tej",
+            "4 tojás",
+            "só, bors",
+            "800 g fehér és barna sampinyon gomba vegyesen",
+            "1 zöldpaprika",
+            "1 paradicsom",
+            "1 nagy fej hagyma",
+            "2 gerezd fokhagyma",
+            "3+2 ek. olaj",
+            "1 kk. pirospaprika",
+            "1 ek. csípős paprikakrém",
+            "1 ek. paradicsompüré",
+            "1/4 kk. morzsolt kakukkfű",
+            "1 ek. rizsliszt",
+            "4 dl tejföl",
+            "diónyi vaj/margarin a tálhoz",
+            "1 csokor petrezselyem"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Simára keverjük a lisztet a tejben eldolgozott tojásokkal, 1/2 kk. sóval, majd lefedjük, és fél órát pihentetjük. A zöldségeket megtisztítjuk, a gombát felszeleteljük, a zöldpaprikát és a meghámozott paradicsomot felaprózzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát és a fokhagymát finomra vágjuk, megfony-nyasztjuk 3 ek. olajban. Hozzáadjuk a pirospaprikát, a paprikakrémet, a paradicsompürét, a kakukkfüvet, sót és borsot, majd rádobjuk a gombát, és fedő alatt puhára pároljuk. Elkeverjük a rizsliszttel, valamint a tejföllel, összeforraljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kikenünk vajjal/margarinnal egy sütőedényt. A petrezselymet (néhány bóbitával kivételével) finomra vágjuk, 2 ek. olajjal együtt a palacsintatésztához keverjük, és 16 palacsintát sütünk belőle. Kettesével feltekerjük, ujjnyi széles csíkokra metéljük, a sütőedénybe szórjuk, végül bevonjuk a gombapaprikással, és 200 °C-os sütőben átforrósítjuk (10-15 perc). Petrezselyemmel díszítve azonnal tálaljuk."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT15M",
+        "recipeYield": "4 személyre",
+        "image": "images/960d5359-ed7a-49c8-bd7f-7441e46a7d61_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "960d5359-ed7a-49c8-bd7f-7441e46a7d61",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gombás palacsintametélt",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H",
+            "cookTime": "PT15M",
+            "recipeIngredients": [
+                "200 g finomliszt",
+                "4 dl tej",
+                "4 tojás",
+                "só, bors",
+                "800 g fehér és barna sampinyon gomba vegyesen",
+                "1 zöldpaprika",
+                "1 paradicsom",
+                "1 nagy fej hagyma",
+                "2 gerezd fokhagyma",
+                "3+2 ek. olaj",
+                "1 kk. pirospaprika",
+                "1 ek. csípős paprikakrém",
+                "1 ek. paradicsompüré",
+                "1/4 kk. morzsolt kakukkfű",
+                "1 ek. rizsliszt",
+                "4 dl tejföl",
+                "diónyi vaj/margarin a tálhoz",
+                "1 csokor petrezselyem"
+            ],
+            "recipeDirections": [
+                "Simára keverjük a lisztet a tejben eldolgozott tojásokkal, 1/2 kk. sóval, majd lefedjük, és fél órát pihentetjük. A zöldségeket megtisztítjuk, a gombát felszeleteljük, a zöldpaprikát és a meghámozott paradicsomot felaprózzuk.",
+                "A hagymát és a fokhagymát finomra vágjuk, megfony-nyasztjuk 3 ek. olajban. Hozzáadjuk a pirospaprikát, a paprikakrémet, a paradicsompürét, a kakukkfüvet, sót és borsot, majd rádobjuk a gombát, és fedő alatt puhára pároljuk. Elkeverjük a rizsliszttel, valamint a tejföllel, összeforraljuk.",
+                "Kikenünk vajjal/margarinnal egy sütőedényt. A petrezselymet (néhány bóbitával kivételével) finomra vágjuk, 2 ek. olajjal együtt a palacsintatésztához keverjük, és 16 palacsintát sütünk belőle. Kettesével feltekerjük, ujjnyi széles csíkokra metéljük, a sütőedénybe szórjuk, végül bevonjuk a gombapaprikással, és 200 °C-os sütőben átforrósítjuk (10-15 perc). Petrezselyemmel díszítve azonnal tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/960d5359-ed7a-49c8-bd7f-7441e46a7d61_0.jpg"
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 242,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Köményes foszlós kifli",
+        "recipeIngredient": [
+            "2,5 dl tej",
+            "2,5 dkg friss vagy 7 gr szárított élesztő",
+            "1 csapott tk. cukor",
+            "50 dkg finomliszt",
+            "1 kávéskanál só",
+            "10 dkg vaj",
+            "125 gr natúr joghurt",
+            "A díszítéshez",
+            "köménymag",
+            "tengeri só"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Keverjük el a langyos tejben a cukrot és az élesztőt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet keverjük el a sóval, majd adjuk hozzá az élesztős tejet, a joghurtot és 5 dkg vajat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha szükséges, adjunk hozzá még egy kevés vizet, hogy gyúrható tésztát kapjunk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "8-10 perc alatt dagasszuk lágy tésztává."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hagyjuk kelni 1-1,5 órán keresztül."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lisztzett deszkán nyújtsuk ki vékonyra, majd egyenletesen kenjük meg a maradék puha vajjal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A rövidebb oldalánál fogva tekerjük fel, mint egy piskótatekercset, hogy duci hengert kapjunk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Konyharuhával lefedve kelesszük újabb 1-1,5 órán át, majd nyújtsuk ki a tésztát szabályos téglalappá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Vágjunk belőle kisebb téglalapokat, majd ezekből háromszögeket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A háromszögeket sodorjuk fel kiflinek, helyezzük őket sütőpapírral bélelt sütőlemezre, hagyjuk pihenni újabb 15 percet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a sütőt melegítsük elő 220 fokra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kifliket spricceljük be hideg vízzel, szórjunk rájuk tengeri sót és köménymagot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tegyük a sütőbe sülni 15-20 percre."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "recipeYield": "16 kis kifli",
+        "image": "images/2e981262-f9e6-4487-afb9-0c76f2c4c1c1_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "2e981262-f9e6-4487-afb9-0c76f2c4c1c1",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Köményes foszlós kifli",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "16 kis kifli",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "2,5 dl tej",
+                "2,5 dkg friss vagy 7 gr szárított élesztő",
+                "1 csapott tk. cukor",
+                "50 dkg finomliszt",
+                "1 kávéskanál só",
+                "10 dkg vaj",
+                "125 gr natúr joghurt",
+                "A díszítéshez",
+                "köménymag",
+                "tengeri só"
+            ],
+            "recipeDirections": [
+                "Keverjük el a langyos tejben a cukrot és az élesztőt.",
+                "A lisztet keverjük el a sóval, majd adjuk hozzá az élesztős tejet, a joghurtot és 5 dkg vajat.",
+                "Ha szükséges, adjunk hozzá még egy kevés vizet, hogy gyúrható tésztát kapjunk.",
+                "8-10 perc alatt dagasszuk lágy tésztává.",
+                "Hagyjuk kelni 1-1,5 órán keresztül.",
+                "Lisztzett deszkán nyújtsuk ki vékonyra, majd egyenletesen kenjük meg a maradék puha vajjal.",
+                "A rövidebb oldalánál fogva tekerjük fel, mint egy piskótatekercset, hogy duci hengert kapjunk.",
+                "Konyharuhával lefedve kelesszük újabb 1-1,5 órán át, majd nyújtsuk ki a tésztát szabályos téglalappá.",
+                "Vágjunk belőle kisebb téglalapokat, majd ezekből háromszögeket.",
+                "A háromszögeket sodorjuk fel kiflinek, helyezzük őket sütőpapírral bélelt sütőlemezre, hagyjuk pihenni újabb 15 percet.",
+                "Közben a sütőt melegítsük elő 220 fokra.",
+                "A kifliket spricceljük be hideg vízzel, szórjunk rájuk tengeri sót és köménymagot.",
+                "Tegyük a sütőbe sülni 15-20 percre."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/2e981262-f9e6-4487-afb9-0c76f2c4c1c1_0.jpg"
+        },
+        "x-source-file": "78c7b1d4-56f5-40ee-9e76-a7d93ffbed93.zip",
+        "x-db-id": 152,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

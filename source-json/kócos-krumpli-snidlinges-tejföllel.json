@@ -1,0 +1,72 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kócos krumpli snidlinges tejföllel",
+        "recipeIngredient": [
+            "1.2 kg krumpli",
+            "200 g angolszalonna",
+            "4 nagy fej hagyma (600 g)",
+            "4 gerezd fokhagyma",
+            "3+1 ek. olaj",
+            "só, bors",
+            "2+2 dl tejföl",
+            "15-20 szál snidling",
+            "2-3 szál újhagyma",
+            "néhány bazsalikombóbi"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A krumplikat alaposan meg-sikáljuk, és enyhén sós, bő vízben puhára főzzük (20 perc). A szalonnát apró kockákra vágjuk. A hagymákat és a fokhagymagerezdeket meghámozzuk, a hagymákat karikákra gyaluljuk. 3 ek. olajat felforrósítunk, egyszerre beledobjuk a szalonnát, a hagymát és az áttört fokhagymát, majd élénk tűzön, 1 percig pirítjuk. Sózzuk, borsozzuk, fedő alatt puhára pároljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A krumplit leszűrjük, héjastul hasábokra/nagyobb kockákra vágjuk. A maradék 1 ek. olajjal kikenünk egy sütőedényt, beleterítjük a krumplidarabokat úgy, hogy vágott felük kerüljön felülre. Meghintjük sóval és frissen őrölt borssal, tetejükre simítjuk a szalonnás hagymát, végül megkenjük 2 dl tejföllel, és 200 °C-os sütőben 30-35 percig pirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A snidlinget néhány szál kivéve apróra vágjuk a tejfölbe, csinos tálkába szedjük, és a félretett snidlingszálakkal vidámítjuk. A krumpli tetejét a felaprózott újhagymával, bazsalikombóbitával díszítjük, és a snidlinges tejföllel kíséretében tálaljuk. Savanyúságot, téli vegyes vagy céklasalátát kínálhatunk hozzá. Frissen az igazi!"
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT35M",
+        "recipeYield": "4 PERSON",
+        "image": "images/b461d4ca-c6a5-4146-a64f-a7d22bd72261_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "b461d4ca-c6a5-4146-a64f-a7d22bd72261",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kócos krumpli snidlinges tejföllel",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT1H",
+            "cookTime": "PT35M",
+            "recipeIngredients": [
+                "1.2 kg krumpli",
+                "200 g angolszalonna",
+                "4 nagy fej hagyma (600 g)",
+                "4 gerezd fokhagyma",
+                "3+1 ek. olaj",
+                "só, bors",
+                "2+2 dl tejföl",
+                "15-20 szál snidling",
+                "2-3 szál újhagyma",
+                "néhány bazsalikombóbi"
+            ],
+            "recipeDirections": [
+                "A krumplikat alaposan meg-sikáljuk, és enyhén sós, bő vízben puhára főzzük (20 perc). A szalonnát apró kockákra vágjuk. A hagymákat és a fokhagymagerezdeket meghámozzuk, a hagymákat karikákra gyaluljuk. 3 ek. olajat felforrósítunk, egyszerre beledobjuk a szalonnát, a hagymát és az áttört fokhagymát, majd élénk tűzön, 1 percig pirítjuk. Sózzuk, borsozzuk, fedő alatt puhára pároljuk.",
+                "A krumplit leszűrjük, héjastul hasábokra/nagyobb kockákra vágjuk. A maradék 1 ek. olajjal kikenünk egy sütőedényt, beleterítjük a krumplidarabokat úgy, hogy vágott felük kerüljön felülre. Meghintjük sóval és frissen őrölt borssal, tetejükre simítjuk a szalonnás hagymát, végül megkenjük 2 dl tejföllel, és 200 °C-os sütőben 30-35 percig pirítjuk.",
+                "A snidlinget néhány szál kivéve apróra vágjuk a tejfölbe, csinos tálkába szedjük, és a félretett snidlingszálakkal vidámítjuk. A krumpli tetejét a felaprózott újhagymával, bazsalikombóbitával díszítjük, és a snidlinges tejföllel kíséretében tálaljuk. Savanyúságot, téli vegyes vagy céklasalátát kínálhatunk hozzá. Frissen az igazi!"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/b461d4ca-c6a5-4146-a64f-a7d22bd72261_0.jpg"
+        },
+        "x-source-file": "a732a041-ba4a-4467-98ee-e33a82efcb46.zip",
+        "x-db-id": 264,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

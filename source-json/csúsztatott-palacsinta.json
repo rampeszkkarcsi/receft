@@ -1,0 +1,60 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Csúsztatott palacsinta",
+        "recipeIngredient": [
+            "5dkg vaj",
+            "15 dkg liszt",
+            "4dl tej",
+            "3 db toja's",
+            "15 dkg cukor",
+            "5 dkg olaj",
+            "1csomag van cuk"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A vajat 3 tojás sárgájaval, majd 15 dkg cukorral jól kikeverjük, majd hozzáadjuk a tejet és a lisztet plusz 1 csipet sot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Végül a 3 tojás keményre vert fehérjét is hozzáadjuk"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/dc2b0ac3-e28a-4c9d-b88f-803e4eade45f_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "dc2b0ac3-e28a-4c9d-b88f-803e4eade45f",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Csúsztatott palacsinta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "5dkg vaj",
+                "15 dkg liszt",
+                "4dl tej",
+                "3 db toja's",
+                "15 dkg cukor",
+                "5 dkg olaj",
+                "1csomag van cuk"
+            ],
+            "recipeDirections": [
+                "A vajat 3 tojás sárgájaval, majd 15 dkg cukorral jól kikeverjük, majd hozzáadjuk a tejet és a lisztet plusz 1 csipet sot.",
+                "Végül a 3 tojás keményre vert fehérjét is hozzáadjuk"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/dc2b0ac3-e28a-4c9d-b88f-803e4eade45f_0.jpg"
+        },
+        "x-source-file": "6927f13b-408a-4c16-9b05-60d162e1329b.zip",
+        "x-db-id": 184,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

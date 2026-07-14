@@ -1,0 +1,75 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Fahéjas-tejszínes almaleves",
+        "recipeIngredient": [
+            "1 citrom",
+            "4 közepes alma",
+            "1/2 vaníliarúd",
+            "kisujjnyi fahéj",
+            "40 g cukor",
+            "só",
+            "2+1 dl tejszín",
+            "2 púpozott ek. rizsliszt",
+            "citromfűlevélkék"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A citromot forró folyó víz alatt megsikáljuk, héjából 2 ujjnyit burgonyahámozóval levágunk (csak a sárga részét!), levét kinyomjuk és átszűrjük. Az almákat megmossuk, egyet félreteszünk a díszítéshez, a maradék hármat meghámozzuk, magházukat kiemeljük, majd felaprózzuk őket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "1,2 liter hideg vízben elkeverünk 4 ek. citromlét, hozzáadjuk a citromhéjat, a felhasított vaníliarudat, a fahéjat, cukrot, csipetnyi sót és a felaprózott almát, majd mérsékelt tűzön, fedő alatt puhára főzzük (12-15 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Eltávolítjuk a levesből a vaníliarudat és a fahéjat, behabarjuk a 2 dl tejszínben elkevert rizsliszttel, majd felforraljuk. Botmixerrel sima péppé keverjük, és még egyszer felforraljuk. Ha szükséges, egy kevés cukorral és/vagy citromlével utánaízesítjük, kihűtjük, és tálalásig hidegen tartjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A félretett 1 almát ketté vágjuk, magházát eltávolítjuk, az egyik felét vékony gerezdekre szeljük és meghintjük citromlével, a másikat apróra felkockázzuk, majd a levesbe keverjük. A maradék 1 dl tejszínt kemény habbá verjük. A levest mélytányérokba vagy tálkákba szedjük, habrózsákat nyomunk a tetejére, végül az almaszeletekkel és a citromfűlevélkékkel díszítve kínáljuk."
+            }
+        ],
+        "prepTime": "PT30M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/467f7ffa-27cf-467a-8a72-4de2906b044a_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "467f7ffa-27cf-467a-8a72-4de2906b044a",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Fahéjas-tejszínes almaleves",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT30M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1 citrom",
+                "4 közepes alma",
+                "1/2 vaníliarúd",
+                "kisujjnyi fahéj",
+                "40 g cukor",
+                "só",
+                "2+1 dl tejszín",
+                "2 púpozott ek. rizsliszt",
+                "citromfűlevélkék"
+            ],
+            "recipeDirections": [
+                "A citromot forró folyó víz alatt megsikáljuk, héjából 2 ujjnyit burgonyahámozóval levágunk (csak a sárga részét!), levét kinyomjuk és átszűrjük. Az almákat megmossuk, egyet félreteszünk a díszítéshez, a maradék hármat meghámozzuk, magházukat kiemeljük, majd felaprózzuk őket.",
+                "1,2 liter hideg vízben elkeverünk 4 ek. citromlét, hozzáadjuk a citromhéjat, a felhasított vaníliarudat, a fahéjat, cukrot, csipetnyi sót és a felaprózott almát, majd mérsékelt tűzön, fedő alatt puhára főzzük (12-15 perc).",
+                "Eltávolítjuk a levesből a vaníliarudat és a fahéjat, behabarjuk a 2 dl tejszínben elkevert rizsliszttel, majd felforraljuk. Botmixerrel sima péppé keverjük, és még egyszer felforraljuk. Ha szükséges, egy kevés cukorral és/vagy citromlével utánaízesítjük, kihűtjük, és tálalásig hidegen tartjuk.",
+                "A félretett 1 almát ketté vágjuk, magházát eltávolítjuk, az egyik felét vékony gerezdekre szeljük és meghintjük citromlével, a másikat apróra felkockázzuk, majd a levesbe keverjük. A maradék 1 dl tejszínt kemény habbá verjük. A levest mélytányérokba vagy tálkákba szedjük, habrózsákat nyomunk a tetejére, végül az almaszeletekkel és a citromfűlevélkékkel díszítve kínáljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/467f7ffa-27cf-467a-8a72-4de2906b044a_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 218,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

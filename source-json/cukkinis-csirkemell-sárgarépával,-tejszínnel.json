@@ -1,0 +1,114 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Cukkinis csirkemell sárgarépával, tejszínnel",
+        "recipeIngredient": [
+            "4 db fél csirkemell (kb. 1 kg)",
+            "2 nagyobb sárgarépa (kb. 20-25 dkg)",
+            "1 nagyobb vagy 2 kisebb cukkini (kb. 25-30 dkg)",
+            "1 ek. provence-i fűszerkeverék",
+            "1/2 tk. pirospaprika",
+            "2-4 gerezd fokhagyma (ízlés szerint)",
+            "2,5 dl tejszín",
+            "3 ek. olívaolaj",
+            "Só",
+            "Bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Tisztítsd meg a csirkemellet, és vágd ízlés szerint 2-3 szeletbe. Sózd és borsozd."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sárgarépát és a cukkinit vágd föl csíkokba, aprítsd fel a fokhagymát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy nagyobb serpenyőben pirítsd közepes lángon a csirkemelleket 2 ek. olívaolajban 6-6 percig mindkét oldalán. Ha kész, vedd ki egy tányérra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ugyanabba a serpenyőbe önts még 1 ek. olívaolajat, add hozzá a répát és a cukkinit. Így a zöldségek a csirkemell ízét is átveszik."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pirítsd közepes-nagy lángon, időnként forgatva 3 percig."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "3 perc után add hozzá a fokhagymát, és pirítsd még 1 percig."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "1 perc után adj hozzá ízlés szerint őrölt borsot és a provence-i fűszerkeveréket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Még egy percig forgasd az egészet nagy lángon."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Vedd le a tűzről, öntsd bele a tejszínt és keverd el."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Add hozzá a paprikát, keverd el azzal is, és tedd vissza a tűzre."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Forrald be, majd tedd bele a csirkemelleket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "5 percig közepes lángon főzd még, a csirkemelleket egyszer-kétszer megforgatva, hogy jobban átvegyék a cukkinis szósz ízét."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT17M",
+        "x-recipe-keeper": {
+            "recipeId": "335eb006-3b2f-4905-a8d0-96a2909ccc8e",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Cukkinis csirkemell sárgarépával, tejszínnel",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT17M",
+            "recipeIngredients": [
+                "4 db fél csirkemell (kb. 1 kg)",
+                "2 nagyobb sárgarépa (kb. 20-25 dkg)",
+                "1 nagyobb vagy 2 kisebb cukkini (kb. 25-30 dkg)",
+                "1 ek. provence-i fűszerkeverék",
+                "1/2 tk. pirospaprika",
+                "2-4 gerezd fokhagyma (ízlés szerint)",
+                "2,5 dl tejszín",
+                "3 ek. olívaolaj",
+                "Só",
+                "Bors"
+            ],
+            "recipeDirections": [
+                "Tisztítsd meg a csirkemellet, és vágd ízlés szerint 2-3 szeletbe. Sózd és borsozd.",
+                "A sárgarépát és a cukkinit vágd föl csíkokba, aprítsd fel a fokhagymát.",
+                "Egy nagyobb serpenyőben pirítsd közepes lángon a csirkemelleket 2 ek. olívaolajban 6-6 percig mindkét oldalán. Ha kész, vedd ki egy tányérra.",
+                "Ugyanabba a serpenyőbe önts még 1 ek. olívaolajat, add hozzá a répát és a cukkinit. Így a zöldségek a csirkemell ízét is átveszik.",
+                "Pirítsd közepes-nagy lángon, időnként forgatva 3 percig.",
+                "3 perc után add hozzá a fokhagymát, és pirítsd még 1 percig.",
+                "1 perc után adj hozzá ízlés szerint őrölt borsot és a provence-i fűszerkeveréket.",
+                "Még egy percig forgasd az egészet nagy lángon.",
+                "Vedd le a tűzről, öntsd bele a tejszínt és keverd el.",
+                "Add hozzá a paprikát, keverd el azzal is, és tedd vissza a tűzre.",
+                "Forrald be, majd tedd bele a csirkemelleket.",
+                "5 percig közepes lángon főzd még, a csirkemelleket egyszer-kétszer megforgatva, hogy jobban átvegyék a cukkinis szósz ízét."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "5d69ba0e-6fbf-4ffa-86b3-7aaa925b1eab.zip",
+        "x-db-id": 166,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

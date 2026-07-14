@@ -1,0 +1,100 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Birsalmasajt",
+        "recipeIngredient": [
+            "2 kg birsalma/-körte",
+            "1,2-1,5 kg cukor",
+            "2 citrom",
+            "A díszítéshez:",
+            "8-10 szem hámozott mandula vagy dió",
+            "1-2 ek. aszalt vörösáfon",
+            "1-2 ek. natúr vágott pisztácia"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A birsalmát megmossuk, héjával, magházával együtt felaprózzuk, majd annyi vízben, hogy éppen ellepje, vajpuhára főzzük (30-35 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Leszűrjük (a főzővízre most nincs szükségünk, de citrommal, cukorral ízesítve remek itóka), jól lecsepegtetjük, majd áttörjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megmérjük a gyümölcspépet, és súlyával azonos mennyiségű cukorral, valamint 500 g-onként 1/2 citrom átszűrt levével, folyamatosan keverve sűrűre főzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Jégkockákkal lehűtött vízfürdőbe állítjuk, és többször megkeverve langyosra hűtjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hideg vízzel kiöblítünk tetszés szerint kisebb őzgerinc-, puding- vagy egyéb rajzos süteményformát, illetve kompótostálkát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Némelyik aljára (csillag- vagy virágszerűen) néhány mandula- és/vagy diószemet csinosítunk, beleszedjük a masszát, elsimítjuk, és 1-2 napig fedetlenül pihentetjük-szikkasztjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kiborítjuk a formából a birssajtot, (tüllernyővel letakarva) 4-7 napig ismét száradni hagyjuk, majd kilyukasztott oldalú-fedelű papírdobozokba tesszük, és hűvös helyen, de nem a hűtőszekrényben tároljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tálaláskor aszalt áfonyával és/vagy pisztáciával díszíthetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Csak úgy magában, csemegeként fogyasztjuk, vagy az aszalt gyümölcsökkel azonos módon, sütemények készítéséhez felhasználhatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Karácsonyi ajándéknak is pompás lehet majd!"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT35M",
+        "image": "images/060006e3-2af8-4af4-a5a5-253275c54319_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "060006e3-2af8-4af4-a5a5-253275c54319",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Birsalmasajt",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT35M",
+            "recipeIngredients": [
+                "2 kg birsalma/-körte",
+                "1,2-1,5 kg cukor",
+                "2 citrom",
+                "A díszítéshez:",
+                "8-10 szem hámozott mandula vagy dió",
+                "1-2 ek. aszalt vörösáfon",
+                "1-2 ek. natúr vágott pisztácia"
+            ],
+            "recipeDirections": [
+                "A birsalmát megmossuk, héjával, magházával együtt felaprózzuk, majd annyi vízben, hogy éppen ellepje, vajpuhára főzzük (30-35 perc).",
+                "Leszűrjük (a főzővízre most nincs szükségünk, de citrommal, cukorral ízesítve remek itóka), jól lecsepegtetjük, majd áttörjük.",
+                "Megmérjük a gyümölcspépet, és súlyával azonos mennyiségű cukorral, valamint 500 g-onként 1/2 citrom átszűrt levével, folyamatosan keverve sűrűre főzzük.",
+                "Jégkockákkal lehűtött vízfürdőbe állítjuk, és többször megkeverve langyosra hűtjük.",
+                "Hideg vízzel kiöblítünk tetszés szerint kisebb őzgerinc-, puding- vagy egyéb rajzos süteményformát, illetve kompótostálkát.",
+                "Némelyik aljára (csillag- vagy virágszerűen) néhány mandula- és/vagy diószemet csinosítunk, beleszedjük a masszát, elsimítjuk, és 1-2 napig fedetlenül pihentetjük-szikkasztjuk.",
+                "Kiborítjuk a formából a birssajtot, (tüllernyővel letakarva) 4-7 napig ismét száradni hagyjuk, majd kilyukasztott oldalú-fedelű papírdobozokba tesszük, és hűvös helyen, de nem a hűtőszekrényben tároljuk.",
+                "Tálaláskor aszalt áfonyával és/vagy pisztáciával díszíthetjük.",
+                "Csak úgy magában, csemegeként fogyasztjuk, vagy az aszalt gyümölcsökkel azonos módon, sütemények készítéséhez felhasználhatjuk.",
+                "Karácsonyi ajándéknak is pompás lehet majd!"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/060006e3-2af8-4af4-a5a5-253275c54319_0.jpg"
+        },
+        "x-source-file": "a732a041-ba4a-4467-98ee-e33a82efcb46.zip",
+        "x-db-id": 258,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

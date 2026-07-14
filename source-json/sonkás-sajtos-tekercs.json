@@ -1,0 +1,136 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sonkás-sajtos tekercs",
+        "recipeIngredient": [
+            "1 kg liszt",
+            "10 dkg rétesliszt",
+            "6 dl tejföl",
+            "1 dl tej",
+            "1 dl olaj",
+            "1 ek. cukor",
+            "1 ek. só",
+            "1 cs. 11 grammos szárított élesztő",
+            "2 tojás",
+            "Töltelék",
+            "kb. 30 dkg sonka",
+            "20 dkg krinolin, vagy virsli",
+            "4 db lilahagyma",
+            "1 fej fokhagyma",
+            "0,5 dl olaj",
+            "10 dkg margarin",
+            "20 dkg sajt",
+            "őrölt bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A folyékony hozzávalókat meglangyosítjuk, majd hozzáadjuk a többit is, és jól összedolgozzuk, és duplájára kelesztjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Amíg kel, elkészítjük a tölteléket: a sonkát vékony kockákra vágjuk, és kevés olajon megsütjük (nem pirosra!)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A krinolint is vékony, apró kockákra vágjuk, és 1-2 percre rádobjuk a sonkára, és ízlés szerinti mennyiségű őrölt borssal megszórjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha készen van, kiszedjük, és a visszamaradt zsiradékban megolvasztjuk a margarint, és belereszeljük az egy fej fokhagymát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lila hagymát vékonyra szeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha megkelt a tészta, 4 részre osztjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Vékony téglalappá nyújtjuk, megkenjük a margarinos fokhagymával, megszórjuk sonkával, lila hagymával, sajtot reszelünk rá, és összetekerjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Trapéz alakúra vágjuk, tepsibe rakjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Letakarva kelesztjük még kb. fél óráig."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megkenjük tojással, szórunk rá reszelt sajtot, szezámmagot, köménymagot, és 190 fokos előmelegített sütőben sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megjegyzés: Én kenyérsütő gépben dagasztottam, kelesztettem, és házi sonkával készítettem. Fantasztikusan finom lett!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az utolsó tekercsnél a margarinos fokhagyma után megkentem tejföllel, utána tettem rá a sonkát, hagymát sajtot. Annak sokkal zaftosabb lett a tölteléke. Szerintem úgy még finomabb."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tejföl kicsit lehúzza, nem lesz olyan magas, de nagyon ízletes."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "kb. 50 db",
+        "x-recipe-keeper": {
+            "recipeId": "ea620a0a-2324-4d46-a352-c14fbbe87acf",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sonkás-sajtos tekercs",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "kb. 50 db",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1 kg liszt",
+                "10 dkg rétesliszt",
+                "6 dl tejföl",
+                "1 dl tej",
+                "1 dl olaj",
+                "1 ek. cukor",
+                "1 ek. só",
+                "1 cs. 11 grammos szárított élesztő",
+                "2 tojás",
+                "Töltelék",
+                "kb. 30 dkg sonka",
+                "20 dkg krinolin, vagy virsli",
+                "4 db lilahagyma",
+                "1 fej fokhagyma",
+                "0,5 dl olaj",
+                "10 dkg margarin",
+                "20 dkg sajt",
+                "őrölt bors"
+            ],
+            "recipeDirections": [
+                "A folyékony hozzávalókat meglangyosítjuk, majd hozzáadjuk a többit is, és jól összedolgozzuk, és duplájára kelesztjük.",
+                "Amíg kel, elkészítjük a tölteléket: a sonkát vékony kockákra vágjuk, és kevés olajon megsütjük (nem pirosra!).",
+                "A krinolint is vékony, apró kockákra vágjuk, és 1-2 percre rádobjuk a sonkára, és ízlés szerinti mennyiségű őrölt borssal megszórjuk.",
+                "Ha készen van, kiszedjük, és a visszamaradt zsiradékban megolvasztjuk a margarint, és belereszeljük az egy fej fokhagymát.",
+                "A lila hagymát vékonyra szeljük.",
+                "Ha megkelt a tészta, 4 részre osztjuk.",
+                "Vékony téglalappá nyújtjuk, megkenjük a margarinos fokhagymával, megszórjuk sonkával, lila hagymával, sajtot reszelünk rá, és összetekerjük.",
+                "Trapéz alakúra vágjuk, tepsibe rakjuk.",
+                "Letakarva kelesztjük még kb. fél óráig.",
+                "Megkenjük tojással, szórunk rá reszelt sajtot, szezámmagot, köménymagot, és 190 fokos előmelegített sütőben sütjük.",
+                "Megjegyzés: Én kenyérsütő gépben dagasztottam, kelesztettem, és házi sonkával készítettem. Fantasztikusan finom lett!",
+                "Az utolsó tekercsnél a margarinos fokhagyma után megkentem tejföllel, utána tettem rá a sonkát, hagymát sajtot. Annak sokkal zaftosabb lett a tölteléke. Szerintem úgy még finomabb.",
+                "A tejföl kicsit lehúzza, nem lesz olyan magas, de nagyon ízletes."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 114,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

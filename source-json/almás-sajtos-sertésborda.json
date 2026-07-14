@@ -1,0 +1,99 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Almás-sajtos sertésborda",
+        "recipeIngredient": [
+            "8 kicsontozott sertésborda (800 g)",
+            "2 gerezd fokhagyma",
+            "1 ágacska rozmaring (10 cm-es)",
+            "4 közepes alma",
+            "só, bors",
+            "2 ek. liszt",
+            "2 ek. olaj",
+            "2 ek. vaj/margarin (30 g)",
+            "100 g ementáli sajt",
+            "A zelleres krumplipüréhez:",
+            "800 g krumpli",
+            "4 dl tej",
+            "só",
+            "200 g zellergumó",
+            "30 g vaj/margarin",
+            "szerecsendió"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A hússzeleteket leöblítjük, szárazra töröljük, folpackkal letakarva óvatosan kiverjük. A fokhagymát meghámozzuk, a rozmaringágacskát leöblítjük. Az almákat megmossuk, magházukat kivájjuk, 1 cm vastagon felkarikázzuk. A sütőt előmelegítjük 200 °C-ra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hússzeleteket mindkét oldalukon meghintjük sóval, borssal és kevéske liszttel. Nagyobb serpenyőben felforrósítjuk az olajat, beletesszük a sertésbordákat, melléjük dobjuk a fokhagymát és a rozmaringot. Mindkét oldalukon pirosra sütjük (3-3 perc), aztán egyenesen egy lapos sütőedénybe sorakoztatjuk őket"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kidobjuk a pecsenyeléből a fokhagymát és a rozmaringot, hozzáadjuk a vajat/margarint, és szép sorjában pirosra sütjük benne az almakarikákat. Mindegyik hússzelet tetejére 1-2 szépséges almakarikát fektetünk, a maradékot melléjük-köréjük rendezzük. A sajtot nagy lyukú reszelőn megreszeljük, és az almás hús tetejére szórjuk ."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Betesszük a sütőbe, és csak addig sütjük (10-12 perc), amíg a sajt aranysárgára nem pirul. Citromfűlevélkékkel díszítve a sütőedényben tálaljuk, köretként zelleres krumplipürét kínálunk hozzá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zelleres krumplipüréhez (mielőtt a hús sütéséhez fognánk) alaposan meg sikáljuk a zellert, majd a krumplival együtt meghámozzuk, megmossuk, és mindkettőt 2x2 cm-es kockákra vágjuk. Felöntjük a hideg tejjel, ízlés szerint sózzuk, és fedő nélkül (erősen habzik, könnyen kifut a tej!), gyakran megkeverve, 15-18 percig, vajpuhára főzzük - a leve teljesen elfő!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Miközben a hús a sütőben pirul, krumplinyomón áttörjük a zeller-krumpli keveréket, hogy a fás rostok ne kerüljenek a pürébe . Hozzáadjuk a vajat/margarint, ízlés szerint sót és frissen reszelt szerecsendiót, végül habosra keverjük, és mélyebb tálba szedjük. Tetejét megszórjuk vágott petrezselyemmel"
+            }
+        ],
+        "prepTime": "PT45M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/87914544-ada4-4620-8094-bb284edc1a42_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "87914544-ada4-4620-8094-bb284edc1a42",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Almás-sajtos sertésborda",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT45M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "8 kicsontozott sertésborda (800 g)",
+                "2 gerezd fokhagyma",
+                "1 ágacska rozmaring (10 cm-es)",
+                "4 közepes alma",
+                "só, bors",
+                "2 ek. liszt",
+                "2 ek. olaj",
+                "2 ek. vaj/margarin (30 g)",
+                "100 g ementáli sajt",
+                "A zelleres krumplipüréhez:",
+                "800 g krumpli",
+                "4 dl tej",
+                "só",
+                "200 g zellergumó",
+                "30 g vaj/margarin",
+                "szerecsendió"
+            ],
+            "recipeDirections": [
+                "A hússzeleteket leöblítjük, szárazra töröljük, folpackkal letakarva óvatosan kiverjük. A fokhagymát meghámozzuk, a rozmaringágacskát leöblítjük. Az almákat megmossuk, magházukat kivájjuk, 1 cm vastagon felkarikázzuk. A sütőt előmelegítjük 200 °C-ra.",
+                "A hússzeleteket mindkét oldalukon meghintjük sóval, borssal és kevéske liszttel. Nagyobb serpenyőben felforrósítjuk az olajat, beletesszük a sertésbordákat, melléjük dobjuk a fokhagymát és a rozmaringot. Mindkét oldalukon pirosra sütjük (3-3 perc), aztán egyenesen egy lapos sütőedénybe sorakoztatjuk őket",
+                "Kidobjuk a pecsenyeléből a fokhagymát és a rozmaringot, hozzáadjuk a vajat/margarint, és szép sorjában pirosra sütjük benne az almakarikákat. Mindegyik hússzelet tetejére 1-2 szépséges almakarikát fektetünk, a maradékot melléjük-köréjük rendezzük. A sajtot nagy lyukú reszelőn megreszeljük, és az almás hús tetejére szórjuk .",
+                "Betesszük a sütőbe, és csak addig sütjük (10-12 perc), amíg a sajt aranysárgára nem pirul. Citromfűlevélkékkel díszítve a sütőedényben tálaljuk, köretként zelleres krumplipürét kínálunk hozzá.",
+                "A zelleres krumplipüréhez (mielőtt a hús sütéséhez fognánk) alaposan meg sikáljuk a zellert, majd a krumplival együtt meghámozzuk, megmossuk, és mindkettőt 2x2 cm-es kockákra vágjuk. Felöntjük a hideg tejjel, ízlés szerint sózzuk, és fedő nélkül (erősen habzik, könnyen kifut a tej!), gyakran megkeverve, 15-18 percig, vajpuhára főzzük - a leve teljesen elfő!",
+                "Miközben a hús a sütőben pirul, krumplinyomón áttörjük a zeller-krumpli keveréket, hogy a fás rostok ne kerüljenek a pürébe . Hozzáadjuk a vajat/margarint, ízlés szerint sót és frissen reszelt szerecsendiót, végül habosra keverjük, és mélyebb tálba szedjük. Tetejét megszórjuk vágott petrezselyemmel"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/87914544-ada4-4620-8094-bb284edc1a42_0.jpg"
+        },
+        "x-source-file": "6e03e7be-5be6-419b-9334-749488909078.zip",
+        "x-db-id": 123,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

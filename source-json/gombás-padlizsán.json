@@ -1,0 +1,86 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gombás padlizsán",
+        "recipeIngredient": [
+            "4 szelet csirkemellfilé",
+            "1 nagyobb padlizsán",
+            "25 dkg rókagomba",
+            "4 szál újhagyma",
+            "4 gerezd fokhagyma",
+            "1 kk. rozmaring",
+            "provence-i fűszerkeverék",
+            "só",
+            "bors",
+            "5-6 ek. olívaolaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A padlizsánt felkarikázzuk - igény szerint félbe- vagy negyedekbe is vághatjuk az egyes szeleteket -, besózzuk, majd fél óra után leöblítjük és megszárítgatjuk a szeleteket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A húst kiklopfoljuk, meghintjük sóval, provence-i fűszerkeverékkel, és 2-3 kanál olajon hirtelen megpirítjuk, majd sütőtálba tesszük, és a sütőben sütjük kb. 20 percig."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a karikákra vágott újhagymát serpenyőben megpároljuk a maradék olajon, majd hozzáadjuk a megtisztított rókagombát, megpirítjuk, pár percig pároljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Végül hozzáadjuk a padlizsánt, a zúzott fokhagymát és a rozmaringot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sóval, borssal ízesítjük, és készre pároljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Miután megpuhult, tányérokra adagoljuk, és rátesszük a csirkeszeleteket."
+            }
+        ],
+        "prepTime": "PT30M",
+        "cookTime": "PT0S",
+        "image": "images/30d1f942-2da4-4934-b950-83070ecd4773_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "30d1f942-2da4-4934-b950-83070ecd4773",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gombás padlizsán",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT30M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "4 szelet csirkemellfilé",
+                "1 nagyobb padlizsán",
+                "25 dkg rókagomba",
+                "4 szál újhagyma",
+                "4 gerezd fokhagyma",
+                "1 kk. rozmaring",
+                "provence-i fűszerkeverék",
+                "só",
+                "bors",
+                "5-6 ek. olívaolaj"
+            ],
+            "recipeDirections": [
+                "A padlizsánt felkarikázzuk - igény szerint félbe- vagy negyedekbe is vághatjuk az egyes szeleteket -, besózzuk, majd fél óra után leöblítjük és megszárítgatjuk a szeleteket.",
+                "A húst kiklopfoljuk, meghintjük sóval, provence-i fűszerkeverékkel, és 2-3 kanál olajon hirtelen megpirítjuk, majd sütőtálba tesszük, és a sütőben sütjük kb. 20 percig.",
+                "Közben a karikákra vágott újhagymát serpenyőben megpároljuk a maradék olajon, majd hozzáadjuk a megtisztított rókagombát, megpirítjuk, pár percig pároljuk.",
+                "Végül hozzáadjuk a padlizsánt, a zúzott fokhagymát és a rozmaringot.",
+                "Sóval, borssal ízesítjük, és készre pároljuk.",
+                "Miután megpuhult, tányérokra adagoljuk, és rátesszük a csirkeszeleteket."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/30d1f942-2da4-4934-b950-83070ecd4773_0.jpg"
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 107,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

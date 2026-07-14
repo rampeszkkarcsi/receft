@@ -1,0 +1,79 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sonkás kuglóf",
+        "recipeIngredient": [
+            "400 g főtt, füstölt sonka",
+            "1 nagy csokor petrezselyem",
+            "3-4 szál friss majoránna",
+            "3 tojás",
+            "1 dl tejszín",
+            "1 dl húsleves (kockából)",
+            "200 g+1 ek. lágy vaj/margarin",
+            "200 g finomliszt",
+            "só",
+            "őrölt fehér bors",
+            "zsemlemorzsa"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A sonkát apró kockákra vágjuk. A petrezselymet és a majoránnát leöblítjük, levélkéiket lecsipkedjük, finomra aprítjuk. A tojásokat kettéválasztjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tejszínt és a húslevest felforraljuk 200 g vajjal/margarinnal, egyszerre hozzáadjuk a lisztet, és mérsékelt tőzön, folyamatosan-erőteljesen keverve addig főzzük, amíg a massza el nem válik az edény falától."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lehúzzuk a masszát a tűzről, beledolgozunk 1 tojássárgáját, 5 perc múlva a maradék kettőt, aztán hozzáadjuk a sonkát, a zöldfűszereket, ízlés szerint sót és borsot. A sütőt előmelegítjük 180 °C-ra. A maradék 1 ek. vajjal/margarinnal egyenletesen kikenünk és zsemlemorzsával meghintünk egy kb. 1,5 liter űrtartalmú kuglófformát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojásfehérjéket 1 csipet sóval kemény habbá verjük, óvatosan, hogy össze ne törjön, beleforgatjuk a masszába, amelyet a formába simítunk. Középső bordamagasságra állított rácson kb. 1 órán át sütjük, a formában hagyjuk teljesen kihűlni. Fogyasztás előtt lapos tálra borítjuk a kuglófot a formából, tetszés szerint salátalevelekkel, sonka- és paprikacsíkokkal díszítjük. 2-3 ujjnyi széles szeletekre vágva kínáljuk."
+            }
+        ],
+        "prepTime": "PT1H30M",
+        "cookTime": "PT1H",
+        "recipeYield": "8 szelet",
+        "image": "images/0e895a9f-e093-4aa2-b0e3-202eb33ab0cb_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "0e895a9f-e093-4aa2-b0e3-202eb33ab0cb",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sonkás kuglóf",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "8 szelet",
+            "prepTime": "PT1H30M",
+            "cookTime": "PT1H",
+            "recipeIngredients": [
+                "400 g főtt, füstölt sonka",
+                "1 nagy csokor petrezselyem",
+                "3-4 szál friss majoránna",
+                "3 tojás",
+                "1 dl tejszín",
+                "1 dl húsleves (kockából)",
+                "200 g+1 ek. lágy vaj/margarin",
+                "200 g finomliszt",
+                "só",
+                "őrölt fehér bors",
+                "zsemlemorzsa"
+            ],
+            "recipeDirections": [
+                "A sonkát apró kockákra vágjuk. A petrezselymet és a majoránnát leöblítjük, levélkéiket lecsipkedjük, finomra aprítjuk. A tojásokat kettéválasztjuk.",
+                "A tejszínt és a húslevest felforraljuk 200 g vajjal/margarinnal, egyszerre hozzáadjuk a lisztet, és mérsékelt tőzön, folyamatosan-erőteljesen keverve addig főzzük, amíg a massza el nem válik az edény falától.",
+                "Lehúzzuk a masszát a tűzről, beledolgozunk 1 tojássárgáját, 5 perc múlva a maradék kettőt, aztán hozzáadjuk a sonkát, a zöldfűszereket, ízlés szerint sót és borsot. A sütőt előmelegítjük 180 °C-ra. A maradék 1 ek. vajjal/margarinnal egyenletesen kikenünk és zsemlemorzsával meghintünk egy kb. 1,5 liter űrtartalmú kuglófformát.",
+                "A tojásfehérjéket 1 csipet sóval kemény habbá verjük, óvatosan, hogy össze ne törjön, beleforgatjuk a masszába, amelyet a formába simítunk. Középső bordamagasságra állított rácson kb. 1 órán át sütjük, a formában hagyjuk teljesen kihűlni. Fogyasztás előtt lapos tálra borítjuk a kuglófot a formából, tetszés szerint salátalevelekkel, sonka- és paprikacsíkokkal díszítjük. 2-3 ujjnyi széles szeletekre vágva kínáljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/0e895a9f-e093-4aa2-b0e3-202eb33ab0cb_0.jpg"
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 77,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Rozmaringos-fokhagymás sertésszelet",
+        "recipeIngredient": [
+            "8 gerezd fokhagyma",
+            "1 nagy fej hagyma",
+            "1 ág rozmaring (10 cm-es)",
+            "600 g sertéscomb vagy sovány tarja",
+            "2 ek. olaj",
+            "só, bors",
+            "1 ek. liszt",
+            "1 kk. őrölt köménymag",
+            "1,5 dl száraz fehérbor"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A fokhagymát és a hagymát meghámozzuk, a hagymát vastagabb karikákra vágjuk, a fokhagymagerezdeket tenyérrel/húsverővel kissé ellapítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A rozmaringot leöblítjük, levélkéit lecsipkedjük, néhány bóbbitát félreteszünk a díszítéshez."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A húst megmossuk, felitatjuk róla a nedvességet, vékonyan felszeleteljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az olajat felforrósítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hússzeleteket meghintjük sóval, borssal és fátyolnyi liszttel, aztán mindkét oldalukat megkapatjuk az olajban."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a hagymát, a fokhagymát és a rozmaringot, megszórjuk az őrölt köménymaggal, felöntjük a borral, majd fedő alatt, mérsékelt tűzön puhára pároljuk (40-45 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A húst nem túl mély tálba szedjük (vagy a serpenyőben hagyjuk), és rozmaringgal díszítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pirított hagymával, petrezselyemmel, paprikakockákkal ízesített krumplipürét, párolt rizst, hagymás tört burgonyát kínálhatunk mellé."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Savanyúság, őszibarack-/szilvabefőtt illik hozzá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "TIPP: Sertéscomb/-tarja helyett készíthetjük kicsontozott, hosszúkás szeletkékre vágott felső pulykacombból, stefániából is (ez utóbbinak hosszabb a párolási ideje!)."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT45M",
+        "recipeYield": "4 személyre",
+        "image": "images/c77bbdbe-a882-4f3b-93b0-c5263db37433_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "c77bbdbe-a882-4f3b-93b0-c5263db37433",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Rozmaringos-fokhagymás sertésszelet",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H",
+            "cookTime": "PT45M",
+            "recipeIngredients": [
+                "8 gerezd fokhagyma",
+                "1 nagy fej hagyma",
+                "1 ág rozmaring (10 cm-es)",
+                "600 g sertéscomb vagy sovány tarja",
+                "2 ek. olaj",
+                "só, bors",
+                "1 ek. liszt",
+                "1 kk. őrölt köménymag",
+                "1,5 dl száraz fehérbor"
+            ],
+            "recipeDirections": [
+                "A fokhagymát és a hagymát meghámozzuk, a hagymát vastagabb karikákra vágjuk, a fokhagymagerezdeket tenyérrel/húsverővel kissé ellapítjuk.",
+                "A rozmaringot leöblítjük, levélkéit lecsipkedjük, néhány bóbbitát félreteszünk a díszítéshez.",
+                "A húst megmossuk, felitatjuk róla a nedvességet, vékonyan felszeleteljük.",
+                "Az olajat felforrósítjuk.",
+                "A hússzeleteket meghintjük sóval, borssal és fátyolnyi liszttel, aztán mindkét oldalukat megkapatjuk az olajban.",
+                "Hozzáadjuk a hagymát, a fokhagymát és a rozmaringot, megszórjuk az őrölt köménymaggal, felöntjük a borral, majd fedő alatt, mérsékelt tűzön puhára pároljuk (40-45 perc).",
+                "A húst nem túl mély tálba szedjük (vagy a serpenyőben hagyjuk), és rozmaringgal díszítjük.",
+                "Pirított hagymával, petrezselyemmel, paprikakockákkal ízesített krumplipürét, párolt rizst, hagymás tört burgonyát kínálhatunk mellé.",
+                "Savanyúság, őszibarack-/szilvabefőtt illik hozzá.",
+                "TIPP: Sertéscomb/-tarja helyett készíthetjük kicsontozott, hosszúkás szeletkékre vágott felső pulykacombból, stefániából is (ez utóbbinak hosszabb a párolási ideje!)."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/c77bbdbe-a882-4f3b-93b0-c5263db37433_0.jpg"
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 75,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

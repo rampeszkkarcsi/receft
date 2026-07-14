@@ -1,0 +1,74 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Pogácsa - papucs",
+        "recipeIngredient": [
+            "1 kg liszt",
+            "30 dkg darált tepertő",
+            "25 dkg margarin",
+            "4 db 12%-os tejföl",
+            "2 tojás (egyiket csak a sárgája)",
+            "kis kanál cukor",
+            "csipet bors",
+            "csipet só (kb 2 evőkanál)",
+            "5 dkg élesztő (2 dl tejben felfuttatva)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tepertőt belemorzsolni a lisztbe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Duplájára keleszteni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Papucshoz fél ujjnyi vastagságúra nyújtani."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tepsibe rakva kicsit állni hagyni, utána megkenni 1 felvert tojással."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/d444894e-a08a-40c5-b8c8-386da12bbf87_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "d444894e-a08a-40c5-b8c8-386da12bbf87",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Pogácsa - papucs",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1 kg liszt",
+                "30 dkg darált tepertő",
+                "25 dkg margarin",
+                "4 db 12%-os tejföl",
+                "2 tojás (egyiket csak a sárgája)",
+                "kis kanál cukor",
+                "csipet bors",
+                "csipet só (kb 2 evőkanál)",
+                "5 dkg élesztő (2 dl tejben felfuttatva)"
+            ],
+            "recipeDirections": [
+                "A tepertőt belemorzsolni a lisztbe.",
+                "Duplájára keleszteni.",
+                "Papucshoz fél ujjnyi vastagságúra nyújtani.",
+                "Tepsibe rakva kicsit állni hagyni, utána megkenni 1 felvert tojással."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/d444894e-a08a-40c5-b8c8-386da12bbf87_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 31,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:14+00:00"
+    }
+]

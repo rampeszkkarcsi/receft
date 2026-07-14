@@ -1,0 +1,100 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kakaós-túrós kocka",
+        "recipeIngredient": [
+            "Az omlós tésztához:",
+            "400 g finomliszt",
+            "250 g vaj/margarin",
+            "150 g porcukor",
+            "1 csipet só",
+            "1 kk. sütőpor (1/2 tasak)",
+            "1 tasak vaníliás cukor (10 g)",
+            "1 tojássárgája",
+            "3 ek. kakaó",
+            "A töltelékhez:",
+            "1/2 dl rum",
+            "100 g puha mazsola",
+            "1 kg tehéntúró",
+            "50 g babapiskóta",
+            "3 tojás+1 tojásfehérje",
+            "150+100 g porcukor",
+            "1 tasak vaníliás cukor",
+            "1-1 citrom és narancs reszelt héja",
+            "porcukor a szóráshoz"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Az omlós tésztához elmorzsoljuk a lisztben a vajat/margarint, hozzáadjuk a porcukrot, sütőport, sót, vaníliás cukrot és a tojássárgáját, majd beleszitáljuk a kakaót, végül gyors mozdulatokkal, de alaposan összedolgozzuk-gyúrjuk. Két egyenlő részre osztjuk, cipókat formálunk belőle, majd fóliába csomagoljuk, és egy éjszakára a hűtőbe tesszük őket (vagy ha sietős, egy órára a mélyhűtőbe)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A töltelékhez a mazsolát forró vízzel leöblítjük, lecsepegtetjük, és beleforgatjuk a rumba. A túrót szitán áttörjük. A babapiskótát megreszeljük vagy nejlonzacskóban, nyújtófával megtörjük. Kibélelünk sütőpapírral egy közepes méretű (25x35 cm-es) tepsit. A sütőt előmelegítjük 200 °C-ra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojásokat kettéválasztjuk, a csipet sóval felverjük, majd 150 g, apránként hozzáadott porcukorral kemény habbá verjük. A tojások sárgáját habosra keverjük a maradék 100 g porcukorral és a vaníliás cukorral, majd belereszeljük a gondosan megmosott citrom és narancs héját. Apránként beledolgozzuk a túrót, a tojáshabot, a mazsolát a rummal együtt, végül a babapiskóta-morzsát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az egyik tésztacipót nagy lyukú reszelőn egyenletesen, hogy mindenütt kitöltse, belereszeljük a tepsibe. Elsimítjuk rajta a tölteléket, a tetejére reszeljük a másik tésztacipót, és villával lazán eligazítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Középső bordamagasságon 10 percig sütjük, azután visszakapcsolunk 180 °C-ra, és további 35-40 percig sütjük. A tepsiben hagyjuk kihűlni, majd 5x5 cm-es kockákra vágjuk, és porcukorral meghintve kínáljuk. Kiadós, finom, sokáig friss marad."
+            }
+        ],
+        "prepTime": "PT1H30M",
+        "cookTime": "PT45M",
+        "recipeYield": "35 kocka",
+        "image": "images/5c72c744-cef4-4672-ad99-30f74aa55186_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "5c72c744-cef4-4672-ad99-30f74aa55186",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kakaós-túrós kocka",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "35 kocka",
+            "prepTime": "PT1H30M",
+            "cookTime": "PT45M",
+            "recipeIngredients": [
+                "Az omlós tésztához:",
+                "400 g finomliszt",
+                "250 g vaj/margarin",
+                "150 g porcukor",
+                "1 csipet só",
+                "1 kk. sütőpor (1/2 tasak)",
+                "1 tasak vaníliás cukor (10 g)",
+                "1 tojássárgája",
+                "3 ek. kakaó",
+                "A töltelékhez:",
+                "1/2 dl rum",
+                "100 g puha mazsola",
+                "1 kg tehéntúró",
+                "50 g babapiskóta",
+                "3 tojás+1 tojásfehérje",
+                "150+100 g porcukor",
+                "1 tasak vaníliás cukor",
+                "1-1 citrom és narancs reszelt héja",
+                "porcukor a szóráshoz"
+            ],
+            "recipeDirections": [
+                "Az omlós tésztához elmorzsoljuk a lisztben a vajat/margarint, hozzáadjuk a porcukrot, sütőport, sót, vaníliás cukrot és a tojássárgáját, majd beleszitáljuk a kakaót, végül gyors mozdulatokkal, de alaposan összedolgozzuk-gyúrjuk. Két egyenlő részre osztjuk, cipókat formálunk belőle, majd fóliába csomagoljuk, és egy éjszakára a hűtőbe tesszük őket (vagy ha sietős, egy órára a mélyhűtőbe).",
+                "A töltelékhez a mazsolát forró vízzel leöblítjük, lecsepegtetjük, és beleforgatjuk a rumba. A túrót szitán áttörjük. A babapiskótát megreszeljük vagy nejlonzacskóban, nyújtófával megtörjük. Kibélelünk sütőpapírral egy közepes méretű (25x35 cm-es) tepsit. A sütőt előmelegítjük 200 °C-ra.",
+                "A tojásokat kettéválasztjuk, a csipet sóval felverjük, majd 150 g, apránként hozzáadott porcukorral kemény habbá verjük. A tojások sárgáját habosra keverjük a maradék 100 g porcukorral és a vaníliás cukorral, majd belereszeljük a gondosan megmosott citrom és narancs héját. Apránként beledolgozzuk a túrót, a tojáshabot, a mazsolát a rummal együtt, végül a babapiskóta-morzsát.",
+                "Az egyik tésztacipót nagy lyukú reszelőn egyenletesen, hogy mindenütt kitöltse, belereszeljük a tepsibe. Elsimítjuk rajta a tölteléket, a tetejére reszeljük a másik tésztacipót, és villával lazán eligazítjuk.",
+                "Középső bordamagasságon 10 percig sütjük, azután visszakapcsolunk 180 °C-ra, és további 35-40 percig sütjük. A tepsiben hagyjuk kihűlni, majd 5x5 cm-es kockákra vágjuk, és porcukorral meghintve kínáljuk. Kiadós, finom, sokáig friss marad."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/5c72c744-cef4-4672-ad99-30f74aa55186_0.jpg"
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 8,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

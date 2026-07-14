@@ -1,0 +1,66 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Citromos, gyömbéres keksz",
+        "recipeIngredient": [
+            "25 dkg liszt",
+            "15 dkg vaj",
+            "9 dkg porcukor",
+            "1 teáskanál vanília kivonat",
+            "fél citrom reszelt héja",
+            "csipetnyi friss gyömbér"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A hozzávalókat összegyúrjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hűtőben pihentetjük egy órát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kinyújtjuk, tetszőleges mintákkal szaggatjuk, előmelegített sütőben 10-15 perc alatt világosra sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütis dobozban sokáig eláll."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT15M",
+        "x-recipe-keeper": {
+            "recipeId": "8c10aa9a-1cc5-4131-8857-03d607636b14",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Citromos, gyömbéres keksz",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT15M",
+            "recipeIngredients": [
+                "25 dkg liszt",
+                "15 dkg vaj",
+                "9 dkg porcukor",
+                "1 teáskanál vanília kivonat",
+                "fél citrom reszelt héja",
+                "csipetnyi friss gyömbér"
+            ],
+            "recipeDirections": [
+                "A hozzávalókat összegyúrjuk.",
+                "Hűtőben pihentetjük egy órát.",
+                "Kinyújtjuk, tetszőleges mintákkal szaggatjuk, előmelegített sütőben 10-15 perc alatt világosra sütjük.",
+                "Sütis dobozban sokáig eláll."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 83,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

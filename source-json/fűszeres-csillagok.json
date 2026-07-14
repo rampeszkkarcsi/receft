@@ -1,0 +1,89 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "FŰSZERES CSILLAGOK",
+        "recipeIngredient": [
+            "25 dkg liszt",
+            "5 dkg darált dió",
+            "5 dkg darált mandula",
+            "10 dkg porcukor",
+            "12 dkg margarin",
+            "fél cs. sütőpor",
+            "1 tojás",
+            "1 citrom reszelt héja",
+            "2 dkg vaníliás cukor",
+            "fél kávéskanál őrölt szerecsendió",
+            "fél kávéskanál őrölt fahéj",
+            "fél kávéskanál őrölt szegfűszeg",
+            "tojássárgája a megkenéshez",
+            "porcukor a szóráshoz"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet összekeverjük a sütőporral, fűszerekkel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A margarint kis darabokra vágva adjuk hozzá, majd a darált diót és mandulát, tojást, vaníliás cukrot, reszelt citromhéjat és gyorsan kemény tésztává gyúrjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Alufóliába tekerjük és kb. 2 órára hűtőszekrénybe tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pihentetés után a tésztát kb. 4 mm vastagra nyújtjuk és csillagokat szaggatunk belőle."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütőpapírral bélelt tepsibe rakjuk, megkenjük tojássárgájával és 190 °C -ra előmelegített sütőben 15-20 perc alatt megsütjük, megszórjuk porcukorral és a tepsiben hagyjuk kihűlni."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "image": "images/0afed820-f81b-4212-80d1-b57a85b437d3_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "0afed820-f81b-4212-80d1-b57a85b437d3",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "FŰSZERES CSILLAGOK",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "25 dkg liszt",
+                "5 dkg darált dió",
+                "5 dkg darált mandula",
+                "10 dkg porcukor",
+                "12 dkg margarin",
+                "fél cs. sütőpor",
+                "1 tojás",
+                "1 citrom reszelt héja",
+                "2 dkg vaníliás cukor",
+                "fél kávéskanál őrölt szerecsendió",
+                "fél kávéskanál őrölt fahéj",
+                "fél kávéskanál őrölt szegfűszeg",
+                "tojássárgája a megkenéshez",
+                "porcukor a szóráshoz"
+            ],
+            "recipeDirections": [
+                "A lisztet összekeverjük a sütőporral, fűszerekkel.",
+                "A margarint kis darabokra vágva adjuk hozzá, majd a darált diót és mandulát, tojást, vaníliás cukrot, reszelt citromhéjat és gyorsan kemény tésztává gyúrjuk.",
+                "Alufóliába tekerjük és kb. 2 órára hűtőszekrénybe tesszük.",
+                "Pihentetés után a tésztát kb. 4 mm vastagra nyújtjuk és csillagokat szaggatunk belőle.",
+                "Sütőpapírral bélelt tepsibe rakjuk, megkenjük tojássárgájával és 190 °C -ra előmelegített sütőben 15-20 perc alatt megsütjük, megszórjuk porcukorral és a tepsiben hagyjuk kihűlni."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/0afed820-f81b-4212-80d1-b57a85b437d3_0.jpg"
+        },
+        "x-source-file": "6927f13b-408a-4c16-9b05-60d162e1329b.zip",
+        "x-db-id": 186,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

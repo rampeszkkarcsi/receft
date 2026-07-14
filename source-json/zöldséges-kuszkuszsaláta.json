@@ -1,0 +1,77 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Zöldséges kuszkuszsaláta",
+        "recipeIngredient": [
+            "250 g közepes finomságú kuszkusz (előfőzött)",
+            "3+2+6 ek. olívaolaj",
+            "só, bors",
+            "1 közepes fej lilahagyma",
+            "1/2-1/2 piros, sárga és zöld húsú paprika",
+            "1/2 hegyes-csípős paprika",
+            "1 zsenge cukkini",
+            "2 dús szál menta",
+            "1 citrom",
+            "1 kk. Worcester szósz"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A kuszkuszt a csomagoláson olvasható felhasználási javaslat szerint elkészítjük, azaz mélyebb teflonserpenyőbe szórjuk, meglocsoljuk 3 ek. olívaolajjal, és villával alaposan összekeverjük. Felforralunk 1 kk. sóval 3 dl vizet, a kuszkuszra öntjük, mérsékelt tűzön, folyamatosan keverve 2 percig főzzük. Lehúzzuk a tűzről, fedő alatt 6-8 percig puffasztjuk, végül hozzáadunk még 2 ek. olajat, és hagyjuk kihűlni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát meghámozzuk és felkarikázzuk. A paprikaféléket kicsumázzuk, magjaikat-ereiket eltávolítjuk, a hegyes paprikáét a kívánt csípősség mértékében meghagyjuk. A cukkini két végét levágjuk, majd a paprikákkal együtt apróra felkockázzuk. A mentát leöblítjük, 4 bóbita kivételével vékony csíkokra szeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az öntethez a citrom kinyomott levét keverőtálba szűrjük, eldolgozzuk ízlés szerint sóval, borssal, a Worcester szósszal és a maradék 6 ek. olívaolajjal, végül beleforgatjuk a hagymát és a zöldségeket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kuszkuszt tálra halmozzuk, levével együtt tetejére szedjük a zöldség alapot, a félretett mentabóbitákkal díszítjük, és csak az asztalnál keverjük össze. Finom és különleges!"
+            }
+        ],
+        "prepTime": "PT30M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/7370a46b-452c-4c54-bc81-758fc69f5de9_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "7370a46b-452c-4c54-bc81-758fc69f5de9",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Zöldséges kuszkuszsaláta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT30M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "250 g közepes finomságú kuszkusz (előfőzött)",
+                "3+2+6 ek. olívaolaj",
+                "só, bors",
+                "1 közepes fej lilahagyma",
+                "1/2-1/2 piros, sárga és zöld húsú paprika",
+                "1/2 hegyes-csípős paprika",
+                "1 zsenge cukkini",
+                "2 dús szál menta",
+                "1 citrom",
+                "1 kk. Worcester szósz"
+            ],
+            "recipeDirections": [
+                "A kuszkuszt a csomagoláson olvasható felhasználási javaslat szerint elkészítjük, azaz mélyebb teflonserpenyőbe szórjuk, meglocsoljuk 3 ek. olívaolajjal, és villával alaposan összekeverjük. Felforralunk 1 kk. sóval 3 dl vizet, a kuszkuszra öntjük, mérsékelt tűzön, folyamatosan keverve 2 percig főzzük. Lehúzzuk a tűzről, fedő alatt 6-8 percig puffasztjuk, végül hozzáadunk még 2 ek. olajat, és hagyjuk kihűlni.",
+                "A hagymát meghámozzuk és felkarikázzuk. A paprikaféléket kicsumázzuk, magjaikat-ereiket eltávolítjuk, a hegyes paprikáét a kívánt csípősség mértékében meghagyjuk. A cukkini két végét levágjuk, majd a paprikákkal együtt apróra felkockázzuk. A mentát leöblítjük, 4 bóbita kivételével vékony csíkokra szeljük.",
+                "Az öntethez a citrom kinyomott levét keverőtálba szűrjük, eldolgozzuk ízlés szerint sóval, borssal, a Worcester szósszal és a maradék 6 ek. olívaolajjal, végül beleforgatjuk a hagymát és a zöldségeket.",
+                "A kuszkuszt tálra halmozzuk, levével együtt tetejére szedjük a zöldség alapot, a félretett mentabóbitákkal díszítjük, és csak az asztalnál keverjük össze. Finom és különleges!"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/7370a46b-452c-4c54-bc81-758fc69f5de9_0.jpg"
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 18,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

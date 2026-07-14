@@ -1,0 +1,129 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Bécsi túrós sült palacsinta recept",
+        "recipeIngredient": [
+            "A palacsintához",
+            "150 g liszt",
+            "2,5 dl tej",
+            "2 ek rum",
+            "2 ek olaj",
+            "csipet só",
+            "2 tojás",
+            "A töltelékhez",
+            "250 g túró",
+            "3 ek vaj",
+            "2 tojás",
+            "100 g cukor",
+            "1 citrom reszelt héja",
+            "2 ek. rum",
+            "50 g mazsola",
+            "Az öntethez",
+            "1 tojás",
+            "30 g cukor",
+            "1 cs vaníliás cukor",
+            "1 dl tej"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A palacsintákat a szokásos módon elkészítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A mazsolát forró rumba áztatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőedényt kikenjük a vajjal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojásokat ketté választjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A maradék vajjal, cukorral és citromhéjjal habosra keverjük a tojások sárgáját."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A fehérjét kemény habbá verjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A túrót összekeverjük a tojássárgákkal, majd a felvert fehérjével és hozzáadjuk a mazsolát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt 200 fokra előmelegítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A palacsintákat betöltjük és feltekerjük, majd középen kettévágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A vágott felükkel felfelé kissé egymásra csúsztatva beletesszük a sütőedénybe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az öntethez összekeverjük a tojást a tejjel és a cukorral, rálocsoljuk a palacsintára és forró sütőben 20-25 perc alatt aranybarnára sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT25M",
+        "x-recipe-keeper": {
+            "recipeId": "119e1dde-be5e-4701-b083-8c8737aed3a2",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Bécsi túrós sült palacsinta recept",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT25M",
+            "recipeIngredients": [
+                "A palacsintához",
+                "150 g liszt",
+                "2,5 dl tej",
+                "2 ek rum",
+                "2 ek olaj",
+                "csipet só",
+                "2 tojás",
+                "A töltelékhez",
+                "250 g túró",
+                "3 ek vaj",
+                "2 tojás",
+                "100 g cukor",
+                "1 citrom reszelt héja",
+                "2 ek. rum",
+                "50 g mazsola",
+                "Az öntethez",
+                "1 tojás",
+                "30 g cukor",
+                "1 cs vaníliás cukor",
+                "1 dl tej"
+            ],
+            "recipeDirections": [
+                "A palacsintákat a szokásos módon elkészítjük.",
+                "A mazsolát forró rumba áztatjuk.",
+                "A sütőedényt kikenjük a vajjal.",
+                "A tojásokat ketté választjuk.",
+                "A maradék vajjal, cukorral és citromhéjjal habosra keverjük a tojások sárgáját.",
+                "A fehérjét kemény habbá verjük.",
+                "A túrót összekeverjük a tojássárgákkal, majd a felvert fehérjével és hozzáadjuk a mazsolát.",
+                "A sütőt 200 fokra előmelegítjük.",
+                "A palacsintákat betöltjük és feltekerjük, majd középen kettévágjuk.",
+                "A vágott felükkel felfelé kissé egymásra csúsztatva beletesszük a sütőedénybe.",
+                "Az öntethez összekeverjük a tojást a tejjel és a cukorral, rálocsoljuk a palacsintára és forró sütőben 20-25 perc alatt aranybarnára sütjük."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 1,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:40+00:00"
+    }
+]

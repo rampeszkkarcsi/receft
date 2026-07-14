@@ -1,0 +1,78 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kakukkfüves csirkecombok almával",
+        "recipeIngredient": [
+            "10 db csirke felsőcomb",
+            "1 ek. só",
+            "2 tk. őrölt fekete bors",
+            "2 ek. szárított kakukkfű/ 1 ek. aprított friss kakukkfű",
+            "50 dkg alma",
+            "10 ek. olívaolaj/ étolaj",
+            "5 dl víz"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A csirkecombokat megmosom, besózom, borsozom és gazdagon meghintem kakukkfűvel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az almákat megmosom, de nem hámozom meg."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Csak a magházat távolítom el és negyedekre vágom a gyümölcsöt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tűzálló tálba olajat öntök majd a húsokat az almával összekeverve belerakom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezután vízzel felöntöm a tepsi tartalmát és alufóliával leborítva sütni kezdem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közepes lángon 30 percig sütjük lefedve, majd 10-10 percet pirítjuk oldalanként alufólia nélkül."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT40M",
+        "x-recipe-keeper": {
+            "recipeId": "187b23be-6a69-4b5d-a69e-0ab183046252",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kakukkfüves csirkecombok almával",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT40M",
+            "recipeIngredients": [
+                "10 db csirke felsőcomb",
+                "1 ek. só",
+                "2 tk. őrölt fekete bors",
+                "2 ek. szárított kakukkfű/ 1 ek. aprított friss kakukkfű",
+                "50 dkg alma",
+                "10 ek. olívaolaj/ étolaj",
+                "5 dl víz"
+            ],
+            "recipeDirections": [
+                "A csirkecombokat megmosom, besózom, borsozom és gazdagon meghintem kakukkfűvel.",
+                "Az almákat megmosom, de nem hámozom meg.",
+                "Csak a magházat távolítom el és negyedekre vágom a gyümölcsöt.",
+                "A tűzálló tálba olajat öntök majd a húsokat az almával összekeverve belerakom.",
+                "Ezután vízzel felöntöm a tepsi tartalmát és alufóliával leborítva sütni kezdem.",
+                "Közepes lángon 30 percig sütjük lefedve, majd 10-10 percet pirítjuk oldalanként alufólia nélkül."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "5d69ba0e-6fbf-4ffa-86b3-7aaa925b1eab.zip",
+        "x-db-id": 171,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

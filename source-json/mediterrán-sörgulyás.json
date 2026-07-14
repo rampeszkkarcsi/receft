@@ -1,0 +1,101 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "MEDITERRÁN SÖRGULYÁS",
+        "recipeIngredient": [
+            "40 dkg sertéslapocka",
+            "2-2 szál sárgarépa és fehérrépa",
+            "2 paradicsompaprika",
+            "fél liter barna sör",
+            "3 evőkanál olaj",
+            "1 evőkanál liszt",
+            "10-12 szem kimagozott fekete olíva bogyó",
+            "1 babérlevél",
+            "1 citrom reszelt héja",
+            "ízlés szerint só",
+            "őrölt bors",
+            "kakukkfű"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "a húst megmosom, kis kockákra vágom, őrölt borssal elkevert lisztben megforgatom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kicsumázott és felszeletelt paprikát a forró olajban megpirítom, de rögtön ki is szedem a serpenyőből és félrerakom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Helyére teszem a húskockákat, amit ugyancsak jól átpirítok."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megtisztított zöldséget kockákra vágom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "a húst felöntöm a sörrel és fél liter vízzel, beleteszem a babérlevelet, kakukkfüvet, citromhéjat, sót, borsot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lefedve, lassú tűzön egy órát főzöm."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ekkor beleteszem a zöldséget, és ugyancsak lefedve addig főzöm, amíg a hús is, a zöldség is megpuhul."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ekkor hozzáadom a pirított paprikát és az olívabogyót, majd még egyet forralok rajta."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT1H20M",
+        "recipeYield": "4 SZEMÉLYRE",
+        "image": "images/e3c46f91-8874-4e29-860a-d760b37ea310_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "e3c46f91-8874-4e29-860a-d760b37ea310",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "MEDITERRÁN SÖRGULYÁS",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 SZEMÉLYRE",
+            "prepTime": "PT0S",
+            "cookTime": "PT1H20M",
+            "recipeIngredients": [
+                "40 dkg sertéslapocka",
+                "2-2 szál sárgarépa és fehérrépa",
+                "2 paradicsompaprika",
+                "fél liter barna sör",
+                "3 evőkanál olaj",
+                "1 evőkanál liszt",
+                "10-12 szem kimagozott fekete olíva bogyó",
+                "1 babérlevél",
+                "1 citrom reszelt héja",
+                "ízlés szerint só",
+                "őrölt bors",
+                "kakukkfű"
+            ],
+            "recipeDirections": [
+                "a húst megmosom, kis kockákra vágom, őrölt borssal elkevert lisztben megforgatom.",
+                "A kicsumázott és felszeletelt paprikát a forró olajban megpirítom, de rögtön ki is szedem a serpenyőből és félrerakom.",
+                "Helyére teszem a húskockákat, amit ugyancsak jól átpirítok.",
+                "A megtisztított zöldséget kockákra vágom.",
+                "a húst felöntöm a sörrel és fél liter vízzel, beleteszem a babérlevelet, kakukkfüvet, citromhéjat, sót, borsot.",
+                "Lefedve, lassú tűzön egy órát főzöm.",
+                "Ekkor beleteszem a zöldséget, és ugyancsak lefedve addig főzöm, amíg a hús is, a zöldség is megpuhul.",
+                "Ekkor hozzáadom a pirított paprikát és az olívabogyót, majd még egyet forralok rajta."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/e3c46f91-8874-4e29-860a-d760b37ea310_0.jpg"
+        },
+        "x-source-file": "a6a64a5f-514f-4273-8bef-9af377af9b33.zip",
+        "x-db-id": 254,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kókuszos kocka",
+        "recipeIngredient": [
+            "A tésztához",
+            "400 g finomliszt",
+            "1 tasak sütőpor",
+            "80 g lágy vaj/margarin",
+            "300 g finomított kristálycukor",
+            "1 tasak vaníliás cukor",
+            "2 tojás",
+            "3 ek. híg méz",
+            "2 dl tej",
+            "A mázhoz",
+            "250 g vaj/margarin",
+            "250 g porcukor",
+            "3 ek. kakaópor",
+            "8 ek. tej",
+            "1/2 dl rum",
+            "Továbbá",
+            "150-200 g kókuszreszelék",
+            "2 ek. tortadara"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Sütőpapírral kibélelünk egy közepes méretű (kb. 23x35 cm-es) tepsit. A sütőt előmelegítjük 180 °C-ra. A lisztet összekeverjük a sütőporral. A vajat/margarint, a kristálycukrot és a vaníliás cukrot habosra keverjük az egyenként hozzáadott tojásokkal, majd a mézzel, azután beledolgozzuk a lisztet, végül a tejet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A masszát a tepsibe simítjuk, és középső bordamagasságon 35-40 percig sütjük (tűpróba!). 10 percig a tepsiben, majd rácsra vagy deszkára borítva hagyjuk egészen kihűlni, és 4x4 cm-es kockákra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A mázhoz simára keverjük a vajat/magarint a porcukorral és a kakaóval, apránként hozzáadjuk a felforrósított tejet, és lassú tűzön éppen csak összeforraljuk. Lehúzzuk a tűzről, belekeverjük a rumot. A kókuszreszeléket magas peremű, nem túl nagy tálba szórjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztakockákat villahegyre tűzzük, egyenként, gyors mozdulattal a mázba mártjuk úgy, hogy a villa felőli lapjuk ne legyen csokoládés. Kissé lecsepegtetjük, azonnal-óvatosan a kókuszreszelékbe forgatjuk, majd mártatlan lapjukra fordítva rácsra helyezzük őket, tetejüket 1-1 nagy csipet tortadarával díszítjük, és hagyjuk egészen megszáradni. Sokáig eltartható, finom sütemény."
+            }
+        ],
+        "prepTime": "PT2H",
+        "cookTime": "PT40M",
+        "recipeYield": "48 kockához",
+        "image": "images/9f267a96-c7ed-4161-b220-152345f70784_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "9f267a96-c7ed-4161-b220-152345f70784",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kókuszos kocka",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "48 kockához",
+            "prepTime": "PT2H",
+            "cookTime": "PT40M",
+            "recipeIngredients": [
+                "A tésztához",
+                "400 g finomliszt",
+                "1 tasak sütőpor",
+                "80 g lágy vaj/margarin",
+                "300 g finomított kristálycukor",
+                "1 tasak vaníliás cukor",
+                "2 tojás",
+                "3 ek. híg méz",
+                "2 dl tej",
+                "A mázhoz",
+                "250 g vaj/margarin",
+                "250 g porcukor",
+                "3 ek. kakaópor",
+                "8 ek. tej",
+                "1/2 dl rum",
+                "Továbbá",
+                "150-200 g kókuszreszelék",
+                "2 ek. tortadara"
+            ],
+            "recipeDirections": [
+                "Sütőpapírral kibélelünk egy közepes méretű (kb. 23x35 cm-es) tepsit. A sütőt előmelegítjük 180 °C-ra. A lisztet összekeverjük a sütőporral. A vajat/margarint, a kristálycukrot és a vaníliás cukrot habosra keverjük az egyenként hozzáadott tojásokkal, majd a mézzel, azután beledolgozzuk a lisztet, végül a tejet.",
+                "A masszát a tepsibe simítjuk, és középső bordamagasságon 35-40 percig sütjük (tűpróba!). 10 percig a tepsiben, majd rácsra vagy deszkára borítva hagyjuk egészen kihűlni, és 4x4 cm-es kockákra vágjuk.",
+                "A mázhoz simára keverjük a vajat/magarint a porcukorral és a kakaóval, apránként hozzáadjuk a felforrósított tejet, és lassú tűzön éppen csak összeforraljuk. Lehúzzuk a tűzről, belekeverjük a rumot. A kókuszreszeléket magas peremű, nem túl nagy tálba szórjuk.",
+                "A tésztakockákat villahegyre tűzzük, egyenként, gyors mozdulattal a mázba mártjuk úgy, hogy a villa felőli lapjuk ne legyen csokoládés. Kissé lecsepegtetjük, azonnal-óvatosan a kókuszreszelékbe forgatjuk, majd mártatlan lapjukra fordítva rácsra helyezzük őket, tetejüket 1-1 nagy csipet tortadarával díszítjük, és hagyjuk egészen megszáradni. Sokáig eltartható, finom sütemény."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/9f267a96-c7ed-4161-b220-152345f70784_0.jpg"
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 68,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

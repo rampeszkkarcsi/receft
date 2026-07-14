@@ -1,0 +1,160 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Csemegeuborka",
+        "recipeIngredient": [
+            "felöntőlé",
+            "3 rész víz",
+            "1 rész 10%-os ecet",
+            "üvegenként a felöntőlébe",
+            "1 teáskanál só",
+            "2 evőkanál cukor",
+            "üvegenként a fűszer",
+            "kapor az üveg aljára",
+            "1 babérlevél",
+            "1/2 mokkáskanál egész feketebors",
+            "1/2 mokkáskanál egész köménymag",
+            "1/2 mokkáskanál mustármag",
+            "1/2 mokkáskanál koriander",
+            "üvegenként",
+            "kb. 40 dkg uborka"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Mosd meg az üvegeket, fejjel lefelé állítva szárítsd ki (nem fontos tökéletesen, úgyis hideg vizet öntesz bele)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tégy mindegyik üveg aljára 1-2 szál kaprot(szára, virága, levele vegyesen)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tömd meg az üvegeket uborkával."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Készítsd el a 4 üveghez való felöntőlét: 7,5 dl víz, 2,5 dl 10%-os ecet, 4 teáskanál só, 8 evőkanál cukor."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Addig keverd, míg teljesen fel nem oldódik a cukor és a só."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Akkor öntsd az üvegekbe, de ne teljesen tele, hogy beleférjenek a fűszerek is."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mindegyik fűszerből (még 5-féle) tégy mindegyik üvegbe! 1-1 babérlevél (ha kicsi, akkor lehet 2), fél-fél mokkáskanálnyi egész bors, egész kömény, koriander, mustármag."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Öntsd fel teljesen a lével."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha marad lé, tedd el legközelebbre, ha kevés a lé, csinálj még: 2 dl víz (3 rész, azaz 3*0,7 dl), 0,7 dl ecet (1 rész), 1 teáskanál só, 2 evőkanál cukor."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Keverni, üvegbe önteni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Jól csavard rá az üvegekre a tetőt! (Igaz, manapság már nemigen fordul elő 4 menetes tető, de azért nézd meg: 6 menetes üvegre 6 menetes tető kerüljön!)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fordítsd fejjel lefelé az üvegeket, hogy lásd, nem szivárog-e a lé."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Most fazékba kell tenni az üvegeket, és felönteni vízzel, hogy ellepje a tetejüket is."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha nincs akkora fazekad, amibe elfér 4 üveg, akkor 2 kisebbe tégy 2-2 üveget. (Én a 10 literes fazekamban melegítettem az üvegeket.)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A fazekat béleld ki újságpapírral, biztos, ami biztos. Nehogy elpattanjon az üveg."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egész lángon forrald fel a vizet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Itt az utolsó képen a stoppert mutattam volna, hogy 35 perc múlva kezdett csak forrni a víz.( Nem kell neki nagyon forrni, csak határozottan gyöngyözzön.)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha elkezd gyöngyözni a víz, vedd takarékra a lángot, és még 20 percig hadd főjön!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Akkor oltsd el a gázt, és ebben a vízben hagyd kihűlni az üvegeket. (Fél nap)"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "recipeYield": "4 üveg (7 dl-es)",
+        "x-recipe-keeper": {
+            "recipeId": "81cc9601-0cae-441a-814a-4dce35be5b71",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Csemegeuborka",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 üveg (7 dl-es)",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "felöntőlé",
+                "3 rész víz",
+                "1 rész 10%-os ecet",
+                "üvegenként a felöntőlébe",
+                "1 teáskanál só",
+                "2 evőkanál cukor",
+                "üvegenként a fűszer",
+                "kapor az üveg aljára",
+                "1 babérlevél",
+                "1/2 mokkáskanál egész feketebors",
+                "1/2 mokkáskanál egész köménymag",
+                "1/2 mokkáskanál mustármag",
+                "1/2 mokkáskanál koriander",
+                "üvegenként",
+                "kb. 40 dkg uborka"
+            ],
+            "recipeDirections": [
+                "Mosd meg az üvegeket, fejjel lefelé állítva szárítsd ki (nem fontos tökéletesen, úgyis hideg vizet öntesz bele).",
+                "Tégy mindegyik üveg aljára 1-2 szál kaprot(szára, virága, levele vegyesen).",
+                "Tömd meg az üvegeket uborkával.",
+                "Készítsd el a 4 üveghez való felöntőlét: 7,5 dl víz, 2,5 dl 10%-os ecet, 4 teáskanál só, 8 evőkanál cukor.",
+                "Addig keverd, míg teljesen fel nem oldódik a cukor és a só.",
+                "Akkor öntsd az üvegekbe, de ne teljesen tele, hogy beleférjenek a fűszerek is.",
+                "Mindegyik fűszerből (még 5-féle) tégy mindegyik üvegbe! 1-1 babérlevél (ha kicsi, akkor lehet 2), fél-fél mokkáskanálnyi egész bors, egész kömény, koriander, mustármag.",
+                "Öntsd fel teljesen a lével.",
+                "Ha marad lé, tedd el legközelebbre, ha kevés a lé, csinálj még: 2 dl víz (3 rész, azaz 3*0,7 dl), 0,7 dl ecet (1 rész), 1 teáskanál só, 2 evőkanál cukor.",
+                "Keverni, üvegbe önteni.",
+                "Jól csavard rá az üvegekre a tetőt! (Igaz, manapság már nemigen fordul elő 4 menetes tető, de azért nézd meg: 6 menetes üvegre 6 menetes tető kerüljön!)",
+                "Fordítsd fejjel lefelé az üvegeket, hogy lásd, nem szivárog-e a lé.",
+                "Most fazékba kell tenni az üvegeket, és felönteni vízzel, hogy ellepje a tetejüket is.",
+                "Ha nincs akkora fazekad, amibe elfér 4 üveg, akkor 2 kisebbe tégy 2-2 üveget. (Én a 10 literes fazekamban melegítettem az üvegeket.)",
+                "A fazekat béleld ki újságpapírral, biztos, ami biztos. Nehogy elpattanjon az üveg.",
+                "Egész lángon forrald fel a vizet.",
+                "Itt az utolsó képen a stoppert mutattam volna, hogy 35 perc múlva kezdett csak forrni a víz.( Nem kell neki nagyon forrni, csak határozottan gyöngyözzön.)",
+                "Ha elkezd gyöngyözni a víz, vedd takarékra a lángot, és még 20 percig hadd főjön!",
+                "Akkor oltsd el a gázt, és ebben a vízben hagyd kihűlni az üvegeket. (Fél nap)"
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "5d69ba0e-6fbf-4ffa-86b3-7aaa925b1eab.zip",
+        "x-db-id": 164,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

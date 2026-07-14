@@ -1,0 +1,88 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "ALMÁS, ZELLERES, KÉKSAJTOS SALÁTA DIÓVAL",
+        "recipeIngredient": [
+            "50 dkg szárzeller (angolzeller)",
+            "50 dkg alma",
+            "15 dkg kéksajt",
+            "15 dkg dióbél",
+            "5 dkg aszalt vörös áfonya",
+            "1 citrom leve",
+            "1 gerezd fokhagyma",
+            "15 dkg natúr joghurt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A zellerszárat 3-4 mm vastag szeletekre vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megmosott almát kicsumázzuk, felkockázzuk, a zellerrel együtt tálba tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sajtot apróra vágjuk, majd a dióval és vörös áfonyával együtt a zelleres keverékhez adjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Meglocsoljuk a citromlével."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A fokhagymát megpucoljuk, lereszeljük, elkeverjük a joghurttal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kissé megsózzuk, a salátára öntjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Önmagában is finom, de kiváló köret lehet bármilyen sült hús mellé."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/95f31f01-714e-4498-a510-667f54c2ba9e_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "95f31f01-714e-4498-a510-667f54c2ba9e",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "ALMÁS, ZELLERES, KÉKSAJTOS SALÁTA DIÓVAL",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "50 dkg szárzeller (angolzeller)",
+                "50 dkg alma",
+                "15 dkg kéksajt",
+                "15 dkg dióbél",
+                "5 dkg aszalt vörös áfonya",
+                "1 citrom leve",
+                "1 gerezd fokhagyma",
+                "15 dkg natúr joghurt"
+            ],
+            "recipeDirections": [
+                "A zellerszárat 3-4 mm vastag szeletekre vágjuk.",
+                "A megmosott almát kicsumázzuk, felkockázzuk, a zellerrel együtt tálba tesszük.",
+                "A sajtot apróra vágjuk, majd a dióval és vörös áfonyával együtt a zelleres keverékhez adjuk.",
+                "Meglocsoljuk a citromlével.",
+                "A fokhagymát megpucoljuk, lereszeljük, elkeverjük a joghurttal.",
+                "Kissé megsózzuk, a salátára öntjük.",
+                "Önmagában is finom, de kiváló köret lehet bármilyen sült hús mellé."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/95f31f01-714e-4498-a510-667f54c2ba9e_0.jpg"
+        },
+        "x-source-file": "6e03e7be-5be6-419b-9334-749488909078.zip",
+        "x-db-id": 124,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

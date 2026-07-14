@@ -1,0 +1,78 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sült fokhagyma krémleves",
+        "recipeIngredient": [
+            "2 fej fokhagyma",
+            "1 fej hagyma",
+            "8 dl zöldség alaplé",
+            "só",
+            "bors",
+            "tejszín"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Süsd a fokhagymát félbe vágva, olívaolajjal megöntözve 180°C-on 20-25 percig, majd hűtsd le, szedd le a héját."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy lábasban dinszteld az apróra vágott hagymát, majd add hozzá a sült fokhagymát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Öntsd fel kb. 8 dl zöldség alaplével, sózd, borsozd."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Felforralni, puhára főzni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Botmixerrel pürésítsd, tejszínt önteni bele, és még egyszer felforralni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kenyérrel tálalni."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT25M",
+        "image": "images/72061a40-6ac3-4e5e-8ffb-f6ec7354aecc_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "72061a40-6ac3-4e5e-8ffb-f6ec7354aecc",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sült fokhagyma krémleves",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT25M",
+            "recipeIngredients": [
+                "2 fej fokhagyma",
+                "1 fej hagyma",
+                "8 dl zöldség alaplé",
+                "só",
+                "bors",
+                "tejszín"
+            ],
+            "recipeDirections": [
+                "Süsd a fokhagymát félbe vágva, olívaolajjal megöntözve 180°C-on 20-25 percig, majd hűtsd le, szedd le a héját.",
+                "Egy lábasban dinszteld az apróra vágott hagymát, majd add hozzá a sült fokhagymát.",
+                "Öntsd fel kb. 8 dl zöldség alaplével, sózd, borsozd.",
+                "Felforralni, puhára főzni.",
+                "Botmixerrel pürésítsd, tejszínt önteni bele, és még egyszer felforralni.",
+                "Kenyérrel tálalni."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/72061a40-6ac3-4e5e-8ffb-f6ec7354aecc_0.jpg"
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 36,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sonkával és sajttal töltött padlizsán",
+        "recipeIngredient": [
+            "1 közepes padlizsán",
+            "só",
+            "20 kisebb zsályalevél",
+            "20 dkg vékonyra szeletelt sonka",
+            "20 dkg gomolyasajt",
+            "3 ek. olívaolaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A padlizsánt hosszában vékony szeletekre vágjuk és besózzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "10 percig állni hagyjuk, majd elosztjuk rajta a zsályaleveleket, a vékonyra szeletelt sonkát és a vékony hasábokra vágott gomolyasajtot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az egészet felgöngyöljük, kiolajozott tepsire helyezzük, és 180 °C-on 4-5 perc alatt készre sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT5M",
+        "recipeYield": "4 PERSON",
+        "image": "images/297cd156-807f-445e-9d57-d3da46ce37a9_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "297cd156-807f-445e-9d57-d3da46ce37a9",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sonkával és sajttal töltött padlizsán",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT0S",
+            "cookTime": "PT5M",
+            "recipeIngredients": [
+                "1 közepes padlizsán",
+                "só",
+                "20 kisebb zsályalevél",
+                "20 dkg vékonyra szeletelt sonka",
+                "20 dkg gomolyasajt",
+                "3 ek. olívaolaj"
+            ],
+            "recipeDirections": [
+                "A padlizsánt hosszában vékony szeletekre vágjuk és besózzuk.",
+                "10 percig állni hagyjuk, majd elosztjuk rajta a zsályaleveleket, a vékonyra szeletelt sonkát és a vékony hasábokra vágott gomolyasajtot.",
+                "Az egészet felgöngyöljük, kiolajozott tepsire helyezzük, és 180 °C-on 4-5 perc alatt készre sütjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/297cd156-807f-445e-9d57-d3da46ce37a9_0.jpg"
+        },
+        "x-source-file": "8e973511-a906-412c-a871-c6205380a313.zip",
+        "x-db-id": 209,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

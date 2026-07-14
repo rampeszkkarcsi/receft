@@ -1,0 +1,120 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Ferdinándi",
+        "recipeIngredient": [
+            "Tészta",
+            "35 dkg liszt",
+            "1 evőkanál cukor",
+            "1 mokkáskanál só",
+            "2 diónyi margarin",
+            "4 dkg tejben felfuttatott élesztő (kb. 2 dl tej)",
+            "3 tojás sárgája",
+            "Töltelék",
+            "10 dkg mazsola (megmosva, beáztatva)",
+            "15 dkg margarin",
+            "15 dkg porcukor",
+            "vaníliás cukor"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Retestészta keménységű tésztát készítünk, majd kb. fél órát kelesztjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A margarint a porcukorral habosra keverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát késfok vastagságúra nyújtjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megkenjük a margarinos porcukorral."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Rászórjuk a mazsolát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Feltekerjük, mint a bejglit."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kétujjnyi szeletekre vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Margarinozott tepsibe rakjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Még kb. 1 órát kelesztjük. (amíg a tepsi megtelik)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "175-200 °C-on sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Amikor félig megsült, 1 kávétejszín + cukor + vaníliás cukor keverékével meglocsoljuk"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "még forrón kiborítjuk a tepsiből"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/3acabd07-1d94-42a0-915f-0011baa846e7_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "3acabd07-1d94-42a0-915f-0011baa846e7",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Ferdinándi",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "Tészta",
+                "35 dkg liszt",
+                "1 evőkanál cukor",
+                "1 mokkáskanál só",
+                "2 diónyi margarin",
+                "4 dkg tejben felfuttatott élesztő (kb. 2 dl tej)",
+                "3 tojás sárgája",
+                "Töltelék",
+                "10 dkg mazsola (megmosva, beáztatva)",
+                "15 dkg margarin",
+                "15 dkg porcukor",
+                "vaníliás cukor"
+            ],
+            "recipeDirections": [
+                "Retestészta keménységű tésztát készítünk, majd kb. fél órát kelesztjük.",
+                "A margarint a porcukorral habosra keverjük.",
+                "A tésztát késfok vastagságúra nyújtjuk.",
+                "Megkenjük a margarinos porcukorral.",
+                "Rászórjuk a mazsolát.",
+                "Feltekerjük, mint a bejglit.",
+                "Kétujjnyi szeletekre vágjuk.",
+                "Margarinozott tepsibe rakjuk.",
+                "Még kb. 1 órát kelesztjük. (amíg a tepsi megtelik)",
+                "175-200 °C-on sütjük.",
+                "Amikor félig megsült, 1 kávétejszín + cukor + vaníliás cukor keverékével meglocsoljuk",
+                "még forrón kiborítjuk a tepsiből"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/3acabd07-1d94-42a0-915f-0011baa846e7_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 14,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

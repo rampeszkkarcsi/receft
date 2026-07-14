@@ -1,0 +1,119 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Töltött pizza",
+        "recipeIngredient": [
+            "30 dkg liszt",
+            "1 tojás",
+            "Kb. 1.5 dl tej",
+            "2 evőkanál olaj",
+            "2 dkg élesztő",
+            "1 csapott teáskanál só",
+            "pizzafűszer tetszés szerint"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tejet langyosra melegítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az elmorzsolt élesztőt egy kevés liszttel és kevéske cukorral elkeverjük, majd 0.5 dl tejet öntünk hozzá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hagyjuk, hogy felfusson."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha felfutott az élesztő, összedolgozzuk a liszttel, a tojással, a sóval és az olajjal, pizzafüűszerrel, oreganóval és a maradék 1 dl tejjel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Jól összegyúrjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Min. 30 percig kelesztjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Vékonyra kinyújtottam a tésztát kör alakúra,"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "megkentem tejföllel, tettem rá kolbászkarikákat, előre lepirított szalonnát, karikára vágott hagymát és reszelt sajtot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezeket mind csak a tészta egyik felére mivel a másik felét rá kell hajtani."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mielött ráhajtanánk a tészta szélét tojással kenjük be és hajtsuk be a széleit."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Miután betöltöttük az általunk választott töltelékkel, a tojással való lekenés elött is kelesszük még kb. 15 percig."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütés elött kenjük le a töltött pizzáinkat egy egész tojással, és szórjuk meg reszelt sajttal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "180 fokos előmelegített sütőben addig süssük amíg a teteje meg nem pírul."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tölteléket sokféleképpen variálhatjuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 db",
+        "x-recipe-keeper": {
+            "recipeId": "8605c006-3662-49c9-a72d-e4cbbbbb6ee7",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Töltött pizza",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 db",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "30 dkg liszt",
+                "1 tojás",
+                "Kb. 1.5 dl tej",
+                "2 evőkanál olaj",
+                "2 dkg élesztő",
+                "1 csapott teáskanál só",
+                "pizzafűszer tetszés szerint"
+            ],
+            "recipeDirections": [
+                "A tejet langyosra melegítjük.",
+                "Az elmorzsolt élesztőt egy kevés liszttel és kevéske cukorral elkeverjük, majd 0.5 dl tejet öntünk hozzá.",
+                "Hagyjuk, hogy felfusson.",
+                "Ha felfutott az élesztő, összedolgozzuk a liszttel, a tojással, a sóval és az olajjal, pizzafüűszerrel, oreganóval és a maradék 1 dl tejjel.",
+                "Jól összegyúrjuk.",
+                "Min. 30 percig kelesztjük.",
+                "Vékonyra kinyújtottam a tésztát kör alakúra,",
+                "megkentem tejföllel, tettem rá kolbászkarikákat, előre lepirított szalonnát, karikára vágott hagymát és reszelt sajtot.",
+                "Ezeket mind csak a tészta egyik felére mivel a másik felét rá kell hajtani.",
+                "Mielött ráhajtanánk a tészta szélét tojással kenjük be és hajtsuk be a széleit.",
+                "Miután betöltöttük az általunk választott töltelékkel, a tojással való lekenés elött is kelesszük még kb. 15 percig.",
+                "Sütés elött kenjük le a töltött pizzáinkat egy egész tojással, és szórjuk meg reszelt sajttal.",
+                "180 fokos előmelegített sütőben addig süssük amíg a teteje meg nem pírul.",
+                "A tölteléket sokféleképpen variálhatjuk."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 78,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

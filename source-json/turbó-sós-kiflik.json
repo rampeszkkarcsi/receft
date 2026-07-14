@@ -1,0 +1,134 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Turbó sós kiflik",
+        "recipeIngredient": [
+            "60 dkg finomliszt",
+            "1 tk. só",
+            "5 ek. olaj",
+            "2 dl víz",
+            "1,5 dl tej",
+            "1 tk cukor",
+            "3 dkg friss élesztő",
+            "A töltelékhez",
+            "12 dkg puha vaj",
+            "1 tk. só",
+            "szezámmag a szóráshoz"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tésztához az élesztőt és a cukrot elkeverjük a langyos tejben."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tálba szitáljuk a lisztet, hozzáadjuk a sót, az olajat, a vizet és az élesztős tejet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Könnyű, lágy tésztát dagasztunk belőle, kelesztőtálba tesszük, és 20-30 percig hagyjuk pihenni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben elkészítjük a tölteléket: a puha vajat kikeverjük a sóval."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megkelt tésztát enyhén lisztezett felületre borítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Négy egyforma darabba vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az egyiket kinyújtjuk kb. 2 mm vastag körlapra, megkenjük a sós vaj felével, majd beborítjuk egy másik, ugyanakkorára nyújtott tésztalappal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Óvatosan összenyomkodjuk, kissé nyújtunk még rajta."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pizzavágóval 16 cikkre vágjuk, és feltekerjük őket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütőpapírral bélelt tepsire sorakoztatjuk a kifliket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A másik két tésztacipóval ugyanígy járunk el."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kb. 20 percig pihentetjük a tepsiken sorakozó kifliket, közben 180 °C-ra előmelegítjük a sütőt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megkelt kifliket vízzel lepermetezzük, és megszórjuk szezámmaggal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A forró sütőbe toljuk, és légkeveréses fokozaton kb. 15 perc alatt szép pirosra sütjük őket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "FÜSZERES TÚRÓKRÉM Összekeverünk 20 dkg tehén- és 15 dkg juhturót, hozzáadunk 5 dkg puha vajat és 3 evő- kanál tejfölt. Sózzuk, 1 teáskanál római köménnyel ízesítjük, majd beleforgatunk 1 kisebb szál apróra vágott póré- hagymát."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT15M",
+        "recipeYield": "32 DARABHOZ",
+        "image": "images/bb8dfb90-5f03-4f9c-99ef-55577ecb12ad_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "bb8dfb90-5f03-4f9c-99ef-55577ecb12ad",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Turbó sós kiflik",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "32 DARABHOZ",
+            "prepTime": "PT0S",
+            "cookTime": "PT15M",
+            "recipeIngredients": [
+                "60 dkg finomliszt",
+                "1 tk. só",
+                "5 ek. olaj",
+                "2 dl víz",
+                "1,5 dl tej",
+                "1 tk cukor",
+                "3 dkg friss élesztő",
+                "A töltelékhez",
+                "12 dkg puha vaj",
+                "1 tk. só",
+                "szezámmag a szóráshoz"
+            ],
+            "recipeDirections": [
+                "A tésztához az élesztőt és a cukrot elkeverjük a langyos tejben.",
+                "Tálba szitáljuk a lisztet, hozzáadjuk a sót, az olajat, a vizet és az élesztős tejet.",
+                "Könnyű, lágy tésztát dagasztunk belőle, kelesztőtálba tesszük, és 20-30 percig hagyjuk pihenni.",
+                "Közben elkészítjük a tölteléket: a puha vajat kikeverjük a sóval.",
+                "A megkelt tésztát enyhén lisztezett felületre borítjuk.",
+                "Négy egyforma darabba vágjuk.",
+                "Az egyiket kinyújtjuk kb. 2 mm vastag körlapra, megkenjük a sós vaj felével, majd beborítjuk egy másik, ugyanakkorára nyújtott tésztalappal.",
+                "Óvatosan összenyomkodjuk, kissé nyújtunk még rajta.",
+                "Pizzavágóval 16 cikkre vágjuk, és feltekerjük őket.",
+                "Sütőpapírral bélelt tepsire sorakoztatjuk a kifliket.",
+                "A másik két tésztacipóval ugyanígy járunk el.",
+                "Kb. 20 percig pihentetjük a tepsiken sorakozó kifliket, közben 180 °C-ra előmelegítjük a sütőt.",
+                "A megkelt kifliket vízzel lepermetezzük, és megszórjuk szezámmaggal.",
+                "A forró sütőbe toljuk, és légkeveréses fokozaton kb. 15 perc alatt szép pirosra sütjük őket.",
+                "FÜSZERES TÚRÓKRÉM Összekeverünk 20 dkg tehén- és 15 dkg juhturót, hozzáadunk 5 dkg puha vajat és 3 evő- kanál tejfölt. Sózzuk, 1 teáskanál római köménnyel ízesítjük, majd beleforgatunk 1 kisebb szál apróra vágott póré- hagymát."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/bb8dfb90-5f03-4f9c-99ef-55577ecb12ad_0.jpg"
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 118,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

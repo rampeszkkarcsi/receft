@@ -1,0 +1,113 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "A legegyszerűbb zabpelyhes süti",
+        "recipeIngredient": [
+            "5 dkg Rama margarin",
+            "1 tojás",
+            "2 dl tej",
+            "8-9 evőkanál cukor (vagy fele méz)",
+            "2-3 marék mazsola",
+            "1 kávéskanál sütőrum",
+            "1 kávéskanál amaretto likőr (elhagyható)",
+            "5 dkg őrölt mandula/mogyoró/dió",
+            "fél zacskó zabpehely",
+            "liszt (teljes kiőrlésű a legjobb, de lehet normál is)",
+            "fél csomag sütőpor",
+            "fél csomag mézeskalács fűszerkeverék"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Ez a süti nagyon egyszerű és nagyon gyorsan elkészül. Csak egy tál és egy keverőkanál kell hozzá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Először a megolvasztott margarint a tojással, a tejjel és a cukorral, vagy olvasztott mézzel habosra keverem, azután beleöntöm a rumot és a likőrt, majd beleteszem a mazsolát (be lehet előtte rumos tejbe áztatni, úgy finomabb)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáöntöm a zabpelyhet, a sütőport, a mézeskalácsfűszert, az őrölt mogyorót (vagy diót, mandulát, ki mit szeret) és elkeverem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezután elkezdem evőkanalanként adagolni bele a lisztet, és kevergetni egészen addig, amíg sűrű, ragadós borzas masszát kapok."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lehet beletenni feldarabolt cukrozott gyümölcsöket vagy aszalt fügét, datolyát is, ezekkel egyenesen isteni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Amikor már sűrű, akkor egy nagyobb kávéskanállal halmokat rakok kikent tepsire."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Szét fog terülni, mint az amerikai cookies, ezért viszonylag nagyobb távolságot érdemes közöttük hagyni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "175 fokon, kb. 15 percig sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kiváló nassolni való, egy pohár tejjel uzsonna, gyerekeknek iskolába elvihető, nem kenődik."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha teljes kiőrlésű lisztből készítjük, egészséges csemegét kínálunk az egész családnak."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Adventi sütinek is jó, és kezdők is bátran próbálkozhatnak vele."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT15M",
+        "x-recipe-keeper": {
+            "recipeId": "6c6e142c-daf6-4fe5-b19f-6934052ec0b8",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "A legegyszerűbb zabpelyhes süti",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT15M",
+            "recipeIngredients": [
+                "5 dkg Rama margarin",
+                "1 tojás",
+                "2 dl tej",
+                "8-9 evőkanál cukor (vagy fele méz)",
+                "2-3 marék mazsola",
+                "1 kávéskanál sütőrum",
+                "1 kávéskanál amaretto likőr (elhagyható)",
+                "5 dkg őrölt mandula/mogyoró/dió",
+                "fél zacskó zabpehely",
+                "liszt (teljes kiőrlésű a legjobb, de lehet normál is)",
+                "fél csomag sütőpor",
+                "fél csomag mézeskalács fűszerkeverék"
+            ],
+            "recipeDirections": [
+                "Ez a süti nagyon egyszerű és nagyon gyorsan elkészül. Csak egy tál és egy keverőkanál kell hozzá.",
+                "Először a megolvasztott margarint a tojással, a tejjel és a cukorral, vagy olvasztott mézzel habosra keverem, azután beleöntöm a rumot és a likőrt, majd beleteszem a mazsolát (be lehet előtte rumos tejbe áztatni, úgy finomabb).",
+                "Hozzáöntöm a zabpelyhet, a sütőport, a mézeskalácsfűszert, az őrölt mogyorót (vagy diót, mandulát, ki mit szeret) és elkeverem.",
+                "Ezután elkezdem evőkanalanként adagolni bele a lisztet, és kevergetni egészen addig, amíg sűrű, ragadós borzas masszát kapok.",
+                "Lehet beletenni feldarabolt cukrozott gyümölcsöket vagy aszalt fügét, datolyát is, ezekkel egyenesen isteni.",
+                "Amikor már sűrű, akkor egy nagyobb kávéskanállal halmokat rakok kikent tepsire.",
+                "Szét fog terülni, mint az amerikai cookies, ezért viszonylag nagyobb távolságot érdemes közöttük hagyni.",
+                "175 fokon, kb. 15 percig sütjük.",
+                "Kiváló nassolni való, egy pohár tejjel uzsonna, gyerekeknek iskolába elvihető, nem kenődik.",
+                "Ha teljes kiőrlésű lisztből készítjük, egészséges csemegét kínálunk az egész családnak.",
+                "Adventi sütinek is jó, és kezdők is bátran próbálkozhatnak vele."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 81,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Lencsesaláta",
+        "recipeIngredient": [
+            "20-20 dkg lencse és sovány sonka",
+            "2 fej vöröshagyma",
+            "2 kemény tojás",
+            "3 evőkanál olaj",
+            "1 csokor petrezselyemzöld",
+            "2 gerezd fokhagyma",
+            "ízlés szerint cukor, ecet, törött bors, só"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A beáztatott lencsét másnap annyi vízben főzöm meg, amennyi ellepi."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a sonkát apróra vágom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megtisztított hagymát kis kockákra aprítom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy rész ecetet összeöntök két rész vízzel, az olajjal, belekeverem a zúzott fokhagymát, megborsozom és megsózom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A vágott petrezselyemzöldet is hozzáadom, majd belekeverem a főtt lencsét, a hagymát és a sonkát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Néhány óráig hűtőszekrényben befedve érlelem, majd tálalás előtt a gerezdekre vágott kemény tojással feldíszítem."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/81ec3a7b-d5da-4327-9c9f-1d3fd831c469_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "81ec3a7b-d5da-4327-9c9f-1d3fd831c469",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Lencsesaláta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "20-20 dkg lencse és sovány sonka",
+                "2 fej vöröshagyma",
+                "2 kemény tojás",
+                "3 evőkanál olaj",
+                "1 csokor petrezselyemzöld",
+                "2 gerezd fokhagyma",
+                "ízlés szerint cukor, ecet, törött bors, só"
+            ],
+            "recipeDirections": [
+                "A beáztatott lencsét másnap annyi vízben főzöm meg, amennyi ellepi.",
+                "Közben a sonkát apróra vágom.",
+                "A megtisztított hagymát kis kockákra aprítom.",
+                "Egy rész ecetet összeöntök két rész vízzel, az olajjal, belekeverem a zúzott fokhagymát, megborsozom és megsózom.",
+                "A vágott petrezselyemzöldet is hozzáadom, majd belekeverem a főtt lencsét, a hagymát és a sonkát.",
+                "Néhány óráig hűtőszekrényben befedve érlelem, majd tálalás előtt a gerezdekre vágott kemény tojással feldíszítem."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/81ec3a7b-d5da-4327-9c9f-1d3fd831c469_0.jpg"
+        },
+        "x-source-file": "a6a64a5f-514f-4273-8bef-9af377af9b33.zip",
+        "x-db-id": 253,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

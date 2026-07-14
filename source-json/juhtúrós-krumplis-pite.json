@@ -1,0 +1,112 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Juhtúrós-krumplis pite",
+        "recipeIngredient": [
+            "A TÖLTELÉKHEZ",
+            "800 g krumpli",
+            "só",
+            "őrölt fehér bors",
+            "400 g hagyma",
+            "4 gerezd fokhagyma",
+            "4 ek. olaj",
+            "200 g juhtúró",
+            "5 dl tejföl (20%-os)",
+            "szerecsendió",
+            "2 tojás",
+            "200 g gouda sajt",
+            "16-18 vékony szelet szalonna/bacon",
+            "2-3 szál petrezselyem",
+            "A TÉSZTÁHOZ",
+            "25 g élesztő/1 tasak instant élesztő",
+            "1 ek. só",
+            "1/2 ek. cukor",
+            "6 ek. olívaolaj+ a tepsihez",
+            "500 g finomliszt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A töltelékkel kezdjük, mert hűlnie kell: a krumplit héjában, enyhén sós vízben puhára főzzük (20 perc). A hagymát és a fokhagymát meghámozzuk, a hagymát nem túl vékonyan felkarikázzuk, 4 ek. felforró-sított olajba dobjuk. Kissé megsózzuk, élénk tűzön, folyamatosan keverve megfonnyasztjuk, hűlni hagyjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztához 3,5 dl langyos vízben elkeverjük az élesztőt, a sót, a cukrot és az olívaolajat, majd a tálba szitált liszthez adjuk, és fényes-sima tésztává dagasztjuk. Tiszta konyaruhával letakarva 30 percig kelni hagyjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a krumplit leszűrjük, meghámozzuk, még langymelegen, villával darabosra törjük, össze-forgatjuk a hagymával. Egy másik tálban eldolgozzuk a juhtúrót a tejföllel, az áttört fokhagymával, ízlés szerint sóval, borssal, 2-3 csipetnyi frissen reszelt szerecsen-dióval, végül a tojásokkal. A sajtot szálasra reszeljük, a szalonnaszeleteket kettévágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt előmelegítjük 200 °C-ra. Kiolajozzuk a sütőbe való zománcos, peremes tepsit. Liszte-zett munkalapon átgyúrjuk a tésztát, a tepsinél vala-mivel nagyobb lapra nyújtjuk-huzogatjuk, a tepsibe terítjük-nyomkodjuk, a széleket kissé felmagasítjuk, alját villával megszurkáljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egyenletesen elterítjük a tésztán a hagymás krump-lit, bevonjuk a juhtúrós tejföllel, kisebb halmok-ban tetejére szórjuk a reszelt sajtot, végül a közökbe fek-tetjük-kócosítjuk a harmonikaszerűen összehajtogatott szalonnaszeleteket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Középső bordamagasságon 45-50 percig sütjük (tűpróba!), 15-20 percig a tepsiben hagyjuk hűlni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tálalás előtt 24/12 kisebb-nagyobb kockára vágjuk, tálra csinosítjuk, és petrezselyemlevelekkel vidámítva kínáljuk. Langyosan a legfinomabb (melegíthető!)."
+            }
+        ],
+        "prepTime": "PT1H30M",
+        "cookTime": "PT50M",
+        "recipeYield": "24 kocka",
+        "image": "images/19da366b-3bf2-4735-af26-37930d567039_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "19da366b-3bf2-4735-af26-37930d567039",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Juhtúrós-krumplis pite",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "24 kocka",
+            "prepTime": "PT1H30M",
+            "cookTime": "PT50M",
+            "recipeIngredients": [
+                "A TÖLTELÉKHEZ",
+                "800 g krumpli",
+                "só",
+                "őrölt fehér bors",
+                "400 g hagyma",
+                "4 gerezd fokhagyma",
+                "4 ek. olaj",
+                "200 g juhtúró",
+                "5 dl tejföl (20%-os)",
+                "szerecsendió",
+                "2 tojás",
+                "200 g gouda sajt",
+                "16-18 vékony szelet szalonna/bacon",
+                "2-3 szál petrezselyem",
+                "A TÉSZTÁHOZ",
+                "25 g élesztő/1 tasak instant élesztő",
+                "1 ek. só",
+                "1/2 ek. cukor",
+                "6 ek. olívaolaj+ a tepsihez",
+                "500 g finomliszt"
+            ],
+            "recipeDirections": [
+                "A töltelékkel kezdjük, mert hűlnie kell: a krumplit héjában, enyhén sós vízben puhára főzzük (20 perc). A hagymát és a fokhagymát meghámozzuk, a hagymát nem túl vékonyan felkarikázzuk, 4 ek. felforró-sított olajba dobjuk. Kissé megsózzuk, élénk tűzön, folyamatosan keverve megfonnyasztjuk, hűlni hagyjuk.",
+                "A tésztához 3,5 dl langyos vízben elkeverjük az élesztőt, a sót, a cukrot és az olívaolajat, majd a tálba szitált liszthez adjuk, és fényes-sima tésztává dagasztjuk. Tiszta konyaruhával letakarva 30 percig kelni hagyjuk.",
+                "Közben a krumplit leszűrjük, meghámozzuk, még langymelegen, villával darabosra törjük, össze-forgatjuk a hagymával. Egy másik tálban eldolgozzuk a juhtúrót a tejföllel, az áttört fokhagymával, ízlés szerint sóval, borssal, 2-3 csipetnyi frissen reszelt szerecsen-dióval, végül a tojásokkal. A sajtot szálasra reszeljük, a szalonnaszeleteket kettévágjuk.",
+                "A sütőt előmelegítjük 200 °C-ra. Kiolajozzuk a sütőbe való zománcos, peremes tepsit. Liszte-zett munkalapon átgyúrjuk a tésztát, a tepsinél vala-mivel nagyobb lapra nyújtjuk-huzogatjuk, a tepsibe terítjük-nyomkodjuk, a széleket kissé felmagasítjuk, alját villával megszurkáljuk.",
+                "Egyenletesen elterítjük a tésztán a hagymás krump-lit, bevonjuk a juhtúrós tejföllel, kisebb halmok-ban tetejére szórjuk a reszelt sajtot, végül a közökbe fek-tetjük-kócosítjuk a harmonikaszerűen összehajtogatott szalonnaszeleteket.",
+                "Középső bordamagasságon 45-50 percig sütjük (tűpróba!), 15-20 percig a tepsiben hagyjuk hűlni.",
+                "Tálalás előtt 24/12 kisebb-nagyobb kockára vágjuk, tálra csinosítjuk, és petrezselyemlevelekkel vidámítva kínáljuk. Langyosan a legfinomabb (melegíthető!)."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/19da366b-3bf2-4735-af26-37930d567039_0.jpg"
+        },
+        "x-source-file": "78c7b1d4-56f5-40ee-9e76-a7d93ffbed93.zip",
+        "x-db-id": 149,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

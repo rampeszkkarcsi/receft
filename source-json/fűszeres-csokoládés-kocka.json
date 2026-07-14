@@ -1,0 +1,114 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Fűszeres csokoládés kocka",
+        "recipeIngredient": [
+            "80 g puha mazsola",
+            "200 g cukrozott narancshéj",
+            "2 ek.+200 g finomliszt",
+            "300 g étcsokoládé",
+            "80 g étkezési keményítő",
+            "1 tasak Dr. Oetker Sütőpor Mézeskalács fűszerkeverékkel",
+            "1 bionarancs reszelt héja",
+            "8 tojás",
+            "2 csipet só",
+            "300 g porcukor",
+            "300 g lágy vaj/margarin",
+            "5 ek. rum",
+            "A DÍSZÍTÉSHEZ",
+            "100 g ribizlilekvár",
+            "200 g tortabevonó étcsokoládé",
+            "100 g mandulalapocska"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A mazsolát és a narancshéjat apróra vágjuk, megszórjuk 2 ek. liszttel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Meleg vízfürdőben felolvasztjuk a csokoládét."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Összekeverjük a lisztet, a keményítőt, a mézeskalács fűszeres sütőport és a reszelt narancshéjat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojások fehérjét kemény habbá verjük a sóval és a cukor felével."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A vajat/margarint habosra keverjük a maradék cukorral, egyenként bedolgozzuk a tojássárgákat, majd a csokoládét, a liszttel felváltva a habot, végül a rumot, a mazsolát és a cukrozott narancshéjat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütőpapírral bélelt, 35x40 cm-es tepsi be simítjuk a masszát, 180 °C-os sütőben 45 percig sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hűlni hagyjuk, deszkára borítva megkenjük a forró, áttört lekvárral."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tortabevonó csokoládét felolvasztjuk, elkenjük a tészta tetején, 5 perc múlva megszórjuk a mandulával, és hagyjuk teljesen megdermedni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Forró vízbe mártogatott késsel 5x5 cm-es kockákra vágva kínáljuk."
+            }
+        ],
+        "prepTime": "PT2H",
+        "cookTime": "PT45M",
+        "recipeYield": "kb. 50 darab",
+        "image": "images/4d3f9ce1-bc15-4fea-9d15-60b3b319b64b_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "4d3f9ce1-bc15-4fea-9d15-60b3b319b64b",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Fűszeres csokoládés kocka",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "kb. 50 darab",
+            "prepTime": "PT2H",
+            "cookTime": "PT45M",
+            "recipeIngredients": [
+                "80 g puha mazsola",
+                "200 g cukrozott narancshéj",
+                "2 ek.+200 g finomliszt",
+                "300 g étcsokoládé",
+                "80 g étkezési keményítő",
+                "1 tasak Dr. Oetker Sütőpor Mézeskalács fűszerkeverékkel",
+                "1 bionarancs reszelt héja",
+                "8 tojás",
+                "2 csipet só",
+                "300 g porcukor",
+                "300 g lágy vaj/margarin",
+                "5 ek. rum",
+                "A DÍSZÍTÉSHEZ",
+                "100 g ribizlilekvár",
+                "200 g tortabevonó étcsokoládé",
+                "100 g mandulalapocska"
+            ],
+            "recipeDirections": [
+                "A mazsolát és a narancshéjat apróra vágjuk, megszórjuk 2 ek. liszttel.",
+                "Meleg vízfürdőben felolvasztjuk a csokoládét.",
+                "Összekeverjük a lisztet, a keményítőt, a mézeskalács fűszeres sütőport és a reszelt narancshéjat.",
+                "A tojások fehérjét kemény habbá verjük a sóval és a cukor felével.",
+                "A vajat/margarint habosra keverjük a maradék cukorral, egyenként bedolgozzuk a tojássárgákat, majd a csokoládét, a liszttel felváltva a habot, végül a rumot, a mazsolát és a cukrozott narancshéjat.",
+                "Sütőpapírral bélelt, 35x40 cm-es tepsi be simítjuk a masszát, 180 °C-os sütőben 45 percig sütjük.",
+                "Hűlni hagyjuk, deszkára borítva megkenjük a forró, áttört lekvárral.",
+                "A tortabevonó csokoládét felolvasztjuk, elkenjük a tészta tetején, 5 perc múlva megszórjuk a mandulával, és hagyjuk teljesen megdermedni.",
+                "Forró vízbe mártogatott késsel 5x5 cm-es kockákra vágva kínáljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/4d3f9ce1-bc15-4fea-9d15-60b3b319b64b_0.jpg"
+        },
+        "x-source-file": "5d69ba0e-6fbf-4ffa-86b3-7aaa925b1eab.zip",
+        "x-db-id": 167,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

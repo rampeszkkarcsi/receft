@@ -1,0 +1,107 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Rakott tojás csibemájjal",
+        "recipeIngredient": [
+            "4 zsemle",
+            "kis fej vöröshagyma",
+            "1 zöldpaprika",
+            "1-2 paradicsom",
+            "petrezselyem zöldje",
+            "fokhagyma",
+            "20 dkg csibemáj",
+            "4 főtt tojás",
+            "2 dl tejföl",
+            "15 dkg bacon szalonna"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A zsemlét felkarikázzuk, és egy sütőformát kibélelünk vele."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Erre helyezzük a szaftos csibemáj felét, amely így készül: vöröshagymát egy kevés zsiradékon, megfuttatunk, hozzáadjuk a zöldpaprikát, a paradicsomot és a csibemájat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ízesítjük sóval, őrölt borssal, petrezselyemmel, egy gerezd fokhagymával."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojást felkarikázzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A májra tesszük, és az egészet beborítjuk a többi májjal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tetejére szintén zsemle kerül, amelyet tejfellel megkenünk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A fogást 200 fokon süssük szép pirosra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A szeletelt bacont süssük ropogósra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ami kimaradt a májas szaftból, azt keverjük el kevéske mustárral, és némi tejszínnel forraljuk át."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezzel a mártással tálaláskor öntsük körbe a cikkekre vágott rakottast"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT1H",
+        "recipeYield": "4 személyre",
+        "image": "images/fcc827c5-1e43-42cb-a10d-a0cdfd5cfaa9_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "fcc827c5-1e43-42cb-a10d-a0cdfd5cfaa9",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Rakott tojás csibemájjal",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT1H",
+            "recipeIngredients": [
+                "4 zsemle",
+                "kis fej vöröshagyma",
+                "1 zöldpaprika",
+                "1-2 paradicsom",
+                "petrezselyem zöldje",
+                "fokhagyma",
+                "20 dkg csibemáj",
+                "4 főtt tojás",
+                "2 dl tejföl",
+                "15 dkg bacon szalonna"
+            ],
+            "recipeDirections": [
+                "A zsemlét felkarikázzuk, és egy sütőformát kibélelünk vele.",
+                "Erre helyezzük a szaftos csibemáj felét, amely így készül: vöröshagymát egy kevés zsiradékon, megfuttatunk, hozzáadjuk a zöldpaprikát, a paradicsomot és a csibemájat.",
+                "Ízesítjük sóval, őrölt borssal, petrezselyemmel, egy gerezd fokhagymával.",
+                "A tojást felkarikázzuk.",
+                "A májra tesszük, és az egészet beborítjuk a többi májjal.",
+                "A tetejére szintén zsemle kerül, amelyet tejfellel megkenünk.",
+                "A fogást 200 fokon süssük szép pirosra.",
+                "A szeletelt bacont süssük ropogósra.",
+                "Ami kimaradt a májas szaftból, azt keverjük el kevéske mustárral, és némi tejszínnel forraljuk át.",
+                "Ezzel a mártással tálaláskor öntsük körbe a cikkekre vágott rakottast"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/fcc827c5-1e43-42cb-a10d-a0cdfd5cfaa9_0.jpg"
+        },
+        "x-source-file": "a732a041-ba4a-4467-98ee-e33a82efcb46.zip",
+        "x-db-id": 272,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

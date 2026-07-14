@@ -1,0 +1,78 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sajtos-baconos csirkemell hajócskák",
+        "recipeIngredient": [
+            "3 db fél csirkemell",
+            "10 dkg bacon",
+            "2 kis fej lila hagyma",
+            "12 dkg lm krémsajt - nem sajtkrém!",
+            "1 csokor petrezselyemzöld",
+            "5 dkg reszelt sajt",
+            "Ízlés szerint só és frissen őrölt tarka bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A bacont felaprítom, zsírjára sütöm, majd hozzá adom a felkarikázott lila hagymát és üvegesre pirítom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha a hagyma is megpirult, leveszem a tűzhelyről és hagyom kicsit kihűlni, majd hozzá keverem a krémsajtot, megszórom az aprított petrezselyemzölddel, sózom, borsozom és alaposan elkeverem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lényeg, hogy ne legyen forró, amikor a sajtkrémet hozzá adom, hogy ne legyen folyós az állaga."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A csirkemellet alaposan megmosom, papírtörlővel szárazra törlöm és egy éles késsel az oldalába zsebet vágok."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sózom, tűzálló tálba teszem és megtöltöm a sajtos, baconos krémmel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "180 fokra előmelegített sütőben, légkeveréses fokozaton 30 percet sütöm, majd megszórom a hajócskák tetejét a reszelt sajttal és vissza dugom a sütőbe, hogy a sajt is szépen megpiruljon (kb. 10 perc)."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT40M",
+        "x-recipe-keeper": {
+            "recipeId": "ca2d1741-921c-424f-af3a-5d6891dd1ff3",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sajtos-baconos csirkemell hajócskák",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT40M",
+            "recipeIngredients": [
+                "3 db fél csirkemell",
+                "10 dkg bacon",
+                "2 kis fej lila hagyma",
+                "12 dkg lm krémsajt - nem sajtkrém!",
+                "1 csokor petrezselyemzöld",
+                "5 dkg reszelt sajt",
+                "Ízlés szerint só és frissen őrölt tarka bors"
+            ],
+            "recipeDirections": [
+                "A bacont felaprítom, zsírjára sütöm, majd hozzá adom a felkarikázott lila hagymát és üvegesre pirítom.",
+                "Ha a hagyma is megpirult, leveszem a tűzhelyről és hagyom kicsit kihűlni, majd hozzá keverem a krémsajtot, megszórom az aprított petrezselyemzölddel, sózom, borsozom és alaposan elkeverem.",
+                "A lényeg, hogy ne legyen forró, amikor a sajtkrémet hozzá adom, hogy ne legyen folyós az állaga.",
+                "A csirkemellet alaposan megmosom, papírtörlővel szárazra törlöm és egy éles késsel az oldalába zsebet vágok.",
+                "Sózom, tűzálló tálba teszem és megtöltöm a sajtos, baconos krémmel.",
+                "180 fokra előmelegített sütőben, légkeveréses fokozaton 30 percet sütöm, majd megszórom a hajócskák tetejét a reszelt sajttal és vissza dugom a sütőbe, hogy a sajt is szépen megpiruljon (kb. 10 perc)."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 113,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

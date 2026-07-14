@@ -1,0 +1,92 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Pulykaszelet burgonyabundában",
+        "recipeIngredient": [
+            "80 dkg burgonya",
+            "1 vöröshagyma",
+            "5 dkg kemény sajt",
+            "1 tojás",
+            "2 ek. liszt",
+            "aprított petrezselyem zöld",
+            "80 dkg pulykahús",
+            "2 ek. vaj",
+            "5-6 evőkanál olívaolaj",
+            "só",
+            "bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A burgonyát héjastól félpuhára főzzük, majd kihűtjük, meghámozzuk, durvára reszeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát apróra vágjuk, a sajtot lereszeljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A burgonyát alaposan összegyúrjuk a hagymával, a sajttal, a tojással meg a liszttel, majd beledolgozzuk a petrezselyem zöldet, sóval, borssal ízesítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A húst kis szeletekre vágjuk, kiklopfoljuk, fűszerezzük és mindkét oldalát megsütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Rövid ideig hűlni hagyjuk majd a burgonyás keverékkel beburkoljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az olívaolajon, közepes hőfokon világosbarnára sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Saláta vagy zöldségköret illik hozzá."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "x-recipe-keeper": {
+            "recipeId": "3847763b-6748-4a50-afa7-36443179b2ec",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Pulykaszelet burgonyabundában",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "80 dkg burgonya",
+                "1 vöröshagyma",
+                "5 dkg kemény sajt",
+                "1 tojás",
+                "2 ek. liszt",
+                "aprított petrezselyem zöld",
+                "80 dkg pulykahús",
+                "2 ek. vaj",
+                "5-6 evőkanál olívaolaj",
+                "só",
+                "bors"
+            ],
+            "recipeDirections": [
+                "A burgonyát héjastól félpuhára főzzük, majd kihűtjük, meghámozzuk, durvára reszeljük.",
+                "A hagymát apróra vágjuk, a sajtot lereszeljük.",
+                "A burgonyát alaposan összegyúrjuk a hagymával, a sajttal, a tojással meg a liszttel, majd beledolgozzuk a petrezselyem zöldet, sóval, borssal ízesítjük.",
+                "A húst kis szeletekre vágjuk, kiklopfoljuk, fűszerezzük és mindkét oldalát megsütjük.",
+                "Rövid ideig hűlni hagyjuk majd a burgonyás keverékkel beburkoljuk.",
+                "Az olívaolajon, közepes hőfokon világosbarnára sütjük.",
+                "Saláta vagy zöldségköret illik hozzá."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 94,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

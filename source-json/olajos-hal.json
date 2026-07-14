@@ -1,0 +1,73 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Olajos hal",
+        "recipeIngredient": [
+            "Hal",
+            "Só",
+            "1,5 liter víz",
+            "1 citrom leve",
+            "Babér levél",
+            "Egén boss"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Halat előző nap erősen besózni (belül , kívül)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kuktaban főzni kb 1,5 órát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Annyi víz, annyi olaj, amennyi épp ellepi (fele-fele keverék) , + 1 citrom leve, babér levél, egén bors."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha Kihűlt, halat kiszedni egy tálba és ráönteni a maradék olajat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Addig kell főzni, hogy a víz mind elpárologjon."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/4b5a598e-3e4f-48fc-b293-0e26c6b1cabb_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "4b5a598e-3e4f-48fc-b293-0e26c6b1cabb",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Olajos hal",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "Hal",
+                "Só",
+                "1,5 liter víz",
+                "1 citrom leve",
+                "Babér levél",
+                "Egén boss"
+            ],
+            "recipeDirections": [
+                "Halat előző nap erősen besózni (belül , kívül).",
+                "Kuktaban főzni kb 1,5 órát.",
+                "Annyi víz, annyi olaj, amennyi épp ellepi (fele-fele keverék) , + 1 citrom leve, babér levél, egén bors.",
+                "Ha Kihűlt, halat kiszedni egy tálba és ráönteni a maradék olajat.",
+                "Addig kell főzni, hogy a víz mind elpárologjon."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/4b5a598e-3e4f-48fc-b293-0e26c6b1cabb_0.jpg"
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 31,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

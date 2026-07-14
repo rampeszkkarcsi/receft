@@ -1,0 +1,123 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Tekercses husi",
+        "recipeIngredient": [
+            "hússzeletek",
+            "só",
+            "frissen őrölt bors",
+            "hagyma",
+            "fokhagyma",
+            "bazsalikom",
+            "rozmaring",
+            "áttört fokhagyma",
+            "angolszalonna/bacon",
+            "olaj",
+            "bor",
+            "A SÜLT ALMA ELKÉSZÍTÉSE",
+            "savanykás alma"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A hússzeleteket folyó víz alatt megmossuk, lecsepegtetjük, szárazra töröljük, majd folpack-kal letakarjuk, kissé kiverjük-elvékonyítjuk, meghintjük sóval és frissen őrölt borssal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát és a fokhagymát meghámozzuk, megmossuk, a bazsalikomot és a rozmaringot leöblítjük, lerázzuk róluk a vizet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hússzeleteket megkenjük 2-2 gerezd áttört fokhagymával."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kissé egymásra csúsztatva beterítjük 3-3 szelet angolszalonnával/baconnal és az arányosan elosztott bazsalikomlevelekkel (ha nem elég vékonyak a szalonnaleletek, azokat is kiverjük)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Gondosan feltekerjük, majd úgy, hogy a hajtás vége-éle a tekercsek egymással érintkező oldalára kerüljön, szorosan egymás mellé sorakoztatjuk őket, és egyenlő távolságot tartva 4 bambuszpálcikával átszúrjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A bambuszpálcikákkal párhuzamosan 4 azonos nagyságú darabra vágjuk a tekercs együttest, majd vágott felükre fektetjük, és kissé ellapítjuk, kerekre igazítjuk a húscsigákat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az olajat nagyobb serpenyőben felhevítjük, beletesszük a csiganyársakat, majd élénk tűzön minden oldalukat megkapjuk (5 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Melléjük-közéjük dobjuk a gerezdekre szelt hagymát és a rozmaringot, alájuk öntjük a bort, aztán takarékra kapcsolunk, és fedő alatt puhára pároljuk (25-30 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Köretként burgonyapürét, alufóliába csomagolt, héjában sült krumplit, és/vagy sütőben sült almát, vegyes ecetes savanyúságot, őszibarack- vagy szilvabefőttet kínálhatunk hozzá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Személyenként 1-2 savanykás almát megmosunk, lecsepegtetünk, és (hogy kevesebbet kelljen mosogatni) alufóliával bélelt sütőedénybe/tűzálló tálba ültetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "180 °C-ra előmelegített sütőben 15-20 percig sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az alma sütés közben előbb kitelik-kifényesedik, aztán kissé összetöpped, esetleg ki is reped, és megpirul, nem baj, annál finomabb lesz."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT30M",
+        "image": "images/e3437e62-49ef-4807-9f74-d58793c3dde9_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "e3437e62-49ef-4807-9f74-d58793c3dde9",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Tekercses husi",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "hússzeletek",
+                "só",
+                "frissen őrölt bors",
+                "hagyma",
+                "fokhagyma",
+                "bazsalikom",
+                "rozmaring",
+                "áttört fokhagyma",
+                "angolszalonna/bacon",
+                "olaj",
+                "bor",
+                "A SÜLT ALMA ELKÉSZÍTÉSE",
+                "savanykás alma"
+            ],
+            "recipeDirections": [
+                "A hússzeleteket folyó víz alatt megmossuk, lecsepegtetjük, szárazra töröljük, majd folpack-kal letakarjuk, kissé kiverjük-elvékonyítjuk, meghintjük sóval és frissen őrölt borssal.",
+                "A hagymát és a fokhagymát meghámozzuk, megmossuk, a bazsalikomot és a rozmaringot leöblítjük, lerázzuk róluk a vizet.",
+                "A hússzeleteket megkenjük 2-2 gerezd áttört fokhagymával.",
+                "Kissé egymásra csúsztatva beterítjük 3-3 szelet angolszalonnával/baconnal és az arányosan elosztott bazsalikomlevelekkel (ha nem elég vékonyak a szalonnaleletek, azokat is kiverjük).",
+                "Gondosan feltekerjük, majd úgy, hogy a hajtás vége-éle a tekercsek egymással érintkező oldalára kerüljön, szorosan egymás mellé sorakoztatjuk őket, és egyenlő távolságot tartva 4 bambuszpálcikával átszúrjuk.",
+                "A bambuszpálcikákkal párhuzamosan 4 azonos nagyságú darabra vágjuk a tekercs együttest, majd vágott felükre fektetjük, és kissé ellapítjuk, kerekre igazítjuk a húscsigákat.",
+                "Az olajat nagyobb serpenyőben felhevítjük, beletesszük a csiganyársakat, majd élénk tűzön minden oldalukat megkapjuk (5 perc).",
+                "Melléjük-közéjük dobjuk a gerezdekre szelt hagymát és a rozmaringot, alájuk öntjük a bort, aztán takarékra kapcsolunk, és fedő alatt puhára pároljuk (25-30 perc).",
+                "Köretként burgonyapürét, alufóliába csomagolt, héjában sült krumplit, és/vagy sütőben sült almát, vegyes ecetes savanyúságot, őszibarack- vagy szilvabefőttet kínálhatunk hozzá.",
+                "Személyenként 1-2 savanykás almát megmosunk, lecsepegtetünk, és (hogy kevesebbet kelljen mosogatni) alufóliával bélelt sütőedénybe/tűzálló tálba ültetjük.",
+                "180 °C-ra előmelegített sütőben 15-20 percig sütjük.",
+                "Az alma sütés közben előbb kitelik-kifényesedik, aztán kissé összetöpped, esetleg ki is reped, és megpirul, nem baj, annál finomabb lesz."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/e3437e62-49ef-4807-9f74-d58793c3dde9_0.jpg",
+            "photo1": "images/e3437e62-49ef-4807-9f74-d58793c3dde9_1.jpg"
+        },
+        "x-source-file": "5d69ba0e-6fbf-4ffa-86b3-7aaa925b1eab.zip",
+        "x-db-id": 180,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Fuszeres édesburgonya krémleves",
+        "recipeIngredient": [
+            "1 kg édesburgonya",
+            "1 db hagyma",
+            "4 gerezd fokhagyma",
+            "1tk gyömbér",
+            "só",
+            "fehérbors",
+            "1 alaplé",
+            "2 ek olaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A finomra aprított hagymát olajon megdinszteljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kb. 4-5 perc után a zúzott fokhagymát is beletesszük a hagymához, majd 1-2 perc után hozzáadjuk a felkockázott édesburgonyát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fűszerezzük sóval, fehérborssal, gyömbérrel és öntjük fel az alaplével."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Miután a burgonya puhára főtt, botmixerrel pürésítsuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/60b6c9d4-506f-4aff-ab91-875ad806d770_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "60b6c9d4-506f-4aff-ab91-875ad806d770",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Fuszeres édesburgonya krémleves",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1 kg édesburgonya",
+                "1 db hagyma",
+                "4 gerezd fokhagyma",
+                "1tk gyömbér",
+                "só",
+                "fehérbors",
+                "1 alaplé",
+                "2 ek olaj"
+            ],
+            "recipeDirections": [
+                "A finomra aprított hagymát olajon megdinszteljük.",
+                "Kb. 4-5 perc után a zúzott fokhagymát is beletesszük a hagymához, majd 1-2 perc után hozzáadjuk a felkockázott édesburgonyát.",
+                "Fűszerezzük sóval, fehérborssal, gyömbérrel és öntjük fel az alaplével.",
+                "Miután a burgonya puhára főtt, botmixerrel pürésítsuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/60b6c9d4-506f-4aff-ab91-875ad806d770_0.jpg"
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 25,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

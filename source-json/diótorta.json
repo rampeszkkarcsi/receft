@@ -1,0 +1,83 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Diótorta",
+        "recipeIngredient": [
+            "8 dkg darált diót",
+            "8 dkg porcukrot",
+            "7 tojássárgáját",
+            "25 percig keverünk",
+            "tojásfehérjékből kemény habot verünk",
+            "1 evőkanál zsemlemorzsával",
+            "töltelékhez",
+            "8 dkg diót",
+            "12 dkg cukrot",
+            "1 dl vízben",
+            "6 dkg vajat"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "8 dkg darált diót, 8 dkg porcukrot és 7 tojássárgáját 25 percig keverünk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojásfehérjékből kemény habot verünk, és 1 evőkanál zsemlemorzsával a diós masszához keverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Két részre osztjuk, és tortaformába öntve, mindkettőt S 180 C°-os sütőben negyedóra alatt megsütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az alábbi töltelék háromnegyed részével megtöltjük, majd a maradék krémmel bekenjük a szélét és a tetejét."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A töltelékhez 8 dkg diót és 12 dkg cukrot felfőzünk 1 dl vízben, majd a tűzről levéve 6 dkg vajat addig keverünk benne, míg teljesen kihűl."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT15M",
+        "image": "images/4678716c-5b3e-49ee-958d-4abd8f3b6098_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "4678716c-5b3e-49ee-958d-4abd8f3b6098",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Diótorta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT15M",
+            "recipeIngredients": [
+                "8 dkg darált diót",
+                "8 dkg porcukrot",
+                "7 tojássárgáját",
+                "25 percig keverünk",
+                "tojásfehérjékből kemény habot verünk",
+                "1 evőkanál zsemlemorzsával",
+                "töltelékhez",
+                "8 dkg diót",
+                "12 dkg cukrot",
+                "1 dl vízben",
+                "6 dkg vajat"
+            ],
+            "recipeDirections": [
+                "8 dkg darált diót, 8 dkg porcukrot és 7 tojássárgáját 25 percig keverünk.",
+                "A tojásfehérjékből kemény habot verünk, és 1 evőkanál zsemlemorzsával a diós masszához keverjük.",
+                "Két részre osztjuk, és tortaformába öntve, mindkettőt S 180 C°-os sütőben negyedóra alatt megsütjük.",
+                "Az alábbi töltelék háromnegyed részével megtöltjük, majd a maradék krémmel bekenjük a szélét és a tetejét.",
+                "A töltelékhez 8 dkg diót és 12 dkg cukrot felfőzünk 1 dl vízben, majd a tűzről levéve 6 dkg vajat addig keverünk benne, míg teljesen kihűl."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/4678716c-5b3e-49ee-958d-4abd8f3b6098_0.jpg"
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 238,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Zöldséges lencseleves",
+        "recipeIngredient": [
+            "200 g lencse",
+            "50 g húsos füstölt szalonna",
+            "1 közepes fej hagyma",
+            "2 gerezd fokhagyma",
+            "200 g vegyes leveszöldség",
+            "1 közepes póréhagyma",
+            "200 g burgonya",
+            "2-3 szegfűszeg",
+            "15-20 szem bors",
+            "só",
+            "1 babérlevél",
+            "2 dl tejföl",
+            "2 ek. rizsliszt",
+            "4 pár füstölt virsli"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A lencsét előző este beáztatjuk hideg vízbe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Másnap a szalonnát apróra felkockázzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát és a fokhagymát meghámozzuk, a hagymát finomra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A leveszöldséget és a pórét megtisztítjuk, vékonyan felkarikázzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A burgonyát meghámozzuk, apróra felkockázzuk, és annyi hideg vizet öntünk rá, amennyi ellepi."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A fokhagymát, a szegfűszeget és a szemes borsot teatojásba zárjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lencsét hideg vízzel leöblítjük és lecsepegtetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A szalonnát ropogósra sütjük, a pörcöket papírkendőre terítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zsiradékban megfonnyasztjuk a hagymát, rádobjuk a zöldséget és pórét, néhány percig erős tűzön pirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a lencsét, a burgonyát a vízzel együtt, a babérlevelet, a teatojást és még annyi hideg vizet, hogy jócskán ellepje."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Fedő alatt, lassú forralással puhára főzzük, csak a végén sózzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha a lencse is, a zöldségfélék is megpuhultak, kiemeljük a levesből a babérlevelet és a teatojást."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tejfölben elhabarjuk a rizslisztet, simára keverjük 2-3 merőkanál főzőlével, majd a leveshez öntjük, és fedő nélkül, mérsékelt tűzön 5-8 percig forraljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Belefőzzük a virslit, utánasózzuk, végül lazán hozzákeverjük a félretett szalonnapörcöket."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/79079ace-6aa9-418c-85b1-52499869fe32_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "79079ace-6aa9-418c-85b1-52499869fe32",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Zöldséges lencseleves",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "200 g lencse",
+                "50 g húsos füstölt szalonna",
+                "1 közepes fej hagyma",
+                "2 gerezd fokhagyma",
+                "200 g vegyes leveszöldség",
+                "1 közepes póréhagyma",
+                "200 g burgonya",
+                "2-3 szegfűszeg",
+                "15-20 szem bors",
+                "só",
+                "1 babérlevél",
+                "2 dl tejföl",
+                "2 ek. rizsliszt",
+                "4 pár füstölt virsli"
+            ],
+            "recipeDirections": [
+                "A lencsét előző este beáztatjuk hideg vízbe.",
+                "Másnap a szalonnát apróra felkockázzuk.",
+                "A hagymát és a fokhagymát meghámozzuk, a hagymát finomra vágjuk.",
+                "A leveszöldséget és a pórét megtisztítjuk, vékonyan felkarikázzuk.",
+                "A burgonyát meghámozzuk, apróra felkockázzuk, és annyi hideg vizet öntünk rá, amennyi ellepi.",
+                "A fokhagymát, a szegfűszeget és a szemes borsot teatojásba zárjuk.",
+                "A lencsét hideg vízzel leöblítjük és lecsepegtetjük.",
+                "A szalonnát ropogósra sütjük, a pörcöket papírkendőre terítjük.",
+                "A zsiradékban megfonnyasztjuk a hagymát, rádobjuk a zöldséget és pórét, néhány percig erős tűzön pirítjuk.",
+                "Hozzáadjuk a lencsét, a burgonyát a vízzel együtt, a babérlevelet, a teatojást és még annyi hideg vizet, hogy jócskán ellepje.",
+                "Fedő alatt, lassú forralással puhára főzzük, csak a végén sózzuk.",
+                "Ha a lencse is, a zöldségfélék is megpuhultak, kiemeljük a levesből a babérlevelet és a teatojást.",
+                "A tejfölben elhabarjuk a rizslisztet, simára keverjük 2-3 merőkanál főzőlével, majd a leveshez öntjük, és fedő nélkül, mérsékelt tűzön 5-8 percig forraljuk.",
+                "Belefőzzük a virslit, utánasózzuk, végül lazán hozzákeverjük a félretett szalonnapörcöket."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/79079ace-6aa9-418c-85b1-52499869fe32_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 231,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

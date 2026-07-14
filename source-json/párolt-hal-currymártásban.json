@@ -1,0 +1,84 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Párolt hal currymártásban",
+        "recipeIngredient": [
+            "800 g szálkamentes édesvízi vagy tengeri halfilé (pl. fogas, afrikai harcsa)",
+            "1 kis citrom",
+            "só",
+            "színes szemes bors",
+            "2 zöldcitrom (lime)",
+            "3 dl száraz fehérbor",
+            "50 g vaj/margarin",
+            "2 ek. liszt",
+            "currypor",
+            "1 dl tejszín",
+            "1 csokor snidling"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A halfilét leöblítjük, lecspegtetjük, két-háromujjnyi szeletekre vágjuk, bedörzsöljük a citrom átszűrt levével, meghintjük sóval és durvára tört színes borssal. Lefedjük, 1-2 órán át a hűtőben pácoljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zöldcitromokat forró, vízzel és a maradék zöldcitromkarikákkal felforraljuk a bort, beletesszük a halszeleteket, és fedő alatt mindössze 10 percig pároljuk (félidőben óvatosan megfordítjuk). Kiemeljük a léből, melegen tartjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A forró vajban/margarinban világosra pirítjuk a lisztet, elkeverjük a curryporral, felöntjük a hal átszűrt párolólevével és a tejszínnel, majd mérsékelt tűzön összeforraljuk, utána sózzuk, borsozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A haldarabokat lapos tálra/tányérokra rendezzük, tetejüket meghintjük a finomra felaprózott snidlinggel, körbelocsoljuk a currymártással, végül a félretett zöldcitromkarikákkal (paradicsomhéjból tekert rózsákkal, bazsalikomlevelekkel, paprikacsíkokkal stb.) díszít."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "zöldségköret, főtt, petrezselymes burgonya illik hozzá."
+            }
+        ],
+        "prepTime": "PT30M",
+        "cookTime": "PT10M",
+        "recipeYield": "4 adag",
+        "image": "images/25cea093-539e-4c92-b4e3-34478f57b7b6_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "25cea093-539e-4c92-b4e3-34478f57b7b6",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Párolt hal currymártásban",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 adag",
+            "prepTime": "PT30M",
+            "cookTime": "PT10M",
+            "recipeIngredients": [
+                "800 g szálkamentes édesvízi vagy tengeri halfilé (pl. fogas, afrikai harcsa)",
+                "1 kis citrom",
+                "só",
+                "színes szemes bors",
+                "2 zöldcitrom (lime)",
+                "3 dl száraz fehérbor",
+                "50 g vaj/margarin",
+                "2 ek. liszt",
+                "currypor",
+                "1 dl tejszín",
+                "1 csokor snidling"
+            ],
+            "recipeDirections": [
+                "A halfilét leöblítjük, lecspegtetjük, két-háromujjnyi szeletekre vágjuk, bedörzsöljük a citrom átszűrt levével, meghintjük sóval és durvára tört színes borssal. Lefedjük, 1-2 órán át a hűtőben pácoljuk.",
+                "A zöldcitromokat forró, vízzel és a maradék zöldcitromkarikákkal felforraljuk a bort, beletesszük a halszeleteket, és fedő alatt mindössze 10 percig pároljuk (félidőben óvatosan megfordítjuk). Kiemeljük a léből, melegen tartjuk.",
+                "A forró vajban/margarinban világosra pirítjuk a lisztet, elkeverjük a curryporral, felöntjük a hal átszűrt párolólevével és a tejszínnel, majd mérsékelt tűzön összeforraljuk, utána sózzuk, borsozzuk.",
+                "A haldarabokat lapos tálra/tányérokra rendezzük, tetejüket meghintjük a finomra felaprózott snidlinggel, körbelocsoljuk a currymártással, végül a félretett zöldcitromkarikákkal (paradicsomhéjból tekert rózsákkal, bazsalikomlevelekkel, paprikacsíkokkal stb.) díszít.",
+                "zöldségköret, főtt, petrezselymes burgonya illik hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/25cea093-539e-4c92-b4e3-34478f57b7b6_0.jpg"
+        },
+        "x-source-file": "a732a041-ba4a-4467-98ee-e33a82efcb46.zip",
+        "x-db-id": 268,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

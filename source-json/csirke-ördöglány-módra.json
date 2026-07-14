@@ -1,0 +1,86 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Csirke ördöglány módra",
+        "recipeIngredient": [
+            "1 kisebb, kb. 1 kg-os csirke",
+            "3-4 szál friss rozmaring",
+            "1 citrom",
+            "1 fej vöröshagyma",
+            "1 ek. csípős paprikakrém",
+            "1-2 csilipaprika",
+            "só",
+            "bors",
+            "olívaolaj",
+            "A ZÖLD KRUMPLIHOZ",
+            "80 dkg krumpli",
+            "3 csokor petrezselyem",
+            "2 gerezd fokhagyma",
+            "1 fej lila hagyma",
+            "1 ek. puha vaj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A csirkét szárnyasollóval vagy erős késsel felvágjuk a gerinc egyik, majd a másik oldalán (az így kieső keskeny farhát jó lesz levesbe). Hátával lefelé erősen a deszkára nyomjuk, amíg teljesen szétnyílik, akár egy könyv. Ezt pillangó-módszernek hívják."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bedörzsöljük sóval, borssal, a csípős paprikakrémmel olívaolajjal, majd kerámiatálba helyezzük, és rászórjuk a rozmaringokat. A vöröshagymát és a csilipaprikákat vékonyan felkarikázzuk, és rászórjuk a csirkére. Végül meglocsoljuk a citrom levével, majd a kifacsart citromokat is mellédobjuk. Lefóliázzuk, és a hűtőszekrénybe tesszük pácolódni legalább 2 órára, de jobb, ha egész éjszakára."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt felmelegítjük 230 °C-ra. A csirkéről levesszük a hagymát, jól kiolajozott tepsibe tesszük, a rozmaringot és a citromhéjat mellédobjuk. Mellével lefelé sütjük 25-30 percig, aztán megfordítjuk meg, és újabb kb. 25 percig sütjük. Ha nagyon barnul, akkor letakarjuk vízbe áztatott, összegyűrt és kisimított sütőpapírral."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zöld burgonyához héjában megfőzzük a krumplit, még forrón lehéjazzuk, felkockázzuk. A petrezselymet, a fokhagymát, a lila hagymát és a szobahőmérsékletű vajat robotgépben összeaprítjuk, serpenyőbe öntjük, 1-2 percig sütjük, aztán beleforgatjuk a krumplikockákat."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT55M",
+        "image": "images/cde064d4-3a3f-4074-a687-a950b31282a6_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "cde064d4-3a3f-4074-a687-a950b31282a6",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Csirke ördöglány módra",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT55M",
+            "recipeIngredients": [
+                "1 kisebb, kb. 1 kg-os csirke",
+                "3-4 szál friss rozmaring",
+                "1 citrom",
+                "1 fej vöröshagyma",
+                "1 ek. csípős paprikakrém",
+                "1-2 csilipaprika",
+                "só",
+                "bors",
+                "olívaolaj",
+                "A ZÖLD KRUMPLIHOZ",
+                "80 dkg krumpli",
+                "3 csokor petrezselyem",
+                "2 gerezd fokhagyma",
+                "1 fej lila hagyma",
+                "1 ek. puha vaj"
+            ],
+            "recipeDirections": [
+                "A csirkét szárnyasollóval vagy erős késsel felvágjuk a gerinc egyik, majd a másik oldalán (az így kieső keskeny farhát jó lesz levesbe). Hátával lefelé erősen a deszkára nyomjuk, amíg teljesen szétnyílik, akár egy könyv. Ezt pillangó-módszernek hívják.",
+                "Bedörzsöljük sóval, borssal, a csípős paprikakrémmel olívaolajjal, majd kerámiatálba helyezzük, és rászórjuk a rozmaringokat. A vöröshagymát és a csilipaprikákat vékonyan felkarikázzuk, és rászórjuk a csirkére. Végül meglocsoljuk a citrom levével, majd a kifacsart citromokat is mellédobjuk. Lefóliázzuk, és a hűtőszekrénybe tesszük pácolódni legalább 2 órára, de jobb, ha egész éjszakára.",
+                "A sütőt felmelegítjük 230 °C-ra. A csirkéről levesszük a hagymát, jól kiolajozott tepsibe tesszük, a rozmaringot és a citromhéjat mellédobjuk. Mellével lefelé sütjük 25-30 percig, aztán megfordítjuk meg, és újabb kb. 25 percig sütjük. Ha nagyon barnul, akkor letakarjuk vízbe áztatott, összegyűrt és kisimított sütőpapírral.",
+                "A zöld burgonyához héjában megfőzzük a krumplit, még forrón lehéjazzuk, felkockázzuk. A petrezselymet, a fokhagymát, a lila hagymát és a szobahőmérsékletű vajat robotgépben összeaprítjuk, serpenyőbe öntjük, 1-2 percig sütjük, aztán beleforgatjuk a krumplikockákat."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/cde064d4-3a3f-4074-a687-a950b31282a6_0.jpg"
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 234,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

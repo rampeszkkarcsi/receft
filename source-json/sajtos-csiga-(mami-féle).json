@@ -1,0 +1,86 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sajtos csiga (mami féle)",
+        "recipeIngredient": [
+            "Tészta",
+            "25 dkg liszt",
+            "12,5 dkg margarin",
+            "1 kávéskanál só",
+            "1 kiskanál sütőpor",
+            "1 tojássárgája",
+            "kevés tejföl",
+            "Töltelék",
+            "12,5 dkg margarin",
+            "10 dkg reszelt sajt",
+            "pirospaprika",
+            "só"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát kinyújtani, rákenni a tölteléket, feltekerni. (folpakk-szaloncsukorrá\" teker (csabi))"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "3 órára hidegre tenni. (inkább kicsit dobd a fagyóba (csabi))"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kb. 3 mm-es szeletekre vágni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tepsire rakni sütőpapírra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "175 °C-on sütni."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "recipeYield": "Kb. 2 nagy tepsi",
+        "image": "images/0e048ee2-35c7-4411-8efe-dea182f3eb85_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "0e048ee2-35c7-4411-8efe-dea182f3eb85",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sajtos csiga (mami féle)",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "Kb. 2 nagy tepsi",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "Tészta",
+                "25 dkg liszt",
+                "12,5 dkg margarin",
+                "1 kávéskanál só",
+                "1 kiskanál sütőpor",
+                "1 tojássárgája",
+                "kevés tejföl",
+                "Töltelék",
+                "12,5 dkg margarin",
+                "10 dkg reszelt sajt",
+                "pirospaprika",
+                "só"
+            ],
+            "recipeDirections": [
+                "A tésztát kinyújtani, rákenni a tölteléket, feltekerni. (folpakk-szaloncsukorrá\" teker (csabi))",
+                "3 órára hidegre tenni. (inkább kicsit dobd a fagyóba (csabi))",
+                "Kb. 3 mm-es szeletekre vágni.",
+                "Tepsire rakni sütőpapírra.",
+                "175 °C-on sütni."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/0e048ee2-35c7-4411-8efe-dea182f3eb85_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 33,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:14+00:00"
+    }
+]

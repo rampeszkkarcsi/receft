@@ -1,0 +1,98 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Csokoládés sárgarépakocka",
+        "recipeIngredient": [
+            "1 csomag étcsokoládés tortadara",
+            "1 nagyobb narancs",
+            "20 dkg margarin",
+            "1 bögre cukor",
+            "2 csomag vaníliás cukor",
+            "2 tojás",
+            "1 bögre kefir",
+            "2 bögre finomliszt",
+            "fél csomag sütőpor",
+            "1 teáskanál szódabikarbóna",
+            "20 dkg sárgarépa",
+            "1 bögre kókuszreszelék",
+            "A tetejére",
+            "1 tábla csokoládé",
+            "1 evőkanál olaj",
+            "1 evőkanál reszelt narancshéj",
+            "3 evőkanál kókuszreszelék"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A sárgarépát megmossuk, meghámozzuk, majd almareszelőn lereszeljük. A narancs héját sajtreszelőn lereszeljük, a levét kifacsarjuk, a sütőt 180 °C-ra előmelegítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A margarint a cukorral, és a vaníliás cukorral simára keverjük. Hozzáadjuk a tojást, a kefirt, a narancs levét, a szódabikarbónával és sütőporral elvegyített lisztet, majd a tortadarát és a kókuszreszeléket. Legvégül belekeverjük a reszelt sárgarépát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Miután jól összedolgoztuk, sütőpapírral bélelt tepsibe egyengetjük. Előmelegített sütőbe toljuk, kb. 30 perc alatt megsütjük (tűpróbát végzünk)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A formában hagyjuk kihűlni, ezalatt a len csokoládét vízgőz fölött megolvasztjuk, az olajjal simára keverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Bevonjuk a tészta tetejét, végül megszórjuk reszelt narancshéjjal elvegyített kókuszreszelékkel."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kockákra vágva tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT30M",
+        "x-recipe-keeper": {
+            "recipeId": "1aac3289-8382-415c-a0bb-912de1d740d0",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Csokoládés sárgarépakocka",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "1 csomag étcsokoládés tortadara",
+                "1 nagyobb narancs",
+                "20 dkg margarin",
+                "1 bögre cukor",
+                "2 csomag vaníliás cukor",
+                "2 tojás",
+                "1 bögre kefir",
+                "2 bögre finomliszt",
+                "fél csomag sütőpor",
+                "1 teáskanál szódabikarbóna",
+                "20 dkg sárgarépa",
+                "1 bögre kókuszreszelék",
+                "A tetejére",
+                "1 tábla csokoládé",
+                "1 evőkanál olaj",
+                "1 evőkanál reszelt narancshéj",
+                "3 evőkanál kókuszreszelék"
+            ],
+            "recipeDirections": [
+                "A sárgarépát megmossuk, meghámozzuk, majd almareszelőn lereszeljük. A narancs héját sajtreszelőn lereszeljük, a levét kifacsarjuk, a sütőt 180 °C-ra előmelegítjük.",
+                "A margarint a cukorral, és a vaníliás cukorral simára keverjük. Hozzáadjuk a tojást, a kefirt, a narancs levét, a szódabikarbónával és sütőporral elvegyített lisztet, majd a tortadarát és a kókuszreszeléket. Legvégül belekeverjük a reszelt sárgarépát.",
+                "Miután jól összedolgoztuk, sütőpapírral bélelt tepsibe egyengetjük. Előmelegített sütőbe toljuk, kb. 30 perc alatt megsütjük (tűpróbát végzünk).",
+                "A formában hagyjuk kihűlni, ezalatt a len csokoládét vízgőz fölött megolvasztjuk, az olajjal simára keverjük.",
+                "Bevonjuk a tészta tetejét, végül megszórjuk reszelt narancshéjjal elvegyített kókuszreszelékkel.",
+                "Kockákra vágva tálaljuk."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 104,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

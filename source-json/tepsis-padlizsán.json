@@ -1,0 +1,107 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Tepsis padlizsán",
+        "recipeIngredient": [
+            "60 dkg padlizsán",
+            "60 dkg húsos zöldpaprika",
+            "35 dkg száraztészta",
+            "két fej vöröshagyma",
+            "két evőkanál olaj",
+            "egy evőkanál citromlé",
+            "örölt feketebors",
+            "só",
+            "2 dl tejfel",
+            "egy tojás",
+            "25 dkg juhtúró",
+            "15 dkg juhsajt",
+            "1 evőkanál provance-i fűszerkeverék",
+            "3 evőkanál zsemlemorzsa",
+            "margarin a tepsi kikenéséhez"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát lobogó, sós vízben majdnem készre főzzük. Ekkor szitába öntjük, hideg vízzel átöblítjük és félretesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A padlizsánt megmossuk, szárát levágjuk, és 1 cm vastag karikákra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A paprikát megmossuk, szárát levágjuk, magházát kiemeljük, majd karikákra vagy kockákra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A vöröshagymát megtisztítjuk, egészen apróra vágjuk, majd sima krémmé dolgozzuk a tejfellel, a juhtúróval, egy evőkanál citromlével, egy tojással, késhegynyi feketeborssal, egy kevés sóval (ügyeljünk rá, hogy ne sózzuk túl, mert a juhtúró is igen sós!)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy viszonylag magas falú tepsit vagy tűzálló tálat vastagon kikenünk margarinnal, majd beszórjuk zsemlemorzsával, és a padlizsánt, paprikát és a tésztát felváltva rakosgatjuk bele, minden réteg után egy kevés tejfeles, juhtúrós öntetet kanalazunk rá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tetejére is jusson belőle!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megszórjuk egy evőkanál provance-fűszerkeverékkel, meglocsoljuk kb. két evőkanál olajjal, végül meghintjük a durvára reszelt juhsajttal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "220 °C-on, előmelegített sütőben kb. 30 percig sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT30M",
+        "recipeYield": "hat személyre",
+        "image": "images/0e945d3f-a7f5-4926-9d21-fd8cc3bf9bd7_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "0e945d3f-a7f5-4926-9d21-fd8cc3bf9bd7",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Tepsis padlizsán",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "hat személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "60 dkg padlizsán",
+                "60 dkg húsos zöldpaprika",
+                "35 dkg száraztészta",
+                "két fej vöröshagyma",
+                "két evőkanál olaj",
+                "egy evőkanál citromlé",
+                "örölt feketebors",
+                "só",
+                "2 dl tejfel",
+                "egy tojás",
+                "25 dkg juhtúró",
+                "15 dkg juhsajt",
+                "1 evőkanál provance-i fűszerkeverék",
+                "3 evőkanál zsemlemorzsa",
+                "margarin a tepsi kikenéséhez"
+            ],
+            "recipeDirections": [
+                "A tésztát lobogó, sós vízben majdnem készre főzzük. Ekkor szitába öntjük, hideg vízzel átöblítjük és félretesszük.",
+                "A padlizsánt megmossuk, szárát levágjuk, és 1 cm vastag karikákra vágjuk.",
+                "A paprikát megmossuk, szárát levágjuk, magházát kiemeljük, majd karikákra vagy kockákra vágjuk.",
+                "A vöröshagymát megtisztítjuk, egészen apróra vágjuk, majd sima krémmé dolgozzuk a tejfellel, a juhtúróval, egy evőkanál citromlével, egy tojással, késhegynyi feketeborssal, egy kevés sóval (ügyeljünk rá, hogy ne sózzuk túl, mert a juhtúró is igen sós!).",
+                "Egy viszonylag magas falú tepsit vagy tűzálló tálat vastagon kikenünk margarinnal, majd beszórjuk zsemlemorzsával, és a padlizsánt, paprikát és a tésztát felváltva rakosgatjuk bele, minden réteg után egy kevés tejfeles, juhtúrós öntetet kanalazunk rá.",
+                "A tetejére is jusson belőle!",
+                "Megszórjuk egy evőkanál provance-fűszerkeverékkel, meglocsoljuk kb. két evőkanál olajjal, végül meghintjük a durvára reszelt juhsajttal.",
+                "220 °C-on, előmelegített sütőben kb. 30 percig sütjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/0e945d3f-a7f5-4926-9d21-fd8cc3bf9bd7_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 229,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

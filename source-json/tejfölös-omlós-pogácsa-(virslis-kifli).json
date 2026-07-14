@@ -1,0 +1,82 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Tejfölös omlós pogácsa (Virslis kifli)",
+        "recipeIngredient": [
+            "50-60 dkg liszt",
+            "1 evőkanál só",
+            "25 dkg margarin vagy vaj",
+            "2 db tojássárgája",
+            "5 dkg élesztő",
+            "2 dl tejföl",
+            "2 dl tej",
+            "20 dkg reszelt sajt (a tetejére)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "2 dl tejben az élesztőt felfuttatni (1-2 dkg cukor a tejbe)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A margarint elmorzsolni a liszttel, hozzáadni az élesztőt és a többi anyagot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hosszú gyenge rétestészta állagút kapjunk, amit fél óráig pihentetünk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Utána kinyújtjuk és háromszor hajtogatjuk, mint a vajas tésztát szokás, ezt még kétszer ismételjük 20 percenként."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Harmadszorra is kinyújtjuk és kiszaggatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Utána a tepsibe pihen és sül."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/df1f8abc-085e-422e-be6e-104e6ff1b8bd_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "df1f8abc-085e-422e-be6e-104e6ff1b8bd",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Tejfölös omlós pogácsa (Virslis kifli)",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "50-60 dkg liszt",
+                "1 evőkanál só",
+                "25 dkg margarin vagy vaj",
+                "2 db tojássárgája",
+                "5 dkg élesztő",
+                "2 dl tejföl",
+                "2 dl tej",
+                "20 dkg reszelt sajt (a tetejére)"
+            ],
+            "recipeDirections": [
+                "2 dl tejben az élesztőt felfuttatni (1-2 dkg cukor a tejbe).",
+                "A margarint elmorzsolni a liszttel, hozzáadni az élesztőt és a többi anyagot.",
+                "Hosszú gyenge rétestészta állagút kapjunk, amit fél óráig pihentetünk.",
+                "Utána kinyújtjuk és háromszor hajtogatjuk, mint a vajas tésztát szokás, ezt még kétszer ismételjük 20 percenként.",
+                "Harmadszorra is kinyújtjuk és kiszaggatjuk.",
+                "Utána a tepsibe pihen és sül."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/df1f8abc-085e-422e-be6e-104e6ff1b8bd_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 37,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:14+00:00"
+    }
+]

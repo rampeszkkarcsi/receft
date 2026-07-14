@@ -1,0 +1,83 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Baconos - tejszínes penne",
+        "recipeIngredient": [
+            "50 dkg penne",
+            "35 dkg bacon",
+            "1 kis fej hagyma",
+            "1 doboz bébikukorica",
+            "1 doboz gomba",
+            "4-5 gerezd fokhagyma",
+            "só",
+            "bors",
+            "bazsalikom, oregano",
+            "2,5 dl tejszín",
+            "3 e.zanal tejföl"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Pici olívaolajon megpirítani a felkockázott bacont, apróra vágott hagymát, fokhagymát, gombát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Rászórni az oregánót, bazsalikomot, sót és borsot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Összekeverni + hozzáadni a bébikukoricát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Felönteni tejszínnel + tejföllel is pár percig összeforralni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben összefőzni a tésztát, azzal összekeverni."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/b5df4974-870c-45fc-b2c5-40e7310125d2_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "b5df4974-870c-45fc-b2c5-40e7310125d2",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Baconos - tejszínes penne",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "50 dkg penne",
+                "35 dkg bacon",
+                "1 kis fej hagyma",
+                "1 doboz bébikukorica",
+                "1 doboz gomba",
+                "4-5 gerezd fokhagyma",
+                "só",
+                "bors",
+                "bazsalikom, oregano",
+                "2,5 dl tejszín",
+                "3 e.zanal tejföl"
+            ],
+            "recipeDirections": [
+                "Pici olívaolajon megpirítani a felkockázott bacont, apróra vágott hagymát, fokhagymát, gombát.",
+                "Rászórni az oregánót, bazsalikomot, sót és borsot.",
+                "Összekeverni + hozzáadni a bébikukoricát.",
+                "Felönteni tejszínnel + tejföllel is pár percig összeforralni.",
+                "Közben összefőzni a tésztát, azzal összekeverni."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/b5df4974-870c-45fc-b2c5-40e7310125d2_0.jpg"
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 21,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

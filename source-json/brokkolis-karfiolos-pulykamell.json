@@ -1,0 +1,82 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Brokkolis-karfiolos pulykamell",
+        "recipeIngredient": [
+            "1,2 kg karfiol és brokkoli vegyesen (mélyhűtött)",
+            "só, bors",
+            "2 ek. citromlé",
+            "8 kisebb szelet pulykamell (600 g)",
+            "2 ek. liszt",
+            "4 ek. olaj",
+            "8 vékony szelet nyers sonka",
+            "8 vékony szelet trappista sajt",
+            "2 ek. rizsliszt",
+            "3 tojássárgája",
+            "2 ek. dijoni magos mustár",
+            "6 dl tejföl",
+            "80 g füstölt trappista sajt",
+            "1/4 piros húsú paprika",
+            "2-3 szál petrezselyem"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A karfiolt és brokkolit megtisztítjuk, rózsáira bontjuk, és enyhén sós, citromlével ízesített vízben 10 percig főzzük. Szűrőkanállal hideg vízbe szedjük, alaposan lecsepegtetjük, majd konyharuhára terítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "200 °C-ra előmelegítjük a sütőt. A hússzeleteket leöblítjük, kissé kiverjük, meghintjük sóval, frissen őrölt borssal és fátyolnyi liszttel. A felforrósított olajban mindkét oldalukat 3-3 percig sütjük, majd egyenesen egy nem túl mély sütőtálba fektetjük őket. Minden szelet húsra 1-1 szelet sonka- és sajtszeletet nyomkodunk-terítünk, aztán egyenletesen tetejükre szórjuk a karfiolt és a brokkolit."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A takaróhoz elkeverjük a rizslisztet a tojássárgákkal, a mustárral és a tejföllel, ízlés szerint sózzuk, belereszeljük a sajtot, és bevonjuk vele a rakottast. Középső bordamagasságon enyhe pirulásig sütjük (30-35 perc), végül megszórjuk az apróra felkockázott paprikával, és petrezselyemmel díszítve azonnal tálaljuk. Párolt rizs, burgonyapüré illik hozzá."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT35M",
+        "recipeYield": "4 személyre",
+        "image": "images/cd66aaee-6bdb-4367-9659-b933a442e023_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "cd66aaee-6bdb-4367-9659-b933a442e023",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Brokkolis-karfiolos pulykamell",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H",
+            "cookTime": "PT35M",
+            "recipeIngredients": [
+                "1,2 kg karfiol és brokkoli vegyesen (mélyhűtött)",
+                "só, bors",
+                "2 ek. citromlé",
+                "8 kisebb szelet pulykamell (600 g)",
+                "2 ek. liszt",
+                "4 ek. olaj",
+                "8 vékony szelet nyers sonka",
+                "8 vékony szelet trappista sajt",
+                "2 ek. rizsliszt",
+                "3 tojássárgája",
+                "2 ek. dijoni magos mustár",
+                "6 dl tejföl",
+                "80 g füstölt trappista sajt",
+                "1/4 piros húsú paprika",
+                "2-3 szál petrezselyem"
+            ],
+            "recipeDirections": [
+                "A karfiolt és brokkolit megtisztítjuk, rózsáira bontjuk, és enyhén sós, citromlével ízesített vízben 10 percig főzzük. Szűrőkanállal hideg vízbe szedjük, alaposan lecsepegtetjük, majd konyharuhára terítjük.",
+                "200 °C-ra előmelegítjük a sütőt. A hússzeleteket leöblítjük, kissé kiverjük, meghintjük sóval, frissen őrölt borssal és fátyolnyi liszttel. A felforrósított olajban mindkét oldalukat 3-3 percig sütjük, majd egyenesen egy nem túl mély sütőtálba fektetjük őket. Minden szelet húsra 1-1 szelet sonka- és sajtszeletet nyomkodunk-terítünk, aztán egyenletesen tetejükre szórjuk a karfiolt és a brokkolit.",
+                "A takaróhoz elkeverjük a rizslisztet a tojássárgákkal, a mustárral és a tejföllel, ízlés szerint sózzuk, belereszeljük a sajtot, és bevonjuk vele a rakottast. Középső bordamagasságon enyhe pirulásig sütjük (30-35 perc), végül megszórjuk az apróra felkockázott paprikával, és petrezselyemmel díszítve azonnal tálaljuk. Párolt rizs, burgonyapüré illik hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/cd66aaee-6bdb-4367-9659-b933a442e023_0.jpg"
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 233,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Pórés-brokkolis burgonyagratin",
+        "recipeIngredient": [
+            "800 g burgonya",
+            "800 g brokkoli (mélyhűtött)",
+            "só, bors",
+            "1 karcsú póréhagyma",
+            "diónyi vaj/margarin",
+            "2 ek. olaj",
+            "2 dl tejföl",
+            "1 dl tejszín",
+            "2 ek. rizsliszt (20 g)",
+            "4 tojás",
+            "80 g parmezán/gouda sajt",
+            "szerecsendió",
+            "1/2 piros húsú paprika",
+            "2-3 szál petrezselyem/snidling"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A burgonyát meghámozzuk, 1/2 cm vékonyan felkarikázzuk, és enyhén sós vízben félpuhára főzzük (10-12 perc). A brokkolit (fagyos állapotban) forrásban lévő sós vízben 5 percig főzzük, majd hideg vízben lehűtjük, és lecsepegtetjük. A pórét megtisztítjuk, fehér és világoszöld részét nem túl vékonyan felkarikázzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kikenünk vajjal/margarinnal egy nagyobb-mélyebb, sütőedényt. A sütőt előmelegítjük 200 °C-ra. Az olajat felforrósítjuk, rádobjuk a pórét, kissé megsózzuk, 2-3 percig fonnyasztjuk. A burgonyát leszűrjük, lerázzuk róla a vizet, a póréhoz keverjük, aztán a sütőtálba terítjük, és tetejére rendezzük a brokkolirózsákat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tejfölt simára keverjük a tejszínnel, a rizsliszttel és a tojásokkal, majd belereszeljük a sajtot, ízlés szerint sóval, borssal és őrölt szerecsendióval fűszerezzük. A zöldség tetejére öntjük, és a forró sütőben aranysárgára sütjük (30-35 perc). A leöblített paprikát apró kockákra, a petrezselymet/snidlinget finomra vágjuk, megszórjuk velük a zöldség tetejét, és mihamarabb tálaljuk. Külön tálkában frissen reszelt sajtot kínálhatunk hozzá."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/3bab5cf7-aba6-4421-a03e-718c88bcd867_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "3bab5cf7-aba6-4421-a03e-718c88bcd867",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Pórés-brokkolis burgonyagratin",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "800 g burgonya",
+                "800 g brokkoli (mélyhűtött)",
+                "só, bors",
+                "1 karcsú póréhagyma",
+                "diónyi vaj/margarin",
+                "2 ek. olaj",
+                "2 dl tejföl",
+                "1 dl tejszín",
+                "2 ek. rizsliszt (20 g)",
+                "4 tojás",
+                "80 g parmezán/gouda sajt",
+                "szerecsendió",
+                "1/2 piros húsú paprika",
+                "2-3 szál petrezselyem/snidling"
+            ],
+            "recipeDirections": [
+                "A burgonyát meghámozzuk, 1/2 cm vékonyan felkarikázzuk, és enyhén sós vízben félpuhára főzzük (10-12 perc). A brokkolit (fagyos állapotban) forrásban lévő sós vízben 5 percig főzzük, majd hideg vízben lehűtjük, és lecsepegtetjük. A pórét megtisztítjuk, fehér és világoszöld részét nem túl vékonyan felkarikázzuk.",
+                "Kikenünk vajjal/margarinnal egy nagyobb-mélyebb, sütőedényt. A sütőt előmelegítjük 200 °C-ra. Az olajat felforrósítjuk, rádobjuk a pórét, kissé megsózzuk, 2-3 percig fonnyasztjuk. A burgonyát leszűrjük, lerázzuk róla a vizet, a póréhoz keverjük, aztán a sütőtálba terítjük, és tetejére rendezzük a brokkolirózsákat.",
+                "A tejfölt simára keverjük a tejszínnel, a rizsliszttel és a tojásokkal, majd belereszeljük a sajtot, ízlés szerint sóval, borssal és őrölt szerecsendióval fűszerezzük. A zöldség tetejére öntjük, és a forró sütőben aranysárgára sütjük (30-35 perc). A leöblített paprikát apró kockákra, a petrezselymet/snidlinget finomra vágjuk, megszórjuk velük a zöldség tetejét, és mihamarabb tálaljuk. Külön tálkában frissen reszelt sajtot kínálhatunk hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/3bab5cf7-aba6-4421-a03e-718c88bcd867_0.jpg"
+        },
+        "x-source-file": "a732a041-ba4a-4467-98ee-e33a82efcb46.zip",
+        "x-db-id": 269,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

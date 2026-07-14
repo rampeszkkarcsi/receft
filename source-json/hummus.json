@@ -1,0 +1,71 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Hummus",
+        "recipeIngredient": [
+            "45 dkg csicseriborsó",
+            "2-3 teáskanál tahini (szezámpaszta)",
+            "2 gerezd fokhagyma",
+            "1 teáskanál Himalája só",
+            "3 evőkanál extraszűz olívaolaj",
+            "2 evőkanál frissen facsart citromlé",
+            "2-3 levél friss bazsalikomlevél",
+            "1/2 csokor friss petrezselyemzöld",
+            "A tálaláshoz",
+            "3 evőkanál extraszűz olívaolaj",
+            "Bazsalikomlevél vagy petrezselyemzöld"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A csicseriborsót megfőzzük majd hideg vízzel leöblítjük, leszűrjük, aprítógépbe öntjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a tahinit, a zúzott fokhagymát, a sót, a citromlevet és az olívaolajat, és pulzálva mixelni kezdjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Amikor már krémes, lágy állagú, hozzáadjuk a bazsalikomot és a petrezselymet, majd homogén állagúra mixeljük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "9c42b2a6-a4a5-47be-8a0c-79fd76fc9171",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Hummus",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "45 dkg csicseriborsó",
+                "2-3 teáskanál tahini (szezámpaszta)",
+                "2 gerezd fokhagyma",
+                "1 teáskanál Himalája só",
+                "3 evőkanál extraszűz olívaolaj",
+                "2 evőkanál frissen facsart citromlé",
+                "2-3 levél friss bazsalikomlevél",
+                "1/2 csokor friss petrezselyemzöld",
+                "A tálaláshoz",
+                "3 evőkanál extraszűz olívaolaj",
+                "Bazsalikomlevél vagy petrezselyemzöld"
+            ],
+            "recipeDirections": [
+                "A csicseriborsót megfőzzük majd hideg vízzel leöblítjük, leszűrjük, aprítógépbe öntjük.",
+                "Hozzáadjuk a tahinit, a zúzott fokhagymát, a sót, a citromlevet és az olívaolajat, és pulzálva mixelni kezdjük.",
+                "Amikor már krémes, lágy állagú, hozzáadjuk a bazsalikomot és a petrezselymet, majd homogén állagúra mixeljük."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 7,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

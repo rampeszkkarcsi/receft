@@ -1,0 +1,99 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Ropogós halrudacska fokhagymás-petrezselymes majonézzel",
+        "recipeIngredient": [
+            "60 dkg tengeri halfilé (fagyasztott)",
+            "só",
+            "bors",
+            "5 dkg liszt",
+            "2 tojás",
+            "4 ek. zsemlemorzsa",
+            "4 ek. kukoricapehely",
+            "olaj a sütéshez",
+            "A majonézhez:",
+            "1 dl napraforgóolaj",
+            "1 dl extra szűz olívaolaj",
+            "1 friss, szoba-hőmérsékletű tojássárgája",
+            "1 tk. 6%-os fehérborecet",
+            "kis csokor petrezselyem",
+            "1 nagy gerezd fokhagyma",
+            "pár csepp citromlé"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A majonézhez keverjük össze a kétféle olajat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojássárgát keverjük el az ecettel, majd kezdjük el hozzá adagolni először szinte cseppenként az olajat, majd vékony csíkban folyatva, miközben elektromos habverővel folyamatosan keverjük, míg a tojás kivilágosodik, és besűrűsödik a krém."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mikor a tojás felvette az olajat, sózzuk a majonézt, adjunk hozzá egy-két csepp citromlevet, az aprított petrezselymet és fokhagymát. (A megadott mennyiségből kb. 20 dkg majonéz lesz.)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A halat olvasszuk ki, csíkozzuk fel azonos méretűre."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sózzuk, borsozzuk, forgassuk meg a lisztben, majd az enyhén felvert tojásban, végül a zsemlemorzsa és a kukoricapehely keverékében."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Forró olajban hirtelen süssük ki, papírtörlőn csepegtessük le, és kínáljuk a majonézzel."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 PERSON",
+        "image": "images/a2254a0b-68d7-477a-b10a-c5f89504245c_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "a2254a0b-68d7-477a-b10a-c5f89504245c",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Ropogós halrudacska fokhagymás-petrezselymes majonézzel",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "60 dkg tengeri halfilé (fagyasztott)",
+                "só",
+                "bors",
+                "5 dkg liszt",
+                "2 tojás",
+                "4 ek. zsemlemorzsa",
+                "4 ek. kukoricapehely",
+                "olaj a sütéshez",
+                "A majonézhez:",
+                "1 dl napraforgóolaj",
+                "1 dl extra szűz olívaolaj",
+                "1 friss, szoba-hőmérsékletű tojássárgája",
+                "1 tk. 6%-os fehérborecet",
+                "kis csokor petrezselyem",
+                "1 nagy gerezd fokhagyma",
+                "pár csepp citromlé"
+            ],
+            "recipeDirections": [
+                "A majonézhez keverjük össze a kétféle olajat.",
+                "A tojássárgát keverjük el az ecettel, majd kezdjük el hozzá adagolni először szinte cseppenként az olajat, majd vékony csíkban folyatva, miközben elektromos habverővel folyamatosan keverjük, míg a tojás kivilágosodik, és besűrűsödik a krém.",
+                "Mikor a tojás felvette az olajat, sózzuk a majonézt, adjunk hozzá egy-két csepp citromlevet, az aprított petrezselymet és fokhagymát. (A megadott mennyiségből kb. 20 dkg majonéz lesz.)",
+                "A halat olvasszuk ki, csíkozzuk fel azonos méretűre.",
+                "Sózzuk, borsozzuk, forgassuk meg a lisztben, majd az enyhén felvert tojásban, végül a zsemlemorzsa és a kukoricapehely keverékében.",
+                "Forró olajban hirtelen süssük ki, papírtörlőn csepegtessük le, és kínáljuk a majonézzel."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/a2254a0b-68d7-477a-b10a-c5f89504245c_0.jpg"
+        },
+        "x-source-file": "78c7b1d4-56f5-40ee-9e76-a7d93ffbed93.zip",
+        "x-db-id": 156,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

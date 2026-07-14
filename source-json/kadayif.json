@@ -1,0 +1,94 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "KADAYIF",
+        "recipeIngredient": [
+            "Az alaphoz",
+            "200 g vaj",
+            "200 g kristálycukor",
+            "400 g boglyas cérnametélt",
+            "2 evőkanál konyak",
+            "A töltelékhez",
+            "350 ml tej",
+            "2 × 200 ml 30%-os habtejszín",
+            "2 csomag (2 × 65 g) főzés nélküli vaníliás pudingpor",
+            "A díszítéshez",
+            "hántolt, natúr pisztácia apróra vágva"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A vajat egy akkora serpenyőben, amibe majd a tészta is belefér, megolvasztjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A cukrot beleszórjuk, és kevergetve szép barnára karamellizáljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát beletesszük, és addig keverjük, amíg barnás-vöröses színt kap."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezután lehúzzuk a tűzről, és a konyakot beleöntjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A töltelékhez a tejet, a tejszínt és a pudingport habverővel krémes-habosra keverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tészta felét egy sütőtál aljába kanalazzuk, erre kerül a töltelék, amit a másik réteg tésztával befedünk, és legalább 6 órára a hűtőbe tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tenyérnyi kockákra szeletelve, pisztáciával díszítve kínáljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "6 személyre",
+        "image": "images/7f48b98a-c0e7-46f8-813e-fbb894e55607_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "7f48b98a-c0e7-46f8-813e-fbb894e55607",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "KADAYIF",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "6 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "Az alaphoz",
+                "200 g vaj",
+                "200 g kristálycukor",
+                "400 g boglyas cérnametélt",
+                "2 evőkanál konyak",
+                "A töltelékhez",
+                "350 ml tej",
+                "2 × 200 ml 30%-os habtejszín",
+                "2 csomag (2 × 65 g) főzés nélküli vaníliás pudingpor",
+                "A díszítéshez",
+                "hántolt, natúr pisztácia apróra vágva"
+            ],
+            "recipeDirections": [
+                "A vajat egy akkora serpenyőben, amibe majd a tészta is belefér, megolvasztjuk.",
+                "A cukrot beleszórjuk, és kevergetve szép barnára karamellizáljuk.",
+                "A tésztát beletesszük, és addig keverjük, amíg barnás-vöröses színt kap.",
+                "Ezután lehúzzuk a tűzről, és a konyakot beleöntjük.",
+                "A töltelékhez a tejet, a tejszínt és a pudingport habverővel krémes-habosra keverjük.",
+                "A tészta felét egy sütőtál aljába kanalazzuk, erre kerül a töltelék, amit a másik réteg tésztával befedünk, és legalább 6 órára a hűtőbe tesszük.",
+                "Tenyérnyi kockákra szeletelve, pisztáciával díszítve kínáljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/7f48b98a-c0e7-46f8-813e-fbb894e55607_0.jpg"
+        },
+        "x-source-file": "6e03e7be-5be6-419b-9334-749488909078.zip",
+        "x-db-id": 128,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

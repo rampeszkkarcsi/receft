@@ -1,0 +1,81 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sonkás csiga",
+        "recipeIngredient": [
+            "Mirelit hájas tésztát",
+            "Töltelék",
+            "15 dkg füstölt sonka",
+            "15 dkg sajt (főtt?)",
+            "2 ek tejföl",
+            "1 tojás fehérje",
+            "só",
+            "bors",
+            "petrezselyem",
+            "oregánó"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "hagyni olvadni óráig"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Háromfelé vágni és téglalap alakúra nyújtani"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megkenni a töltelékkel, feltekerni mint a bejglit, elvagdosni és talpra állítva tepsibe rakni"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tojássárgával megkenni"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Forró sütőben sütni"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/76ed35b1-c08f-46a2-94a8-dd5e810f447c_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "76ed35b1-c08f-46a2-94a8-dd5e810f447c",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sonkás csiga",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "Mirelit hájas tésztát",
+                "Töltelék",
+                "15 dkg füstölt sonka",
+                "15 dkg sajt (főtt?)",
+                "2 ek tejföl",
+                "1 tojás fehérje",
+                "só",
+                "bors",
+                "petrezselyem",
+                "oregánó"
+            ],
+            "recipeDirections": [
+                "hagyni olvadni óráig",
+                "Háromfelé vágni és téglalap alakúra nyújtani",
+                "Megkenni a töltelékkel, feltekerni mint a bejglit, elvagdosni és talpra állítva tepsibe rakni",
+                "Tojássárgával megkenni",
+                "Forró sütőben sütni"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/76ed35b1-c08f-46a2-94a8-dd5e810f447c_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 34,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:14+00:00"
+    }
+]

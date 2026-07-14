@@ -1,0 +1,97 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Paradicsomos darált hússal töltött padlizsán",
+        "recipeIngredient": [
+            "15 dkg vöröshagyma",
+            "5 gerezd fokhagyma",
+            "olaj",
+            "60 dkg darált marhahús",
+            "40 dkg hámozott, kockázott paradicsom (konzerv)",
+            "só, bors",
+            "1 teáskanál őrölt római kömény",
+            "4 közepes padlizsán",
+            "10 dkg olívabogyó",
+            "1 csokor újhagyma"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A finomra vágott vöröshagymát és fokhagymát kevés olajon megpirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a darált marhahúst, tovább pirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A paradicsomot is a húshoz keverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megsózzuk, római köménnyel és borssal ízesítjük, majd kis lángon kb. 60 percig főzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha kell, kevés vizet öntünk hozzá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zöld végüktől megfosztott padlizsánokat hosszában három helyen bevágjuk, sütőpapírral bélelt tepsire tesszük, és 200 °C-ra előmelegített sütőben megsütjük (kb. 35 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kivesszük, mélyedést alakítunk ki bennük, és beletöltjük a marharagut."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Rátesszük a felkarikázott olajbogyót és újhagymát, majd tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT1H",
+        "recipeYield": "4 személyre",
+        "image": "images/d264db3f-bd15-4dbf-94f5-9b0cbc073eee_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "d264db3f-bd15-4dbf-94f5-9b0cbc073eee",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Paradicsomos darált hússal töltött padlizsán",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT1H",
+            "recipeIngredients": [
+                "15 dkg vöröshagyma",
+                "5 gerezd fokhagyma",
+                "olaj",
+                "60 dkg darált marhahús",
+                "40 dkg hámozott, kockázott paradicsom (konzerv)",
+                "só, bors",
+                "1 teáskanál őrölt római kömény",
+                "4 közepes padlizsán",
+                "10 dkg olívabogyó",
+                "1 csokor újhagyma"
+            ],
+            "recipeDirections": [
+                "A finomra vágott vöröshagymát és fokhagymát kevés olajon megpirítjuk.",
+                "Hozzáadjuk a darált marhahúst, tovább pirítjuk.",
+                "A paradicsomot is a húshoz keverjük.",
+                "Megsózzuk, római köménnyel és borssal ízesítjük, majd kis lángon kb. 60 percig főzzük.",
+                "Ha kell, kevés vizet öntünk hozzá.",
+                "A zöld végüktől megfosztott padlizsánokat hosszában három helyen bevágjuk, sütőpapírral bélelt tepsire tesszük, és 200 °C-ra előmelegített sütőben megsütjük (kb. 35 perc).",
+                "Kivesszük, mélyedést alakítunk ki bennük, és beletöltjük a marharagut.",
+                "Rátesszük a felkarikázott olajbogyót és újhagymát, majd tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/d264db3f-bd15-4dbf-94f5-9b0cbc073eee_0.jpg"
+        },
+        "x-source-file": "6e03e7be-5be6-419b-9334-749488909078.zip",
+        "x-db-id": 130,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Mediterrán zöldségtál",
+        "recipeIngredient": [
+            "400 g padlizsán",
+            "só, bors",
+            "1-1 sárga, piros és zöld húsú paprika",
+            "1 csipős-hegyes paprika/csilipaprika",
+            "400 g cukkini",
+            "500 g burgonya",
+            "400 g paradicsom",
+            "2 nagy fej főzőhagyma",
+            "6-8 gerezd fokhagyma",
+            "1 ek. kapribogyó (sós lében)",
+            "1 ek. provence-i vagy görög fűszerkeverék",
+            "3 ek. olívaolaj",
+            "1 szál bazsalikom/4-5 szál petrezselyem"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A padlizsánokat megmossuk, szárukat leválasztjuk, vékonyan meg- hámozzuk, (ha nem túl vastag a héjuk, hámozatlanul) nagyobb kockákra vágjuk, 30 percre erősen besózzuk, szűrőtálba szórjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A paprikákat és cukkinikat leöblítjük. A színes paprikák magjait-ereit eltávolítjuk, a hegyes paprikáét a kívánt csípősség mértékében megtartjuk. A hámozatlan cukkinik szárvégét levágjuk, a burgonyát meghámozzuk, majd mindhármat nagy kockákra aprítjuk, és jókora tepsibe terítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A paradicsomokat leöblítjük, szárcsonkjukat kiemeljük, nagyságuktól függően félbe-negyedbe vágjuk. A hagymát és a fokhagymát megtisztítjuk, a hagymát karcsú gerezdekre/vastag karikákra szeljük. A padlizsánt leöblítjük, kinyomkodjuk belőle a vizet, majd a hagymával, fokhagymával, paradicsommal és a lecsepegtetett kapribogyóval együtt a zöldségekhez adjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Meghintjük a fűszerkeverékkel és az olívaolajjal, ízlés szerint sózzuk, borsozzuk, összekeverjük, majd 200 °C-os sütőben 50-60 percig sütjük. Csinos tálba szedjük, tetejét bazsalikombóbitával/finomra vágott petrezselyemmel díszítjük. Pompás hústalan egytálétel, de grillezett/hirtelen sült húsok, halak körete is lehet."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT50M",
+        "recipeYield": "4 személyre",
+        "image": "images/82d34851-09e4-4b35-aaa1-7294313e725d_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "82d34851-09e4-4b35-aaa1-7294313e725d",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Mediterrán zöldségtál",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H",
+            "cookTime": "PT50M",
+            "recipeIngredients": [
+                "400 g padlizsán",
+                "só, bors",
+                "1-1 sárga, piros és zöld húsú paprika",
+                "1 csipős-hegyes paprika/csilipaprika",
+                "400 g cukkini",
+                "500 g burgonya",
+                "400 g paradicsom",
+                "2 nagy fej főzőhagyma",
+                "6-8 gerezd fokhagyma",
+                "1 ek. kapribogyó (sós lében)",
+                "1 ek. provence-i vagy görög fűszerkeverék",
+                "3 ek. olívaolaj",
+                "1 szál bazsalikom/4-5 szál petrezselyem"
+            ],
+            "recipeDirections": [
+                "A padlizsánokat megmossuk, szárukat leválasztjuk, vékonyan meg- hámozzuk, (ha nem túl vastag a héjuk, hámozatlanul) nagyobb kockákra vágjuk, 30 percre erősen besózzuk, szűrőtálba szórjuk.",
+                "A paprikákat és cukkinikat leöblítjük. A színes paprikák magjait-ereit eltávolítjuk, a hegyes paprikáét a kívánt csípősség mértékében megtartjuk. A hámozatlan cukkinik szárvégét levágjuk, a burgonyát meghámozzuk, majd mindhármat nagy kockákra aprítjuk, és jókora tepsibe terítjük.",
+                "A paradicsomokat leöblítjük, szárcsonkjukat kiemeljük, nagyságuktól függően félbe-negyedbe vágjuk. A hagymát és a fokhagymát megtisztítjuk, a hagymát karcsú gerezdekre/vastag karikákra szeljük. A padlizsánt leöblítjük, kinyomkodjuk belőle a vizet, majd a hagymával, fokhagymával, paradicsommal és a lecsepegtetett kapribogyóval együtt a zöldségekhez adjuk.",
+                "Meghintjük a fűszerkeverékkel és az olívaolajjal, ízlés szerint sózzuk, borsozzuk, összekeverjük, majd 200 °C-os sütőben 50-60 percig sütjük. Csinos tálba szedjük, tetejét bazsalikombóbitával/finomra vágott petrezselyemmel díszítjük. Pompás hústalan egytálétel, de grillezett/hirtelen sült húsok, halak körete is lehet."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/82d34851-09e4-4b35-aaa1-7294313e725d_0.jpg"
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 245,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

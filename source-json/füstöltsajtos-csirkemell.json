@@ -1,0 +1,67 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Füstöltsajtos csirkemell",
+        "recipeIngredient": [
+            "1 kg csirkemell",
+            "20 dkg bacon",
+            "15 dkg karaván füstölt sajt",
+            "3.5 - 4 dl főzőtejszín"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A csirkemellfilét felcsíkoztam, fehérborssal fűszereztem és készre sütöttem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a tejszínt összekevertem a reszelt füstöltsajttal és az apróra vágott pirított szalonnával."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezt ráöntöttem a csirkemellcsíkokra és összeforraltam addig míg a sajt nem olvadt fel a tejszínben."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A füstöltsajt és a szalonna miatt nem kell sózni a húst!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Köretként tarhonya és párolt rizs ajánlott hozzá."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "7fea64a2-ca22-4f10-a18c-3c292b5b1aa4",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Füstöltsajtos csirkemell",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1 kg csirkemell",
+                "20 dkg bacon",
+                "15 dkg karaván füstölt sajt",
+                "3.5 - 4 dl főzőtejszín"
+            ],
+            "recipeDirections": [
+                "A csirkemellfilét felcsíkoztam, fehérborssal fűszereztem és készre sütöttem.",
+                "Közben a tejszínt összekevertem a reszelt füstöltsajttal és az apróra vágott pirított szalonnával.",
+                "Ezt ráöntöttem a csirkemellcsíkokra és összeforraltam addig míg a sajt nem olvadt fel a tejszínben.",
+                "A füstöltsajt és a szalonna miatt nem kell sózni a húst!",
+                "Köretként tarhonya és párolt rizs ajánlott hozzá."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 65,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

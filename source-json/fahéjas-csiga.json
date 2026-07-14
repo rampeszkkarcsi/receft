@@ -1,0 +1,147 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Fahéjas csiga",
+        "recipeIngredient": [
+            "500 g liszt",
+            "1 csomag élesztő",
+            "50 g porcukor",
+            "1 csipet só",
+            "3 dl tej",
+            "2 tojás",
+            "1 dl olaj",
+            "80 g porcukor",
+            "1 ek. fahéj",
+            "100 g vaj/margarin"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet (dagasztó-)tálba szitáljuk, beleszórjuk az élesztőt, 50 g porcukrot és 1 csipet sót, alaposan összekeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "3 dl tejet meglangyosítunk, hozzáadjuk a tojásokat és az olajat, apránként a liszthez öntjük, majd a robotgép dagasztóspiráljával sima, fényes tésztává dolgozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Folpackkal/a tál tetejével betakarjuk-lefedjük, és meleg, huzatmentes helyen a kétszeresére kelesztjük (30-40 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kibélelünk sütőpapírral 2 nagyobb (kb. 30x40 cm-es) tepsit/sütőlapot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A maradék 80 g porcukrot összekeverjük a fahéjjal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát lisztezett munkalapon átgyúrjuk, 2 cipóra osztjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az egyiket kb. 35x35 cm-es lapra nyújtjuk, arányosan elosztva megpöttyözzük a vaj/margarin felével (A), egyenletesen elkenjük rajta, megszórjuk a fahéjas porcukor felével (B), és szorosan feltekerjük úgy, hogy hajtogatott segélye kerüljön alulra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Cikcakkvonalban haladva a tésztatekercset mintegy 10 darab, rövidebb oldalukon kb. 1,5 cm-es, hosszabbik oldalukon kb. 4 cm-es trapézformára vágjuk (C), tetejüket fakanálnyéllel erősen lenyomjuk (D)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tisztes távolságot tartva az egyik tepsire sorakoztatjuk őket, tetejüket meghintjük fátyolnyi liszttel, patyolattiszta konyharuhával lazán letakarjuk, meleg helyen 15 percig kelesztjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt előmelegítjük 180 °C-ra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütő aljába beteszünk egy forró vízzel félig felöntött fém konzervdobozt vagy edénykét (a jó kelt tészta süléséhez gőz szükséges!)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Miközben a tészta kel, a maradék tésztát, azaz cipót a fentivel azonos módon kinyújtjuk, megtöltjük a maradék vajjal/margarinnal és fahéjas cukorral, feltekerjük, formázzuk, letakarjuk, és kelni hagyjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojássárgáját elkeverjük 1 ek. tejjel, megkenjük vele az első tepsin sorakozó csigák tetejét, és középső bordamagasságon aranybarnára sütjük (25 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A maradék tojássárgájával megkenjük a második csigaadagot is, és megsütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hagyjuk teljesen kihűlni, végül meghintjük porcukorral, és tálra tornyozva kínáljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kényeztetésképpen bor-/rumsodót, felforrósított sárgabarack-/szilvalekvárt, esetleg mézes almapürét is kínálhatunk hozzá, de egy csésze forró kakaóval vagy csokoládéitallal a legfinomabb."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "TIPP: Készíthetjük friss (30 g) élesztővel is: az élesztőt sűrűre keverjük 1 dl langyos, 1 kk. cukorral édesített tejben, a liszt közepébe készített mélyedésbe öntjük, felfuttatjuk, aztán hozzáadjuk a fent megjelölt hozzávalókat, a többi ugyanaz."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Elkészítési idő: 3 óra"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT25M",
+        "recipeYield": "1 darab: 189 kcal",
+        "image": "images/ab030c1c-f101-4215-987d-de5a2f8912dc_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "ab030c1c-f101-4215-987d-de5a2f8912dc",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Fahéjas csiga",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "1 darab: 189 kcal",
+            "prepTime": "PT0S",
+            "cookTime": "PT25M",
+            "recipeIngredients": [
+                "500 g liszt",
+                "1 csomag élesztő",
+                "50 g porcukor",
+                "1 csipet só",
+                "3 dl tej",
+                "2 tojás",
+                "1 dl olaj",
+                "80 g porcukor",
+                "1 ek. fahéj",
+                "100 g vaj/margarin"
+            ],
+            "recipeDirections": [
+                "A lisztet (dagasztó-)tálba szitáljuk, beleszórjuk az élesztőt, 50 g porcukrot és 1 csipet sót, alaposan összekeverjük.",
+                "3 dl tejet meglangyosítunk, hozzáadjuk a tojásokat és az olajat, apránként a liszthez öntjük, majd a robotgép dagasztóspiráljával sima, fényes tésztává dolgozzuk.",
+                "Folpackkal/a tál tetejével betakarjuk-lefedjük, és meleg, huzatmentes helyen a kétszeresére kelesztjük (30-40 perc).",
+                "Kibélelünk sütőpapírral 2 nagyobb (kb. 30x40 cm-es) tepsit/sütőlapot.",
+                "A maradék 80 g porcukrot összekeverjük a fahéjjal.",
+                "A tésztát lisztezett munkalapon átgyúrjuk, 2 cipóra osztjuk.",
+                "Az egyiket kb. 35x35 cm-es lapra nyújtjuk, arányosan elosztva megpöttyözzük a vaj/margarin felével (A), egyenletesen elkenjük rajta, megszórjuk a fahéjas porcukor felével (B), és szorosan feltekerjük úgy, hogy hajtogatott segélye kerüljön alulra.",
+                "Cikcakkvonalban haladva a tésztatekercset mintegy 10 darab, rövidebb oldalukon kb. 1,5 cm-es, hosszabbik oldalukon kb. 4 cm-es trapézformára vágjuk (C), tetejüket fakanálnyéllel erősen lenyomjuk (D).",
+                "Tisztes távolságot tartva az egyik tepsire sorakoztatjuk őket, tetejüket meghintjük fátyolnyi liszttel, patyolattiszta konyharuhával lazán letakarjuk, meleg helyen 15 percig kelesztjük.",
+                "A sütőt előmelegítjük 180 °C-ra.",
+                "A sütő aljába beteszünk egy forró vízzel félig felöntött fém konzervdobozt vagy edénykét (a jó kelt tészta süléséhez gőz szükséges!).",
+                "Miközben a tészta kel, a maradék tésztát, azaz cipót a fentivel azonos módon kinyújtjuk, megtöltjük a maradék vajjal/margarinnal és fahéjas cukorral, feltekerjük, formázzuk, letakarjuk, és kelni hagyjuk.",
+                "A tojássárgáját elkeverjük 1 ek. tejjel, megkenjük vele az első tepsin sorakozó csigák tetejét, és középső bordamagasságon aranybarnára sütjük (25 perc).",
+                "A maradék tojássárgájával megkenjük a második csigaadagot is, és megsütjük.",
+                "Hagyjuk teljesen kihűlni, végül meghintjük porcukorral, és tálra tornyozva kínáljuk.",
+                "Kényeztetésképpen bor-/rumsodót, felforrósított sárgabarack-/szilvalekvárt, esetleg mézes almapürét is kínálhatunk hozzá, de egy csésze forró kakaóval vagy csokoládéitallal a legfinomabb.",
+                "TIPP: Készíthetjük friss (30 g) élesztővel is: az élesztőt sűrűre keverjük 1 dl langyos, 1 kk. cukorral édesített tejben, a liszt közepébe készített mélyedésbe öntjük, felfuttatjuk, aztán hozzáadjuk a fent megjelölt hozzávalókat, a többi ugyanaz.",
+                "Elkészítési idő: 3 óra"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/ab030c1c-f101-4215-987d-de5a2f8912dc_0.jpg"
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 5,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

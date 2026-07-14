@@ -1,0 +1,90 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Bodzafánk",
+        "recipeIngredient": [
+            "1/2 liter tej",
+            "5 dkg porcukor",
+            "1,5 dkg élesztő",
+            "2 tojás",
+            "1 csipet só",
+            "40 dkg sima liszt",
+            "12-15 bodzavirágzat"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Egy kevés tejben elkeverem az élesztőt és a porcukrot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáöntöm a többi tejhez, elhabarom benne a két tojást."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kevergetés közben, apránként öntöm hozzá a sóval elkevert liszthez."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ebbe morzsolom bele a bodzavirágot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát másfél óráig kelesztem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tükörtojássütőben olajat melegítek, ebbe szaggatom bele a tésztát evőkanállal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lassú tűzön süssük, hogy a belseje ne maradjon nyers."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Miután mindkét oldala pirosra sült, lecsepegtetem, és még melegen megszórom fahéjas porcukorral."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/c25450d3-b139-446a-981b-9c514135abff_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "c25450d3-b139-446a-981b-9c514135abff",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Bodzafánk",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1/2 liter tej",
+                "5 dkg porcukor",
+                "1,5 dkg élesztő",
+                "2 tojás",
+                "1 csipet só",
+                "40 dkg sima liszt",
+                "12-15 bodzavirágzat"
+            ],
+            "recipeDirections": [
+                "Egy kevés tejben elkeverem az élesztőt és a porcukrot.",
+                "Hozzáöntöm a többi tejhez, elhabarom benne a két tojást.",
+                "Kevergetés közben, apránként öntöm hozzá a sóval elkevert liszthez.",
+                "Ebbe morzsolom bele a bodzavirágot.",
+                "A tésztát másfél óráig kelesztem.",
+                "Tükörtojássütőben olajat melegítek, ebbe szaggatom bele a tésztát evőkanállal.",
+                "Lassú tűzön süssük, hogy a belseje ne maradjon nyers.",
+                "Miután mindkét oldala pirosra sült, lecsepegtetem, és még melegen megszórom fahéjas porcukorral."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/c25450d3-b139-446a-981b-9c514135abff_0.jpg"
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 22,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

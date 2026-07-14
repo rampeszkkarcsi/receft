@@ -1,0 +1,53 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Meggyes pite",
+        "recipeIngredient": [
+            "20 dkg cukor",
+            "2 tojás",
+            "25 dkg liszt",
+            "1 csomag sütőpor",
+            "1 csomag vaníliás cukor",
+            "1 doboz tejföl"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Zsírozott, lisztezett tepsibe, tetejére meggy."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/b56b4ba9-18d0-4b17-bbdd-81fa50084d75_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "b56b4ba9-18d0-4b17-bbdd-81fa50084d75",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Meggyes pite",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "20 dkg cukor",
+                "2 tojás",
+                "25 dkg liszt",
+                "1 csomag sütőpor",
+                "1 csomag vaníliás cukor",
+                "1 doboz tejföl"
+            ],
+            "recipeDirections": [
+                "Zsírozott, lisztezett tepsibe, tetejére meggy."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/b56b4ba9-18d0-4b17-bbdd-81fa50084d75_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 25,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:14+00:00"
+    }
+]

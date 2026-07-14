@@ -1,0 +1,87 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Zsályás-tarjás csirkemellszelet",
+        "recipeIngredient": [
+            "Hozzávalók 4 személyre:",
+            "A körethez:",
+            "• 800 g burgonya • 200 g sárgarépa só, bors 1 ek. olaj ⚫1 dl tejszín",
+            ".",
+            "1 ek. vaj/margarin ⚫ szerecsendió ⚫ 1-2 szál petrezselyem",
+            "Továbbá:",
+            "• 4 fél csirkemellfilé (150 g/db) . 1 ek. sült csirke fűszerkeverék",
+            "⚫8 vékony szelet nyers, füstölt tarja ⚫8 zsályalevél",
+            "1 ek. vaj/margarin 2 ek. olaj ⚫ só, bors . 1 dl száraz fehérbor",
+            "1 kk. paradicsompüré ⚫ 1/2 kk. csípős paprikakrém"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A körethez a burgonyát és a sárgarépát meghámozzuk, A megmossuk. A burgonyát nagyobb kockákra vágjuk, enyhén sós vízben puhára főzzük. A sárgarépát kisebb kockákra vagy karikákra aprózzuk, a felforrósított olajban 1 percig pirítjuk, aztán megsózzuk, aláöntünk fél dl vizet, és fedő alatt puhára pároljuk. Levét elfőzzük, melegen tartjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A csirkemelleket leöblítjük, szárazra törölgetjük, széltében 2 vékonyabb lapra-szeletre vágjuk, majd folpackkal letakarva kissé kiverjük-elvékonyítjuk. Mindkét oldalukat meghintjük a fűszerkeverékkel, majd 1-1 szelet tarját és megmosott zsályalevelet fektetünk a tetejükre, fogvájóval megtűzzük (A)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Nagyobb serpenyőben felforrósítjuk a vajat/margarint és az olajat, beletesszük a hússzeleteket, meghintjük sóval és frissen őrölt borssal, mérsékelt tűzön 5-6 percig sütjük. Megfordítjuk őket (B), a másik oldalukat is meghintjük sóval és borssal, további 5 percig sütjük. A serpenyőben vagy előmelegített tálra rendezve, fedő/alufólia alatt melegen tartjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A pecsenyeléhez öntjük a bort, élénk tűzön összeforraljuk, aztán elkeverjük benne a paradicsompürét és a csípős paprikakrémet, ízlés szerint sózzuk, 1-2 tekerésnyi frissen őrölt borssal illatosítjuk, a felére beforraljuk, csészébe/tálkába szűrjük, melegen tartjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A főtt burgonyát leszűrjük, hozzáadjuk a vajjal/margarinnal összeforrósított tejszínt (C), 1-2 csipetnyi frissen reszelt szerecsendiót, ízlés szerint sót, és elektromos habverővel, néhány pörgetéssel habos pürévé törjük-keverjük (nem szabad hosszasan keverni, mert elnyúlósodik!). Nem túl mély tálba szedjük, tetejére simítjuk a sárgarépát, petrezselyemmel díszítjük, és a mártás kíséretében a hús köreteként kínáljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "VÁLTOZATOK: - Burgonyapüré helyett készíthetjük úgy is, hogy a megtisztított burgonyát felkarikázzuk, enyhén sós vízben puhára főzzük, leszűrjük, majd a borral összeforralt-fel lazított pecsenylébe forgatjuk, és élénk tűzön, néhány perc alatt aranybarnára-szaftosra pirítjuk. - Készíthetjük borjú- vagy sertéscombból, kicsontozott rövidkarajból, pulykamellfiléből is, a sonka/tarja és a zsalya azonban ne maradjon el, mert ez adja meg az étel karakterét!"
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT0S",
+        "recipeYield": "1 adag",
+        "image": "images/5e28901b-ccda-49ef-ac4b-32fe297178d4_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "5e28901b-ccda-49ef-ac4b-32fe297178d4",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Zsályás-tarjás csirkemellszelet",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "1 adag",
+            "prepTime": "PT1H",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "Hozzávalók 4 személyre:",
+                "A körethez:",
+                "• 800 g burgonya • 200 g sárgarépa só, bors 1 ek. olaj ⚫1 dl tejszín",
+                ".",
+                "1 ek. vaj/margarin ⚫ szerecsendió ⚫ 1-2 szál petrezselyem",
+                "Továbbá:",
+                "• 4 fél csirkemellfilé (150 g/db) . 1 ek. sült csirke fűszerkeverék",
+                "⚫8 vékony szelet nyers, füstölt tarja ⚫8 zsályalevél",
+                "1 ek. vaj/margarin 2 ek. olaj ⚫ só, bors . 1 dl száraz fehérbor",
+                "1 kk. paradicsompüré ⚫ 1/2 kk. csípős paprikakrém"
+            ],
+            "recipeDirections": [
+                "A körethez a burgonyát és a sárgarépát meghámozzuk, A megmossuk. A burgonyát nagyobb kockákra vágjuk, enyhén sós vízben puhára főzzük. A sárgarépát kisebb kockákra vagy karikákra aprózzuk, a felforrósított olajban 1 percig pirítjuk, aztán megsózzuk, aláöntünk fél dl vizet, és fedő alatt puhára pároljuk. Levét elfőzzük, melegen tartjuk.",
+                "A csirkemelleket leöblítjük, szárazra törölgetjük, széltében 2 vékonyabb lapra-szeletre vágjuk, majd folpackkal letakarva kissé kiverjük-elvékonyítjuk. Mindkét oldalukat meghintjük a fűszerkeverékkel, majd 1-1 szelet tarját és megmosott zsályalevelet fektetünk a tetejükre, fogvájóval megtűzzük (A).",
+                "Nagyobb serpenyőben felforrósítjuk a vajat/margarint és az olajat, beletesszük a hússzeleteket, meghintjük sóval és frissen őrölt borssal, mérsékelt tűzön 5-6 percig sütjük. Megfordítjuk őket (B), a másik oldalukat is meghintjük sóval és borssal, további 5 percig sütjük. A serpenyőben vagy előmelegített tálra rendezve, fedő/alufólia alatt melegen tartjuk.",
+                "A pecsenyeléhez öntjük a bort, élénk tűzön összeforraljuk, aztán elkeverjük benne a paradicsompürét és a csípős paprikakrémet, ízlés szerint sózzuk, 1-2 tekerésnyi frissen őrölt borssal illatosítjuk, a felére beforraljuk, csészébe/tálkába szűrjük, melegen tartjuk.",
+                "A főtt burgonyát leszűrjük, hozzáadjuk a vajjal/margarinnal összeforrósított tejszínt (C), 1-2 csipetnyi frissen reszelt szerecsendiót, ízlés szerint sót, és elektromos habverővel, néhány pörgetéssel habos pürévé törjük-keverjük (nem szabad hosszasan keverni, mert elnyúlósodik!). Nem túl mély tálba szedjük, tetejére simítjuk a sárgarépát, petrezselyemmel díszítjük, és a mártás kíséretében a hús köreteként kínáljuk.",
+                "VÁLTOZATOK: - Burgonyapüré helyett készíthetjük úgy is, hogy a megtisztított burgonyát felkarikázzuk, enyhén sós vízben puhára főzzük, leszűrjük, majd a borral összeforralt-fel lazított pecsenylébe forgatjuk, és élénk tűzön, néhány perc alatt aranybarnára-szaftosra pirítjuk. - Készíthetjük borjú- vagy sertéscombból, kicsontozott rövidkarajból, pulykamellfiléből is, a sonka/tarja és a zsalya azonban ne maradjon el, mert ez adja meg az étel karakterét!"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/5e28901b-ccda-49ef-ac4b-32fe297178d4_0.jpg"
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 20,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

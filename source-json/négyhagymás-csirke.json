@@ -1,0 +1,61 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Négyhagymás csirke",
+        "recipeIngredient": [
+            "2 csirkemell felkockazva",
+            "1 sárgarépa",
+            "1 fehérrépa",
+            "1 vöröshagyma",
+            "1 csomó újhagyma",
+            "Fél póréhagyma",
+            "20 levél medvehagyma/foki",
+            "2 szarzeller",
+            "1tk mustár",
+            "3dl tejszín",
+            "So, bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Zsiron vagy olajon megpiritom a csirket, ra a karikazott repakat. Magas hofokon par percig mehet, aztan hozzaadom a hagymakat es a szarzellert karikara vagva, sozom, borsozom, ha roppanosra sultek a zoldsegek, mehet bele a mustar, vegul a tejszin."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "3d66785a-9f28-4478-8ff5-0f818d86fc52",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Négyhagymás csirke",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "2 csirkemell felkockazva",
+                "1 sárgarépa",
+                "1 fehérrépa",
+                "1 vöröshagyma",
+                "1 csomó újhagyma",
+                "Fél póréhagyma",
+                "20 levél medvehagyma/foki",
+                "2 szarzeller",
+                "1tk mustár",
+                "3dl tejszín",
+                "So, bors"
+            ],
+            "recipeDirections": [
+                "Zsiron vagy olajon megpiritom a csirket, ra a karikazott repakat. Magas hofokon par percig mehet, aztan hozzaadom a hagymakat es a szarzellert karikara vagva, sozom, borsozom, ha roppanosra sultek a zoldsegek, mehet bele a mustar, vegul a tejszin."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 30,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

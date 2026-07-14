@@ -1,0 +1,130 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kölesfelfujt",
+        "recipeIngredient": [
+            "15 dkg köles",
+            "6 dl 1/5 %-os tej",
+            "2 tojássárgája",
+            "2 tojás fehérje kemény habbá verve",
+            "2 evőkanál méz",
+            "1 citrom reszelt héja",
+            "3 dkg mazsola vagy vörös áfonya 15 percre rumba áztatva",
+            "1 kávéskanál vaníliaaroma",
+            "csipetnyi só",
+            "leheletnyi fahéj"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A kölest mosd meg, majd a tejben egy csipet sóval tedd fel főni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Alacsony hőfokon főzd, mert legalább 20 mire a köles megpuhul."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Gyakran kevergesd, nehogy leégjen."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a tojás fehérjét, egy csipetnyi sóval, verd fel kemény habbá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt melegítsd elő 180 C fokra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha a köles megfőtt, vedd le a tűzről."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Keverd bele a citrom reszelt héját."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mehet bele a méz, a vanília aroma, a fahéj és végül a tojások sárgája."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Keverd össze alaposan."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Most add hozzá a rumba áztatott mazsolát vagy vörös áfonyát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Óvatosan, hogy a hab ne törjön össze, keverd hozzá a kemény habbá vert tojásfehérjéket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy tepsit kenj ki hideg vajjal, majd szórd meg zsemlemorzsával."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mehet bele a habos tészta."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tedd a sütőbe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "30 perc alatt készre sül."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT30M",
+        "recipeYield": "4-6",
+        "x-recipe-keeper": {
+            "recipeId": "72a60c8f-fa4c-491c-99d4-2558f1af9c81",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kölesfelfujt",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4-6",
+            "prepTime": "PT0S",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "15 dkg köles",
+                "6 dl 1/5 %-os tej",
+                "2 tojássárgája",
+                "2 tojás fehérje kemény habbá verve",
+                "2 evőkanál méz",
+                "1 citrom reszelt héja",
+                "3 dkg mazsola vagy vörös áfonya 15 percre rumba áztatva",
+                "1 kávéskanál vaníliaaroma",
+                "csipetnyi só",
+                "leheletnyi fahéj"
+            ],
+            "recipeDirections": [
+                "A kölest mosd meg, majd a tejben egy csipet sóval tedd fel főni.",
+                "Alacsony hőfokon főzd, mert legalább 20 mire a köles megpuhul.",
+                "Gyakran kevergesd, nehogy leégjen.",
+                "Közben a tojás fehérjét, egy csipetnyi sóval, verd fel kemény habbá.",
+                "A sütőt melegítsd elő 180 C fokra.",
+                "Ha a köles megfőtt, vedd le a tűzről.",
+                "Keverd bele a citrom reszelt héját.",
+                "Mehet bele a méz, a vanília aroma, a fahéj és végül a tojások sárgája.",
+                "Keverd össze alaposan.",
+                "Most add hozzá a rumba áztatott mazsolát vagy vörös áfonyát.",
+                "Óvatosan, hogy a hab ne törjön össze, keverd hozzá a kemény habbá vert tojásfehérjéket.",
+                "Egy tepsit kenj ki hideg vajjal, majd szórd meg zsemlemorzsával.",
+                "Mehet bele a habos tészta.",
+                "Tedd a sütőbe.",
+                "30 perc alatt készre sül."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 69,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

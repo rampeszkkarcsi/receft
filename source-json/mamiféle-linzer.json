@@ -1,0 +1,71 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Mamiféle linzer",
+        "recipeIngredient": [
+            "37 dkg liszt",
+            "25 dkg margarin",
+            "fél sütőpor",
+            "12,5 dkg porcukor",
+            "1 tojás",
+            "vaníliás cukor (lehet 2 is)",
+            "citrom héja"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Összegyúrni"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "fél órát pihentetni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "2-5 mm vastagra nyújtani."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "180 °C-on kb. 10 perc."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT10M",
+        "recipeYield": "Kb. 3 tepsi",
+        "image": "images/58cd2d7d-7f4b-42a5-b95e-72cc6130cfd6_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "58cd2d7d-7f4b-42a5-b95e-72cc6130cfd6",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Mamiféle linzer",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "Kb. 3 tepsi",
+            "prepTime": "PT0S",
+            "cookTime": "PT10M",
+            "recipeIngredients": [
+                "37 dkg liszt",
+                "25 dkg margarin",
+                "fél sütőpor",
+                "12,5 dkg porcukor",
+                "1 tojás",
+                "vaníliás cukor (lehet 2 is)",
+                "citrom héja"
+            ],
+            "recipeDirections": [
+                "Összegyúrni",
+                "fél órát pihentetni.",
+                "2-5 mm vastagra nyújtani.",
+                "180 °C-on kb. 10 perc."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/58cd2d7d-7f4b-42a5-b95e-72cc6130cfd6_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 24,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

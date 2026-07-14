@@ -1,0 +1,91 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Fehér kenyér",
+        "recipeIngredient": [
+            "HOZZÁVALÓK",
+            "50 dkg kenyérliszt (BL 80)",
+            "1,5 tk. só",
+            "2 ek. olaj",
+            "20 dkg öregtészta",
+            "1 dkg friss élesztő",
+            "3 dl víz",
+            "ÖREGTÉSZTA",
+            "3 dl víz",
+            "1 dkg friss élesztő",
+            "50 dkg kenyérliszt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet tálba szitáljuk, elkeverjük a sóval, és a közepébe mélyedést készítünk. Ide tesszük az öregtésztát, az olajat, és a tetejére morzsoljuk az élesztőt. Hozzáöntjük a vizet, de kb. 2 evőkanálnyit visszatartunk, azt csak szükség esetén adagoljuk a tésztához."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Elkezdjük gyúrni a hozzávalókat, amikor összeáll egy gombóccá, kitesszük a munkalapra, és ott folytatjuk. Kb. 10-15 percig erőteljesen gyúrjuk, dagasztjuk. Akkor jó, ha a tészta felülete sima, fényes, selymes tapintású, sem a munkalaphoz, sem a kezünkhöz nem ragad."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kelesztőtálba tesszük, és szobahőmérsékleten 30 percig kelesztjük (22 °C az ideális, télen se tegyük radiátor vagy sütő közelébe). Lisztezett felületre borítjuk, és masszív gombóccá gyúrjuk. Letakarjuk, és további 15 percig hagyjuk pihenni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Veknit formázunk belőle, és egy nagyobb méretű (pl. kacsasütő), sütőpapírral kibélel jénaiba tesszük. Az edény tetejébe kevés vizet permetezünk, és a tésztára borítjuk. Kb 1 órán át kelesztjük (nyáron ez lehet 10-15 perccel rövidebb, télen meg ugyanennyive hosszabb idő), ezalatt a sütőt előmelegítjük 230 °C-ra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megkelt tésztát pengével vagy éles késsel három helyen bemetsszük, alaposan lepermetezzük vízzel, megint ráborítjuk az edény tetejét, és a forró sütőbe toljuk 50-55 percig sütjük, míg eléri a megfelelő színt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Amikor kész a kenyér, az edény tetejét óvatosan levesszük, a kenyeret visszatoljuk a kikapcsolt sütőbe, és résnyire nyitva hagyott ajtó mellett még 5 percig bent hagyjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Végül rácsra tesszük hűlni, és azonnal lepermetezzük kevés hideg vízzel."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT55M",
+        "x-recipe-keeper": {
+            "recipeId": "09f0f987-aaa2-449c-be73-5d9bc5e907c5",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Fehér kenyér",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT55M",
+            "recipeIngredients": [
+                "HOZZÁVALÓK",
+                "50 dkg kenyérliszt (BL 80)",
+                "1,5 tk. só",
+                "2 ek. olaj",
+                "20 dkg öregtészta",
+                "1 dkg friss élesztő",
+                "3 dl víz",
+                "ÖREGTÉSZTA",
+                "3 dl víz",
+                "1 dkg friss élesztő",
+                "50 dkg kenyérliszt"
+            ],
+            "recipeDirections": [
+                "A lisztet tálba szitáljuk, elkeverjük a sóval, és a közepébe mélyedést készítünk. Ide tesszük az öregtésztát, az olajat, és a tetejére morzsoljuk az élesztőt. Hozzáöntjük a vizet, de kb. 2 evőkanálnyit visszatartunk, azt csak szükség esetén adagoljuk a tésztához.",
+                "Elkezdjük gyúrni a hozzávalókat, amikor összeáll egy gombóccá, kitesszük a munkalapra, és ott folytatjuk. Kb. 10-15 percig erőteljesen gyúrjuk, dagasztjuk. Akkor jó, ha a tészta felülete sima, fényes, selymes tapintású, sem a munkalaphoz, sem a kezünkhöz nem ragad.",
+                "Kelesztőtálba tesszük, és szobahőmérsékleten 30 percig kelesztjük (22 °C az ideális, télen se tegyük radiátor vagy sütő közelébe). Lisztezett felületre borítjuk, és masszív gombóccá gyúrjuk. Letakarjuk, és további 15 percig hagyjuk pihenni.",
+                "Veknit formázunk belőle, és egy nagyobb méretű (pl. kacsasütő), sütőpapírral kibélel jénaiba tesszük. Az edény tetejébe kevés vizet permetezünk, és a tésztára borítjuk. Kb 1 órán át kelesztjük (nyáron ez lehet 10-15 perccel rövidebb, télen meg ugyanennyive hosszabb idő), ezalatt a sütőt előmelegítjük 230 °C-ra.",
+                "A megkelt tésztát pengével vagy éles késsel három helyen bemetsszük, alaposan lepermetezzük vízzel, megint ráborítjuk az edény tetejét, és a forró sütőbe toljuk 50-55 percig sütjük, míg eléri a megfelelő színt.",
+                "Amikor kész a kenyér, az edény tetejét óvatosan levesszük, a kenyeret visszatoljuk a kikapcsolt sütőbe, és résnyire nyitva hagyott ajtó mellett még 5 percig bent hagyjuk.",
+                "Végül rácsra tesszük hűlni, és azonnal lepermetezzük kevés hideg vízzel."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 84,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

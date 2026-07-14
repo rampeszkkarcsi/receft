@@ -1,0 +1,52 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kolbász",
+        "recipeIngredient": [
+            "6 kg szalonna (ipari)",
+            "1 cs. kömény",
+            "1 cs. őrölt bors",
+            "1 csapott evőkanál cukor",
+            "Kilónként",
+            "2 dkg só",
+            "2 dkg édes paprika",
+            "0,5 dkg csípős paprika",
+            "2-3 dkg fokhagyma (megpárolva)"
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "20 kg húshoz",
+        "image": "images/6a250014-c533-492f-851d-1ea6d1a2c792_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "6a250014-c533-492f-851d-1ea6d1a2c792",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kolbász",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "20 kg húshoz",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "6 kg szalonna (ipari)",
+                "1 cs. kömény",
+                "1 cs. őrölt bors",
+                "1 csapott evőkanál cukor",
+                "Kilónként",
+                "2 dkg só",
+                "2 dkg édes paprika",
+                "0,5 dkg csípős paprika",
+                "2-3 dkg fokhagyma (megpárolva)"
+            ],
+            "recipeDirections": [],
+            "recipeNotes": [],
+            "photo0": "images/6a250014-c533-492f-851d-1ea6d1a2c792_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 20,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

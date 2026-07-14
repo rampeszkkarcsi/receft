@@ -1,0 +1,108 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Gesztenyés pulykamell",
+        "recipeIngredient": [
+            "800 g gesztenye",
+            "1/2 pulykamell (1,2 kg)",
+            "50 g reszelt sajt",
+            "80 g gépsonka",
+            "30 g vaj/margarin",
+            "5 gerezd fokhagyma",
+            "1 kg krumpliból püré, só, őrölt bors",
+            "1 szikkadt zsemle",
+            "1 dl tejszín",
+            "1 csokor petrezselyem",
+            "2 tojássárgája",
+            "1 dl száraz fehérbor",
+            "1 nagy hagyma",
+            "A mártáshoz",
+            "3 ek. cukor",
+            "2 ek. fehér borecet",
+            "2 dl húsleves (kockából)",
+            "1 ek. étkezési keményítő"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A gesztenye héját a domború felén bevagdosuk, és a kuktában, a sípolástól számított 25 percig főzzük. A zsemlét beáztatjuk langyos vízbe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A húsról leválasztjuk a kisebb, gömbölyded részt, a filét. A nagyobb lapot 2 cm-ként bevágdossuk, a filét pedig hosszában, mélyen bevágjuk, majd kiterítjük, és kiverjük. Mindkettőt meghintjük sóval és borssal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A gesztenyét még melegen meghámozzuk, a felét (a szebb, egész szemeket) félretesszük a körítéshez, a többit elmorzsoljuk a tejszínnel, és krumplinyomón áttörjük. Hozzáadjuk a kinyomkodott zsemlét, a reszelt sajtot, a vágott petrezselymet, az apróra felkockázott sonkát, a tojássárgákat, ízlés szerint sót és borsot, összedolgozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A masszát a nagyobbik húslapra púpozzuk, kissé bele is nyomkodjuk a redőkbe. Ráterítjük a kisebbik húslapot, a széleket lenyomkodjuk, és sűrű öltésekkel összevarrjuk. Sonkaszerűen megkötözzük, sütőedénybe tesszük, megkenjük a vajjal/margarinnal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Forró sütőben (220 °C) 15 percig sütjük, majd hozzáadjuk a fehérbort, metéltre vágjuk a fokhagymát és a gerezdekre vágott hagymát, aztán lefedjük, és 180 °C-ra mérsékelt tűznél, 1 órán át lefedve, majd fedetlenül, saját levével locsolgatva pirosra sütjük (1/2 óra)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A krumpliból pürét készítünk, és melegen tartjuk. A mártáshoz barnára pirítjuk a cukrot, hozzáadjuk a borecetet, a húslevest és egy kevés borsot, összeforraljuk. A húst alufóliával betakarva 10 percig pihentetjük. A zsírtalanított pecsenyelét a mártáshoz szűrjük, hozzáadjuk a 2 ek. hideg vízben feloldott keményítőt, és 1 percig forraljuk. Beledobjuk a félretett gesztenyét, összeforrósítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A püré 1/3-át habzsákba szedjük, a többit nagyobb tál közepére púpozzuk. A húst felszeleteljük, a krumplipüréhegy oldalára fektetjük, a tál peremét és a közöket pedig pürérózsákkal és petrezselyemmel díszítjük. A gesztenyés mártást külön, forrón kínáljuk."
+            }
+        ],
+        "prepTime": "PT3H",
+        "cookTime": "PT1H45M",
+        "recipeYield": "8 PERSON",
+        "image": "images/98ec06f8-985f-4255-acda-5e494ddf0dfc_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "98ec06f8-985f-4255-acda-5e494ddf0dfc",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Gesztenyés pulykamell",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "8 PERSON",
+            "prepTime": "PT3H",
+            "cookTime": "PT1H45M",
+            "recipeIngredients": [
+                "800 g gesztenye",
+                "1/2 pulykamell (1,2 kg)",
+                "50 g reszelt sajt",
+                "80 g gépsonka",
+                "30 g vaj/margarin",
+                "5 gerezd fokhagyma",
+                "1 kg krumpliból püré, só, őrölt bors",
+                "1 szikkadt zsemle",
+                "1 dl tejszín",
+                "1 csokor petrezselyem",
+                "2 tojássárgája",
+                "1 dl száraz fehérbor",
+                "1 nagy hagyma",
+                "A mártáshoz",
+                "3 ek. cukor",
+                "2 ek. fehér borecet",
+                "2 dl húsleves (kockából)",
+                "1 ek. étkezési keményítő"
+            ],
+            "recipeDirections": [
+                "A gesztenye héját a domború felén bevagdosuk, és a kuktában, a sípolástól számított 25 percig főzzük. A zsemlét beáztatjuk langyos vízbe.",
+                "A húsról leválasztjuk a kisebb, gömbölyded részt, a filét. A nagyobb lapot 2 cm-ként bevágdossuk, a filét pedig hosszában, mélyen bevágjuk, majd kiterítjük, és kiverjük. Mindkettőt meghintjük sóval és borssal.",
+                "A gesztenyét még melegen meghámozzuk, a felét (a szebb, egész szemeket) félretesszük a körítéshez, a többit elmorzsoljuk a tejszínnel, és krumplinyomón áttörjük. Hozzáadjuk a kinyomkodott zsemlét, a reszelt sajtot, a vágott petrezselymet, az apróra felkockázott sonkát, a tojássárgákat, ízlés szerint sót és borsot, összedolgozzuk.",
+                "A masszát a nagyobbik húslapra púpozzuk, kissé bele is nyomkodjuk a redőkbe. Ráterítjük a kisebbik húslapot, a széleket lenyomkodjuk, és sűrű öltésekkel összevarrjuk. Sonkaszerűen megkötözzük, sütőedénybe tesszük, megkenjük a vajjal/margarinnal.",
+                "Forró sütőben (220 °C) 15 percig sütjük, majd hozzáadjuk a fehérbort, metéltre vágjuk a fokhagymát és a gerezdekre vágott hagymát, aztán lefedjük, és 180 °C-ra mérsékelt tűznél, 1 órán át lefedve, majd fedetlenül, saját levével locsolgatva pirosra sütjük (1/2 óra).",
+                "A krumpliból pürét készítünk, és melegen tartjuk. A mártáshoz barnára pirítjuk a cukrot, hozzáadjuk a borecetet, a húslevest és egy kevés borsot, összeforraljuk. A húst alufóliával betakarva 10 percig pihentetjük. A zsírtalanított pecsenyelét a mártáshoz szűrjük, hozzáadjuk a 2 ek. hideg vízben feloldott keményítőt, és 1 percig forraljuk. Beledobjuk a félretett gesztenyét, összeforrósítjuk.",
+                "A püré 1/3-át habzsákba szedjük, a többit nagyobb tál közepére púpozzuk. A húst felszeleteljük, a krumplipüréhegy oldalára fektetjük, a tál peremét és a közöket pedig pürérózsákkal és petrezselyemmel díszítjük. A gesztenyés mártást külön, forrón kínáljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/98ec06f8-985f-4255-acda-5e494ddf0dfc_0.jpg"
+        },
+        "x-source-file": "9f845ef9-d19c-4a6b-a39a-c0ef7a4e9293.zip",
+        "x-db-id": 240,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

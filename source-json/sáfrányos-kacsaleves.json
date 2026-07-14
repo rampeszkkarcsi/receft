@@ -1,0 +1,87 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sáfrányos kacsaleves",
+        "recipeIngredient": [
+            "50 dkg kacsahús",
+            "egy fej vöröshagyma",
+            "1-2 sárgarépa",
+            "1 fehérrépa",
+            "1 evőkanál finomliszt",
+            "fél pohár tejföl",
+            "petrezselyem zöldje",
+            "sáfrány",
+            "majoránna",
+            "só, bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A kacsahúst zsírjára sütjük, kiszedjük a lábasból, kisebb, falatnyi darabokra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az edényben visszamaradt zsiradékon az apróra vágott vöröshagymát üvegesre pirítjuk, majd hozzáadjuk a felaprított zöldségeket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A pirított zöldségre visszatesszük a húst, és tovább pároljuk, majd megszórjuk a finomliszttel, csontlével felengedjük, és készre főzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ízesítjük sóval, fűszerezzük őrölt borssal, majoránnával"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tetején úszó zsírra hintsünk pár szál sáfrányt, ettől lesz szép a színe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tálalásnál ízlés szerint tejfölt adjunk hozzá, és szórjuk meg az apróra vágott petrezselyemzölddel"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT1H",
+        "recipeYield": "4 személyre",
+        "image": "images/bd43e394-ba37-4767-ad79-57c5f910329b_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "bd43e394-ba37-4767-ad79-57c5f910329b",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sáfrányos kacsaleves",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT0S",
+            "cookTime": "PT1H",
+            "recipeIngredients": [
+                "50 dkg kacsahús",
+                "egy fej vöröshagyma",
+                "1-2 sárgarépa",
+                "1 fehérrépa",
+                "1 evőkanál finomliszt",
+                "fél pohár tejföl",
+                "petrezselyem zöldje",
+                "sáfrány",
+                "majoránna",
+                "só, bors"
+            ],
+            "recipeDirections": [
+                "A kacsahúst zsírjára sütjük, kiszedjük a lábasból, kisebb, falatnyi darabokra vágjuk.",
+                "Az edényben visszamaradt zsiradékon az apróra vágott vöröshagymát üvegesre pirítjuk, majd hozzáadjuk a felaprított zöldségeket.",
+                "A pirított zöldségre visszatesszük a húst, és tovább pároljuk, majd megszórjuk a finomliszttel, csontlével felengedjük, és készre főzzük.",
+                "Ízesítjük sóval, fűszerezzük őrölt borssal, majoránnával",
+                "A tetején úszó zsírra hintsünk pár szál sáfrányt, ettől lesz szép a színe.",
+                "Tálalásnál ízlés szerint tejfölt adjunk hozzá, és szórjuk meg az apróra vágott petrezselyemzölddel"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/bd43e394-ba37-4767-ad79-57c5f910329b_0.jpg"
+        },
+        "x-source-file": "a732a041-ba4a-4467-98ee-e33a82efcb46.zip",
+        "x-db-id": 273,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

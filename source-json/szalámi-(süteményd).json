@@ -1,0 +1,87 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Szalámi (sütemény:D)",
+        "recipeIngredient": [
+            "25 dkg margarin",
+            "25 dkg cukor",
+            "2 tojás"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "gőzön keverni"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezután ha lehűlt, bele:"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "5 dkg kakaó"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "25 dkg keksz"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "10 dkg dió vagy mogyoró"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "1/2 dl rum"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "narancshéj"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "vágni"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Alufóliában sok porcukorral kinyújtani"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/76b77e63-3506-418b-acad-ec03d67cf5aa_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "76b77e63-3506-418b-acad-ec03d67cf5aa",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Szalámi (sütemény:D)",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "25 dkg margarin",
+                "25 dkg cukor",
+                "2 tojás"
+            ],
+            "recipeDirections": [
+                "gőzön keverni",
+                "Ezután ha lehűlt, bele:",
+                "5 dkg kakaó",
+                "25 dkg keksz",
+                "10 dkg dió vagy mogyoró",
+                "1/2 dl rum",
+                "narancshéj",
+                "vágni",
+                "Alufóliában sok porcukorral kinyújtani"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/76b77e63-3506-418b-acad-ec03d67cf5aa_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 35,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:14+00:00"
+    }
+]

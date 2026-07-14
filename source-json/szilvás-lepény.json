@@ -1,0 +1,91 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "SZILVÁS LEPÉNY",
+        "recipeIngredient": [
+            "1 kg magvaváló szilva",
+            "a tepsihez diónyi vaj",
+            "2 ek. liszt",
+            "200 g porcukor",
+            "200 g vaj vagy margarin",
+            "5 tojás",
+            "200 g finomliszt",
+            "20 g vaníliás cukor",
+            "1/2 dl rum",
+            "fahéjas porcukor"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A szilvát megmossuk, lecsepegtetjük, kimagozzuk, félbe-negyedbe vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt előmelegítjük 180 °C-ra (gázsütő: 2. fokozat)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy közepes méretű (kb. 25×35 cm-es) tepsit vékonyan kivajazunk, liszttel megszórunk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A cukrot habosra keverjük a vajjal, egyenként hozzá adjuk a tojások sárgáját, majd felváltva apránként a lisztet és a kemény habbá vert tojásfehérjét, végül a vaníliás cukrot és a rumot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát a tepsibe öntjük, tetejét dúsan megrakjuk a szilvával."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Betesszük a sütőbe, aranysárgára sütjük (30-35 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hagyjuk langyosra hűlni, deszkára csúsztatjuk, kocka- vagy rombuszformára vágjuk, tetejét megszórjuk fahéjas porcukorral."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT35M",
+        "image": "images/ee5bb774-bc08-42ab-b130-7878deb878a2_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "ee5bb774-bc08-42ab-b130-7878deb878a2",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "SZILVÁS LEPÉNY",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT35M",
+            "recipeIngredients": [
+                "1 kg magvaváló szilva",
+                "a tepsihez diónyi vaj",
+                "2 ek. liszt",
+                "200 g porcukor",
+                "200 g vaj vagy margarin",
+                "5 tojás",
+                "200 g finomliszt",
+                "20 g vaníliás cukor",
+                "1/2 dl rum",
+                "fahéjas porcukor"
+            ],
+            "recipeDirections": [
+                "A szilvát megmossuk, lecsepegtetjük, kimagozzuk, félbe-negyedbe vágjuk.",
+                "A sütőt előmelegítjük 180 °C-ra (gázsütő: 2. fokozat).",
+                "Egy közepes méretű (kb. 25×35 cm-es) tepsit vékonyan kivajazunk, liszttel megszórunk.",
+                "A cukrot habosra keverjük a vajjal, egyenként hozzá adjuk a tojások sárgáját, majd felváltva apránként a lisztet és a kemény habbá vert tojásfehérjét, végül a vaníliás cukrot és a rumot.",
+                "A tésztát a tepsibe öntjük, tetejét dúsan megrakjuk a szilvával.",
+                "Betesszük a sütőbe, aranysárgára sütjük (30-35 perc).",
+                "Hagyjuk langyosra hűlni, deszkára csúsztatjuk, kocka- vagy rombuszformára vágjuk, tetejét megszórjuk fahéjas porcukorral."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/ee5bb774-bc08-42ab-b130-7878deb878a2_0.jpg"
+        },
+        "x-source-file": "a6a64a5f-514f-4273-8bef-9af377af9b33.zip",
+        "x-db-id": 256,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

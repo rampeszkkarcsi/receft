@@ -1,0 +1,68 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Hajtogatott krumplis pogácsa",
+        "recipeIngredient": [
+            "250 g krumpli",
+            "1 dl tejföl",
+            "25 g élesztő",
+            "1 kk. cukor",
+            "2+1 tojássárgája",
+            "250 g finomliszt",
+            "250 g vaj/margarin",
+            "1 kk. só"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A krumplit héjában megfőzzük, leszűrjük, még melegen meghámozzuk, áttörjük, és hagyjuk kihűlni. Az éppen csak meglangyosított tejfölben simára keverjük az élesztőt, a cukrot és 2 tojássárgáját. A lisztet elmorzsoljuk a vajjal/margarinnal, hozzáadjuk az áttört burgonyát, a sót és az élesztős tejfölt. Összegyúrjuk, cipót formálunk belőle, és konyharuhával letakarva, fél órát kelesztjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát lisztezett munkalapon négyszögletesre nyújtjuk. Alsó, majd felső harmadát középre, illetve egymásra hajtjuk, aztán baloldali harmadát a tetejére, a jobboldalit pedig a tészta alá hajtjuk. Konyharuhával letakarjuk, fél órát kelni hagyjuk. A hajtogatást még kétszer, félórás időközönként megismételjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A harmadik hajtogatás után 2,5-3 cm vastagra kinyújtjuk a tésztát, tetejét késheggyel bekockázzuk, és 5-6 cm átmérőjű, lisztbe mártogatott pogácsaszaggatóval kiszúrjuk. Egymástól tisztes távolságra, sütőpapírral bélelt tepsibe rakosgatjuk (sütés közben megnőnek!), konyharuhával letakarjuk, fél órát kelni hagyjuk. Tetejüket megkenjük a maradék 1 tojássárgájával, és 200 °C-ra előmelegített sütőben aranybarnára sütjük (25-30 perc). A tepsiben hagyjuk teljesen kihűlni, csak frissen jó!"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT30M",
+        "recipeYield": "kb. 30 db",
+        "image": "images/6af9f0ec-4964-45b3-9243-eb5c759aff22_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "6af9f0ec-4964-45b3-9243-eb5c759aff22",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Hajtogatott krumplis pogácsa",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "kb. 30 db",
+            "prepTime": "PT0S",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "250 g krumpli",
+                "1 dl tejföl",
+                "25 g élesztő",
+                "1 kk. cukor",
+                "2+1 tojássárgája",
+                "250 g finomliszt",
+                "250 g vaj/margarin",
+                "1 kk. só"
+            ],
+            "recipeDirections": [
+                "A krumplit héjában megfőzzük, leszűrjük, még melegen meghámozzuk, áttörjük, és hagyjuk kihűlni. Az éppen csak meglangyosított tejfölben simára keverjük az élesztőt, a cukrot és 2 tojássárgáját. A lisztet elmorzsoljuk a vajjal/margarinnal, hozzáadjuk az áttört burgonyát, a sót és az élesztős tejfölt. Összegyúrjuk, cipót formálunk belőle, és konyharuhával letakarva, fél órát kelesztjük.",
+                "A tésztát lisztezett munkalapon négyszögletesre nyújtjuk. Alsó, majd felső harmadát középre, illetve egymásra hajtjuk, aztán baloldali harmadát a tetejére, a jobboldalit pedig a tészta alá hajtjuk. Konyharuhával letakarjuk, fél órát kelni hagyjuk. A hajtogatást még kétszer, félórás időközönként megismételjük.",
+                "A harmadik hajtogatás után 2,5-3 cm vastagra kinyújtjuk a tésztát, tetejét késheggyel bekockázzuk, és 5-6 cm átmérőjű, lisztbe mártogatott pogácsaszaggatóval kiszúrjuk. Egymástól tisztes távolságra, sütőpapírral bélelt tepsibe rakosgatjuk (sütés közben megnőnek!), konyharuhával letakarjuk, fél órát kelni hagyjuk. Tetejüket megkenjük a maradék 1 tojássárgájával, és 200 °C-ra előmelegített sütőben aranybarnára sütjük (25-30 perc). A tepsiben hagyjuk teljesen kihűlni, csak frissen jó!"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/6af9f0ec-4964-45b3-9243-eb5c759aff22_0.jpg"
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 66,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

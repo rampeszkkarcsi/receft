@@ -1,0 +1,78 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sport szelet",
+        "recipeIngredient": [
+            "50 dkg darált keksz",
+            "4 evőkanál kakaópor",
+            "dl tej",
+            "rum vagy rumaroma",
+            "25 dkg margarin",
+            "20 dkg kristálycukor (anya szerint 10 :D)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A darál kekszet a kakaóporral összekeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezután egy edényben a margarint, a cukorral és a tejjel összemelegítjük annyira, hogy a vaj és a cukor elolvadjon."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ezt ráöntjük a kakaóporral összekevert kekszre és hozzáadjuk a rumot vagy a rumaromát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Jól összekeverjük a masszát és egy tepsibe vagy jénaiba nyomkodjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Betenni a hűtőbe, míg a csokimáz elkészül."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Göz felett 2 tábla tortabevonót 2 ek. étolajjal felolvasztani, rákenni, hűtőbe rakni és forró vízbe mártott késsel szeletelni."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/eada1052-886d-4313-90dc-a126a27bdf6b_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "eada1052-886d-4313-90dc-a126a27bdf6b",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sport szelet",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "50 dkg darált keksz",
+                "4 evőkanál kakaópor",
+                "dl tej",
+                "rum vagy rumaroma",
+                "25 dkg margarin",
+                "20 dkg kristálycukor (anya szerint 10 :D)"
+            ],
+            "recipeDirections": [
+                "A darál kekszet a kakaóporral összekeverjük.",
+                "Ezután egy edényben a margarint, a cukorral és a tejjel összemelegítjük annyira, hogy a vaj és a cukor elolvadjon.",
+                "Ezt ráöntjük a kakaóporral összekevert kekszre és hozzáadjuk a rumot vagy a rumaromát.",
+                "Jól összekeverjük a masszát és egy tepsibe vagy jénaiba nyomkodjuk.",
+                "Betenni a hűtőbe, míg a csokimáz elkészül.",
+                "Göz felett 2 tábla tortabevonót 2 ek. étolajjal felolvasztani, rákenni, hűtőbe rakni és forró vízbe mártott késsel szeletelni."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/eada1052-886d-4313-90dc-a126a27bdf6b_0.jpg"
+        },
+        "x-source-file": "6927f13b-408a-4c16-9b05-60d162e1329b.zip",
+        "x-db-id": 197,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

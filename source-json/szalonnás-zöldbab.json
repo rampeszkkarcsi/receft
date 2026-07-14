@@ -1,0 +1,76 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Szalonnás zöldbab",
+        "recipeIngredient": [
+            "1 kg zöldbab (vegyesen)",
+            "só",
+            "25 dkg bacon szalonna",
+            "4 dl tejföl",
+            "25 dkg paradicsom"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Egy tepsit vagy jénai tálat a szeletelt bacon szalonnával kibélelünk. Ha elég hosszú a szalonnacsík, akkor úgy, hogy túl lógjon a forma peremén."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sárga hüvelyű és a zöld színű zöldbabot 2 cm-es darabokra vágjuk, és sós vízben leforrázzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A szalonnára ráhalmozzuk a kétféle babot..."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "majd hozzáadjuk a kockákra vágott paradicsomot is."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tálban óvatosan összekeverjük a zöldségeket, majd ráhajtjuk a túllógó szalonnacsíkokat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tetejét megkenjük a tejföl és forró, kb. 190 °C-ra előmelegített sütőben készre sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/18b9e08b-a7ee-4491-a87a-0c29476ca2dd_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "18b9e08b-a7ee-4491-a87a-0c29476ca2dd",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Szalonnás zöldbab",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1 kg zöldbab (vegyesen)",
+                "só",
+                "25 dkg bacon szalonna",
+                "4 dl tejföl",
+                "25 dkg paradicsom"
+            ],
+            "recipeDirections": [
+                "Egy tepsit vagy jénai tálat a szeletelt bacon szalonnával kibélelünk. Ha elég hosszú a szalonnacsík, akkor úgy, hogy túl lógjon a forma peremén.",
+                "A sárga hüvelyű és a zöld színű zöldbabot 2 cm-es darabokra vágjuk, és sós vízben leforrázzuk.",
+                "A szalonnára ráhalmozzuk a kétféle babot...",
+                "majd hozzáadjuk a kockákra vágott paradicsomot is.",
+                "A tálban óvatosan összekeverjük a zöldségeket, majd ráhajtjuk a túllógó szalonnacsíkokat.",
+                "A tetejét megkenjük a tejföl és forró, kb. 190 °C-ra előmelegített sütőben készre sütjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/18b9e08b-a7ee-4491-a87a-0c29476ca2dd_0.jpg"
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 116,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

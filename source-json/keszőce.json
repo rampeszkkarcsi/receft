@@ -1,0 +1,68 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Keszőce",
+        "recipeIngredient": [
+            "5 kg szilva",
+            "1 kg cukor",
+            "1 rúd vanília",
+            "1 kk tört fahéj",
+            "kevés szegfűszeg",
+            "1 dl rum"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Főzni kb 1 órán át."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Beletenni: 1kg cukor, 1 rúd vanília, 1 kk tört fahéj, kevés szegfűszeg."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kb. még 20 percig főzni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mielőtt üvegbe tesszük, 1 dl rumot belekeverni."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT1H20M",
+        "image": "images/8cf765f0-24da-45a3-b4de-3361e890ece8_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "8cf765f0-24da-45a3-b4de-3361e890ece8",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Keszőce",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT1H20M",
+            "recipeIngredients": [
+                "5 kg szilva",
+                "1 kg cukor",
+                "1 rúd vanília",
+                "1 kk tört fahéj",
+                "kevés szegfűszeg",
+                "1 dl rum"
+            ],
+            "recipeDirections": [
+                "Főzni kb 1 órán át.",
+                "Beletenni: 1kg cukor, 1 rúd vanília, 1 kk tört fahéj, kevés szegfűszeg.",
+                "Kb. még 20 percig főzni.",
+                "Mielőtt üvegbe tesszük, 1 dl rumot belekeverni."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/8cf765f0-24da-45a3-b4de-3361e890ece8_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 18,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

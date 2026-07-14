@@ -1,0 +1,110 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Csicseriborsó-leves",
+        "recipeIngredient": [
+            "150 g csicseriborsó",
+            "2 gerezd fokhagyma",
+            "1 babérlevél",
+            "50 g füstölt szalonna",
+            "1 kis fej hagyma",
+            "200 g spenót",
+            "1 ek. hámozott mandula",
+            "1 ek. olaj",
+            "só, bors",
+            "1 kis doboz felaprózott, hámozott paradicsom",
+            "1 kk. szardellapaszta",
+            "4 szelet sokmagos kenyér",
+            "2 ek. reszelt juhsajt",
+            "4-5 szál petrezselyem"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A csicseriborsót előző este megmossuk, beáztatjuk 1 liter hideg vízbe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Másnap az áztatóvízben, a fokhagymával és babérlevéllel együtt, mérselt tűzön, félig lefedve puhára főzzük (30 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A szalonnát apróra felkockázzuk, a hagymát meg- hámozzuk, és finomra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A spenótot megtisztítjuk, váltott vízben megmossuk, és 1 cm-es csíkokra metéljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A mandulát durvára vágjuk, és serpenyőben, zsiradék nélkül világosbarnára pirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A szalonnát megsütjük a felforrósított olajban, üvegesre pároljuk benne a hagymát, rádobjuk a spenótot, és megfonnyasztjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzáadjuk a paradicsomot és a csicseriborsót (mindkettőt levével együtt), végül a szardellapasztával, sóval és borssal ízesítjük, jól összeforraljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kenyérszeleteket (grill-) sütőben mindkét oldalukon, zsiradék nélkül megpirítjuk, megszórjuk a sajttal, és csak annyi időre tesszük vissza a sütőbe, amíg a sajt kissé megolvad."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A levest tányérokba szedjük, meghintjük a pirított mandulával és a finomra vágott petrezselyemmel, végül a tetejükre helyezzük a sajtos pirítósszeleteket, és azonnal tálaljuk."
+            }
+        ],
+        "prepTime": "PT40M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 személyre",
+        "image": "images/8df43a8a-1df6-42cf-a494-62321b27ea0a_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "8df43a8a-1df6-42cf-a494-62321b27ea0a",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Csicseriborsó-leves",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT40M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "150 g csicseriborsó",
+                "2 gerezd fokhagyma",
+                "1 babérlevél",
+                "50 g füstölt szalonna",
+                "1 kis fej hagyma",
+                "200 g spenót",
+                "1 ek. hámozott mandula",
+                "1 ek. olaj",
+                "só, bors",
+                "1 kis doboz felaprózott, hámozott paradicsom",
+                "1 kk. szardellapaszta",
+                "4 szelet sokmagos kenyér",
+                "2 ek. reszelt juhsajt",
+                "4-5 szál petrezselyem"
+            ],
+            "recipeDirections": [
+                "A csicseriborsót előző este megmossuk, beáztatjuk 1 liter hideg vízbe.",
+                "Másnap az áztatóvízben, a fokhagymával és babérlevéllel együtt, mérselt tűzön, félig lefedve puhára főzzük (30 perc).",
+                "A szalonnát apróra felkockázzuk, a hagymát meg- hámozzuk, és finomra vágjuk.",
+                "A spenótot megtisztítjuk, váltott vízben megmossuk, és 1 cm-es csíkokra metéljük.",
+                "A mandulát durvára vágjuk, és serpenyőben, zsiradék nélkül világosbarnára pirítjuk.",
+                "A szalonnát megsütjük a felforrósított olajban, üvegesre pároljuk benne a hagymát, rádobjuk a spenótot, és megfonnyasztjuk.",
+                "Hozzáadjuk a paradicsomot és a csicseriborsót (mindkettőt levével együtt), végül a szardellapasztával, sóval és borssal ízesítjük, jól összeforraljuk.",
+                "A kenyérszeleteket (grill-) sütőben mindkét oldalukon, zsiradék nélkül megpirítjuk, megszórjuk a sajttal, és csak annyi időre tesszük vissza a sütőbe, amíg a sajt kissé megolvad.",
+                "A levest tányérokba szedjük, meghintjük a pirított mandulával és a finomra vágott petrezselyemmel, végül a tetejükre helyezzük a sajtos pirítósszeleteket, és azonnal tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/8df43a8a-1df6-42cf-a494-62321b27ea0a_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 213,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

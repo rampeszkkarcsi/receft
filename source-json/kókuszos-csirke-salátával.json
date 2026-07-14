@@ -1,0 +1,91 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kókuszos csirke salátával",
+        "recipeIngredient": [
+            "A húshoz",
+            "4 csirkecomb vagy más csirkehús",
+            "2 tojás",
+            "2 ek. kókuszreszelék",
+            "liszt",
+            "zsemlemorzsa",
+            "só",
+            "fehér bors",
+            "ételízesítő",
+            "olaj",
+            "A salátához",
+            "2 fej saláta",
+            "1 ek. olívaolaj",
+            "citrom",
+            "15 dkg reszelt sajt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A combokat félbevágjuk, ízlés szerint fűszerezzük sóval és fehér borssal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tojásokat villával felverjük, csipet sóval és kókuszreszelékkel elkeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A húsokat lisztbe, majd kókuszos tojásba és zsemlemorzsába forgatjuk és bő olajban mindkét oldalukat pirosra sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A salátákat négybe vágjuk, két-két negyedet tányérokra teszünk, kevés olajat és citromlét csöpögtetünk rá, majd reszelt sajttal megszórjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A salátát a hús mellé köretként tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/68ac9ec0-1e8d-4be6-9483-9a824ebb44fb_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "68ac9ec0-1e8d-4be6-9483-9a824ebb44fb",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kókuszos csirke salátával",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "A húshoz",
+                "4 csirkecomb vagy más csirkehús",
+                "2 tojás",
+                "2 ek. kókuszreszelék",
+                "liszt",
+                "zsemlemorzsa",
+                "só",
+                "fehér bors",
+                "ételízesítő",
+                "olaj",
+                "A salátához",
+                "2 fej saláta",
+                "1 ek. olívaolaj",
+                "citrom",
+                "15 dkg reszelt sajt"
+            ],
+            "recipeDirections": [
+                "A combokat félbevágjuk, ízlés szerint fűszerezzük sóval és fehér borssal.",
+                "A tojásokat villával felverjük, csipet sóval és kókuszreszelékkel elkeverjük.",
+                "A húsokat lisztbe, majd kókuszos tojásba és zsemlemorzsába forgatjuk és bő olajban mindkét oldalukat pirosra sütjük.",
+                "A salátákat négybe vágjuk, két-két negyedet tányérokra teszünk, kevés olajat és citromlét csöpögtetünk rá, majd reszelt sajttal megszórjuk.",
+                "A salátát a hús mellé köretként tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/68ac9ec0-1e8d-4be6-9483-9a824ebb44fb_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 225,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

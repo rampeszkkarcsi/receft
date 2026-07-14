@@ -1,0 +1,78 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Mézes-citromos hal",
+        "recipeIngredient": [
+            "8 kisebb szelet halfilé",
+            "12 dkg vaj",
+            "1 ek. méz",
+            "1 citrom",
+            "só",
+            "őrölt fehér bors"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A halfiléket enyhén megsózzuk és citromlét csöpögtetünk rájuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy tepsit hideg vajjal kikenünk, és egymás mellé belefektetjük a halszeleteket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A maradék vajat megolvasztjuk, majd mézzel, citromlével és kevés fehér borssal elkeverjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egy kenőtoll vagy konyhai ecset segítségével vajas mézzel megkenjük a halakat, és előmelegített sütőbe tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kb. 15-20 perc alatt puhára pároljuk, közben néhányszor megkenjük és egyszer megforgatjuk a halfiléket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Párolt vegyes zöldséggel és/vagy párolt rizzsel körítve tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "image": "images/02dc0898-1220-41cd-878d-001b3e778e6b_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "02dc0898-1220-41cd-878d-001b3e778e6b",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Mézes-citromos hal",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "8 kisebb szelet halfilé",
+                "12 dkg vaj",
+                "1 ek. méz",
+                "1 citrom",
+                "só",
+                "őrölt fehér bors"
+            ],
+            "recipeDirections": [
+                "A halfiléket enyhén megsózzuk és citromlét csöpögtetünk rájuk.",
+                "Egy tepsit hideg vajjal kikenünk, és egymás mellé belefektetjük a halszeleteket.",
+                "A maradék vajat megolvasztjuk, majd mézzel, citromlével és kevés fehér borssal elkeverjük.",
+                "Egy kenőtoll vagy konyhai ecset segítségével vajas mézzel megkenjük a halakat, és előmelegített sütőbe tesszük.",
+                "Kb. 15-20 perc alatt puhára pároljuk, közben néhányszor megkenjük és egyszer megforgatjuk a halfiléket.",
+                "Párolt vegyes zöldséggel és/vagy párolt rizzsel körítve tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/02dc0898-1220-41cd-878d-001b3e778e6b_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 226,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

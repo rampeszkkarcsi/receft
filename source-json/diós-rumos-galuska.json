@@ -1,0 +1,85 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Diós-rumos galuska",
+        "recipeIngredient": [
+            "150 g dió",
+            "1 mk. olaj",
+            "2 kk. vaj/margarin",
+            "150 g kristálycukor",
+            "1 kakaós/sima piskótatorta vagy -hasáb (kb. 400 g)",
+            "300 g sárgabaracklekvár",
+            "1 dl rum",
+            "2 ek. kakaó",
+            "néhány citromfűbóbita",
+            "A rumos öntethez",
+            "2 tasak vaníliaízű desszert-öntetpor (főzhető)",
+            "4 ek. cukor",
+            "5 dl tej",
+            "1 dl rum"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A grillázshoz a diót durvára vágjuk. Felfordított tepsihátra alufólialapot simítunk, megkenjük az olajjal. Mérsékelt tűzön világosbarnára pirítjuk a vajjal/margarinnal a kristálycukrot, beleszórjuk a diót, 1/2 percig pirítjuk. Azonnal a fóliára simítjuk, hagyjuk megdermedni, majd nejlontasakba zárjuk, és húsverővel darabosra törjük. Egyharmadát félretesszük a szóráshoz."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A piskótát 3 lapra vágjuk, meglocsoljuk a rummal, az alsót tálra fektetjük. A lekvárt felforrósítjuk, szitakanálban áttörjük, kissé hűlni hagyjuk, majd megkenjük vele az alsó lapot. Megszórjuk a grillázs felével, aztán a középső lap, lekvár, a maradék grillázs, végül a felső lap és a maradék lekvár következik. Lazán letakarjuk, 12 órára a hűtőszekrénybe tesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az öntethez simára keverjük a desszertöntetport a cukorral és a tejjel, gőz fölött besűrítjük, majd kihűtjük, és hozzáadjuk a rumot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tálaláskor a piskótát vastagon beszórjuk a kakaóval. Evőkanállal nagyobb galuskákat szaggatunk ki belőle, kistányérokra halmozzuk, bevonjuk öntetettel és megszórjuk grillázzsal. A maradék öntet és grillázs kíséretében, citromfűvel díszítve kínáljuk."
+            }
+        ],
+        "prepTime": "PT40M",
+        "cookTime": "PT0S",
+        "recipeYield": "12 adag",
+        "image": "images/d9603c05-d918-4acd-9d7f-df5b023e89b7_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "d9603c05-d918-4acd-9d7f-df5b023e89b7",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Diós-rumos galuska",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "12 adag",
+            "prepTime": "PT40M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "150 g dió",
+                "1 mk. olaj",
+                "2 kk. vaj/margarin",
+                "150 g kristálycukor",
+                "1 kakaós/sima piskótatorta vagy -hasáb (kb. 400 g)",
+                "300 g sárgabaracklekvár",
+                "1 dl rum",
+                "2 ek. kakaó",
+                "néhány citromfűbóbita",
+                "A rumos öntethez",
+                "2 tasak vaníliaízű desszert-öntetpor (főzhető)",
+                "4 ek. cukor",
+                "5 dl tej",
+                "1 dl rum"
+            ],
+            "recipeDirections": [
+                "A grillázshoz a diót durvára vágjuk. Felfordított tepsihátra alufólialapot simítunk, megkenjük az olajjal. Mérsékelt tűzön világosbarnára pirítjuk a vajjal/margarinnal a kristálycukrot, beleszórjuk a diót, 1/2 percig pirítjuk. Azonnal a fóliára simítjuk, hagyjuk megdermedni, majd nejlontasakba zárjuk, és húsverővel darabosra törjük. Egyharmadát félretesszük a szóráshoz.",
+                "A piskótát 3 lapra vágjuk, meglocsoljuk a rummal, az alsót tálra fektetjük. A lekvárt felforrósítjuk, szitakanálban áttörjük, kissé hűlni hagyjuk, majd megkenjük vele az alsó lapot. Megszórjuk a grillázs felével, aztán a középső lap, lekvár, a maradék grillázs, végül a felső lap és a maradék lekvár következik. Lazán letakarjuk, 12 órára a hűtőszekrénybe tesszük.",
+                "Az öntethez simára keverjük a desszertöntetport a cukorral és a tejjel, gőz fölött besűrítjük, majd kihűtjük, és hozzáadjuk a rumot.",
+                "Tálaláskor a piskótát vastagon beszórjuk a kakaóval. Evőkanállal nagyobb galuskákat szaggatunk ki belőle, kistányérokra halmozzuk, bevonjuk öntetettel és megszórjuk grillázzsal. A maradék öntet és grillázs kíséretében, citromfűvel díszítve kínáljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/d9603c05-d918-4acd-9d7f-df5b023e89b7_0.jpg"
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 4,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:40+00:00"
+    }
+]

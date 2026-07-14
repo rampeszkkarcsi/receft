@@ -1,0 +1,86 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Pékkifli pizzasütő módra",
+        "recipeIngredient": [
+            "300 g paradicsom",
+            "1 nagy fej hagyma",
+            "1 gerezd fokhagyma",
+            "1+3 ek. olívaolaj",
+            "1 ek. sűrített paradicsom",
+            "1 kk. pizzafűszer",
+            "só, bors",
+            "1 kk. cukor",
+            "500 g finomliszt",
+            "1 tasak instant élesztő",
+            "1 ek. tej",
+            "1 tojássárgája"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A paradicsomokat meghámozzuk és felaprózzuk. A hagymát és a fokhagymát finomra vágjuk, megfonnyasztjuk 1 ek. olajban. Hozzáadjuk a paradicsomot, a sűrített paradicsomot, a pizzafűszert, sózzuk, borsozzuk. Alig lefedve sűrű péppé főzzük, majd kihűtjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A cukrot és 1 ek. sót feloldjuk 3 dl langyos vízben."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet tálba szitáljuk, hozzá keverjük az élesztőt, apránként a vizet, 3 ek. olívaolajat, és fényesre-hólyagosra dagasztjuk. Konyharuhával letakarjuk, 20 percig kelni hagyjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát lisztezett munkalapon átgyúrjuk, 3 cipóra osztjuk. A cipókat egymás után 28-30 cm átmérőjű korongokra nyújtjuk, és átlósan 8-8 háromszögre-cikkre vágjuk. Talapzatukra halmozunk 1-1 kk. paradicsomkrémet, szorosan felcsavarjuk, és tisztes távolságra egymástól 2 sütőpapírral bélelt tepsire rakjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Konyharuhával letakarva 20 percig kelesztjük, aztán megkenjük a tejjel elkevert tojássárgájával, és 200 °C-os sütőben aranysárgára sütjük (20-25 perc). Ha nem légkeveréses a sütőnk, félidőben megcseréljük a tepsik helyét. Teljesen kihűlve fogyasztjuk."
+            }
+        ],
+        "prepTime": "PT20M",
+        "cookTime": "PT25M",
+        "recipeYield": "24 darab",
+        "image": "images/09925f23-6d28-4248-a765-6a3ae59e377b_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "09925f23-6d28-4248-a765-6a3ae59e377b",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Pékkifli pizzasütő módra",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "24 darab",
+            "prepTime": "PT20M",
+            "cookTime": "PT25M",
+            "recipeIngredients": [
+                "300 g paradicsom",
+                "1 nagy fej hagyma",
+                "1 gerezd fokhagyma",
+                "1+3 ek. olívaolaj",
+                "1 ek. sűrített paradicsom",
+                "1 kk. pizzafűszer",
+                "só, bors",
+                "1 kk. cukor",
+                "500 g finomliszt",
+                "1 tasak instant élesztő",
+                "1 ek. tej",
+                "1 tojássárgája"
+            ],
+            "recipeDirections": [
+                "A paradicsomokat meghámozzuk és felaprózzuk. A hagymát és a fokhagymát finomra vágjuk, megfonnyasztjuk 1 ek. olajban. Hozzáadjuk a paradicsomot, a sűrített paradicsomot, a pizzafűszert, sózzuk, borsozzuk. Alig lefedve sűrű péppé főzzük, majd kihűtjük.",
+                "A cukrot és 1 ek. sót feloldjuk 3 dl langyos vízben.",
+                "A lisztet tálba szitáljuk, hozzá keverjük az élesztőt, apránként a vizet, 3 ek. olívaolajat, és fényesre-hólyagosra dagasztjuk. Konyharuhával letakarjuk, 20 percig kelni hagyjuk.",
+                "A tésztát lisztezett munkalapon átgyúrjuk, 3 cipóra osztjuk. A cipókat egymás után 28-30 cm átmérőjű korongokra nyújtjuk, és átlósan 8-8 háromszögre-cikkre vágjuk. Talapzatukra halmozunk 1-1 kk. paradicsomkrémet, szorosan felcsavarjuk, és tisztes távolságra egymástól 2 sütőpapírral bélelt tepsire rakjuk.",
+                "Konyharuhával letakarva 20 percig kelesztjük, aztán megkenjük a tejjel elkevert tojássárgájával, és 200 °C-os sütőben aranysárgára sütjük (20-25 perc). Ha nem légkeveréses a sütőnk, félidőben megcseréljük a tepsik helyét. Teljesen kihűlve fogyasztjuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/09925f23-6d28-4248-a765-6a3ae59e377b_0.jpg"
+        },
+        "x-source-file": "6927f13b-408a-4c16-9b05-60d162e1329b.zip",
+        "x-db-id": 193,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

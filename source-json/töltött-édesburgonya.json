@@ -1,0 +1,88 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Töltött édesburgonya",
+        "recipeIngredient": [
+            "édesburgonya",
+            "lilahagyma",
+            "fokhagyma",
+            "csirkemell",
+            "paradicsom",
+            "reszelt sajt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Az édesburgonyát alaposan megmosom, megszurkálom és mikróban sütöm. (max. teljesítményen 5-5 perc mindkét oldal)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben egy kis fej lilahagymát apróra vágok, olajon megdinsztelem, rá a zúzott fokhagymát, majd az apróra kockázott csirkemellet."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sózzom, borsozom jól megpirítom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ráteszem a felaprított paradicsomot, vagy aszalt paradicsomot, bazsalikomot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kicsit összesütöm."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A édesburgonyát félbevágom, kicsit megkaparom, hogy mélyedés legyen a tölteléknek."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ráteszem a ragut, tetejére reszelt sajtot, vagy fetát és mehet a sütőbe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "170-180°C-on amíg megpirul a teteje."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT30M",
+        "image": "images/2393f655-c25f-4352-9d41-b4e522bcee14_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "2393f655-c25f-4352-9d41-b4e522bcee14",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Töltött édesburgonya",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "édesburgonya",
+                "lilahagyma",
+                "fokhagyma",
+                "csirkemell",
+                "paradicsom",
+                "reszelt sajt"
+            ],
+            "recipeDirections": [
+                "Az édesburgonyát alaposan megmosom, megszurkálom és mikróban sütöm. (max. teljesítményen 5-5 perc mindkét oldal).",
+                "Közben egy kis fej lilahagymát apróra vágok, olajon megdinsztelem, rá a zúzott fokhagymát, majd az apróra kockázott csirkemellet.",
+                "Sózzom, borsozom jól megpirítom.",
+                "Ráteszem a felaprított paradicsomot, vagy aszalt paradicsomot, bazsalikomot.",
+                "Kicsit összesütöm.",
+                "A édesburgonyát félbevágom, kicsit megkaparom, hogy mélyedés legyen a tölteléknek.",
+                "Ráteszem a ragut, tetejére reszelt sajtot, vagy fetát és mehet a sütőbe.",
+                "170-180°C-on amíg megpirul a teteje."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/2393f655-c25f-4352-9d41-b4e522bcee14_0.jpg"
+        },
+        "x-source-file": "09c48476-6645-455f-adfa-09814c424ba4.zip",
+        "x-db-id": 39,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

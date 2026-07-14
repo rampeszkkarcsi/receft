@@ -1,0 +1,92 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Töltött óriás kagylótészta",
+        "recipeIngredient": [
+            "Elkészítési idő: 1 és 1/4 óra",
+            "1 adag: 828 kcal/3459 kJ",
+            "HOZZÁVALÓK 4 SZEMÉLYRE:",
+            "● 1 csokor újhagyma/80 g hagyma",
+            "2 gerezd fokhagyma",
+            "• 250 g sampinyon gomba",
+            "200 g csirkemellfilé (bőr nélkül) ⚫ 3 ek. olaj",
+            "1/2 kk. provence-i fűszerkeverék",
+            "1 ek. csípős paprikakrém só, bors",
+            "400 g óriás kagylótészta (olasz)",
+            "diónyi+20 g vaj/margarin",
+            "1 csokor petrezselyem",
+            "100 g főtt sonka (maradék) • 1 tojás",
+            "30+20 g reszelt parmezán sajt ⚫ 3 dl tejszín",
+            "12-15 szál snidling"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát és a fokhagymát meghámozzuk, a hagymát 6-8 cm-es zöldjével együtt felkarikázzuk (további 2-3 hagyma zöldjét felaprózzuk, félretesszük). A gombát megtisztítjuk, vékonyan felszeleteljük. A húst leöblítjük, apróra felkockázzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megfonnyasztjuk az olajban a hagymát és az áttört fokhagymát, rádobjuk a húst, élénk tűzön fehéredésig pirítjuk. Hozzáadjuk a gombát, a provance-i fűszerkeveréket, a paprikakrémet, ízlés szerint sót, frissen őrölt borsot, és saját levében-gőzében, mérsékelt tűzön, fedő alatt 15 percig pároljuk, végül fedő nélkül elfőzzük a levét, majd teljesen hagyjuk kihűlni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Enyhén sós, bő vízben, a csomagoláson feltüntetett időt figyelembe véve kifőzzük a tésztát (ügyeljünk arra, hogy ne főjön szét, mert akkor nem tudjuk szépen megtölteni!). Leszűrjük, óvatosan lerázzuk a tésztakagylókról a vizet, majd üregükkel lefelé fordítva tiszta konyharuhára terítjük, hagyjuk kihűlni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Diónyi vajjal/margarinnal kikenünk egy csinos tűzálló tálat. A sütőt előmelegítjük 200 °C-ra. A petrezselymet leöblítjük, levélkéit lecsipkedjük. A sonkát felaprózzuk, majd a kihűlt gombás hússal, a félretett hagymaszárral, a petrezselyemmel, a tojással és 30 g reszelt sajttal együtt aprítógépbe tesszük. Néhány pörgetéssel finom péppé zúzzuk, utánasózzuk, borsozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A masszát sima csőrbetétes habzsákba szedjük, megtöltjük vele a tésztakagylókat. széleiket kissé összehajtjuk. A kagylók felét a sütőtálba sorakoztatjuk, meglocsoljuk a tejszín felével, aztán a maradék töltött kagylók következnek, végül a maradék tejszín. Mogyorónyi darabokban a tészta tetejére tördeljük a maradék 20 g vajat/margarint, megszórjuk a maradék 20 g reszelt sajttal, és 15-20 percig, enyhe pirulásig sütjük (túlsütni nem tanácsos, mert megkeményedik a tészta!). A sütőből kivéve 5 percig hűlni hagyjuk (tűzforró a tészta!), tetejét meghintjük a finomra vágott snidlinggel, és a sütőtálban kínáljuk. Külön tálkában reszelt sajtot adhatunk hozzá."
+            }
+        ],
+        "prepTime": "PT1H15M",
+        "cookTime": "PT15M",
+        "recipeYield": "4",
+        "image": "images/067685fc-bd87-4342-9f5e-9f5b5535dbb9_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "067685fc-bd87-4342-9f5e-9f5b5535dbb9",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Töltött óriás kagylótészta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4",
+            "prepTime": "PT1H15M",
+            "cookTime": "PT15M",
+            "recipeIngredients": [
+                "Elkészítési idő: 1 és 1/4 óra",
+                "1 adag: 828 kcal/3459 kJ",
+                "HOZZÁVALÓK 4 SZEMÉLYRE:",
+                "● 1 csokor újhagyma/80 g hagyma",
+                "2 gerezd fokhagyma",
+                "• 250 g sampinyon gomba",
+                "200 g csirkemellfilé (bőr nélkül) ⚫ 3 ek. olaj",
+                "1/2 kk. provence-i fűszerkeverék",
+                "1 ek. csípős paprikakrém só, bors",
+                "400 g óriás kagylótészta (olasz)",
+                "diónyi+20 g vaj/margarin",
+                "1 csokor petrezselyem",
+                "100 g főtt sonka (maradék) • 1 tojás",
+                "30+20 g reszelt parmezán sajt ⚫ 3 dl tejszín",
+                "12-15 szál snidling"
+            ],
+            "recipeDirections": [
+                "A hagymát és a fokhagymát meghámozzuk, a hagymát 6-8 cm-es zöldjével együtt felkarikázzuk (további 2-3 hagyma zöldjét felaprózzuk, félretesszük). A gombát megtisztítjuk, vékonyan felszeleteljük. A húst leöblítjük, apróra felkockázzuk.",
+                "Megfonnyasztjuk az olajban a hagymát és az áttört fokhagymát, rádobjuk a húst, élénk tűzön fehéredésig pirítjuk. Hozzáadjuk a gombát, a provance-i fűszerkeveréket, a paprikakrémet, ízlés szerint sót, frissen őrölt borsot, és saját levében-gőzében, mérsékelt tűzön, fedő alatt 15 percig pároljuk, végül fedő nélkül elfőzzük a levét, majd teljesen hagyjuk kihűlni.",
+                "Enyhén sós, bő vízben, a csomagoláson feltüntetett időt figyelembe véve kifőzzük a tésztát (ügyeljünk arra, hogy ne főjön szét, mert akkor nem tudjuk szépen megtölteni!). Leszűrjük, óvatosan lerázzuk a tésztakagylókról a vizet, majd üregükkel lefelé fordítva tiszta konyharuhára terítjük, hagyjuk kihűlni.",
+                "Diónyi vajjal/margarinnal kikenünk egy csinos tűzálló tálat. A sütőt előmelegítjük 200 °C-ra. A petrezselymet leöblítjük, levélkéit lecsipkedjük. A sonkát felaprózzuk, majd a kihűlt gombás hússal, a félretett hagymaszárral, a petrezselyemmel, a tojással és 30 g reszelt sajttal együtt aprítógépbe tesszük. Néhány pörgetéssel finom péppé zúzzuk, utánasózzuk, borsozzuk.",
+                "A masszát sima csőrbetétes habzsákba szedjük, megtöltjük vele a tésztakagylókat. széleiket kissé összehajtjuk. A kagylók felét a sütőtálba sorakoztatjuk, meglocsoljuk a tejszín felével, aztán a maradék töltött kagylók következnek, végül a maradék tejszín. Mogyorónyi darabokban a tészta tetejére tördeljük a maradék 20 g vajat/margarint, megszórjuk a maradék 20 g reszelt sajttal, és 15-20 percig, enyhe pirulásig sütjük (túlsütni nem tanácsos, mert megkeményedik a tészta!). A sütőből kivéve 5 percig hűlni hagyjuk (tűzforró a tészta!), tetejét meghintjük a finomra vágott snidlinggel, és a sütőtálban kínáljuk. Külön tálkában reszelt sajtot adhatunk hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/067685fc-bd87-4342-9f5e-9f5b5535dbb9_0.jpg"
+        },
+        "x-source-file": "78c7b1d4-56f5-40ee-9e76-a7d93ffbed93.zip",
+        "x-db-id": 159,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

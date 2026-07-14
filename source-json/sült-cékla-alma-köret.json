@@ -1,0 +1,79 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sült cékla-alma köret",
+        "recipeIngredient": [
+            "600 g apró szemű cékla",
+            "1 nagy fej hagyma",
+            "6-8 gerezd fokhagyma",
+            "4 ek. (classico) olívaolaj",
+            "só",
+            "fehér bors",
+            "1 ág rozmaring (20 cm-es)",
+            "2 nagyobb, savanykás alma",
+            "3 ek. citromlé",
+            "2-3 szál petrezselyem",
+            "1-2 apró csilipaprika"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A céklát 30 percre beáztatjuk langyos vízbe, aztán erős szálú (kizárólag konyhai célokra használt) kefével alaposan megsikáljuk. A gumók két végét leválasztjuk, karcsú gerezdekre szeljük, tepsibe terítjük - meghámozni nem szükséges, héja a sülés folyamán megpuhul, csaknem eltűnik."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát és a fokhagymát megtisztítjuk, a hagymát felkarikázzuk, a fokhagymagerezdeket ellapítjuk, majd az olajjal együtt a céklához adjuk. Ízlés szerint sózzuk, borsozzuk, megszórjuk a rozmaringlevelek felével, alufóliával letakarjuk, és 180 °C-ra előmelegített sütőben 30 percig pároljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az almákat megmossuk, elnyolcadoljuk, magházukat kivájjuk, meglocsoljuk a citromlével, és lazán a céklához keverjük. Visszatesszük a sütőbe, fólia nélkül az egészet puhára sütjük (további 20-25 perc). Nem túl mély tálba szedjük, megszórjuk a finomra aprított petrezselyemmel, végül a csilipaprikákkal és a maradék rozmaringgal díszítjük. Sült halak, szárnyasok, pecsenyék köreteként kínálhatjuk, de önmagában is pompás."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "TIPP: Egytálételként a cékla és az alma mennyiségét megkétszerezzük, továbbá 400 g meghámozott, hasábokra vágott burgonyával gazdagítjuk; süthetjük a tűzhelylapon, nagy méretű serpenyőben is."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT55M",
+        "recipeYield": "4 PERSON",
+        "image": "images/a9a39a17-a257-4d86-ae45-2461e8fcd621_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "a9a39a17-a257-4d86-ae45-2461e8fcd621",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sült cékla-alma köret",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT1H",
+            "cookTime": "PT55M",
+            "recipeIngredients": [
+                "600 g apró szemű cékla",
+                "1 nagy fej hagyma",
+                "6-8 gerezd fokhagyma",
+                "4 ek. (classico) olívaolaj",
+                "só",
+                "fehér bors",
+                "1 ág rozmaring (20 cm-es)",
+                "2 nagyobb, savanykás alma",
+                "3 ek. citromlé",
+                "2-3 szál petrezselyem",
+                "1-2 apró csilipaprika"
+            ],
+            "recipeDirections": [
+                "A céklát 30 percre beáztatjuk langyos vízbe, aztán erős szálú (kizárólag konyhai célokra használt) kefével alaposan megsikáljuk. A gumók két végét leválasztjuk, karcsú gerezdekre szeljük, tepsibe terítjük - meghámozni nem szükséges, héja a sülés folyamán megpuhul, csaknem eltűnik.",
+                "A hagymát és a fokhagymát megtisztítjuk, a hagymát felkarikázzuk, a fokhagymagerezdeket ellapítjuk, majd az olajjal együtt a céklához adjuk. Ízlés szerint sózzuk, borsozzuk, megszórjuk a rozmaringlevelek felével, alufóliával letakarjuk, és 180 °C-ra előmelegített sütőben 30 percig pároljuk.",
+                "Az almákat megmossuk, elnyolcadoljuk, magházukat kivájjuk, meglocsoljuk a citromlével, és lazán a céklához keverjük. Visszatesszük a sütőbe, fólia nélkül az egészet puhára sütjük (további 20-25 perc). Nem túl mély tálba szedjük, megszórjuk a finomra aprított petrezselyemmel, végül a csilipaprikákkal és a maradék rozmaringgal díszítjük. Sült halak, szárnyasok, pecsenyék köreteként kínálhatjuk, de önmagában is pompás.",
+                "TIPP: Egytálételként a cékla és az alma mennyiségét megkétszerezzük, továbbá 400 g meghámozott, hasábokra vágott burgonyával gazdagítjuk; süthetjük a tűzhelylapon, nagy méretű serpenyőben is."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/a9a39a17-a257-4d86-ae45-2461e8fcd621_0.jpg"
+        },
+        "x-source-file": "5d69ba0e-6fbf-4ffa-86b3-7aaa925b1eab.zip",
+        "x-db-id": 178,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

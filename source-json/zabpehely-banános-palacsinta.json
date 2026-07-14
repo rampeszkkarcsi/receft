@@ -1,0 +1,63 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Zabpehely-banános palacsinta",
+        "recipeIngredient": [
+            "1/2 csésze gluténmentes zabpehely",
+            "1/2 teáskanál sütőpor",
+            "1 pohár joghurt (ízléstől függő hogy milyen)",
+            "1/2 közepes érett banán",
+            "1 tojás",
+            "1/2 teáskanál vanília",
+            "1/3 csésze friss vagy fagyasztott tetszés szerinti gyümölcs"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A gyümölcs kivételével minden összetevőt keverjük össze, amíg sima nem lesz."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tésztát félretesszük néhány percig, majd egy kevés zsiradékot, süssük serpenyőben, közben adjunk hozzá néhány gyümölcsöt a tetejére."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Addig süssük, amíg a buborékok meg nem jelennek a tetején, utána megfordítsuk őket és addig süssük, amíg aranybarna nem lesz."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "293e2a0e-377a-4b31-81fd-3cf56972b271",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Zabpehely-banános palacsinta",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1/2 csésze gluténmentes zabpehely",
+                "1/2 teáskanál sütőpor",
+                "1 pohár joghurt (ízléstől függő hogy milyen)",
+                "1/2 közepes érett banán",
+                "1 tojás",
+                "1/2 teáskanál vanília",
+                "1/3 csésze friss vagy fagyasztott tetszés szerinti gyümölcs"
+            ],
+            "recipeDirections": [
+                "A gyümölcs kivételével minden összetevőt keverjük össze, amíg sima nem lesz.",
+                "A tésztát félretesszük néhány percig, majd egy kevés zsiradékot, süssük serpenyőben, közben adjunk hozzá néhány gyümölcsöt a tetejére.",
+                "Addig süssük, amíg a buborékok meg nem jelennek a tetején, utána megfordítsuk őket és addig süssük, amíg aranybarna nem lesz."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "31bfc51d-37ff-47bb-9c58-5571230ee5ae.zip",
+        "x-db-id": 100,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

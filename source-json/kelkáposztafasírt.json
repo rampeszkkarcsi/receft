@@ -1,0 +1,91 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kelkáposztafasírt",
+        "recipeIngredient": [
+            "50 dkg kelkáposzta",
+            "3 db tojás",
+            "2 db zsemle (szikkadt)",
+            "2 ek tej",
+            "1 közepes fej vöröshagyma",
+            "2 gerezd fokhagyma",
+            "10 dkg zsemlemorzsa",
+            "só ízlés szerint",
+            "1 csipet bors",
+            "1 kávéskanál őrölt fűszerkömény",
+            "1 kk majoranna",
+            "2 ek napraforgó olaj",
+            "2 dl napraforgó olaj (a sütéshez)"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A kelkáposztát félbevágjuk, a torzsájától megszabadítjuk, és enyhén sós vízben nem teljesen puhára főzzük. Alaposan lecsepegtetjük, a vizet ki is nyomkodjuk belőle. Apró darabokra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A hagymát kis kockákra vágjuk, és az olajon megfonnyasztjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zsemléket tejbe áztatjuk, majd kicsavarjuk, és összemorzsoljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kelkáposztát összekeverjük a hagymával, a zsemlékkel, a zúzott fokhagymával, a tojásokkal. Fűszerezzük sóval, borssal, őrölt köménnyel, majorannával. Jól összedolgozzuk, és a massza állagától függően adunk hozzá 2-4 ek zsemlemorzsát, hogy formázható legyen."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kb. púpos ek-nyi darabokat veszünk ki belőle, és 2 cm vastag korongokká alakítjuk. Zsemlemorzsában megforgatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Forró olajban mindkét oldalukat pirosra sütjük, majd szalvétára szedjük, hogy az a felesleges olajat magába szívhassa."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "recipeYield": "4 adag",
+        "x-recipe-keeper": {
+            "recipeId": "e6a10166-4403-4c99-b432-d0b0292e0cf3",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kelkáposztafasírt",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 adag",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "50 dkg kelkáposzta",
+                "3 db tojás",
+                "2 db zsemle (szikkadt)",
+                "2 ek tej",
+                "1 közepes fej vöröshagyma",
+                "2 gerezd fokhagyma",
+                "10 dkg zsemlemorzsa",
+                "só ízlés szerint",
+                "1 csipet bors",
+                "1 kávéskanál őrölt fűszerkömény",
+                "1 kk majoranna",
+                "2 ek napraforgó olaj",
+                "2 dl napraforgó olaj (a sütéshez)"
+            ],
+            "recipeDirections": [
+                "A kelkáposztát félbevágjuk, a torzsájától megszabadítjuk, és enyhén sós vízben nem teljesen puhára főzzük. Alaposan lecsepegtetjük, a vizet ki is nyomkodjuk belőle. Apró darabokra vágjuk.",
+                "A hagymát kis kockákra vágjuk, és az olajon megfonnyasztjuk.",
+                "A zsemléket tejbe áztatjuk, majd kicsavarjuk, és összemorzsoljuk.",
+                "A kelkáposztát összekeverjük a hagymával, a zsemlékkel, a zúzott fokhagymával, a tojásokkal. Fűszerezzük sóval, borssal, őrölt köménnyel, majorannával. Jól összedolgozzuk, és a massza állagától függően adunk hozzá 2-4 ek zsemlemorzsát, hogy formázható legyen.",
+                "Kb. púpos ek-nyi darabokat veszünk ki belőle, és 2 cm vastag korongokká alakítjuk. Zsemlemorzsában megforgatjuk.",
+                "Forró olajban mindkét oldalukat pirosra sütjük, majd szalvétára szedjük, hogy az a felesleges olajat magába szívhassa."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "5d69ba0e-6fbf-4ffa-86b3-7aaa925b1eab.zip",
+        "x-db-id": 172,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

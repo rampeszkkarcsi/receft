@@ -1,0 +1,114 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "GYÖMBÉRES RAKOTT BURGONYA",
+        "recipeIngredient": [
+            "1 kg burgonya",
+            "5 dl tej",
+            "5 evőkanál finomliszt",
+            "20 dkg gomba",
+            "10 dkg sonka",
+            "5 dkg vaj",
+            "1 fej vöröshagyma",
+            "2-2 evőkanál zsemlemorzsa és olaj",
+            "1 diónyi friss gyömbér (vagy 1 evőkanál gyömbérpor)",
+            "1 csokor petrezselyemzöld",
+            "ízlés szerint só"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "a burgonyát meghámozom és hasábokra vágom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sós vízben megfőzöm, lecsöpögtetem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A gyömbért meghámozom, megreszelem, a petrezselyemzöldet finomra vágom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sonkát egészen vékony csíkozom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A gombát vékony szeletekre, a hagymát finomra vágom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A vajat a liszttel habzásig forrósítom, felöntöm a tejjel, és kevergetve sűrű mártássá főzöm."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tűzálló tálat kikenek egy evőkanál olajjal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "a mártást hagymával, gombával, gyömbérrel és sóval összekeverem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A kikent tepsibe egyenletesen elosztom burgonyát, ráöntöm a mártást, tetejére szórom a sonkacsíkokat, és zsemlemorzsával behintem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megmaradt olajjal meglocsolom, és előmelegített sütőben közepes lángon 30 percig sütöm."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "fehérjét valamint a finomra vágott zöldfűszereket."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT30M",
+        "recipeYield": "4 SZEMÉLYRE",
+        "image": "images/ae66b58a-07f8-4df7-820c-c81afdc919da_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "ae66b58a-07f8-4df7-820c-c81afdc919da",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "GYÖMBÉRES RAKOTT BURGONYA",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 SZEMÉLYRE",
+            "prepTime": "PT0S",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "1 kg burgonya",
+                "5 dl tej",
+                "5 evőkanál finomliszt",
+                "20 dkg gomba",
+                "10 dkg sonka",
+                "5 dkg vaj",
+                "1 fej vöröshagyma",
+                "2-2 evőkanál zsemlemorzsa és olaj",
+                "1 diónyi friss gyömbér (vagy 1 evőkanál gyömbérpor)",
+                "1 csokor petrezselyemzöld",
+                "ízlés szerint só"
+            ],
+            "recipeDirections": [
+                "a burgonyát meghámozom és hasábokra vágom.",
+                "Sós vízben megfőzöm, lecsöpögtetem.",
+                "A gyömbért meghámozom, megreszelem, a petrezselyemzöldet finomra vágom.",
+                "A sonkát egészen vékony csíkozom.",
+                "A gombát vékony szeletekre, a hagymát finomra vágom.",
+                "A vajat a liszttel habzásig forrósítom, felöntöm a tejjel, és kevergetve sűrű mártássá főzöm.",
+                "Tűzálló tálat kikenek egy evőkanál olajjal.",
+                "a mártást hagymával, gombával, gyömbérrel és sóval összekeverem.",
+                "A kikent tepsibe egyenletesen elosztom burgonyát, ráöntöm a mártást, tetejére szórom a sonkacsíkokat, és zsemlemorzsával behintem.",
+                "A megmaradt olajjal meglocsolom, és előmelegített sütőben közepes lángon 30 percig sütöm.",
+                "fehérjét valamint a finomra vágott zöldfűszereket."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/ae66b58a-07f8-4df7-820c-c81afdc919da_0.jpg"
+        },
+        "x-source-file": "a6a64a5f-514f-4273-8bef-9af377af9b33.zip",
+        "x-db-id": 252,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Aszalt sárgabarackos csirkemell",
+        "recipeIngredient": [
+            "70 dkg csirkemellfilé",
+            "só, frissen őrölt bors",
+            "1 dl olívaolaj",
+            "1 fej vöröshagyma",
+            "8 dl paradicsomlé (vagy 2x400 g hámozott, darabolt paradicsomkonzerv, leturmixolva)",
+            "1 nagy gerezd fokhagyma",
+            "1 teáskanál frissen őrölt római kömény (nem fűszerkömény!)",
+            "1 tk. őrölt fahéj",
+            "20 dkg aszalt sárgabarack",
+            "10 dkg mazsola"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A csirkemelleket egészben hagyva sózzuk, borsozzuk, egy nagyobb lábosban süssük körbe forró olajon. (Ha nem fér be egyben, részletekben)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tegyük félre a csirkemelleket, a visszamaradt olajon dinszteljük meg az apróra vágott hagymát, és helyezzük vissza a csirkemelleket."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Öntsük fel a paradicsomlével, adjuk hozzá az aprított fokhagymát, a köményt, a fahéjat, a mazsolát és az aszalt sárgabarackot."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sózzuk, borsozzuk, lefedve, takarékon főzzük a csirkemelleket a szószban 50 percen át."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Főtt rizzsel tálaljuk."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT50M",
+        "recipeYield": "4 PERSON",
+        "image": "images/ebcacb14-d63d-42ce-9a00-86956cd0de75_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "ebcacb14-d63d-42ce-9a00-86956cd0de75",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Aszalt sárgabarackos csirkemell",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT0S",
+            "cookTime": "PT50M",
+            "recipeIngredients": [
+                "70 dkg csirkemellfilé",
+                "só, frissen őrölt bors",
+                "1 dl olívaolaj",
+                "1 fej vöröshagyma",
+                "8 dl paradicsomlé (vagy 2x400 g hámozott, darabolt paradicsomkonzerv, leturmixolva)",
+                "1 nagy gerezd fokhagyma",
+                "1 teáskanál frissen őrölt római kömény (nem fűszerkömény!)",
+                "1 tk. őrölt fahéj",
+                "20 dkg aszalt sárgabarack",
+                "10 dkg mazsola"
+            ],
+            "recipeDirections": [
+                "A csirkemelleket egészben hagyva sózzuk, borsozzuk, egy nagyobb lábosban süssük körbe forró olajon. (Ha nem fér be egyben, részletekben).",
+                "Tegyük félre a csirkemelleket, a visszamaradt olajon dinszteljük meg az apróra vágott hagymát, és helyezzük vissza a csirkemelleket.",
+                "Öntsük fel a paradicsomlével, adjuk hozzá az aprított fokhagymát, a köményt, a fahéjat, a mazsolát és az aszalt sárgabarackot.",
+                "Sózzuk, borsozzuk, lefedve, takarékon főzzük a csirkemelleket a szószban 50 percen át.",
+                "Főtt rizzsel tálaljuk."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/ebcacb14-d63d-42ce-9a00-86956cd0de75_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 42,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

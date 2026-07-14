@@ -1,0 +1,118 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Göngyölt-töltött sült burgonya",
+        "recipeIngredient": [
+            "12 közepes burgonya (1,2 kg)",
+            "só",
+            "bors",
+            "1 babérlevél",
+            "150 g sampinyon gomba",
+            "2 ek. citromlé",
+            "1 ek. vaj/margarin",
+            "2-3 gerezd fokhagyma",
+            "12 szelet bacon szalonna",
+            "1 kk. olaj",
+            "4 dl tejföl",
+            "2 tojássárgája",
+            "3-4 szál petrezselyem"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A burgonyát megmossuk, és enyhén sós, babérlevéllel illatosított vízben, héjában feltesszük főni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A gombát megtisztítjuk, nem túl vékony szeletekre vágjuk, meg- hintjük a citromlével, majd a felforrósított vajban/margarinban 3 percig erős tűzön pirítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hozzákeverjük az áttört fokhagymát, egy kevés frissen őrölt borsot, és további 1 percig pirítjuk (meg ne égjen a fokhagyma, mert keserű lesz tőle az étel!)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A puhára főtt burgonyákat leszűrjük, majd evőkanálba fektetjük, és amíg a kanál pereme engedi, 4-5 szeletre bevágjuk úgy, hogy az aljuk egyben maradjon."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A „vágatokat” kissé szétnyitjuk, megsózzuk, és mindegyikbe 1-2 szelet pirított gombát helyezünk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A megtöltött burgonyaszemeket szorosan begöngyöljük 1-1 szelet szalonnába, hústűvel/fogvájóval megtűzzük, és olajjal kikent, jókora sütőedénybe ültetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A gomba levét összekeverjük a tejföllel, a tojássárgákkal és egy kevés sóval, majd vastagon megkenjük vele a burgonyák tetejét, és 200 °C-ra előmelegített sütőben szép pirosra sütjük (25-30 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőből kivéve 5 percig pihentetjük, tetejét meghintjük a finomra vágott petrezselyemmel, 1-2 tekerésnyi frissen őrölt borssal, és a sütőedényben tálaljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Külön csészében további tejfölt kínálhatunk hozzá."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kiadós, kitűnő vendégváró étel!"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "tipp Gomba helyett rokforttal, juhtúróval, aromás zöldfűszerekkel vagy hagymával/fokhagymával ízesített túróval, sőt, körözöttel is készíthetjük."
+            }
+        ],
+        "prepTime": "PT1H",
+        "cookTime": "PT30M",
+        "recipeYield": "4 személyre",
+        "image": "images/8b14796a-af5a-498d-9fd8-6ff97d556444_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "8b14796a-af5a-498d-9fd8-6ff97d556444",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Göngyölt-töltött sült burgonya",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT1H",
+            "cookTime": "PT30M",
+            "recipeIngredients": [
+                "12 közepes burgonya (1,2 kg)",
+                "só",
+                "bors",
+                "1 babérlevél",
+                "150 g sampinyon gomba",
+                "2 ek. citromlé",
+                "1 ek. vaj/margarin",
+                "2-3 gerezd fokhagyma",
+                "12 szelet bacon szalonna",
+                "1 kk. olaj",
+                "4 dl tejföl",
+                "2 tojássárgája",
+                "3-4 szál petrezselyem"
+            ],
+            "recipeDirections": [
+                "A burgonyát megmossuk, és enyhén sós, babérlevéllel illatosított vízben, héjában feltesszük főni.",
+                "A gombát megtisztítjuk, nem túl vékony szeletekre vágjuk, meg- hintjük a citromlével, majd a felforrósított vajban/margarinban 3 percig erős tűzön pirítjuk.",
+                "Hozzákeverjük az áttört fokhagymát, egy kevés frissen őrölt borsot, és további 1 percig pirítjuk (meg ne égjen a fokhagyma, mert keserű lesz tőle az étel!).",
+                "A puhára főtt burgonyákat leszűrjük, majd evőkanálba fektetjük, és amíg a kanál pereme engedi, 4-5 szeletre bevágjuk úgy, hogy az aljuk egyben maradjon.",
+                "A „vágatokat” kissé szétnyitjuk, megsózzuk, és mindegyikbe 1-2 szelet pirított gombát helyezünk.",
+                "A megtöltött burgonyaszemeket szorosan begöngyöljük 1-1 szelet szalonnába, hústűvel/fogvájóval megtűzzük, és olajjal kikent, jókora sütőedénybe ültetjük.",
+                "A gomba levét összekeverjük a tejföllel, a tojássárgákkal és egy kevés sóval, majd vastagon megkenjük vele a burgonyák tetejét, és 200 °C-ra előmelegített sütőben szép pirosra sütjük (25-30 perc).",
+                "A sütőből kivéve 5 percig pihentetjük, tetejét meghintjük a finomra vágott petrezselyemmel, 1-2 tekerésnyi frissen őrölt borssal, és a sütőedényben tálaljuk.",
+                "Külön csészében további tejfölt kínálhatunk hozzá.",
+                "Kiadós, kitűnő vendégváró étel!",
+                "tipp Gomba helyett rokforttal, juhtúróval, aromás zöldfűszerekkel vagy hagymával/fokhagymával ízesített túróval, sőt, körözöttel is készíthetjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/8b14796a-af5a-498d-9fd8-6ff97d556444_0.jpg"
+        },
+        "x-source-file": "a03bb2be-f44e-4cdb-b4c6-2983c3636147.zip",
+        "x-db-id": 222,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:44+00:00"
+    }
+]

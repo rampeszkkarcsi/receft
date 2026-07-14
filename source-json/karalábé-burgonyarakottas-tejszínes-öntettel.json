@@ -1,0 +1,132 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Karalábé-burgonyarakottas tejszínes öntettel",
+        "recipeIngredient": [
+            "700 g burgonya",
+            "2 zsenge karalábé (kb. 500 g)",
+            "só, fehér bors",
+            "1 kk. vaj/margarin",
+            "100 g gouda sajt",
+            "200 főtt sonka",
+            "1 ek. liszt",
+            "1 tojás",
+            "2,5 dl főzőtejszín",
+            "1 szelet piros húsú paprika"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A burgonyát megmossuk, enyhén vízben, héjában megfőzzük (20 perc). Leszűrjük, kissé hűlni hagyjuk, majd meghámozzuk, és hagyjuk csaknem teljesen kihűlni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a karalábékat meghámozzuk, nagyságuktól függően félbe-negyedbe vágjuk, 1/2 cm vékonyan felszeleteljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Forrásban lévő, enyhén sós vízbe dobjuk, az újraforrástól számított 5 percig főzzük, majd szűrőtal hideg vízbe szedjük (azaz blansírozzuk), végül leszűrjük-lecsöpögtetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Konyharuhára terítve hűlni-szikkadni hagyjuk, felületükről felitatjuk a vizet . aztán szeleteljük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kikenünk a vajjal/margarinnal egy nem túl mély, közepes méretű tűzálló tálat."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőt előmelegítjük 180 °C-ra."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sajtot finomra reszeljük, a sonkát vékony szeletekre-csíkokra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A burgonyát felkarikázzuk, felét a tál aljára terítjük, megHintjük sóval és frissen őrölt borssal, majd befedjük a karalábé felével, megszórjuk a sonkával."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ismét karalábé, végül a kis karikák következnek."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A lisztet és a tojást simára keverjük, hozzáadjuk a tejfölt, ízlés szerint sót, frissen őrölt fehér borsot, végül a reszelt sajtot, és a rakottas tetejére öntjük-simítjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Középső bordamagasságra állított rácsra helyezve 30-35 perc alatt aranysárgára sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A paprikát vékony csíkokra vágjuk, apróra felkockázzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A sütőből kivett rakottast 5-8 percig pihentetjük (nagyon forró a közepe!), aztán megszórjuk a tetejét a paprikával, és apró zsenge karalábélevelekkel vagy zöldfűszerlevélkékkel díszítve tálaljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Egytálételként vagy hirtelen sült húsok, halak köreteként kínálhatjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "TIPP: Készíthetjük sonka nélkül, több sajttal is, kíséretként pedig citrommal-olívaolajjal megöntözött vegyes salátát adhatunk hozzá."
+            }
+        ],
+        "prepTime": "PT1H45M",
+        "cookTime": "PT35M",
+        "recipeYield": "4 PERSON",
+        "image": "images/5be164ee-3723-4e26-9a95-ac9db8b249e3_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "5be164ee-3723-4e26-9a95-ac9db8b249e3",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Karalábé-burgonyarakottas tejszínes öntettel",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT1H45M",
+            "cookTime": "PT35M",
+            "recipeIngredients": [
+                "700 g burgonya",
+                "2 zsenge karalábé (kb. 500 g)",
+                "só, fehér bors",
+                "1 kk. vaj/margarin",
+                "100 g gouda sajt",
+                "200 főtt sonka",
+                "1 ek. liszt",
+                "1 tojás",
+                "2,5 dl főzőtejszín",
+                "1 szelet piros húsú paprika"
+            ],
+            "recipeDirections": [
+                "A burgonyát megmossuk, enyhén vízben, héjában megfőzzük (20 perc). Leszűrjük, kissé hűlni hagyjuk, majd meghámozzuk, és hagyjuk csaknem teljesen kihűlni.",
+                "Közben a karalábékat meghámozzuk, nagyságuktól függően félbe-negyedbe vágjuk, 1/2 cm vékonyan felszeleteljük.",
+                "Forrásban lévő, enyhén sós vízbe dobjuk, az újraforrástól számított 5 percig főzzük, majd szűrőtal hideg vízbe szedjük (azaz blansírozzuk), végül leszűrjük-lecsöpögtetjük.",
+                "Konyharuhára terítve hűlni-szikkadni hagyjuk, felületükről felitatjuk a vizet . aztán szeleteljük.",
+                "Kikenünk a vajjal/margarinnal egy nem túl mély, közepes méretű tűzálló tálat.",
+                "A sütőt előmelegítjük 180 °C-ra.",
+                "A sajtot finomra reszeljük, a sonkát vékony szeletekre-csíkokra vágjuk.",
+                "A burgonyát felkarikázzuk, felét a tál aljára terítjük, megHintjük sóval és frissen őrölt borssal, majd befedjük a karalábé felével, megszórjuk a sonkával.",
+                "Ismét karalábé, végül a kis karikák következnek.",
+                "A lisztet és a tojást simára keverjük, hozzáadjuk a tejfölt, ízlés szerint sót, frissen őrölt fehér borsot, végül a reszelt sajtot, és a rakottas tetejére öntjük-simítjuk.",
+                "Középső bordamagasságra állított rácsra helyezve 30-35 perc alatt aranysárgára sütjük.",
+                "A paprikát vékony csíkokra vágjuk, apróra felkockázzuk.",
+                "A sütőből kivett rakottast 5-8 percig pihentetjük (nagyon forró a közepe!), aztán megszórjuk a tetejét a paprikával, és apró zsenge karalábélevelekkel vagy zöldfűszerlevélkékkel díszítve tálaljuk.",
+                "Egytálételként vagy hirtelen sült húsok, halak köreteként kínálhatjuk.",
+                "TIPP: Készíthetjük sonka nélkül, több sajttal is, kíséretként pedig citrommal-olívaolajjal megöntözött vegyes salátát adhatunk hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/5be164ee-3723-4e26-9a95-ac9db8b249e3_0.jpg"
+        },
+        "x-source-file": "78c7b1d4-56f5-40ee-9e76-a7d93ffbed93.zip",
+        "x-db-id": 151,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Juhtúrós töltött burgonya",
+        "recipeIngredient": [
+            "20 db kisebb méretű burgonya",
+            "25 dkg juhtúró",
+            "1 dl tejföl",
+            "20 szelet bacon szalonna",
+            "kapor",
+            "petrezselyem",
+            "őrölt bors",
+            "só"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "a burgonyát enyhén sós vízben héjastól megfőzöm, ügyelve arra, hogy ne főjön szét."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Hagyom kicsit kihűlni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben összekevertem a juhtúrót a tejföllel, a kaporral, a petrezselyemmel, sóval fűszerezem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kellemesen fűszeres, de jól kenhető masszára van szükség."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A burgonyákat félbevágom, mindkét felét besózom."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Karalábévájóval (vagy kávéskanállal ) kicsit kiszedem a belsejét, óvatosan, hogy össze ne törjön a burgonya."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Mindkét felébe teszek a juhtúrós masszából, összeillesztem a burgonyákat, majd egy szelet baconnal betekerem."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Jénaiba sorakoztatom őket, melléteszem a belsejéből kivájt burgonyát is, előmelegített sütőben szép pirosra sütöm."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "caf33c83-902e-43d3-9030-203e1c43c298",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Juhtúrós töltött burgonya",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "20 db kisebb méretű burgonya",
+                "25 dkg juhtúró",
+                "1 dl tejföl",
+                "20 szelet bacon szalonna",
+                "kapor",
+                "petrezselyem",
+                "őrölt bors",
+                "só"
+            ],
+            "recipeDirections": [
+                "a burgonyát enyhén sós vízben héjastól megfőzöm, ügyelve arra, hogy ne főjön szét.",
+                "Hagyom kicsit kihűlni.",
+                "Közben összekevertem a juhtúrót a tejföllel, a kaporral, a petrezselyemmel, sóval fűszerezem.",
+                "Kellemesen fűszeres, de jól kenhető masszára van szükség.",
+                "A burgonyákat félbevágom, mindkét felét besózom.",
+                "Karalábévájóval (vagy kávéskanállal ) kicsit kiszedem a belsejét, óvatosan, hogy össze ne törjön a burgonya.",
+                "Mindkét felébe teszek a juhtúrós masszából, összeillesztem a burgonyákat, majd egy szelet baconnal betekerem.",
+                "Jénaiba sorakoztatom őket, melléteszem a belsejéből kivájt burgonyát is, előmelegített sütőben szép pirosra sütöm."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 67,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

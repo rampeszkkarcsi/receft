@@ -1,0 +1,69 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Kecskesajtos, túrós töltött paprika",
+        "recipeIngredient": [
+            "8 db paprika (tv paprika vagy kaliforniai)",
+            "só, őrölt kömény",
+            "30 dkg túró",
+            "15 dkg kecskesajt",
+            "1 csokor friss snidling",
+            "2 tojás"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A paprikákat félbevágjuk, kimagozzuk. besózzuk, megfordítjuk, és legalább 20 percig állni hagyjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A túróba reszeljük a kecskesajtot, és belekeverjük az aprított snidlinggel együtt."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sóval, őrölt köménnyel ízesítjük, és összekeverjük a tojásokkal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tölteléket a paprikákba töltjük, majd kiolajozott tepsibe tesszük, és 180 °C-os sütőben 10-12 percig sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT12M",
+        "recipeYield": "4 PERSON",
+        "image": "images/0fca4b52-edf6-481a-a9a3-91606a6ac3ab_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "0fca4b52-edf6-481a-a9a3-91606a6ac3ab",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Kecskesajtos, túrós töltött paprika",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT0S",
+            "cookTime": "PT12M",
+            "recipeIngredients": [
+                "8 db paprika (tv paprika vagy kaliforniai)",
+                "só, őrölt kömény",
+                "30 dkg túró",
+                "15 dkg kecskesajt",
+                "1 csokor friss snidling",
+                "2 tojás"
+            ],
+            "recipeDirections": [
+                "A paprikákat félbevágjuk, kimagozzuk. besózzuk, megfordítjuk, és legalább 20 percig állni hagyjuk.",
+                "A túróba reszeljük a kecskesajtot, és belekeverjük az aprított snidlinggel együtt.",
+                "Sóval, őrölt köménnyel ízesítjük, és összekeverjük a tojásokkal.",
+                "A tölteléket a paprikákba töltjük, majd kiolajozott tepsibe tesszük, és 180 °C-os sütőben 10-12 percig sütjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/0fca4b52-edf6-481a-a9a3-91606a6ac3ab_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 49,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

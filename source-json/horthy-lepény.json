@@ -1,0 +1,91 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Horthy lepény",
+        "recipeIngredient": [
+            "60dkg liszt",
+            "25dkg vaj",
+            "15dkg porcukor",
+            "1 tojás",
+            "½ csomag sütőpor",
+            "4 lapot készít (kevés tej?)",
+            "Krémhez:",
+            "3 tojás",
+            "20dkg cukor",
+            "2 kanál kakaó",
+            "4 kanál liszt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Teszta egyértelmű."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Krémhez :"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Simára keverjük 1l tej ⅓ aval"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A tej ⅔ at felforraljuk, hozzáadjuk a keveréket, sűrűre főzzük"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha langyos 10dkg vajat keverunk bele."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Lehet bele tenni rumaromát, kávét."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Először a krémet érdemes főzni!"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "x-recipe-keeper": {
+            "recipeId": "ab34c7c2-624b-479a-be59-f337fb60a713",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Horthy lepény",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "60dkg liszt",
+                "25dkg vaj",
+                "15dkg porcukor",
+                "1 tojás",
+                "½ csomag sütőpor",
+                "4 lapot készít (kevés tej?)",
+                "Krémhez:",
+                "3 tojás",
+                "20dkg cukor",
+                "2 kanál kakaó",
+                "4 kanál liszt"
+            ],
+            "recipeDirections": [
+                "Teszta egyértelmű.",
+                "Krémhez :",
+                "Simára keverjük 1l tej ⅓ aval",
+                "A tej ⅔ at felforraljuk, hozzáadjuk a keveréket, sűrűre főzzük",
+                "Ha langyos 10dkg vajat keverunk bele.",
+                "Lehet bele tenni rumaromát, kávét.",
+                "Először a krémet érdemes főzni!"
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "6927f13b-408a-4c16-9b05-60d162e1329b.zip",
+        "x-db-id": 188,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

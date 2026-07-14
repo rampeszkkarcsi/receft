@@ -1,0 +1,63 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Citromos gyömbéres keksz",
+        "recipeIngredient": [
+            "25 dkg liszt",
+            "15 dkg vaj",
+            "9 dkg porcukor",
+            "1 teáskanál vaníliás kivonat",
+            "fél citrom reszelt héja",
+            "1 tojás",
+            "csipetnyi friss gyömbér",
+            "40 dkg liszt",
+            "25 dkg margarin",
+            "2 evőkanál méz",
+            "vaníliaaroma",
+            "1 tojás",
+            "citromhéj",
+            "kb. 2×2 cm-es gyömbér reszelve",
+            "fél csomag sütőpor"
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT0S",
+        "image": "images/4e1522fb-b277-4f66-b9bb-6f0c03f3b0bb_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "4e1522fb-b277-4f66-b9bb-6f0c03f3b0bb",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Citromos gyömbéres keksz",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "25 dkg liszt",
+                "15 dkg vaj",
+                "9 dkg porcukor",
+                "1 teáskanál vaníliás kivonat",
+                "fél citrom reszelt héja",
+                "1 tojás",
+                "csipetnyi friss gyömbér",
+                "40 dkg liszt",
+                "25 dkg margarin",
+                "2 evőkanál méz",
+                "vaníliaaroma",
+                "1 tojás",
+                "citromhéj",
+                "kb. 2×2 cm-es gyömbér reszelve",
+                "fél csomag sütőpor"
+            ],
+            "recipeDirections": [],
+            "recipeNotes": [],
+            "photo0": "images/4e1522fb-b277-4f66-b9bb-6f0c03f3b0bb_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 6,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

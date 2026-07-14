@@ -1,0 +1,110 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Ostoros kalács",
+        "recipeIngredient": [
+            "Hozzávalók a tésztához",
+            "60 dkg liszt",
+            "5 dkg élesztő",
+            "3 tojássárgája",
+            "3-4 dl tej",
+            "2 evőkanál étolaj",
+            "3 kanál kristálycukor",
+            "csipet só",
+            "A krém elkészítése",
+            "25 dkg margarin",
+            "20 dkg porcukor",
+            "2-3 evőkanál kakaópor",
+            "3 tojásfehérje felvert habja"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Az élesztőt kevés langyos tejjel futtassuk fel, és a hozzávalókból dagasszunk egy lágy tésztát."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Kb. fél órát kelesszük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Krém hez : 25 dkg margarin, 20 dkg porcukorral gépi habverővel keverjük ki, adjunk hozzá 2-3 evőkanál kakaóport, majd a 3 tojásfehérje felvert habját is."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "(anyukám : 20margarin, 15porcukor, 2ek kakaó, 2 tojasfeherje, margarint nem felolvasztani)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ha a tésztánk megkelt osszuk el 6 felé, egyesével nyújtsuk ki őket vékonyra, téglalap alakúra, kenjük meg őket a kakaós krémmel, és 3-3-at fonjuk össze."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Helyezzük a kalácsokat zsírozott, lisztezett tepsibe."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Pár percet még a tepsiben is keleszthetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Sütés előtt kenjük le tojással, majd sütés közben még egyszer átkenhetjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Előmelegített sütőben, 180 fokon süssük kb. 10 percig, majd takarékon további kb. 25 percig."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Tipp. Fahéjjal is elkészíthető."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT35M",
+        "x-recipe-keeper": {
+            "recipeId": "138b5fd8-3441-4ae4-bd65-acef1aad3041",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Ostoros kalács",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT35M",
+            "recipeIngredients": [
+                "Hozzávalók a tésztához",
+                "60 dkg liszt",
+                "5 dkg élesztő",
+                "3 tojássárgája",
+                "3-4 dl tej",
+                "2 evőkanál étolaj",
+                "3 kanál kristálycukor",
+                "csipet só",
+                "A krém elkészítése",
+                "25 dkg margarin",
+                "20 dkg porcukor",
+                "2-3 evőkanál kakaópor",
+                "3 tojásfehérje felvert habja"
+            ],
+            "recipeDirections": [
+                "Az élesztőt kevés langyos tejjel futtassuk fel, és a hozzávalókból dagasszunk egy lágy tésztát.",
+                "Kb. fél órát kelesszük.",
+                "Krém hez : 25 dkg margarin, 20 dkg porcukorral gépi habverővel keverjük ki, adjunk hozzá 2-3 evőkanál kakaóport, majd a 3 tojásfehérje felvert habját is.",
+                "(anyukám : 20margarin, 15porcukor, 2ek kakaó, 2 tojasfeherje, margarint nem felolvasztani)",
+                "Ha a tésztánk megkelt osszuk el 6 felé, egyesével nyújtsuk ki őket vékonyra, téglalap alakúra, kenjük meg őket a kakaós krémmel, és 3-3-at fonjuk össze.",
+                "Helyezzük a kalácsokat zsírozott, lisztezett tepsibe.",
+                "Pár percet még a tepsiben is keleszthetjük.",
+                "Sütés előtt kenjük le tojással, majd sütés közben még egyszer átkenhetjük.",
+                "Előmelegített sütőben, 180 fokon süssük kb. 10 percig, majd takarékon további kb. 25 percig.",
+                "Tipp. Fahéjjal is elkészíthető."
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "4e020dc8-468b-4474-a784-ec6f681ef373.zip",
+        "x-db-id": 110,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]

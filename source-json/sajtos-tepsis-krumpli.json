@@ -1,0 +1,105 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Sajtos-tepsis krumpli",
+        "recipeIngredient": [
+            "8 közepes krumpli (150-180 g/db)",
+            "só, bors",
+            "1 ek. olaj",
+            "100 g reszelt gouda sajt",
+            "1-1 kk. szezámmag és köménymag",
+            "1/4 kk. pirospaprika",
+            "A mártásokhoz",
+            "100 g feta sajt",
+            "1,5 dl sovány tejföl (12%-os)",
+            "só, fehér bors",
+            "1 szelet piros húsú paprika",
+            "4-6 szál snidling",
+            "1 kis fej hagyma",
+            "4 közepes paradicsom",
+            "1 ek. olívaolaj",
+            "1 ek. provence-i fűszerkeverék",
+            "1 ek. paprikakrém",
+            "2 ek. ketchup",
+            "3 szál petrezselyem"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A krumplit 10 percre beáztatjuk langyos vízbe. A sütőt előmelegítjük 200 °C-ra. A sütőbe való nagy zománcos tepsit kikenjük az olajjal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A krumplikat alaposan megsikáljuk, félbevágjuk, meghintjük sóval, vágott felükkel lefelé a tepsibe sorakoztatjuk, és 20 percig sütjük. Ezután megfordítjuk, tetejükre púpozzuk a sajtot, felét meghintjük szezámmaggal és pirospaprikával, felét köménymaggal, majd aranybarnára-ropogósra sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Közben a joghurtmártáshoz a feta sajtot kisebb darabokra tördeljük, összedolgozzuk a tejföllel, sózzuk, borsozzuk, tálkába szedjük, végül az apróra felkockázott paprikával és snidlinggel díszítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A paradicsommártáshoz a hagymát megtisztítjuk, felkarikázzuk. A paradicsomot meghámozzuk, néhány karika kivételével a hagymához adjuk, összeturmixoljuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Az olajjal, fűszerkeverékkel, paprikakrémmel, ketchup-pal, sóval és borssal ízesítjük, tálba szedjük, paradicsomkarikákkal díszítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A krumplikat tálra rendezzük, petrezselyemmel díszítjük, és a mártások kíséretében egytálételként, de akár italkorcsolyaként is kínálhatjuk. Mártások nélkül pompás köret!"
+            }
+        ],
+        "prepTime": "PT30M",
+        "cookTime": "PT45M",
+        "recipeYield": "4 személyre",
+        "image": "images/83dde2a9-9d3d-41ec-ba94-452bbeab8c7c_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "83dde2a9-9d3d-41ec-ba94-452bbeab8c7c",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Sajtos-tepsis krumpli",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 személyre",
+            "prepTime": "PT30M",
+            "cookTime": "PT45M",
+            "recipeIngredients": [
+                "8 közepes krumpli (150-180 g/db)",
+                "só, bors",
+                "1 ek. olaj",
+                "100 g reszelt gouda sajt",
+                "1-1 kk. szezámmag és köménymag",
+                "1/4 kk. pirospaprika",
+                "A mártásokhoz",
+                "100 g feta sajt",
+                "1,5 dl sovány tejföl (12%-os)",
+                "só, fehér bors",
+                "1 szelet piros húsú paprika",
+                "4-6 szál snidling",
+                "1 kis fej hagyma",
+                "4 közepes paradicsom",
+                "1 ek. olívaolaj",
+                "1 ek. provence-i fűszerkeverék",
+                "1 ek. paprikakrém",
+                "2 ek. ketchup",
+                "3 szál petrezselyem"
+            ],
+            "recipeDirections": [
+                "A krumplit 10 percre beáztatjuk langyos vízbe. A sütőt előmelegítjük 200 °C-ra. A sütőbe való nagy zománcos tepsit kikenjük az olajjal.",
+                "A krumplikat alaposan megsikáljuk, félbevágjuk, meghintjük sóval, vágott felükkel lefelé a tepsibe sorakoztatjuk, és 20 percig sütjük. Ezután megfordítjuk, tetejükre púpozzuk a sajtot, felét meghintjük szezámmaggal és pirospaprikával, felét köménymaggal, majd aranybarnára-ropogósra sütjük.",
+                "Közben a joghurtmártáshoz a feta sajtot kisebb darabokra tördeljük, összedolgozzuk a tejföllel, sózzuk, borsozzuk, tálkába szedjük, végül az apróra felkockázott paprikával és snidlinggel díszítjük.",
+                "A paradicsommártáshoz a hagymát megtisztítjuk, felkarikázzuk. A paradicsomot meghámozzuk, néhány karika kivételével a hagymához adjuk, összeturmixoljuk.",
+                "Az olajjal, fűszerkeverékkel, paprikakrémmel, ketchup-pal, sóval és borssal ízesítjük, tálba szedjük, paradicsomkarikákkal díszítjük.",
+                "A krumplikat tálra rendezzük, petrezselyemmel díszítjük, és a mártások kíséretében egytálételként, de akár italkorcsolyaként is kínálhatjuk. Mártások nélkül pompás köret!"
+            ],
+            "recipeNotes": [],
+            "photo0": "images/83dde2a9-9d3d-41ec-ba94-452bbeab8c7c_0.jpg"
+        },
+        "x-source-file": "076cfb09-ca17-4be9-bfac-74b83a711928.zip",
+        "x-db-id": 10,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

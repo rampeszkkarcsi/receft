@@ -1,0 +1,89 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Pizzás csiga",
+        "recipeIngredient": [
+            "2.8 dkg élesztő",
+            "50 dkg liszt",
+            "1 púpos evőkanál tejföl",
+            "1 evőkanál olaj",
+            "2.4 dl víz",
+            "2 kiskanál só",
+            "1 kiskanál cukor",
+            "pizzakrém",
+            "kb. 15 dkg gépsonka",
+            "10-15 dkg reszelt sajt"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A hozzávalókat összegyúrjuk, vagy dagasztógépbe tesszük, ha megkelt, téglalapra nyújtjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Ráteszünk a pizza krémet, a sonkaszeleteket, és a reszelt sajt 3/4-ét."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Feltekerjük mint a rétest, és 2 ujjnyi vastagra vágjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A korongokat tepsire helyezzük, és sajttal megszórjuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Előmelegített sütőben 200 fokon 20 percig sütjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Megjegyzés: Én nem csak gépsonkát, hanem apróra szelt bacont is szórtam rá és füstölt sajtot is használtam."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Én a tésztából 2 nagy téglalapot készítettem. (így nem volt olyan vastag a tészta )"
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT20M",
+        "x-recipe-keeper": {
+            "recipeId": "36cffa3a-c4ef-4145-8f34-706bbc874129",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Pizzás csiga",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT20M",
+            "recipeIngredients": [
+                "2.8 dkg élesztő",
+                "50 dkg liszt",
+                "1 púpos evőkanál tejföl",
+                "1 evőkanál olaj",
+                "2.4 dl víz",
+                "2 kiskanál só",
+                "1 kiskanál cukor",
+                "pizzakrém",
+                "kb. 15 dkg gépsonka",
+                "10-15 dkg reszelt sajt"
+            ],
+            "recipeDirections": [
+                "A hozzávalókat összegyúrjuk, vagy dagasztógépbe tesszük, ha megkelt, téglalapra nyújtjuk.",
+                "Ráteszünk a pizza krémet, a sonkaszeleteket, és a reszelt sajt 3/4-ét.",
+                "Feltekerjük mint a rétest, és 2 ujjnyi vastagra vágjuk.",
+                "A korongokat tepsire helyezzük, és sajttal megszórjuk.",
+                "Előmelegített sütőben 200 fokon 20 percig sütjük.",
+                "Megjegyzés: Én nem csak gépsonkát, hanem apróra szelt bacont is szórtam rá és füstölt sajtot is használtam.",
+                "Én a tésztából 2 nagy téglalapot készítettem. (így nem volt olyan vastag a tészta )"
+            ],
+            "recipeNotes": []
+        },
+        "x-source-file": "2ec77aab-a9e4-4968-bba3-b3fb02614516.zip",
+        "x-db-id": 73,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:42+00:00"
+    }
+]

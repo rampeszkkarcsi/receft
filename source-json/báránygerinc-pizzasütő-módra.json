@@ -1,0 +1,87 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Báránygerinc pizzasütő módra",
+        "recipeIngredient": [
+            "1-1.2 kg felezett, csontos báránygerinc egyben",
+            "1 citrom",
+            "8+4 gerezd fokhagyma",
+            "só, bors",
+            "1 kk. szárított bazsalikom",
+            "1 kk. szárított oregano",
+            "4+2 ek. olaj",
+            "1+1 nagy fej hagyma",
+            "1 dl száraz fehérbor",
+            "4 szál szárzeller",
+            "600 g cukkini",
+            "100 g olívabogyó",
+            "1/2 kk. szárított kakukkfű",
+            "2 doboz felaprózott paradicsom (kb. 800 g)",
+            "néhány mentabóbita"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A húst leöblítjük, bedörzsöljük a citrom levével, fél órát pihentetjük. Megtűzdeljük 8 gerezd csíkokra vágott fokhagymával, bedörzsöljük sóval, borssal és a fűszerekkel, majd sütőedénybe tesszük, és meglocsoljuk 4 ek. olajjal."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A húst 250 °C-os sütőben 10 percig pirítjuk, azután mellédobjuk az egyik felkarikázott hagymát, felöntjük a borral, és letakarjuk. 180 °C-ra visszakapcsolva puhára pároljuk (kb. 1 óra), végül fedetlenül aranybarnára sütjük (30 perc)."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zöldségeket megtisztítjuk. 2 ek. olajban megfonyasztunk 1 fej finomra vágott hagymát és 4 gerezd fokhagymát. Rádobjuk a felkarikázott zellerszárakat és a kockákra aprózott cukkinit, 2 percig pirítjuk. Hozzáadjuk az olívabogyókat, a kakukkfüvet, a paradicsomot levével együtt, és félig lefedve 15 percig sűrítjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A zöldséget tálba szedjük, tetejére rendezzük a felszeletelt húst, és mentabóbitákkal díszítjük. Burgonyapüré, párolt rizs, főtt tészta illik hozzá."
+            }
+        ],
+        "prepTime": "PT2H30M",
+        "cookTime": "PT0S",
+        "recipeYield": "4 PERSON",
+        "image": "images/bb0a635d-0220-4b58-8151-e5805c7f1ae5_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "bb0a635d-0220-4b58-8151-e5805c7f1ae5",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Báránygerinc pizzasütő módra",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 PERSON",
+            "prepTime": "PT2H30M",
+            "cookTime": "PT0S",
+            "recipeIngredients": [
+                "1-1.2 kg felezett, csontos báránygerinc egyben",
+                "1 citrom",
+                "8+4 gerezd fokhagyma",
+                "só, bors",
+                "1 kk. szárított bazsalikom",
+                "1 kk. szárított oregano",
+                "4+2 ek. olaj",
+                "1+1 nagy fej hagyma",
+                "1 dl száraz fehérbor",
+                "4 szál szárzeller",
+                "600 g cukkini",
+                "100 g olívabogyó",
+                "1/2 kk. szárított kakukkfű",
+                "2 doboz felaprózott paradicsom (kb. 800 g)",
+                "néhány mentabóbita"
+            ],
+            "recipeDirections": [
+                "A húst leöblítjük, bedörzsöljük a citrom levével, fél órát pihentetjük. Megtűzdeljük 8 gerezd csíkokra vágott fokhagymával, bedörzsöljük sóval, borssal és a fűszerekkel, majd sütőedénybe tesszük, és meglocsoljuk 4 ek. olajjal.",
+                "A húst 250 °C-os sütőben 10 percig pirítjuk, azután mellédobjuk az egyik felkarikázott hagymát, felöntjük a borral, és letakarjuk. 180 °C-ra visszakapcsolva puhára pároljuk (kb. 1 óra), végül fedetlenül aranybarnára sütjük (30 perc).",
+                "A zöldségeket megtisztítjuk. 2 ek. olajban megfonyasztunk 1 fej finomra vágott hagymát és 4 gerezd fokhagymát. Rádobjuk a felkarikázott zellerszárakat és a kockákra aprózott cukkinit, 2 percig pirítjuk. Hozzáadjuk az olívabogyókat, a kakukkfüvet, a paradicsomot levével együtt, és félig lefedve 15 percig sűrítjük.",
+                "A zöldséget tálba szedjük, tetejére rendezzük a felszeletelt húst, és mentabóbitákkal díszítjük. Burgonyapüré, párolt rizs, főtt tészta illik hozzá."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/bb0a635d-0220-4b58-8151-e5805c7f1ae5_0.jpg"
+        },
+        "x-source-file": "2abfc7ed-d721-4ea3-b3a2-43bf6a116115.zip",
+        "x-db-id": 43,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:41+00:00"
+    }
+]

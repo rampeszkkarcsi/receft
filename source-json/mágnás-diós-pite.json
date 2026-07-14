@@ -1,0 +1,77 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Mágnás diós pite",
+        "recipeIngredient": [
+            "Tészta",
+            "30 dkg liszt",
+            "1 csomag sütőpor",
+            "16 dkg ráma",
+            "10 dkg cukor",
+            "1 egész tojás",
+            "1 citrom reszelt héja és leve",
+            "Töltelék",
+            "20 dkg cukor",
+            "3 tojás sárgájával kikeverni",
+            "15 dkg őrölt dió bele",
+            "1 cs. vaníliás cukor hozzá",
+            "3 tojás keményre vert habja"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "Összegyúrni, kinyújtani, lekvárral megkenni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A masszát a lekvározott tésztára kenjük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Előmelegített sütőben kb. 35 percig, 200 °C-on sütjük."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT35M",
+        "image": "images/5db9765c-ea1d-4abb-924f-c2914a02a5ca_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "5db9765c-ea1d-4abb-924f-c2914a02a5ca",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Mágnás diós pite",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "",
+            "prepTime": "PT0S",
+            "cookTime": "PT35M",
+            "recipeIngredients": [
+                "Tészta",
+                "30 dkg liszt",
+                "1 csomag sütőpor",
+                "16 dkg ráma",
+                "10 dkg cukor",
+                "1 egész tojás",
+                "1 citrom reszelt héja és leve",
+                "Töltelék",
+                "20 dkg cukor",
+                "3 tojás sárgájával kikeverni",
+                "15 dkg őrölt dió bele",
+                "1 cs. vaníliás cukor hozzá",
+                "3 tojás keményre vert habja"
+            ],
+            "recipeDirections": [
+                "Összegyúrni, kinyújtani, lekvárral megkenni.",
+                "A masszát a lekvározott tésztára kenjük.",
+                "Előmelegített sütőben kb. 35 percig, 200 °C-on sütjük."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/5db9765c-ea1d-4abb-924f-c2914a02a5ca_0.jpg"
+        },
+        "x-source-file": "fb964822-c871-4cbd-8982-fe99d735e09c.zip",
+        "x-db-id": 22,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T13:14:13+00:00"
+    }
+]

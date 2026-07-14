@@ -1,0 +1,77 @@
+[
+    {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": "Étcsokoládés-vörösboros szilvalekvár",
+        "recipeIngredient": [
+            "3 kg szilva (magozott mennyiség)",
+            "8 dkg étcsokoládé",
+            "60 dkg cukor",
+            "1 dl száraz vörösbor (pl. merlot)",
+            "3 csomag Dr. Oetker Dzsemfix Szilvához"
+        ],
+        "recipeInstructions": [
+            {
+                "@type": "HowToStep",
+                "text": "A szilvát megtisztítjuk, kimagozzuk."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A cukorral feltesszük főni."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Amikor levet eresztett, hozzáadjuk a vörösbort és a Dr. Oetker Dzsemfixet, felforraljuk, majd kb. 5 percig forralva főzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "A legvégén hozzáadjuk a darabokra tört étcsokoládét, és addig keverjük, míg elolvad, azzal már nem főzzük."
+            },
+            {
+                "@type": "HowToStep",
+                "text": "(A csokoládé elhagyható, aki édesen szereti, növelje 1 kiló gyümölcshöz viszonyítva 5-10 dekával a cukor mennyiségét.)"
+            },
+            {
+                "@type": "HowToStep",
+                "text": "Szilvához Steril üvegekbe töltjük, szorosan lezárjuk, az üvegeket 5 percre fejre állítjuk, majd visszafordítjuk, így hagyjuk kihűlni."
+            }
+        ],
+        "prepTime": "PT0S",
+        "cookTime": "PT5M",
+        "recipeYield": "4 darab 5 dl-es üveghez",
+        "image": "images/8a8bd09a-bfe7-4a17-b983-c66007436b91_0.jpg",
+        "x-recipe-keeper": {
+            "recipeId": "8a8bd09a-bfe7-4a17-b983-c66007436b91",
+            "recipeShareId": "",
+            "recipeIsFavourite": "False",
+            "recipeRating": "0",
+            "name": "Étcsokoládés-vörösboros szilvalekvár",
+            "recipeCourse": "",
+            "recipeSource": "",
+            "recipeYield": "4 darab 5 dl-es üveghez",
+            "prepTime": "PT0S",
+            "cookTime": "PT5M",
+            "recipeIngredients": [
+                "3 kg szilva (magozott mennyiség)",
+                "8 dkg étcsokoládé",
+                "60 dkg cukor",
+                "1 dl száraz vörösbor (pl. merlot)",
+                "3 csomag Dr. Oetker Dzsemfix Szilvához"
+            ],
+            "recipeDirections": [
+                "A szilvát megtisztítjuk, kimagozzuk.",
+                "A cukorral feltesszük főni.",
+                "Amikor levet eresztett, hozzáadjuk a vörösbort és a Dr. Oetker Dzsemfixet, felforraljuk, majd kb. 5 percig forralva főzzük.",
+                "A legvégén hozzáadjuk a darabokra tört étcsokoládét, és addig keverjük, míg elolvad, azzal már nem főzzük.",
+                "(A csokoládé elhagyható, aki édesen szereti, növelje 1 kiló gyümölcshöz viszonyítva 5-10 dekával a cukor mennyiségét.)",
+                "Szilvához Steril üvegekbe töltjük, szorosan lezárjuk, az üvegeket 5 percre fejre állítjuk, majd visszafordítjuk, így hagyjuk kihűlni."
+            ],
+            "recipeNotes": [],
+            "photo0": "images/8a8bd09a-bfe7-4a17-b983-c66007436b91_0.jpg"
+        },
+        "x-source-file": "78c7b1d4-56f5-40ee-9e76-a7d93ffbed93.zip",
+        "x-db-id": 146,
+        "x-exportedBy": "MoveMyRecipes.com",
+        "x-exportedAt": "2026-07-14T12:54:43+00:00"
+    }
+]
