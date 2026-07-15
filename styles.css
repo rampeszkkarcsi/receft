@@ -95,7 +95,7 @@ h1 {
 
 .thumb.placeholder {
   object-fit: cover;
-  object-position: top;
+  object-position: top center;
 }
 
 .card-body {
