@@ -73,7 +73,7 @@ async function main() {
     const instructionsText = row.get("Elkészítés (soronként)")?.trim();
     const prepTimeMin = parseInt(row.get("Előkészítési idő (perc)") || "0", 10);
     const cookTimeMin = parseInt(row.get("Sütési/főzési idő (perc)") || "0", 10);
-    const imageUrl = row.get("Kép")?.trim(); // <-- JAVÍTVA: "Kép" helyett "Kép URL" volt
+    const imageUrl = row.get("Kép")?.trim();
     const notes = row.get("Megjegyzés")?.trim();
 
     if (!title || !ingredientsText || !instructionsText) {
@@ -126,9 +126,18 @@ async function main() {
     if (imageUrl) {
       // Drive link átalakítása közvetlen képlinkké
       let directImageUrl = imageUrl;
-      const driveMatch = imageUrl.match(/\/file\/d\/([a-zA-Z0-9_-]+)/);
-      if (driveMatch) {
-        const fileId = driveMatch[1];
+      
+      // 1. formátum: https://drive.google.com/file/d/FILE_ID/view
+      const driveMatch1 = imageUrl.match(/\/file\/d\/([a-zA-Z0-9_-]+)/);
+      if (driveMatch1) {
+        const fileId = driveMatch1[1];
+        directImageUrl = `https://drive.google.com/uc?export=view&id=${fileId}`;
+      }
+      
+      // 2. formátum: https://drive.google.com/open?id=FILE_ID
+      const driveMatch2 = imageUrl.match(/open\?id=([a-zA-Z0-9_-]+)/);
+      if (driveMatch2) {
+        const fileId = driveMatch2[1];
         directImageUrl = `https://drive.google.com/uc?export=view&id=${fileId}`;
       }
       
