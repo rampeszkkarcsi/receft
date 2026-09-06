@@ -28128,5 +28128,189 @@
     "x-db-id": 29,
     "x-exportedBy": "MoveMyRecipes.com",
     "x-exportedAt": "2026-07-14T13:14:14+00:00"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "name": "Omlós oldalas",
+    "recipeIngredient": [
+      "nagyjából 1 kg sertésborda (2 db)",
+      "2 szelet vaj",
+      "100 ml barna sör",
+      "alufólia",
+      "A fűszerkeverékhez:",
+      "1 tk vöröshagyma granulátum",
+      "½ tk mustármag",
+      "½ tk egész kömény",
+      "3 púpozott ek barna cukor",
+      "2 tk füstölt só",
+      "2 púpozott tk füstölt paprika",
+      "½ tk fokhagyma granulátum",
+      "¼ tk cayenne bors",
+      "1 csipet őrölt bors",
+      "A szószhoz:",
+      "250 g hámozott aprított paradicsom",
+      "100 g paradicsompüré",
+      "2 csapott ek barna cukor",
+      "1 ek fehér borecet",
+      "½ tk füstölt paprika",
+      "½ tk füstölt só",
+      "1 ek méz",
+      "1 púpozott tk mustár",
+      "½ tk fahéj",
+      "2 ek barna sör",
+      "A tálaláshoz:",
+      "coleslaw káposztasaláta",
+      "kenyér"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Mossuk meg az oldalast hideg vízben, és távolítsuk el a belső oldaláról a hártyát – nyúljunk be egy késsel a hártya és a hús közé, és óvatosan fejtsük le róla anélkül, hogy a húsból is levágnánk. A hártya kemény, és feleslegesen gátolná az ízek húsba áramlását – ebből kifolyólag érdemes tényleg rászánni  az időt az eltávolítására, jutalmunk a tökéletes ízélmény lesz. A megtisztított oldalast itassuk le papírtörlővel, tegyük félre egy nagy tányérra vagy tálcára, és készítsük elő a fűszerkeveréket."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Az aprított szárított hagymát, a mustármagot és az egész köményt tegyük egy mozsárba és törjük össze. Ezt követően keverjük hozzá a barna cukrot, a füstölt sót, a paprikát, a szárított fokhagymát, a cayenne borsot és frissen őrölt fekete borsot."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Az illatos fűszerkeveréket vigyük fel mindkét oldalasnak előbb az egyik oldalára, nyomkodjuk bele az oldalába is. Pihentessük pár percig a fűszert a húson, hogy átnedvesedjen, és ne szóródjon le az összes, amikor megfordítjuk. Ezután fordítsuk meg az oldalast, és vigyük fel a maradék fűszert a másik oldalára is. Jól nyomkodjuk bele a fűszert a húsba az ujjaink segítségével."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "A megfűszerezett oldalast helyezzük a sütő rácsára, és tegyünk alá egy tepsit, amibe belecsöpöghet a leve a sütés során. Süssük 110 °C-on 2,5-3 órán át , az oldalas mérete szerint. A sütés alatt ne nyissuk ki a sütőt."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Ha letelt az idő, vegyük ki az oldalast a sütőből, és élvezzük egy kicsit a mámorító illatát. Helyezzük át a rácsról a tepsibe, amibe eddig a szaftja csepegett. Tegyünk az oldalasra vajdarabkákat és öntsünk alá 100 ml barna sört. Fedjük le gondosan alufóliával, és tegyük vissza a sütőbe. Süssük 120 °C-on 1,5 órát, és most se nyissuk ki közben a sütőt."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Amikor már csak fél óránk marad ennek a fázisnak a végéig, készítsük el a szószt. Tegyük bele az összes hozzávalót egy kisebb fazékba, keverjük össze, és kis lángos főzzük sűrűre nagyjából 10 perc alatt."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Másfél óra elteltével óvatosan távolítsuk el az alufóliát, vegyük ki az oldalast egy nagyobb tányérra, és öntsük ki a szaftot egy kis lábasba. Biztosan találunk rá felhasználási módot, bűn lenne kiönteni! A tepsit akár ki is törölhetjük egy szelet friss kenyérrel (nincs ennél jobb élvezet!), és tegyük vissza a rács alá. A tányéron pihenő oldalas minden oldalát kenjük meg a meleg szósszal, és tegyük vissza óvatosan a rácsra. Vegyük fel a hőmérsékletet 130 °C-ra, és süssük a kitakart oldalast még egy órán át."
+      }
+    ],
+    "prepTime": "PT0M",
+    "cookTime": "PT5M",
+    "x-recipe-keeper": {
+      "recipeId": "1eef3f2d-2244-45e4-8c73-c698d9f0f7cb",
+      "recipeShareId": "",
+      "recipeIsFavourite": "False",
+      "recipeRating": "0",
+      "name": "Omlós oldalas",
+      "recipeCourse": "",
+      "recipeSource": "",
+      "recipeYield": "",
+      "prepTime": "PT0M",
+      "cookTime": "PT5M",
+      "recipeIngredients": [
+        "nagyjából 1 kg sertésborda (2 db)",
+        "2 szelet vaj",
+        "100 ml barna sör",
+        "alufólia",
+        "A fűszerkeverékhez:",
+        "1 tk vöröshagyma granulátum",
+        "½ tk mustármag",
+        "½ tk egész kömény",
+        "3 púpozott ek barna cukor",
+        "2 tk füstölt só",
+        "2 púpozott tk füstölt paprika",
+        "½ tk fokhagyma granulátum",
+        "¼ tk cayenne bors",
+        "1 csipet őrölt bors",
+        "A szószhoz:",
+        "250 g hámozott aprított paradicsom",
+        "100 g paradicsompüré",
+        "2 csapott ek barna cukor",
+        "1 ek fehér borecet",
+        "½ tk füstölt paprika",
+        "½ tk füstölt só",
+        "1 ek méz",
+        "1 púpozott tk mustár",
+        "½ tk fahéj",
+        "2 ek barna sör",
+        "A tálaláshoz:",
+        "coleslaw káposztasaláta",
+        "kenyér"
+      ],
+      "recipeDirections": [
+        "Mossuk meg az oldalast hideg vízben, és távolítsuk el a belső oldaláról a hártyát – nyúljunk be egy késsel a hártya és a hús közé, és óvatosan fejtsük le róla anélkül, hogy a húsból is levágnánk. A hártya kemény, és feleslegesen gátolná az ízek húsba áramlását – ebből kifolyólag érdemes tényleg rászánni  az időt az eltávolítására, jutalmunk a tökéletes ízélmény lesz. A megtisztított oldalast itassuk le papírtörlővel, tegyük félre egy nagy tányérra vagy tálcára, és készítsük elő a fűszerkeveréket.",
+        "Az aprított szárított hagymát, a mustármagot és az egész köményt tegyük egy mozsárba és törjük össze. Ezt követően keverjük hozzá a barna cukrot, a füstölt sót, a paprikát, a szárított fokhagymát, a cayenne borsot és frissen őrölt fekete borsot.",
+        "Az illatos fűszerkeveréket vigyük fel mindkét oldalasnak előbb az egyik oldalára, nyomkodjuk bele az oldalába is. Pihentessük pár percig a fűszert a húson, hogy átnedvesedjen, és ne szóródjon le az összes, amikor megfordítjuk. Ezután fordítsuk meg az oldalast, és vigyük fel a maradék fűszert a másik oldalára is. Jól nyomkodjuk bele a fűszert a húsba az ujjaink segítségével.",
+        "A megfűszerezett oldalast helyezzük a sütő rácsára, és tegyünk alá egy tepsit, amibe belecsöpöghet a leve a sütés során. Süssük 110 °C-on 2,5-3 órán át , az oldalas mérete szerint. A sütés alatt ne nyissuk ki a sütőt.",
+        "Ha letelt az idő, vegyük ki az oldalast a sütőből, és élvezzük egy kicsit a mámorító illatát. Helyezzük át a rácsról a tepsibe, amibe eddig a szaftja csepegett. Tegyünk az oldalasra vajdarabkákat és öntsünk alá 100 ml barna sört. Fedjük le gondosan alufóliával, és tegyük vissza a sütőbe. Süssük 120 °C-on 1,5 órát, és most se nyissuk ki közben a sütőt.",
+        "Amikor már csak fél óránk marad ennek a fázisnak a végéig, készítsük el a szószt. Tegyük bele az összes hozzávalót egy kisebb fazékba, keverjük össze, és kis lángos főzzük sűrűre nagyjából 10 perc alatt.",
+        "Másfél óra elteltével óvatosan távolítsuk el az alufóliát, vegyük ki az oldalast egy nagyobb tányérra, és öntsük ki a szaftot egy kis lábasba. Biztosan találunk rá felhasználási módot, bűn lenne kiönteni! A tepsit akár ki is törölhetjük egy szelet friss kenyérrel (nincs ennél jobb élvezet!), és tegyük vissza a rács alá. A tányéron pihenő oldalas minden oldalát kenjük meg a meleg szósszal, és tegyük vissza óvatosan a rácsra. Vegyük fel a hőmérsékletet 130 °C-ra, és süssük a kitakart oldalast még egy órán át."
+      ],
+      "recipeNotes": [],
+      "recipeImage": "https://drive.google.com/open?id=138q29uiTpeCHl4Vs-gWthSg9iHGSIOSG"
+    },
+    "image": "https://drive.google.com/open?id=138q29uiTpeCHl4Vs-gWthSg9iHGSIOSG"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "name": "Avokádókrém",
+    "recipeIngredient": [
+      "2 db avokádó (érett)",
+      "0.5 csokor koriander",
+      "0.3 db vöröshagyma",
+      "2 gerezd fokhagyma",
+      "2 db koktélparadicsom",
+      "só ízlés szerint",
+      "bors ízlés szerint",
+      "35 g olívaolaj",
+      "1 lime-ból nyert limelé"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Ha igazán érett az avokádó, akkor a legegyszerűbb pucolási technika, ha késsel hosszában félbevágjuk, a magot kiszedjük, majd egy kanál segítségével kivájjuk a gyümölcshúst a héjból."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "A kikapart avokádót egy tálba tesszük, majd hozzáadjuk a koriandert, a darabolt hagymát (tényleg csak egy kevés kell), a fokhagymagerezdeket, a koktélparadicsomot. Alaposan sózzuk-borsozzuk és meglocsoljuk olívaolajjal, valamint ráfacsarjuk egy lime levét. A hozzávalókat ezután botmixer segítségével krémesre pürésítjük."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Tálaljuk azonnal: kenhetjük tetszőleges pékárura, fogyaszthatjuk tésztaszószként vagy mártogathatjuk tortillacsipsszel vagy zöldséghasábokkal."
+      }
+    ],
+    "prepTime": "PT0M",
+    "cookTime": "PT0M",
+    "x-recipe-keeper": {
+      "recipeId": "10be815b-6d24-43ba-86a5-8f9cfbd2dcd5",
+      "recipeShareId": "",
+      "recipeIsFavourite": "False",
+      "recipeRating": "0",
+      "name": "Avokádókrém",
+      "recipeCourse": "",
+      "recipeSource": "",
+      "recipeYield": "",
+      "prepTime": "PT0M",
+      "cookTime": "PT0M",
+      "recipeIngredients": [
+        "2 db avokádó (érett)",
+        "0.5 csokor koriander",
+        "0.3 db vöröshagyma",
+        "2 gerezd fokhagyma",
+        "2 db koktélparadicsom",
+        "só ízlés szerint",
+        "bors ízlés szerint",
+        "35 g olívaolaj",
+        "1 lime-ból nyert limelé"
+      ],
+      "recipeDirections": [
+        "Ha igazán érett az avokádó, akkor a legegyszerűbb pucolási technika, ha késsel hosszában félbevágjuk, a magot kiszedjük, majd egy kanál segítségével kivájjuk a gyümölcshúst a héjból.",
+        "A kikapart avokádót egy tálba tesszük, majd hozzáadjuk a koriandert, a darabolt hagymát (tényleg csak egy kevés kell), a fokhagymagerezdeket, a koktélparadicsomot. Alaposan sózzuk-borsozzuk és meglocsoljuk olívaolajjal, valamint ráfacsarjuk egy lime levét. A hozzávalókat ezután botmixer segítségével krémesre pürésítjük.",
+        "Tálaljuk azonnal: kenhetjük tetszőleges pékárura, fogyaszthatjuk tésztaszószként vagy mártogathatjuk tortillacsipsszel vagy zöldséghasábokkal."
+      ],
+      "recipeNotes": [],
+      "recipeImage": "https://drive.google.com/open?id=15jbSrOUBEwRMpEHlg7RKzHYV60Stwb1U"
+    },
+    "image": "https://drive.google.com/open?id=15jbSrOUBEwRMpEHlg7RKzHYV60Stwb1U"
   }
 ]
