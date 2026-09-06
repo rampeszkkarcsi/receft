@@ -3,29 +3,39 @@ const fs = require("fs");
 const path = require("path");
 
 const SHEET_ID = process.env.GOOGLE_SHEET_ID;
+const SERVICE_ACCOUNT_JSON_RAW = process.env.GOOGLE_SERVICE_ACCOUNT_JSON;
+
+function parseServiceAccountJson(jsonStr) {
+  try {
+    return JSON.parse(jsonStr);
+  } catch (err) {
+    throw new Error("GOOGLE_SERVICE_ACCOUNT_JSON is not valid JSON: " + err.message);
+  }
+}
 
 async function main() {
   if (!SHEET_ID) {
-    console.error("GOOGLE_SHEET_ID is not set");
-    process.exit(1);
+    throw new Error("GOOGLE_SHEET_ID is not set");
   }
+  if (!SERVICE_ACCOUNT_JSON_RAW) {
+    throw new Error("GOOGLE_SERVICE_ACCOUNT_JSON is not set");
+  }
+
+  const credentials = parseServiceAccountJson(SERVICE_ACCOUNT_JSON_RAW);
 
   const doc = new GoogleSpreadsheet(SHEET_ID);
 
-  // Public sheet esetén nem kell auth, de a google-spreadsheet library néha auth-ot vár.
-  // Ha hibát kapsz, akkor service account auth-ot kell beállítani (azt majd külön leírom).
-  // Egyelőre próbáljuk meg auth nélkül:
-  try {
-    await doc.getInfo();
-  } catch (err) {
-    console.error("Error accessing sheet (maybe auth is needed):", err.message);
-    // Itt lehetne service account auth-ot beállítani, ha szükséges.
-    // Egyszerűsítésképp most feltételezzük, hogy public sheet és működik.
-    process.exit(1);
-  }
+  await doc.login({
+    type: "service_account",
+    credentials,
+  });
 
   const sheets = await doc.getSheets();
-  const sheet = sheets[0]; // első lap
+  if (sheets.length === 0) {
+    throw new Error("No sheets found in the spreadsheet");
+  }
+  const sheet = sheets[0];
+
   const rows = await sheet.getRows();
 
   const recipesPath = path.join(__dirname, "..", "recipes.json");
@@ -41,10 +51,20 @@ async function main() {
     }
   }
 
-  // Új receptek hozzáadása
-  // Egyszerűsítés: minden sort hozzáadunk, nincs "feldolgozva" jelölés.
-  // Később lehet finomítani (pl. egy "processed" oszlop).
+  // Ellenőrizzük, hogy van-e "Feldolgozva" oszlop, ha nincs, létrehozzuk
+  const headers = sheet.headerValues || [];
+  if (!headers.includes("Feldolgozva")) {
+    await sheet.setHeaderRow([...headers, "Feldolgozva"]);
+  }
+
+  let newCount = 0;
+
   for (const row of rows) {
+    const processed = row.get("Feldolgozva")?.trim()?.toLowerCase();
+    if (processed === "igen" || processed === "yes" || processed === "1") {
+      continue; // már feldolgoztuk ezt a sort
+    }
+
     const title = row.get("Recept címe")?.trim();
     const ingredientsText = row.get("Hozzávalók")?.trim();
     const instructionsText = row.get("Elkészítés")?.trim();
@@ -54,7 +74,10 @@ async function main() {
     const notes = row.get("Megjegyzés")?.trim();
 
     if (!title || !ingredientsText || !instructionsText) {
-      continue; // hiányos sor, kihagyjuk
+      // Hiányos sor, de megjelöljük feldolgozottnak, hogy ne próbálkozzon újra
+      row.set("Feldolgozva", "igen");
+      await row.save();
+      continue;
     }
 
     const ingredients = ingredientsText
@@ -106,14 +129,26 @@ async function main() {
       newRecipe.description = notes;
     }
 
-    // Ellenőrizzük, hogy nincs-e már ilyen című recept (egyszerű duplikáció-védelem)
-    const exists = recipes.some((r) => r.name === title || r["x-recipe-keeper"]?.name === title);
+    // Duplikáció-védelem: ha már van ilyen című recept, nem adjuk hozzá újra
+    const exists = recipes.some(
+      (r) => r.name === title || r["x-recipe-keeper"]?.name === title
+    );
     if (!exists) {
       recipes.push(newRecipe);
+      newCount++;
     }
+
+    // Mindenképp megjelöljük feldolgozottnak
+    row.set("Feldolgozva", "igen");
+    await row.save();
   }
 
-  // Visszaírás
+  if (newCount === 0) {
+    console.log("No new recipes to add.");
+  } else {
+    console.log(`Added ${newCount} new recipe(s).`);
+  }
+
   const content = JSON.stringify(recipes, null, 2);
   fs.writeFileSync(recipesPath, content, "utf-8");
   console.log("Recipes synced successfully.");

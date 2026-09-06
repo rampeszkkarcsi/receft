@@ -2,9 +2,11 @@ name: Add recipes from Google Sheet
 
 on:
   schedule:
-    # Futtassuk 5 percenként (testreszabható)
     - cron: "*/5 * * * *"
-  workflow_dispatch: # manuális futtatás is lehetséges
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   sync-recipes:
@@ -26,6 +28,7 @@ jobs:
       - name: Sync recipes from Google Sheet
         env:
           GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
         run: node scripts/sync-recipes.js
 
       - name: Commit and push if changed
