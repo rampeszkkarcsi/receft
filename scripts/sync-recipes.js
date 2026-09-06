@@ -1,7 +1,9 @@
 const { GoogleSpreadsheet } = require("google-spreadsheet");
 const { JWT } = require("google-auth-library");
+const { google } = require("googleapis");
 const fs = require("fs");
 const path = require("path");
+const https = require("https");
 
 const SHEET_ID = process.env.GOOGLE_SHEET_ID;
 const SERVICE_ACCOUNT_JSON_RAW = process.env.GOOGLE_SERVICE_ACCOUNT_JSON;
@@ -12,6 +14,33 @@ function parseServiceAccountJson(jsonStr) {
   } catch (err) {
     throw new Error("GOOGLE_SERVICE_ACCOUNT_JSON is not valid JSON: " + err.message);
   }
+}
+
+async function downloadImageFromDrive(auth, fileId, destPath) {
+  const drive = google.drive({ version: "v3", auth });
+
+  const dest = fs.createWriteStream(destPath);
+
+  const res = await drive.files.get(
+    {
+      fileId: fileId,
+      alt: "media",
+    },
+    { responseType: "stream" }
+  );
+
+  return new Promise((resolve, reject) => {
+    res.data
+      .on("end", () => {
+        console.log(`Image downloaded to ${destPath}`);
+        resolve();
+      })
+      .on("error", (err) => {
+        console.error("Error downloading image:", err);
+        reject(err);
+      })
+      .pipe(dest);
+  });
 }
 
 async function main() {
@@ -27,7 +56,10 @@ async function main() {
   const auth = new JWT({
     email: credentials.client_email,
     key: credentials.private_key,
-    scopes: ["https://www.googleapis.com/auth/spreadsheets"],
+    scopes: [
+      "https://www.googleapis.com/auth/spreadsheets",
+      "https://www.googleapis.com/auth/drive",
+    ],
   });
 
   const doc = new GoogleSpreadsheet(SHEET_ID, auth);
@@ -42,6 +74,12 @@ async function main() {
   const rows = await sheet.getRows();
 
   const recipesPath = path.join(__dirname, "..", "recipes.json");
+  const imagesDir = path.join(__dirname, "..", "images");
+
+  // images mappa létrehozása, ha nem létezik
+  if (!fs.existsSync(imagesDir)) {
+    fs.mkdirSync(imagesDir, { recursive: true });
+  }
 
   let recipes = [];
   if (fs.existsSync(recipesPath)) {
@@ -123,26 +161,46 @@ async function main() {
       },
     };
 
+    // Kép letöltése és feltöltése a repo-ba
     if (imageUrl) {
-      // Drive link átalakítása közvetlen képlinkké
-      let directImageUrl = imageUrl;
+      // Drive file ID kinyerése a linkből
+      let fileId = null;
       
       // 1. formátum: https://drive.google.com/file/d/FILE_ID/view
       const driveMatch1 = imageUrl.match(/\/file\/d\/([a-zA-Z0-9_-]+)/);
       if (driveMatch1) {
-        const fileId = driveMatch1[1];
-        directImageUrl = `https://drive.google.com/uc?export=view&id=${fileId}`;
+        fileId = driveMatch1[1];
       }
       
       // 2. formátum: https://drive.google.com/open?id=FILE_ID
-      const driveMatch2 = imageUrl.match(/open\?id=([a-zA-Z0-9_-]+)/);
-      if (driveMatch2) {
-        const fileId = driveMatch2[1];
-        directImageUrl = `https://drive.google.com/uc?export=view&id=${fileId}`;
+      const driveMatch2 = imageUrl.match(/[?&]id=([a-zA-Z0-9_-]+)/);
+      if (driveMatch2 && !fileId) {
+        fileId = driveMatch2[1];
       }
-      
-      newRecipe.image = directImageUrl;
-      newRecipe["x-recipe-keeper"].recipeImage = directImageUrl;
+
+      if (fileId) {
+        // Kép letöltése
+        const ext = path.extname(fileId) || ".jpg"; // alapértelmezett .jpg
+        const safeTitle = title
+          .toLowerCase()
+          .replace(/[^a-z0-9]+/g, "-")
+          .replace(/^-+|-+$/g, "");
+        const imageName = `${safeTitle}${ext}`;
+        const imagePath = path.join(imagesDir, imageName);
+        const relativeImagePath = `images/${imageName}`;
+
+        try {
+          await downloadImageFromDrive(auth, fileId, imagePath);
+          newRecipe.image = relativeImagePath;
+          newRecipe["x-recipe-keeper"].recipeImage = relativeImagePath;
+          console.log(`Image uploaded: ${relativeImagePath}`);
+        } catch (err) {
+          console.error(`Failed to download image for ${title}:`, err.message);
+          // Kép nélkül folytatjuk
+        }
+      } else {
+        console.log(`No valid Drive file ID found in: ${imageUrl}`);
+      }
     }
 
     if (notes) {
