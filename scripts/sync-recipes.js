@@ -24,7 +24,6 @@ async function main() {
 
   const credentials = parseServiceAccountJson(SERVICE_ACCOUNT_JSON_RAW);
 
-  // JWT auth objektum létrehozása a service account adataiból
   const auth = new JWT({
     email: credentials.client_email,
     key: credentials.private_key,
@@ -71,10 +70,10 @@ async function main() {
 
     const title = row.get("Recept címe")?.trim();
     const ingredientsText = row.get("Hozzávalók (soronként)")?.trim();
-const instructionsText = row.get("Elkészítés (soronként)")?.trim();
+    const instructionsText = row.get("Elkészítés (soronként)")?.trim();
     const prepTimeMin = parseInt(row.get("Előkészítési idő (perc)") || "0", 10);
     const cookTimeMin = parseInt(row.get("Sütési/főzési idő (perc)") || "0", 10);
-    const imageUrl = row.get("Kép URL")?.trim();
+    const imageUrl = row.get("Kép")?.trim(); // <-- JAVÍTVA: "Kép" helyett "Kép URL" volt
     const notes = row.get("Megjegyzés")?.trim();
 
     if (!title || !ingredientsText || !instructionsText) {
@@ -125,8 +124,16 @@ const instructionsText = row.get("Elkészítés (soronként)")?.trim();
     };
 
     if (imageUrl) {
-      newRecipe.image = imageUrl;
-      newRecipe["x-recipe-keeper"].recipeImage = imageUrl;
+      // Drive link átalakítása közvetlen képlinkké
+      let directImageUrl = imageUrl;
+      const driveMatch = imageUrl.match(/\/file\/d\/([a-zA-Z0-9_-]+)/);
+      if (driveMatch) {
+        const fileId = driveMatch[1];
+        directImageUrl = `https://drive.google.com/uc?export=view&id=${fileId}`;
+      }
+      
+      newRecipe.image = directImageUrl;
+      newRecipe["x-recipe-keeper"].recipeImage = directImageUrl;
     }
 
     if (notes) {
