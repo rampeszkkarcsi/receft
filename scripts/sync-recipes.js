@@ -23,19 +23,15 @@ async function main() {
 
   const credentials = parseServiceAccountJson(SERVICE_ACCOUNT_JSON_RAW);
 
-  const doc = new GoogleSpreadsheet(SHEET_ID);
+  const doc = new GoogleSpreadsheet(SHEET_ID, credentials);
 
-  await doc.login({
-    type: "service_account",
-    credentials,
-  });
+  await doc.loadInfo();
 
-  const sheets = await doc.getSheets();
-  if (sheets.length === 0) {
-    throw new Error("No sheets found in the spreadsheet");
+  if (!doc.sheetsByIndex || doc.sheetsByIndex.length === 0) {
+    throw new Error("Nem található munkalap a Google Táblázatban.");
   }
-  const sheet = sheets[0];
 
+  const sheet = doc.sheetsByIndex[0];
   const rows = await sheet.getRows();
 
   const recipesPath = path.join(__dirname, "..", "recipes.json");
