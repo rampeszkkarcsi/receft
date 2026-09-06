@@ -201,13 +201,25 @@ async function main() {
       imageUrl = row.get("Kép")?.trim();
     }
 
-    if (!title || !ingredientsText || !instructionsText) {
-      // Hiányos sor, de megjelöljük feldolgozottnak, hogy ne próbálkozzon újra
-      row.set("Feldolgozva", "igen");
-      await row.save();
-      continue;
+    // ÚJ: Ha van URL, csak a cím kell (a többi jöhet az URL-ről)
+    // Ha nincs URL, akkor a cím + hozzávalók + elkészítés kötelező
+    if (recipeUrl) {
+      // Van URL: csak a cím kötelező
+      if (!title) {
+        console.log(`Skipping row: URL van, de cím nincs`);
+        // Nem jelöljük feldolgozottnak, hogy később ki lehessen tölteni a címet
+        continue;
+      }
+    } else {
+      // Nincs URL: cím + hozzávalók + elkészítés kötelező
+      if (!title || !ingredientsText || !instructionsText) {
+        console.log(`Skipping row: nincs URL, és hiányos mezők`);
+        // Nem jelöljük feldolgozottnak, hogy később ki lehessen tölteni
+        continue;
+      }
     }
 
+    // Ha ideértünk, a sor érvényes
     const ingredients = ingredientsText
       .split("\n")
       .map((l) => l.trim())
