@@ -5,8 +5,42 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Recept vagy receft</title>
   <link rel="stylesheet" href="styles.css">
+  <style>
+    /* Gomb a jobb felső sarokban - a styles.css stílusához igazítva */
+    .add-recipe-btn {
+      position: fixed;
+      top: 16px;
+      right: 16px;
+      z-index: 1000;
+      padding: 10px 16px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: var(--card);
+      color: var(--accent);
+      font-size: 0.9rem;
+      text-decoration: none;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
+    }
+    .add-recipe-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+      background: #fff9f5;
+    }
+    @media (max-width: 640px) {
+      .add-recipe-btn {
+        top: 10px;
+        right: 10px;
+        padding: 8px 12px;
+        font-size: 0.85rem;
+      }
+    }
+  </style>
 </head>
 <body>
+  <!-- Gomb a jobb felső sarokban -->
+  <a href="add-recipe.html" class="add-recipe-btn">Új recept hozzáadása</a>
+
   <main class="container">
     <h1>Recept vagy receft</h1>
 
