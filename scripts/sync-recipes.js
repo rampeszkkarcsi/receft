@@ -43,6 +43,45 @@ async function downloadImageFromDrive(auth, fileId, destPath) {
   });
 }
 
+// ÚJ FÜGGVÉNY: Recept letöltése URL-ről
+async function fetchRecipeFromUrl(url) {
+  return new Promise((resolve, reject) => {
+    https.get(url, (res) => {
+      let data = "";
+      res.on("data", (chunk) => (data += chunk));
+      res.on("end", () => {
+        try {
+          // JSON-LD schema.org/Recipe keresése
+          const jsonLdMatch = data.match(/<script[^>]*type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/);
+          if (jsonLdMatch) {
+            const jsonLd = JSON.parse(jsonLdMatch[1]);
+            
+            // Ha tömb, keressük a Recipe típust
+            const recipes = Array.isArray(jsonLd) ? jsonLd : [jsonLd];
+            const recipe = recipes.find(r => r["@type"] === "Recipe" || (Array.isArray(r["@type"]) && r["@type"].includes("Recipe")));
+            
+            if (recipe) {
+              console.log(`Recipe found on page: ${recipe.name}`);
+              resolve(recipe);
+              return;
+            }
+          }
+          
+          // Ha nincs JSON-LD, null-t adunk vissza, és használjuk a manuális mezőket
+          console.log(`No schema.org/Recipe found on page, will use manual fields`);
+          resolve(null);
+        } catch (err) {
+          console.error(`Error parsing recipe from URL: ${err.message}`);
+          resolve(null);
+        }
+      });
+    }).on("error", (err) => {
+      console.error(`Error fetching URL: ${err.message}`);
+      resolve(null);
+    });
+  });
+}
+
 async function main() {
   if (!SHEET_ID) {
     throw new Error("GOOGLE_SHEET_ID is not set");
@@ -106,13 +145,61 @@ async function main() {
       continue; // már feldolgoztuk ezt a sort
     }
 
-    const title = row.get("Recept címe")?.trim();
-    const ingredientsText = row.get("Hozzávalók (soronként)")?.trim();
-    const instructionsText = row.get("Elkészítés (soronként)")?.trim();
-    const prepTimeMin = parseInt(row.get("Előkészítési idő (perc)") || "0", 10);
-    const cookTimeMin = parseInt(row.get("Sütési/főzési idő (perc)") || "0", 10);
-    const imageUrl = row.get("Kép")?.trim();
-    const notes = row.get("Megjegyzés")?.trim();
+    // ÚJ: Recept URL-je oszlop olvasása
+    const recipeUrl = row.get("Recept URL-je")?.trim();
+    
+    let title, ingredientsText, instructionsText, prepTimeMin, cookTimeMin, notes, imageUrl;
+    let recipeFromUrl = null;
+
+    if (recipeUrl) {
+      console.log(`Fetching recipe from URL: ${recipeUrl}`);
+      recipeFromUrl = await fetchRecipeFromUrl(recipeUrl);
+      
+      if (recipeFromUrl) {
+        // Ha van JSON-LD Recipe, azt használjuk
+        title = recipeFromUrl.name || row.get("Recept címe")?.trim();
+        ingredientsText = Array.isArray(recipeFromUrl.recipeIngredient) 
+          ? recipeFromUrl.recipeIngredient.join("\n") 
+          : (recipeFromUrl.recipeIngredient || "");
+        
+        // Elkészítés lépések
+        let instructionsRaw = [];
+        if (Array.isArray(recipeFromUrl.recipeInstructions)) {
+          instructionsRaw = recipeFromUrl.recipeInstructions
+            .map(step => typeof step === "string" ? step : (step.text || ""))
+            .filter(text => text.length > 0);
+        } else if (typeof recipeFromUrl.recipeInstructions === "string") {
+          instructionsRaw = [recipeFromUrl.recipeInstructions];
+        }
+        instructionsText = instructionsRaw.join("\n");
+        
+        prepTimeMin = parseInt(row.get("Előkészítési idő (perc)") || "0", 10);
+        cookTimeMin = parseInt(row.get("Sütési/főzési idő (perc)") || "0", 10);
+        notes = row.get("Megjegyzés")?.trim();
+        imageUrl = row.get("Kép")?.trim();
+        
+        console.log(`Recipe fetched successfully: ${title}`);
+      } else {
+        // Ha nincs JSON-LD, használjuk a manuális mezőket
+        console.log(`No recipe data found on page, using manual fields`);
+        title = row.get("Recept címe")?.trim();
+        ingredientsText = row.get("Hozzávalók (soronként)")?.trim();
+        instructionsText = row.get("Elkészítés (soronként)")?.trim();
+        prepTimeMin = parseInt(row.get("Előkészítési idő (perc)") || "0", 10);
+        cookTimeMin = parseInt(row.get("Sütési/főzési idő (perc)") || "0", 10);
+        notes = row.get("Megjegyzés")?.trim();
+        imageUrl = row.get("Kép")?.trim();
+      }
+    } else {
+      // Nincs URL, használjuk a manuális mezőket
+      title = row.get("Recept címe")?.trim();
+      ingredientsText = row.get("Hozzávalók (soronként)")?.trim();
+      instructionsText = row.get("Elkészítés (soronként)")?.trim();
+      prepTimeMin = parseInt(row.get("Előkészítési idő (perc)") || "0", 10);
+      cookTimeMin = parseInt(row.get("Sütési/főzési idő (perc)") || "0", 10);
+      notes = row.get("Megjegyzés")?.trim();
+      imageUrl = row.get("Kép")?.trim();
+    }
 
     if (!title || !ingredientsText || !instructionsText) {
       // Hiányos sor, de megjelöljük feldolgozottnak, hogy ne próbálkozzon újra
