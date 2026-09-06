@@ -28312,5 +28312,89 @@
       "recipeImage": "images/avok-d-kr-m.jpg"
     },
     "image": "images/avok-d-kr-m.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "name": "Ropogós duplasajtos stangli",
+    "recipeIngredient": [
+      "450 g Rétesliszt",
+      "1 ek Sütőpor",
+      "1 ek Só",
+      "1 tk Fokhagymapor",
+      "1 teáskanál Őrölt fűszerkömény",
+      "1 db Tojássárgája",
+      "200 g Vaj",
+      "75 g Tejföl",
+      "1 dl Tej",
+      "200 g Trappista sajt Ammerländer",
+      "1 db Tojás a tetejére",
+      "50 g Edami sajt Ammerländer, a tetejére"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "A lisztet, a sütőport és a fűszereket egy nagy tálban összekeverjük."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "Hozzáadjuk a tojássárgáját, a vajat, a tejfölt és a tejet, majd belereszeljük a trappistát is."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "A tésztát alaposan összegyúrjuk, majd 10-20 percre hűtőbe tesszük picit dermedni."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "A begyúrt tésztát kettészedjük, majd belisztezett nyújtódeszkán egyesével kinyújtjuk 3-4mm vékonyra. A tészta egyenetlen széleit levágjuk, majd derelye- vagy pizzavágóval először 2cm széles csíkokra vágjuk, majd a csíkokat keresztbe is feldaraboljuk (kb. 2x8cm-es téglalapjaink lesznek)."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "A stanglikat sütőpapírral bélelt tepsire tesszük, a tészta fele egy tepsit tölt meg. A tetejüket lekenjük a felvert tojással, majd megszórjuk reszelt edami sajttal."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "190 fokra előmelegített sütőbe tesszük és 10-15 perc alatt készre sütjük."
+      }
+    ],
+    "prepTime": "PT0M",
+    "cookTime": "PT0M",
+    "x-recipe-keeper": {
+      "recipeId": "10a28280-e3ca-4e59-97ef-9cbc2acc573b",
+      "recipeShareId": "",
+      "recipeIsFavourite": "False",
+      "recipeRating": "0",
+      "name": "Ropogós duplasajtos stangli",
+      "recipeCourse": "",
+      "recipeSource": "",
+      "recipeYield": "",
+      "prepTime": "PT0M",
+      "cookTime": "PT0M",
+      "recipeIngredients": [
+        "450 g Rétesliszt",
+        "1 ek Sütőpor",
+        "1 ek Só",
+        "1 tk Fokhagymapor",
+        "1 teáskanál Őrölt fűszerkömény",
+        "1 db Tojássárgája",
+        "200 g Vaj",
+        "75 g Tejföl",
+        "1 dl Tej",
+        "200 g Trappista sajt Ammerländer",
+        "1 db Tojás a tetejére",
+        "50 g Edami sajt Ammerländer, a tetejére"
+      ],
+      "recipeDirections": [
+        "A lisztet, a sütőport és a fűszereket egy nagy tálban összekeverjük.",
+        "Hozzáadjuk a tojássárgáját, a vajat, a tejfölt és a tejet, majd belereszeljük a trappistát is.",
+        "A tésztát alaposan összegyúrjuk, majd 10-20 percre hűtőbe tesszük picit dermedni.",
+        "A begyúrt tésztát kettészedjük, majd belisztezett nyújtódeszkán egyesével kinyújtjuk 3-4mm vékonyra. A tészta egyenetlen széleit levágjuk, majd derelye- vagy pizzavágóval először 2cm széles csíkokra vágjuk, majd a csíkokat keresztbe is feldaraboljuk (kb. 2x8cm-es téglalapjaink lesznek).",
+        "A stanglikat sütőpapírral bélelt tepsire tesszük, a tészta fele egy tepsit tölt meg. A tetejüket lekenjük a felvert tojással, majd megszórjuk reszelt edami sajttal.",
+        "190 fokra előmelegített sütőbe tesszük és 10-15 perc alatt készre sütjük."
+      ],
+      "recipeNotes": [],
+      "recipeImage": "images/ropog-s-duplasajtos-stangli.jpg"
+    },
+    "image": "images/ropog-s-duplasajtos-stangli.jpg"
   }
 ]
