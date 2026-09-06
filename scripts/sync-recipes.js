@@ -70,8 +70,8 @@ async function main() {
     }
 
     const title = row.get("Recept címe")?.trim();
-    const ingredientsText = row.get("Hozzávalók")?.trim();
-    const instructionsText = row.get("Elkészítés")?.trim();
+    const ingredientsText = row.get("Hozzávalók (soronként)")?.trim();
+const instructionsText = row.get("Elkészítés (soronként)")?.trim();
     const prepTimeMin = parseInt(row.get("Előkészítési idő (perc)") || "0", 10);
     const cookTimeMin = parseInt(row.get("Sütési/főzési idő (perc)") || "0", 10);
     const imageUrl = row.get("Kép URL")?.trim();
