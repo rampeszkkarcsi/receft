@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8" />
+  <title>Új recept hozzáadása</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: system-ui, -apple-system, sans-serif;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 0 16px;
+      background: #fafafa;
+    }
+    h1 {
+      font-size: 1.6rem;
+      margin-bottom: 0.5rem;
+    }
+    .hint {
+      font-size: 0.9rem;
+      color: #555;
+      margin-bottom: 1.5rem;
+    }
+    label {
+      display: block;
+      margin-top: 1rem;
+      font-weight: 600;
+    }
+    input[type="text"],
+    input[type="number"],
+    input[type="password"],
+    textarea {
+      width: 100%;
+      padding: 8px 10px;
+      margin-top: 6px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 0.95rem;
+      box-sizing: border-box;
+    }
+    textarea {
+      min-height: 120px;
+      resize: vertical;
+    }
+    button {
+      margin-top: 1.2rem;
+      padding: 10px 18px;
+      border: none;
+      border-radius: 8px;
+      background: #2563eb;
+      color: #fff;
+      font-size: 0.95rem;
+      cursor: pointer;
+    }
+    button:disabled {
+      background: #aaa;
+      cursor: not-allowed;
+    }
+    .error {
+      color: #b91c1c;
+      margin-top: 0.5rem;
+      font-size: 0.9rem;
+    }
+    .success {
+      color: #047857;
+      margin-top: 0.5rem;
+      font-size: 0.9rem;
+    }
+    #recipeForm {
+      display: none;
+      border-top: 1px solid #ddd;
+      padding-top: 1rem;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>Új recept hozzáadása</h1>
+  <p class="hint">
+    Kérlek, add meg a jelszót. Ha helyes, megjelenik a recept hozzáadó űrlap.
+  </p>
+
+  <label for="passwordInput">Jelszó</label>
+  <input type="password" id="passwordInput" placeholder="Jelszó" />
+  <button id="checkPasswordBtn">Jelszó ellenőrzése</button>
+  <div id="passwordError" class="error"></div>
+
+  <form id="recipeForm">
+    <label for="titleInput">Recept címe</label>
+    <input type="text" id="titleInput" required />
+
+    <label for="ingredientsInput">Hozzávalók (soronként egy)</label>
+    <textarea id="ingredientsInput" required placeholder="1 tojás
+2 dl tej
+8-9 evőkanál cukor"></textarea>
+
+    <label for="instructionsInput">Elkészítés (bekezdésenként egy lépés)</label>
+    <textarea id="instructionsInput" required placeholder="Először...
+Azután...
+Végül..."></textarea>
+
+    <label for="prepTimeInput">Előkészítési idő (perc)</label>
+    <input type="number" id="prepTimeInput" min="0" value="0" />
+
+    <label for="cookTimeInput">Sütési/főzési idő (perc)</label>
+    <input type="number" id="cookTimeInput" min="0" value="0" />
+
+    <label for="imageInput">Kép (opcionális)</label>
+    <input type="file" id="imageInput" accept="image/*" />
+
+    <label for="notesInput">Megjegyzés (opcionális)</label>
+    <textarea id="notesInput" placeholder="Extra tippek, variációk..."></textarea>
+
+    <button type="submit" id="submitBtn">Recept hozzáadása</button>
+    <div id="formError" class="error"></div>
+    <div id="formSuccess" class="success"></div>
+  </form>
+
+  <script src="add-recipe.js"></script>
+</body>
+</html>
