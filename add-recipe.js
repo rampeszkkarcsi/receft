@@ -9,7 +9,8 @@ const GITHUB_TOKEN = "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"; // <-- IDE MÁS
 const RECIPES_FILE_PATH = "recipes.json";
 const IMAGES_FOLDER = "images";
 
-const PASSWORD = "kiscsalád6";
+const PASSWORD = "receft";
+const GOOGLE_FORM_URL = "https://forms.gle/rdkAR6mDGv9MDTJUA";
 
 // =============================
 // JELSZÓ ELLENŐRZÉS
@@ -23,12 +24,10 @@ const recipeForm = document.getElementById("recipeForm");
 checkPasswordBtn.addEventListener("click", () => {
   if (passwordInput.value === PASSWORD) {
     passwordError.textContent = "";
-    recipeForm.style.display = "block";
-    checkPasswordBtn.disabled = true;
-    passwordInput.disabled = true;
+    // Átirányítás a Google Form-ra
+    window.location.href = GOOGLE_FORM_URL;
   } else {
-    passwordError.textContent = "Helytelen jelszó.";
-    recipeForm.style.display = "none";
+    passwordError.textContent = "Jajj ne, elírtad.";
   }
 });
 
