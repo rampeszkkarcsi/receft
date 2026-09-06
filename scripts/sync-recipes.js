@@ -1,4 +1,5 @@
 const { GoogleSpreadsheet } = require("google-spreadsheet");
+const { JWT } = require("google-auth-library");
 const fs = require("fs");
 const path = require("path");
 
@@ -23,7 +24,14 @@ async function main() {
 
   const credentials = parseServiceAccountJson(SERVICE_ACCOUNT_JSON_RAW);
 
-  const doc = new GoogleSpreadsheet(SHEET_ID, credentials);
+  // JWT auth objektum létrehozása a service account adataiból
+  const auth = new JWT({
+    email: credentials.client_email,
+    key: credentials.private_key,
+    scopes: ["https://www.googleapis.com/auth/spreadsheets"],
+  });
+
+  const doc = new GoogleSpreadsheet(SHEET_ID, auth);
 
   await doc.loadInfo();
 

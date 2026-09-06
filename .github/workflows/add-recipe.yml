@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: |
           npm init -y
-          npm install google-spreadsheet
+          npm install google-spreadsheet google-auth-library
 
       - name: Sync recipes from Google Sheet
         env:
