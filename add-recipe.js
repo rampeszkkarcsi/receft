@@ -4,7 +4,7 @@
 
 const GITHUB_OWNER = "rampeszkkarcsi";
 const GITHUB_REPO = "receft";
-const GITHUB_TOKEN = "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"; // <-- IDE MÁSOLD A SAJÁT TOKENED!
+const GITHUB_TOKEN = "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"; // <-- IDE MÁSOLD A SAJÁT TOKENED!
 
 const RECIPES_FILE_PATH = "recipes.json";
 const IMAGES_FOLDER = "images";
