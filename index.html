@@ -6,41 +6,71 @@
   <title>Recept vagy receft</title>
   <link rel="stylesheet" href="styles.css">
   <style>
-    /* Gomb a jobb felső sarokban - a styles.css stílusához igazítva */
-    .add-recipe-btn {
-      position: fixed;
-      top: 16px;
-      right: 16px;
-      z-index: 1000;
-      padding: 10px 16px;
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      background: var(--card);
-      color: var(--accent);
-      font-size: 0.9rem;
-      text-decoration: none;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-      transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
-    }
-    .add-recipe-btn:hover {
-      transform: translateY(-2px);
-      box-shadow: 0 6px 20px rgba(0,0,0,0.12);
-      background: #fff9f5;
-    }
-    @media (max-width: 640px) {
-      .add-recipe-btn {
-        top: 10px;
-        right: 10px;
-        padding: 8px 12px;
-        font-size: 0.85rem;
-      }
-    }
+    /* Gomb a jobb felső sarokban */
+.add-recipe-btn {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  z-index: 1000;
+  padding: 10px 16px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--card);
+  color: var(--accent);
+  font-size: 0.9rem;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
+}
+
+/* PDF kereső gomb - kicsit arrébb */
+.pdf-search-btn {
+  position: fixed;
+  top: 16px;
+  right: 180px; /* 16px + gomb szélessége + 10px gap */
+  z-index: 1000;
+  padding: 10px 16px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--card);
+  color: var(--accent);
+  font-size: 0.9rem;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.18s ease, box-shadow 0.18s ease, background 0.18s ease;
+}
+
+.add-recipe-btn:hover,
+.pdf-search-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.12);
+  background: #fff9f5;
+}
+
+@media (max-width: 640px) {
+  .add-recipe-btn {
+    top: 10px;
+    right: 10px;
+    padding: 8px 12px;
+    font-size: 0.85rem;
+  }
+  
+  .pdf-search-btn {
+    top: 10px;
+    right: 150px; /* Mobilon kicsit közelebb */
+    padding: 8px 12px;
+    font-size: 0.85rem;
+  }
+}
   </style>
 </head>
 <body>
   <!-- Gomb a jobb felső sarokban -->
+  <div style="display: flex; flex-direction: column; gap: 10px; margin: 20px 0;">
   <a href="https://forms.gle/9j17SkGdGqoEPMRp9" class="add-recipe-btn" target="_blank">Új recept hozzáadása</a>
-  <a href="pdf-kereso.html" class="add-recipe-btn" style="background: #2196F3;">📖 Minerva</a>
+  <a href="pdf-kereso.html" class="pdf-search-btn" target="_blank">📖 Minerva</a>
+</div>
+  
 
   <main class="container">
     <h1>Recept vagy receft</h1>
