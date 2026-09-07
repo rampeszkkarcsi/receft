@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minerva</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+      background: #f5f5f5;
+    }
+    #toolbar {
+      background: #333;
+      color: white;
+      padding: 10px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 1000;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    #toolbar h1 {
+      margin: 0;
+      font-size: 18px;
+    }
+    #searchContainer {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+    }
+    #searchInput {
+      padding: 8px 12px;
+      border: none;
+      border-radius: 4px;
+      font-size: 14px;
+      width: 250px;
+    }
+    #searchBtn {
+      background: #4CAF50;
+      color: white;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+    }
+    #searchBtn:hover {
+      background: #45a049;
+    }
+    #searchResults {
+      background: #444;
+      padding: 5px 10px;
+      border-radius: 4px;
+      font-size: 13px;
+    }
+    #canvas-container {
+      margin-top: 70px;
+      display: flex;
+      justify-content: center;
+    }
+    #the-canvas {
+      border: 1px solid #ccc;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    #page-info {
+      color: white;
+      font-size: 14px;
+    }
+    .nav-btn {
+      background: #4CAF50;
+      color: white;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 4px;
+      cursor: pointer;
+      font-size: 14px;
+      margin-left: 5px;
+    }
+    .nav-btn:hover {
+      background: #45a049;
+    }
+    .nav-btn:disabled {
+      background: #888;
+      cursor: not-allowed;
+    }
+    #resultsList {
+      position: fixed;
+      top: 70px;
+      right: 20px;
+      background: white;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+      max-height: 400px;
+      overflow-y: auto;
+      z-index: 1001;
+      display: none;
+      min-width: 300px;
+    }
+    .result-item {
+      padding: 10px 15px;
+      border-bottom: 1px solid #eee;
+      cursor: pointer;
+      font-size: 13px;
+    }
+    .result-item:hover {
+      background: #f0f0f0;
+    }
+    .result-item:last-child {
+      border-bottom: none;
+    }
+    .result-page {
+      font-weight: bold;
+      color: #4CAF50;
+      margin-right: 10px;
+    }
+    .result-text {
+      color: #333;
+    }
+    @media (max-width: 768px) {
+      #toolbar {
+        flex-direction: column;
+        align-items: stretch;
+        padding: 10px;
+      }
+      #searchContainer {
+        flex-direction: column;
+      }
+      #searchInput {
+        width: 100%;
+      }
+      #canvas-container {
+        margin-top: 140px;
+      }
+      #resultsList {
+        right: 10px;
+        left: 10px;
+        min-width: auto;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="toolbar">
+    <h1>📖 Receptkereső PDF</h1>
+    <div id="searchContainer">
+      <input type="text" id="searchInput" placeholder="Keresés a PDF-ben...">
+      <button id="searchBtn">Keresés</button>
+      <span id="searchResults"></span>
+    </div>
+    <div>
+      <span id="page-info">Oldal: <span id="page-num">0</span> / <span id="page-count">0</span></span>
+      <button id="prev" class="nav-btn">◀ Előző</button>
+      <button id="next" class="nav-btn">Következő ▶</button>
+    </div>
+  </div>
+  
+  <div id="canvas-container">
+    <canvas id="the-canvas"></canvas>
+  </div>
+  
+  <div id="resultsList"></div>
+
+  <!-- PDF.js library -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+  <script>
+    // PDF.js worker
+    pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+
+    const url = 'pdf/receptek.pdf';
+    let pdfDoc = null;
+    let pageNum = 1;
+    let pageRendering = false;
+    let pageNumPending = null;
+    const scale = 1.5;
+    const canvas = document.getElementById('the-canvas');
+    const ctx = canvas.getContext('2d');
+    const resultsList = document.getElementById('resultsList');
+    const searchResults = document.getElementById('searchResults');
+
+    // Oldal renderelése
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        const viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        const renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        
+        const renderTask = page.render(renderContext);
+
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          
+          if (pageNumPending !== null) {
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      document.getElementById('page-num').textContent = num;
+    }
+
+    // Következő oldalt várakoztatása
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    // Előző oldal
+    function onPrevPage() {
+      if (pageNum <= 1) return;
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+
+    // Következő oldal
+    function onNextPage() {
+      if (pageNum >= pdfDoc.numPages) return;
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+
+    // Teljes szöveg kinyerése a PDF-ből
+    async function extractAllText() {
+      const allText = [];
+      
+      for (let i = 1; i <= pdfDoc.numPages; i++) {
+        const page = await pdfDoc.getPage(i);
+        const textContent = await page.getTextContent();
+        const pageText = textContent.items.map(item => item.str).join(' ');
+        allText.push({
+          page: i,
+          text: pageText
+        });
+      }
+      
+      return allText;
+    }
+
+    // Keresés a PDF-ben
+    async function searchInPDF(searchTerm) {
+      if (!searchTerm || searchTerm.length < 2) {
+        searchResults.textContent = '';
+        resultsList.style.display = 'none';
+        return;
+      }
+
+      searchResults.textContent = 'Keresés...';
+      
+      const allText = await extractAllText();
+      const results = [];
+      const lowerSearchTerm = searchTerm.toLowerCase();
+
+      allText.forEach(item => {
+        const lowerText = item.text.toLowerCase();
+        if (lowerText.includes(lowerSearchTerm)) {
+          // Keresd meg a találat kontextusát (50 karakter előtt és után)
+          const index = lowerText.indexOf(lowerSearchTerm);
+          const start = Math.max(0, index - 50);
+          const end = Math.min(item.text.length, index + searchTerm.length + 50);
+          const context = item.text.substring(start, end).replace(/\s+/g, ' ').trim();
+          
+          results.push({
+            page: item.page,
+            text: context
+          });
+        }
+      });
+
+      // Találatok megjelenítése
+      if (results.length === 0) {
+        searchResults.textContent = 'Nincs találat';
+        resultsList.style.display = 'none';
+      } else {
+        searchResults.textContent = `${results.length} találat`;
+        resultsList.innerHTML = '';
+        
+        results.forEach(result => {
+          const div = document.createElement('div');
+          div.className = 'result-item';
+          div.innerHTML = `<span class="result-page">${result.page}. oldal:</span> <span class="result-text">...${result.text}...</span>`;
+          div.addEventListener('click', () => {
+            pageNum = result.page;
+            queueRenderPage(pageNum);
+            resultsList.style.display = 'none';
+          });
+          resultsList.appendChild(div);
+        });
+        
+        resultsList.style.display = 'block';
+      }
+    }
+
+    // PDF betöltése
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      document.getElementById('page-count').textContent = pdfDoc.numPages;
+
+      // Első oldal renderelése
+      renderPage(pageNum);
+    });
+
+    // Keresés gomb
+    document.getElementById('searchBtn').addEventListener('click', () => {
+      const searchTerm = document.getElementById('searchInput').value.trim();
+      searchInPDF(searchTerm);
+    });
+
+    // Keresés Enter billentyűre
+    document.getElementById('searchInput').addEventListener('keypress', (e) => {
+      if (e.key === 'Enter') {
+        const searchTerm = document.getElementById('searchInput').value.trim();
+        searchInPDF(searchTerm);
+      }
+    });
+
+    // Gombok
+    document.getElementById('prev').addEventListener('click', onPrevPage);
+    document.getElementById('next').addEventListener('click', onNextPage);
+  </script>
+</body>
+</html>
