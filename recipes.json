@@ -28396,5 +28396,72 @@
       "recipeImage": "images/ropog-s-duplasajtos-stangli.jpg"
     },
     "image": "images/ropog-s-duplasajtos-stangli.jpg"
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "name": "Mami-féle sonkás kifli",
+    "recipeIngredient": [
+      "25dkg margarin",
+      "25dkg liszt (zárójelben 50?)",
+      "2 tojás sárgája",
+      "2 dkg élesztő",
+      "hozzá pici tej",
+      "1kk só",
+      "1 tejfel"
+    ],
+    "recipeInstructions": [
+      {
+        "@type": "HowToStep",
+        "text": "Kemény rétestésztát gyúrunk az összetevőkből"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "2 órát pihentetjük"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "5 cipóra szedni, ezeket kör alakra nyújtani, 8  cikkre vágni"
+      },
+      {
+        "@type": "HowToStep",
+        "text": "tejfeles darált sonkával töltjük."
+      },
+      {
+        "@type": "HowToStep",
+        "text": "(ha nincs másik doboz tejfel a sonkához, lehet besamellel is)"
+      }
+    ],
+    "prepTime": "PT0M",
+    "cookTime": "PT0M",
+    "x-recipe-keeper": {
+      "recipeId": "42a5f58c-6521-4619-bf85-0d2e69c1068b",
+      "recipeShareId": "",
+      "recipeIsFavourite": "False",
+      "recipeRating": "0",
+      "name": "Mami-féle sonkás kifli",
+      "recipeCourse": "",
+      "recipeSource": "",
+      "recipeYield": "",
+      "prepTime": "PT0M",
+      "cookTime": "PT0M",
+      "recipeIngredients": [
+        "25dkg margarin",
+        "25dkg liszt (zárójelben 50?)",
+        "2 tojás sárgája",
+        "2 dkg élesztő",
+        "hozzá pici tej",
+        "1kk só",
+        "1 tejfel"
+      ],
+      "recipeDirections": [
+        "Kemény rétestésztát gyúrunk az összetevőkből",
+        "2 órát pihentetjük",
+        "5 cipóra szedni, ezeket kör alakra nyújtani, 8  cikkre vágni",
+        "tejfeles darált sonkával töltjük.",
+        "(ha nincs másik doboz tejfel a sonkához, lehet besamellel is)"
+      ],
+      "recipeNotes": []
+    }
   }
 ]
